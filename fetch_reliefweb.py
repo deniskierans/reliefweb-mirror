@@ -98,3 +98,33 @@ def main() -> None:
             seen.setdefault(str(r["id"]), {**r, "matched_terms": []})["matched_terms"].append(key)
         (OUT / f"jobs-{key}.json").write_text(json.dumps(records, indent=1, ensure_ascii=False))
         print(f"{key}: totalCount={total}, fetched={len(records)}")
+
+    combined["unique_jobs"] = len(seen)
+    (OUT / "latest.json").write_text(json.dumps(combined, indent=1, ensure_ascii=False))
+
+    lines = [f"# ReliefWeb jobs mirror — fetched {combined['fetched_at']}",
+             f"Open postings only (date.closing >= {today}). Unique jobs: {len(seen)}.", ""]
+    for key, block in combined["term_sets"].items():
+        lines.append(f"## Term set `{key}` — \"{block['query']}\" — totalCount {block['totalCount']}")
+        lines.append("")
+        lines.append("| Closing | Created | Title | Organisation | Location | Experience | URL |")
+        lines.append("|---|---|---|---|---|---|---|")
+        for j in sorted(block["jobs"], key=lambda x: x["closing"] or ""):
+            loc = ", ".join(j["city"] + j["country"]) or "—"
+            lines.append("| {} | {} | {} | {} | {} | {} | {} |".format(
+                (j["closing"] or "")[:10], (j["created"] or "")[:10],
+                (j["title"] or "").replace("|", "/"), "; ".join(j["source"]),
+                loc, "; ".join(j["experience"]) or "—", j["url"]))
+        lines.append("")
+    lines.append("## Body snippets (unique jobs, by closing date)")
+    lines.append("")
+    for j in sorted(seen.values(), key=lambda x: x["closing"] or ""):
+        body = " ".join((j["body"] or "").split())[:BODY_SNIPPET]
+        lines.append(f"### {j['title']} — {'; '.join(j['source'])} — closes {(j['closing'] or '')[:10]}")
+        lines.append(f"{j['url']}  \nTerms: {', '.join(j['matched_terms'])}  \n{body}…")
+        lines.append("")
+    (OUT / "latest.md").write_text("\n".join(lines))
+
+
+if __name__ == "__main__":
+    main()
