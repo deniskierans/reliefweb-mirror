@@ -1,51 +1,52 @@
-# ReliefWeb jobs mirror — fetched 2026-10-06T09:08:53+00:00
-Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
+# ReliefWeb jobs mirror — fetched 2026-10-13T02:45:29+00:00
+Open postings only (date.closing >= 2026-10-13). Unique jobs: 772.
 
 ## Term set `migration` — "migration" — totalCount 58
 
 | Closing | Created | Title | Organisation | Location | Experience | URL |
 |---|---|---|---|---|---|---|
-| 2026-10-06 | 2026-09-21 | Project Manager | Human Rights Legal Project | Vathy, Samos, Greece | 3-4 years | https://reliefweb.int/node/4230689 |
-| 2026-10-07 | 2026-09-29 | Team Leader – Evaluation on Humanitarian Assistance, Recovery and Protection in Ukraine Ukraine / Kyiv / Project-based consultancy | Voluntas | Ukraine | 10+ years | https://reliefweb.int/node/4231700 |
-| 2026-10-07 | 2026-09-23 | HR Associate (Staff Development and Learning) | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4231055 |
-| 2026-10-08 | 2026-09-17 | Country Director - Yemen, Sana'a | Danish Refugee Council | Yemen | 5-9 years | https://reliefweb.int/node/4230376 |
-| 2026-10-08 | 2026-09-17 | Referral for Migrants and Mobile Populations Consultant | International Organization for Migration | Philippines | 10+ years | https://reliefweb.int/node/4230234 |
-| 2026-10-08 | 2026-07-08 | Directeur Santé et Plaidoyer (F/H) - Saint-Denis | Médecins du Monde | France | 10+ years | https://reliefweb.int/node/4220489 |
-| 2026-10-09 | 2026-09-23 | TERMS OF REFERENCE FOR CUSTOMIZATION AND IMPLEMENTATION OF MICROSOFT DYNAMICS 365 BUSINESS CENTRAL | GROOTS Kenya | Kenya | 5-9 years | https://reliefweb.int/node/4231085 |
-| 2026-10-10 | 2026-09-10 | Program Development and Award Advisor, Asia | International Rescue Committee | Pakistan, Thailand | 5-9 years | https://reliefweb.int/node/4229367 |
-| 2026-10-10 | 2026-09-10 | HR Systems Analyst (Security & Integrations) | International Rescue Committee | Colombia, Honduras, Kenya | 3-4 years | https://reliefweb.int/node/4229256 |
-| 2026-10-11 | 2026-09-21 | Head of Support Services - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4230752 |
-| 2026-10-11 | 2026-09-17 | National Project Officer / Emergency Response / Roster only | International Organization for Migration | Philippines | 0-2 years | https://reliefweb.int/node/4230229 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Response) / Roster only | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230228 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Health) / Roster only | International Organization for Migration | Philippines | 5-9 years | https://reliefweb.int/node/4230226 |
-| 2026-10-11 | 2026-09-14 | Country Director - Egypt | Terre des hommes | Egypt | 5-9 years | https://reliefweb.int/node/4229585 |
 | 2026-10-13 | 2026-10-01 | Comprehensive Mapping & Private Sector Analysis (CM&PSA) Consultant | International Organization for Migration | Qatar | 5-9 years | https://reliefweb.int/node/4232169 |
 | 2026-10-14 | 2026-10-02 | 23302 Head of Partnership and Programme Support Unit (P) | International Organization for Migration | Rwanda | 5-9 years | https://reliefweb.int/node/4232330 |
 | 2026-10-14 | 2026-10-02 | 23257 Chief Migration Health Officer (P) | International Organization for Migration | Ethiopia | 5-9 years | https://reliefweb.int/node/4232329 |
-| 2026-10-14 | 2026-10-02 | 23233 Media and Communications Officer (P) | 1001fontaines; International Organization for Migration | Guinea | 3-4 years | https://reliefweb.int/node/4232327 |
+| 2026-10-14 | 2026-10-02 | 23233 Media and Communications Officer (P) | International Organization for Migration | Guinea | 3-4 years | https://reliefweb.int/node/4232327 |
 | 2026-10-14 | 2026-10-01 | MMC Consultancy on Sudan Displacement Data Analysis and Report Writing | Danish Refugee Council | Kenya | 5-9 years | https://reliefweb.int/node/4232055 |
 | 2026-10-14 | 2026-09-29 | Request for Proposal - Baseline Study & Assessment Consultancy - RFP\JOR\2026\729 | World University Service of Canada | Jordan | 10+ years | https://reliefweb.int/node/4231805 |
 | 2026-10-14 | 2026-09-15 | Logistics Coordinator - Nigeria | Terre des hommes | Nigeria | 5-9 years | https://reliefweb.int/node/4229915 |
+| 2026-10-15 | 2026-10-06 | Consultant national – Enquêteur / Collecteur de données temporaire | International Organization for Migration | Djibouti | 0-2 years | https://reliefweb.int/node/4232784 |
 | 2026-10-15 | 2026-10-02 | 23229 Head of Programmes (P) | International Organization for Migration | Guinea | 5-9 years | https://reliefweb.int/node/4232328 |
 | 2026-10-15 | 2026-09-30 | CRM, Systems and Data Specialist | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4232044 |
 | 2026-10-15 | 2026-09-17 | Research Officer | Consilient | Somalia | 0-2 years | https://reliefweb.int/node/4230269 |
 | 2026-10-16 | 2026-09-22 | Europe Programme Officer - Balkans | International Detention Coalition | Albania, Bosnia and Herzegovina, Greece, Montenegro, Serbia, the Republic of North Macedonia | 3-4 years | https://reliefweb.int/node/4230833 |
 | 2026-10-16 | 2026-07-17 | Human resources coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4221898 |
+| 2026-10-18 | 2026-10-09 | Expression of Interest: Procurement of a Loans Management System for a Rural Based Informal MFI | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233338 |
+| 2026-10-18 | 2026-10-07 | ICT Systems Integration Technician EFMS/CARLOG | CTG (Committed To Good) | Central African Republic | 3-4 years | https://reliefweb.int/node/4233034 |
 | 2026-10-18 | 2026-10-06 | Project Assistant (DTM) | CTG (Committed To Good) | Nigeria | 3-4 years | https://reliefweb.int/node/4232801 |
 | 2026-10-18 | 2026-09-22 | Senior Data Engineer (Maternity Cover) | Norwegian Refugee Council | Norway | 5-9 years | https://reliefweb.int/node/4230928 |
 | 2026-10-18 | 2026-08-04 | Country Program Manager, Mali (f/h/x) | Médecins du Monde - Belgique | Mali | 5-9 years | https://reliefweb.int/node/4224275 |
 | 2026-10-19 | 2026-10-05 | Junior Project Assistant | International Organization for Migration | Belgium | 0-2 years | https://reliefweb.int/node/4232649 |
 | 2026-10-19 | 2026-09-22 | Senior Programme Manager, Academic Pillar (Refugee-Led Research Hub) | Refugee Studies Centre | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4230901 |
-| 2026-10-19 | 2026-09-22 | Sr. Administrative and Finance Associate | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230834 |
+| 2026-10-21 | 2026-10-08 | 23451 Regional Programme Coordinator (Route-Based Approach (RteBA) (P) | International Organization for Migration | Thailand | 5-9 years | https://reliefweb.int/node/4233134 |
+| 2026-10-21 | 2026-10-08 | 22954 Programme Officer (Immigration and Border Governance (IBG) (P) | International Organization for Migration | Ghana | 5-9 years | https://reliefweb.int/node/4233119 |
+| 2026-10-22 | 2026-10-09 | 23437 Regional Programme Coordinator (Route-Based Approach (RteBA)) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233419 |
+| 2026-10-22 | 2026-10-09 | 23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233418 |
+| 2026-10-22 | 2026-10-09 | 23396 Regional Programme Specialist (Regional Responses to Climate Displacement (RE2CLID)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233417 |
+| 2026-10-22 | 2026-10-09 | 23395 Senior Programme Manager (Immigration and Border Governance (IBG)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233392 |
+| 2026-10-22 | 2026-10-09 | 23266 Regional Migration Health Nurse Coordinator (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233391 |
+| 2026-10-22 | 2026-10-09 | 23423 Regional Thematic Specialist (Climate Action and Mobility) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233389 |
+| 2026-10-22 | 2026-10-09 | 22519 Programme Manager (Community Stabilisation) (P) | International Organization for Migration | Somalia | 5-9 years | https://reliefweb.int/node/4233386 |
+| 2026-10-23 | 2026-10-12 | Regional Programme Coordinator (MENA) | Danish Red Cross | Jordan | 5-9 years | https://reliefweb.int/node/4233615 |
+| 2026-10-23 | 2026-10-08 | Consultancy service to conduct a programme baseline assessment | IsraAID | Kenya, Uganda | 10+ years | https://reliefweb.int/node/4233180 |
 | 2026-10-24 | 2026-05-18 | Field coordinator Feina (F/M) - Sudan | Médecins du Monde | Sudan | 3-4 years | https://reliefweb.int/node/4212479 |
 | 2026-10-25 | 2026-10-02 | Programme Manager, Slovenia (Europe and Asia) | Geneva Centre for Security Sector Governance | Slovenia | 5-9 years | https://reliefweb.int/node/4232380 |
+| 2026-10-26 | 2026-10-12 | International Consultant CC-2026-23 | International Organization for Migration | Armenia | 10+ years | https://reliefweb.int/node/4233664 |
+| 2026-10-27 | 2026-10-12 | Human Resources Associate (Fiji Nationals Only) | International Organization for Migration | Fiji | 3-4 years | https://reliefweb.int/node/4233709 |
 | 2026-10-27 | 2026-07-28 | Coordinateur médical voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223228 |
+| 2026-10-28 | 2026-10-09 | Development of E-Learning Module Content — Tdh Migration and Displacement programme | Terre des hommes | Switzerland | 5-9 years | https://reliefweb.int/node/4233194 |
 | 2026-10-28 | 2026-07-28 | Coordinateur général voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223409 |
 | 2026-10-30 | 2026-08-13 | Regional Health Advisor - Latin America and the Caribbean (Consultant) | CORUS International | Colombia, Ecuador, El Salvador, Guatemala, Honduras | 10+ years | https://reliefweb.int/node/4225583 |
 | 2026-10-30 | 2026-08-03 | Regional Advisor for Humanitarian Access & Risk for Africa (F/M) - Nigeria or Ethiopia | Médecins du Monde | Nigeria | 3-4 years | https://reliefweb.int/node/4223885 |
 | 2026-10-31 | 2026-08-17 | Outreach Officer | International Rescue Committee | Poland | 0-2 years | https://reliefweb.int/node/4225944 |
 | 2026-10-31 | 2026-08-17 | Economic Empowerment Project Lead | International Rescue Committee | Poland | 3-4 years | https://reliefweb.int/node/4225941 |
-| 2026-11-03 | 2026-08-03 | Medical coordinator (F/M) - Syria | Médecins du Monde | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4224013 |
 | 2026-11-30 | 2026-10-01 | Country Director - JRS Thailand | Jesuit Refugee Service | Thailand | 5-9 years | https://reliefweb.int/node/4232130 |
 | 2026-11-30 | 2026-09-21 | Caseworker (Dari speaking) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4230743 |
 | 2026-11-30 | 2026-09-18 | Caseworker (Ukrainian or Russian speaking) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4230526 |
@@ -56,7 +57,6 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-10 | 2026-09-11 | Mental health and psychosocial suppport coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4229453 |
 | 2026-12-18 | 2026-05-18 | Internship at USCRI El Salvador 2026 II | Habesha Project | El Salvador | 0-2 years | https://reliefweb.int/node/4212302 |
 | 2026-12-18 | 2026-05-12 | Internship at USCRI Mexico 2026 II | Habesha Project | Mexico | 0-2 years | https://reliefweb.int/node/4211513 |
-| 2026-12-29 | 2026-09-30 | Chargé de financements (F/H) - République Démocratique de Congo | Médecins du Monde | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232023 |
 | 2026-12-29 | 2026-09-29 | Medical Coordinator (F/M) - Afghanistan | Médecins du Monde | Afghanistan | 3-4 years | https://reliefweb.int/node/4231785 |
 | 2026-12-31 | 2026-10-02 | Training Officer, Cultural Orientation | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4232444 |
 | 2026-12-31 | 2022-09-13 | Female Early Childhood Volunteer Athens, Greece | Glocal Roots | Athens, Greece | 0-2 years | https://reliefweb.int/node/3885633 |
@@ -64,146 +64,12 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2027-08-06 | 2026-07-16 | Senior Project Associate (Solomon Islands Nationals Only) | International Organization for Migration | Solomon Islands | 5-9 years | https://reliefweb.int/node/4221783 |
 | 2027-09-07 | 2026-08-04 | Migration and Redevelopment of the MSFEA Association Membership Portal | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4224117 |
 
-## Term set `migration-data` — "migration data OR migration statistics" — totalCount 499
+## Term set `migration-data` — "migration data OR migration statistics" — totalCount 505
 
 | Closing | Created | Title | Organisation | Location | Experience | URL |
 |---|---|---|---|---|---|---|
-| 2026-10-06 | 2026-09-30 | International Consultant - Technical supervision of afloat repair, mechanical refurbishment, system restoration, testing and handover of Tugboat Danu | UN Development Programme | Yemen | 5-9 years | https://reliefweb.int/node/4232020 |
-| 2026-10-06 | 2026-09-28 | Intern - Information Management | UN Office for the Coordination of Humanitarian Affairs | Gaziantep, Türkiye | 0-2 years | https://reliefweb.int/node/4231692 |
-| 2026-10-06 | 2026-09-28 | Protection Assistant - Child Protection | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231662 |
-| 2026-10-06 | 2026-09-23 | NTS/EORE Team Member / Aleppo, Raqqa & Hasakah | DanChurchAid | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4230940 |
-| 2026-10-06 | 2026-09-23 | MEAL Officer, OCHA Project- National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230938 |
-| 2026-10-06 | 2026-09-23 | NTS/EORE Team Leader / Aleppo, Raqqa & Hasakah | DanChurchAid | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4230937 |
-| 2026-10-06 | 2026-09-23 | Project Officer, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230936 |
-| 2026-10-06 | 2026-09-23 | Project Manager, WASH (OCHA Project)- National position | ZOA | Uganda | 5-9 years | https://reliefweb.int/node/4230935 |
-| 2026-10-06 | 2026-09-23 | Project Coordinator, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230934 |
-| 2026-10-06 | 2026-09-22 | Regional Head of Operational Support | Norwegian Refugee Council | Kenya | 10+ years | https://reliefweb.int/node/4230917 |
-| 2026-10-06 | 2026-09-22 | Finance Manager - EA | Médecins Sans Frontières | Kenya | 5-9 years | https://reliefweb.int/node/4230898 |
-| 2026-10-06 | 2026-09-22 | Manager, Programme Design and Development | MSI Reproductive Choices | Burkina Faso, Madagascar, Mali, Niger, Senegal, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4230893 |
-| 2026-10-06 | 2026-09-21 | Project Manager | Human Rights Legal Project | Vathy, Samos, Greece | 3-4 years | https://reliefweb.int/node/4230689 |
-| 2026-10-06 | 2026-09-18 | Consultancy to Develop a Western Indian Ocean Regional 30x30 Strategy and Regenerative Seascapes Toolkit | International Union for Conservation of Nature | — | 5-9 years | https://reliefweb.int/node/4230338 |
-| 2026-10-06 | 2026-09-18 | Graphic Design and Visualisation of the IslandPlas Plastic Waste Profiles | International Union for Conservation of Nature | — | 5-9 years | https://reliefweb.int/node/4230337 |
-| 2026-10-06 | 2026-09-18 | INCLUSION COMMUNICATIONS OFFICER | Médecins Sans Frontières | Côte d'Ivoire | 3-4 years | https://reliefweb.int/node/4230428 |
-| 2026-10-06 | 2026-09-18 | HEAD OF PEOPLE SAFEGUARDING AND INCLUSION | Médecins Sans Frontières | Côte d'Ivoire | 5-9 years | https://reliefweb.int/node/4230425 |
-| 2026-10-06 | 2026-09-17 | Head of Partnerships | Access to Nutrition initiative | Kenya, Netherlands, United Republic of Tanzania | 10+ years | https://reliefweb.int/node/4230248 |
-| 2026-10-06 | 2026-09-09 | Provision of Catering/Canteen Services – Wasaa Complex | International Union for Conservation of Nature | Kenya | 5-9 years | https://reliefweb.int/node/4229032 |
-| 2026-10-06 | 2026-08-30 | Request for Proposal (RFP) – Organizational Spend Analysis Consultancy | Netherlands Red Cross | Netherlands | 3-4 years | https://reliefweb.int/node/4227645 |
-| 2026-10-07 | 2026-10-01 | RFQ/328/2026/GAH/ROAS Event management for the third Meeting of the Joint Technical Committee of the PWP – Kurdistan Region of Iraq Duhok | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232282 |
-| 2026-10-07 | 2026-10-01 | Monitoring, Evaluation, Accountability and Learning (MEAL) Officer(Mogadishu) | Center for Civilians in Conflict | Somalia | 5-9 years | https://reliefweb.int/node/4232163 |
-| 2026-10-07 | 2026-09-30 | FACE-TO-FACE FUNDRAISER | Médecins Sans Frontières | Kenya | 0-2 years | https://reliefweb.int/node/4232035 |
-| 2026-10-07 | 2026-09-30 | Electoral Inclusion and Accessibility Consultant | UN Development Programme | Lebanon | 5-9 years | https://reliefweb.int/node/4231947 |
-| 2026-10-07 | 2026-09-29 | Consultancy Opportunity – Water Sector Specialists / Somalia | Accord Worldwide | Somalia | 5-9 years | https://reliefweb.int/node/4231726 |
-| 2026-10-07 | 2026-09-29 | Team Leader – Evaluation on Humanitarian Assistance, Recovery and Protection in Ukraine Ukraine / Kyiv / Project-based consultancy | Voluntas | Ukraine | 10+ years | https://reliefweb.int/node/4231700 |
-| 2026-10-07 | 2026-09-28 | Protection Assistant - Child Protection - Case Management | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231660 |
-| 2026-10-07 | 2026-09-28 | Account Administrator | CTG (Committed To Good) | Democratic Republic of the Congo | 0-2 years | https://reliefweb.int/node/4231659 |
-| 2026-10-07 | 2026-09-28 | Chief Audit Executive (CAE) / Head of Internal Audit | Asian Disaster Preparedness Center | Thailand | 0-2 years | https://reliefweb.int/node/4231635 |
-| 2026-10-07 | 2026-09-25 | APS Program Analyst | US Department of State | United States of America | 5-9 years | https://reliefweb.int/node/4231348 |
-| 2026-10-07 | 2026-09-25 | Finance, Compliance and Grants Coordinator - GORS | Global Emergency Group | — | 5-9 years | https://reliefweb.int/node/4231331 |
-| 2026-10-07 | 2026-09-24 | Finance Manager - Kenya/ Somalia / Ethiopia (Kenyan Nationals only) | Johanniter-Unfall-Hilfe | Kenya | 5-9 years | https://reliefweb.int/node/4231143 |
-| 2026-10-07 | 2026-09-24 | Manager - Health Supply Chain Transformation (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4231151 |
-| 2026-10-07 | 2026-09-23 | ICT & Database Intern | Urgent Action Fund-Africa | Kenya | 0-2 years | https://reliefweb.int/node/4231079 |
-| 2026-10-07 | 2026-09-23 | Area Manager | Sign of Hope | South Sudan | 5-9 years | https://reliefweb.int/node/4231059 |
-| 2026-10-07 | 2026-09-23 | HR Associate (Staff Development and Learning) | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4231055 |
-| 2026-10-07 | 2026-09-22 | Director, Medical | International Medical Corps | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4230973 |
-| 2026-10-07 | 2026-09-17 | CONSULTANT FOR THE TM ADAPTATION TO THE ENVIRONMENT IN DRC | Tearfund | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4230293 |
-| 2026-10-07 | 2026-09-09 | MEAL Expert for French-speaking countries | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4229103 |
-| 2026-10-07 | 2026-08-27 | Country Finance Manager Ukraine | We World | Ukraine | 0-2 years | https://reliefweb.int/node/4227286 |
-| 2026-10-08 | 2026-10-05 | Team Leader | Violet Organization for Relief and Development | Türkiye | 3-4 years | https://reliefweb.int/node/4232508 |
-| 2026-10-08 | 2026-10-04 | Community Liaison Manager, Ukraine | Mines Advisory Group | Ukraine | 5-9 years | https://reliefweb.int/node/4232480 |
-| 2026-10-08 | 2026-09-29 | Subawards Compliance Finance Officer, Puerto Rico or Colombia | Prosper Global | Colombia, Puerto Rico (The United States of America) | 3-4 years | https://reliefweb.int/node/4231732 |
-| 2026-10-08 | 2026-09-29 | Compliance Coordinator (Temporary) | Relief International | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231681 |
-| 2026-10-08 | 2026-09-29 | Governance and Legal Operations Manager | Relief International | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231680 |
-| 2026-10-08 | 2026-09-28 | Endline and Final Evaluation Assessment for GAC funded project | Oxfam | Jordan | 5-9 years | https://reliefweb.int/node/4231567 |
-| 2026-10-08 | 2026-09-28 | PROVISION OF CLEANING INTERNAL, EXTERNAL FACILITIES AND TEA STEWARD SERVICE | Heifer International | Kenya | 3-4 years | https://reliefweb.int/node/4231539 |
-| 2026-10-08 | 2026-09-25 | Safeguarding Specialist | Médecins Sans Frontières | Kenya | 5-9 years | https://reliefweb.int/node/4231489 |
-| 2026-10-08 | 2026-09-17 | Country Director - Yemen, Sana'a | Danish Refugee Council | Yemen | 5-9 years | https://reliefweb.int/node/4230376 |
-| 2026-10-08 | 2026-09-17 | Referral for Migrants and Mobile Populations Consultant | International Organization for Migration | Philippines | 10+ years | https://reliefweb.int/node/4230234 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (MHPSS) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229067 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (Health) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229065 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (WASH/Shelter) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229062 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (MPCA) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229063 |
-| 2026-10-08 | 2026-09-09 | Pooling: MEAL Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229061 |
-| 2026-10-08 | 2026-09-09 | Pooling: Base Logistics Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229060 |
-| 2026-10-08 | 2026-09-09 | Pooling: Project Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 3-4 years | https://reliefweb.int/node/4229057 |
-| 2026-10-08 | 2026-09-09 | Pooling: Head of Project (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 3-4 years | https://reliefweb.int/node/4229056 |
-| 2026-10-08 | 2026-09-09 | Education Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4229037 |
-| 2026-10-08 | 2026-09-08 | ERT Supply Chain Coordinator | International Rescue Committee | — | 3-4 years | https://reliefweb.int/node/4228985 |
-| 2026-10-08 | 2026-07-08 | Directeur Santé et Plaidoyer (F/H) - Saint-Denis | Médecins du Monde | France | 10+ years | https://reliefweb.int/node/4220489 |
-| 2026-10-09 | 2026-10-05 | Final Evaluation of the South Africa Strategic Plan 2022–2026 | Good Shepherd International Foundation | South Africa | 5-9 years | https://reliefweb.int/node/4232433 |
-| 2026-10-09 | 2026-10-05 | Country Representative - IGNITE (PERU) | Catalyste+ | Peru | 5-9 years | https://reliefweb.int/node/4232416 |
-| 2026-10-09 | 2026-10-04 | Financial Analyst (Ukraine Programme Support) | Mines Advisory Group | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232484 |
-| 2026-10-09 | 2026-10-02 | MEAL Officer | ICS | United Republic of Tanzania | 5-9 years | https://reliefweb.int/node/4232384 |
-| 2026-10-09 | 2026-10-02 | M&E Officer ( Re-Advertisment) | International Network For Aid Relief and Assistance | Egypt | 3-4 years | https://reliefweb.int/node/4232335 |
-| 2026-10-09 | 2026-10-02 | International Development & Humanitarian Assistance Internship | Effaced Inc | — | 0-2 years | https://reliefweb.int/node/4232279 |
-| 2026-10-09 | 2026-10-02 | Technical Advisor II, REACH Malaria | Catholic Relief Services | — | 5-9 years | https://reliefweb.int/node/4232249 |
-| 2026-10-09 | 2026-09-30 | Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231975 |
-| 2026-10-09 | 2026-09-28 | International Consultant/Consultancy Firm - CLIMATE RESILIENCE AND ADAPTATION & SOCIAL PROTECTION | Save the Children | Mozambique | 5-9 years | https://reliefweb.int/node/4231693 |
-| 2026-10-09 | 2026-09-25 | Humanitarian AI Research Fellowship | NetHope | — | 3-4 years | https://reliefweb.int/node/4231529 |
-| 2026-10-09 | 2026-09-25 | RFP- Donor Landscape Assessment in Kenya | Pathfinder International | Kenya | 0-2 years | https://reliefweb.int/node/4231480 |
-| 2026-10-09 | 2026-09-25 | Logistics Manager | Norwegian Refugee Council | Libya | 3-4 years | https://reliefweb.int/node/4231431 |
-| 2026-10-09 | 2026-09-24 | Monitoring and Evaluation (M&E) Officer - East (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231259 |
-| 2026-10-09 | 2026-09-24 | Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231255 |
-| 2026-10-09 | 2026-09-24 | HR Assistant | Oxfam GB | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4231228 |
-| 2026-10-09 | 2026-09-24 | Program Director (Contractor Representative) | DT Global | Indonesia | 10+ years | https://reliefweb.int/node/4231203 |
-| 2026-10-09 | 2026-09-23 | TERMS OF REFERENCE FOR CUSTOMIZATION AND IMPLEMENTATION OF MICROSOFT DYNAMICS 365 BUSINESS CENTRAL | GROOTS Kenya | Kenya | 5-9 years | https://reliefweb.int/node/4231085 |
-| 2026-10-09 | 2026-09-23 | REQUEST FOR KRA LEDGER RECONCILAITION SERVICES TO CHILDFUND KENYA | ChildFund International | Kenya | 5-9 years | https://reliefweb.int/node/4231046 |
-| 2026-10-09 | 2026-09-22 | Human Resources Coordinator – based in Damascus, Syria | Première Urgence Internationale | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230848 |
-| 2026-10-09 | 2026-09-22 | Associate Director/Director - East and Southern Africa | IDinsight | Kenya | 10+ years | https://reliefweb.int/node/4230846 |
-| 2026-10-09 | 2026-09-10 | ADJOINTE OU ADJOINT COORDINATEUR OU COORDINATRICE RMM-TCHAD | Action contre la Faim France | Bagasola, Chad | 3-4 years | https://reliefweb.int/node/4229226 |
-| 2026-10-09 | 2026-09-08 | Erasmus Internship - Partnership Development Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4228941 |
-| 2026-10-09 | 2026-07-23 | Tupande Zone Supervisor - Lower Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222768 |
-| 2026-10-09 | 2026-07-23 | Tupande Cashew Extension & Aggregation Officer (Fixed-Term) | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222766 |
-| 2026-10-09 | 2026-07-23 | Tupande Zone Supervisor - Upper Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222762 |
-| 2026-10-09 | 2026-07-01 | People and Talent Director - India | Americares | India | 10+ years | https://reliefweb.int/node/4218844 |
-| 2026-10-10 | 2026-10-06 | ICT END USER HW/SW SUPPORT (Network, Voice & Security (Cisco CUCM / Check Point) | CTG (Committed To Good) | Central African Republic | 5-9 years | https://reliefweb.int/node/4232795 |
-| 2026-10-10 | 2026-10-02 | TERMS OF REFERENCE (TOR) FOR CONDUCTING A GENDER AUDIT FOR SOS CHILDREN’S VILLAGES IN SOMALIA | SOS Children's Villages International | Somalia | 5-9 years | https://reliefweb.int/node/4232258 |
-| 2026-10-10 | 2026-10-01 | Programme Manager - UK Remote/Hybrid - Spanish/Portuguese Speaker | MENTOR Initiative | — | 0-2 years | https://reliefweb.int/node/4232236 |
-| 2026-10-10 | 2026-09-29 | Request for Proposal County Coordination Consultant (Individual Consultant) Nakuru County - Kenya | Girl Effect | Kenya | 5-9 years | https://reliefweb.int/node/4231699 |
-| 2026-10-10 | 2026-09-28 | Remote and unpaid internship, researcher-Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231546 |
-| 2026-10-10 | 2026-09-28 | Remote, unpaid Internship (Capacity Development Intern), Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231548 |
-| 2026-10-10 | 2026-09-28 | Remote Internship, Proposal Writing OR Third-Party Monitoring & Evaluation (Unpaid), start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231549 |
-| 2026-10-10 | 2026-09-25 | Country Financial Controller | Concern Worldwide | Sierra Leone | 3-4 years | https://reliefweb.int/node/4231312 |
-| 2026-10-10 | 2026-09-23 | Cardiologist | EMERGENCY | Sudan | 5-9 years | https://reliefweb.int/node/4231056 |
-| 2026-10-10 | 2026-09-16 | Proposal Writer | Relief Applications | — | 5-9 years | https://reliefweb.int/node/4230049 |
-| 2026-10-10 | 2026-09-10 | Senior Manager, Supply Chain Digitalization Benchmarking and Pilots | International Rescue Committee | Germany, Kenya, United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4229371 |
-| 2026-10-10 | 2026-09-10 | Program Development and Award Advisor, Asia | International Rescue Committee | Pakistan, Thailand | 5-9 years | https://reliefweb.int/node/4229367 |
-| 2026-10-10 | 2026-09-10 | Associate, Global Donation Operations | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4229296 |
-| 2026-10-10 | 2026-09-10 | Director of Research | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 10+ years | https://reliefweb.int/node/4229284 |
-| 2026-10-10 | 2026-09-10 | HR Systems Analyst (Security & Integrations) | International Rescue Committee | Colombia, Honduras, Kenya | 3-4 years | https://reliefweb.int/node/4229256 |
-| 2026-10-10 | 2026-08-31 | Business Development and Grants Manager | People in Need | Moldova | 3-4 years | https://reliefweb.int/node/4227796 |
-| 2026-10-10 | 2026-08-10 | Gender and Protection Advisor (Re-advertisement) | Oxfam GB | Myanmar | 10+ years | https://reliefweb.int/node/4224936 |
-| 2026-10-11 | 2026-10-05 | Media Training Consultancy | Sightsavers | Zimbabwe | 3-4 years | https://reliefweb.int/node/4232581 |
-| 2026-10-11 | 2026-10-05 | People & Culture Officer-Raqqa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232566 |
-| 2026-10-11 | 2026-10-05 | Field Coordinator // منسق/ ـة ميداني/ ـة | Syrian Center for Media and Freedom of Expression | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232432 |
-| 2026-10-11 | 2026-10-02 | National HLP Legal Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232398 |
-| 2026-10-11 | 2026-10-02 | National HLP and Protection Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232394 |
-| 2026-10-11 | 2026-10-01 | MEAL Assistant Syria | Arbeiter-Samariter-Bund Deutschland e.V. | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232166 |
-| 2026-10-11 | 2026-10-01 | MEAL Manager | Independent Doctors Association | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232153 |
-| 2026-10-11 | 2026-09-28 | Complaints and PSEA Advisor | Lutheran World Federation | — | 3-4 years | https://reliefweb.int/node/4231485 |
-| 2026-10-11 | 2026-09-27 | Projects Coordinator | World Vision | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231575 |
-| 2026-10-11 | 2026-09-25 | Head of Finance Department (NIGERIAN NATIONALS ONLY) | Solidarités International | Nigeria | 3-4 years | https://reliefweb.int/node/4231457 |
-| 2026-10-11 | 2026-09-24 | Digital Acquisition Officer | Médecins Sans Frontières en Suisse | Switzerland | 3-4 years | https://reliefweb.int/node/4231141 |
-| 2026-10-11 | 2026-09-24 | AI Product Manager - CLEAR Project | Norwegian Refugee Council | Belgium, Germany, Kenya, Nigeria, Norway, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231278 |
-| 2026-10-11 | 2026-09-23 | Regional Finance Controller - Kenya | Islamic Relief; Islamic Relief Kenya | Ethiopia, Kenya, Somalia, South Sudan, Sudan | 0-2 years | https://reliefweb.int/node/4231081 |
-| 2026-10-11 | 2026-09-22 | HRIS Product Owner | Médecins Sans Frontières en Suisse | Switzerland | 5-9 years | https://reliefweb.int/node/4230911 |
-| 2026-10-11 | 2026-09-21 | Head of Support Services - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4230752 |
-| 2026-10-11 | 2026-09-17 | National Project Officer / Emergency Response / Roster only | International Organization for Migration | Philippines | 0-2 years | https://reliefweb.int/node/4230229 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Response) / Roster only | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230228 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Health) / Roster only | International Organization for Migration | Philippines | 5-9 years | https://reliefweb.int/node/4230226 |
-| 2026-10-11 | 2026-09-14 | Supply and Delivery of Diesel ITT/Open Tender For Syria | Relief International | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4229688 |
-| 2026-10-11 | 2026-09-14 | Country Director - Egypt | Terre des hommes | Egypt | 5-9 years | https://reliefweb.int/node/4229585 |
-| 2026-10-11 | 2026-09-11 | Medical Coordinator - NES | Médicos del Mundo | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4229501 |
-| 2026-10-11 | 2026-09-11 | Zambia People Lead | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4229488 |
-| 2026-10-11 | 2026-09-10 | Project Director - DRC Human Resources for Health (HRH) | Global Communities | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4229391 |
-| 2026-10-12 | 2026-10-04 | "Senior Manager, HR” BRAC International Microfinance (BI MF) | BRAC | Bangladesh, Kenya | 10+ years | https://reliefweb.int/node/4232478 |
-| 2026-10-12 | 2026-10-01 | Humanitarian Admin and Surge Consultant | United Nations Population Fund | — | 5-9 years | https://reliefweb.int/node/4232158 |
-| 2026-10-12 | 2026-09-30 | MERLA Coordinator – Program Support | DT Global | Papua New Guinea | 5-9 years | https://reliefweb.int/node/4231936 |
-| 2026-10-12 | 2026-09-29 | Feasibility study of Integrated Transformation for Food and Nutrition Security, Resilient Livelihoods, and one Health systems in ASALs project | Malteser International | Kenya | 5-9 years | https://reliefweb.int/node/4231775 |
-| 2026-10-12 | 2026-09-28 | Explosive Ordnance Risk Education (EORE) Team Member | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231667 |
-| 2026-10-12 | 2026-09-24 | Consultancy – Strategic Expert, Libya | Geneva Call | Libya | 10+ years | https://reliefweb.int/node/4231260 |
-| 2026-10-12 | 2026-09-22 | Consultancy Midterm Review (two phases) for WWF GEF Seaweed project Viet Nam & Philippines | World Wide Fund For Nature | — | 5-9 years | https://reliefweb.int/node/4230954 |
-| 2026-10-12 | 2026-09-15 | Program Lead | Development Gateway | Jordan | 5-9 years | https://reliefweb.int/node/4229787 |
-| 2026-10-12 | 2025-09-25 | Planning, Monitoring and Evaluation Myanmar Partner Advisor | Mennonite Central Committee | The Partner Advisor will live in Phnom Penh, Cambodia and travel to Myanmar frequently for prolonged periods in order to provide direct accompaniment of partners., Myanmar | 3-4 years | https://reliefweb.int/node/4177378 |
+| 2026-10-13 | 2026-10-07 | Field engineer – FS&ERL Programs | Ataa Humanitarian Relief Association | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233036 |
+| 2026-10-13 | 2026-10-06 | Operatrice/tore NEET - Milano | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4232859 |
 | 2026-10-13 | 2026-10-06 | Protection Officer (PRoL)-Daraa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232789 |
 | 2026-10-13 | 2026-10-06 | Protection Officer (Child Protection)-Homs | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232788 |
 | 2026-10-13 | 2026-10-05 | Director of Finance and Administration (national contract) | Lutheran World Federation | Israel | 10+ years | https://reliefweb.int/node/4232639 |
@@ -214,12 +80,14 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-13 | 2026-09-30 | Peacebuilding Officer | World Vision | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232070 |
 | 2026-10-13 | 2026-09-29 | MEAL Officer | HelpAge International | Ethiopia, India, Italy, Jordan, Kenya, Nepal, Pakistan, Spain, Thailand, Türkiye, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, Zimbabwe | 5-9 years | https://reliefweb.int/node/4231801 |
 | 2026-10-13 | 2026-07-20 | Rwanda Seed Sample Reception and Data Entry | One Acre Fund | Rwanda | 0-2 years | https://reliefweb.int/node/4222116 |
+| 2026-10-14 | 2026-10-08 | Trainer for Youth Capacity Development in Conflict Analysis, Peacebuilding and Community Dialogue | Terre des Hommes Italia | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233133 |
+| 2026-10-14 | 2026-10-07 | MEAL Enumerator | Agency for Technical Cooperation and Development | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4232968 |
+| 2026-10-14 | 2026-10-06 | Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232829 |
 | 2026-10-14 | 2026-10-05 | Partnerships and Engagement Officer - London, UK | Prosper Global | United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4232563 |
-| 2026-10-14 | 2026-10-05 | Lead, Client Impact, BRAC International Microfinance (BI MF) | BRAC | Kenya | 10+ years | https://reliefweb.int/node/4232594 |
 | 2026-10-14 | 2026-10-04 | Programme Officer | Mines Advisory Group | Senegal | 3-4 years | https://reliefweb.int/node/4232483 |
 | 2026-10-14 | 2026-10-02 | 23302 Head of Partnership and Programme Support Unit (P) | International Organization for Migration | Rwanda | 5-9 years | https://reliefweb.int/node/4232330 |
 | 2026-10-14 | 2026-10-02 | 23257 Chief Migration Health Officer (P) | International Organization for Migration | Ethiopia | 5-9 years | https://reliefweb.int/node/4232329 |
-| 2026-10-14 | 2026-10-02 | 23233 Media and Communications Officer (P) | 1001fontaines; International Organization for Migration | Guinea | 3-4 years | https://reliefweb.int/node/4232327 |
+| 2026-10-14 | 2026-10-02 | 23233 Media and Communications Officer (P) | International Organization for Migration | Guinea | 3-4 years | https://reliefweb.int/node/4232327 |
 | 2026-10-14 | 2026-10-01 | Consultant: Humanitarian Needs Assessment & Strategic Implementation Review | Christian Blind Mission | Ukraine | 3-4 years | https://reliefweb.int/node/4232185 |
 | 2026-10-14 | 2026-10-01 | RfP FOR DONOR/STAKEHOLDER MAPPING AND EXTERNAL RELATIONS CONSULTANCY SERVICES | Finn Church Aid | Ukraine | 5-9 years | https://reliefweb.int/node/4232136 |
 | 2026-10-14 | 2026-10-01 | Servicios Experto/a Gestor/a de Información Local – Norte de Santander - ROSTER | 3iS | Colombia | 3-4 years | https://reliefweb.int/node/4232076 |
@@ -238,6 +106,14 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-14 | 2026-09-29 | Leave cover - Fundraising Operations Assistant - Edinburgh, UK | Prosper Global | United Kingdom of Great Britain and Northern Ireland | 0-2 years | https://reliefweb.int/node/4231802 |
 | 2026-10-14 | 2026-09-15 | Logistics Coordinator - Nigeria | Terre des hommes | Nigeria | 5-9 years | https://reliefweb.int/node/4229915 |
 | 2026-10-14 | 2026-07-23 | Nigeria Chief of Staff | One Acre Fund | Nigeria | 5-9 years | https://reliefweb.int/node/4222784 |
+| 2026-10-15 | 2026-10-09 | Consultancy Services for Environmental and Social Impact Assessment (ESIA/EIA), Engineering Surveys, Detailed Engineering Designs and Tender Support | Millennium Water Alliance | Kenya | 5-9 years | https://reliefweb.int/node/4233254 |
+| 2026-10-15 | 2026-10-09 | Business Coach for We Can Work (WCW) Programme - Nyamira County | Light for the World | Kenya | 3-4 years | https://reliefweb.int/node/4233202 |
+| 2026-10-15 | 2026-10-08 | EOI: REVIEW, ENRICHMENT AND DEVELOPMENT OF COMPETENCY-BASED CURRICULA AND TRAINING PACKAGES FOR FOUR PRIORITY TVET TRADES UNDER BLOOM PROGRAMME | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233164 |
+| 2026-10-15 | 2026-10-08 | Field Engineer MEAL Officer/الحسكه | Watan Syria | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233154 |
+| 2026-10-15 | 2026-10-08 | Consultancy for an Inclusive Multi-Sector Needs Assessment (MSNA) in DR CONGO | Christian Blind Mission | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4233142 |
+| 2026-10-15 | 2026-10-07 | A CONSULTANT TO CONDUCT SCREENING, ASSESSMENT AND INTERVENTION FOR INCLUSIVE WELLBEING FOR CHILDREN WITH SPECIAL EDUCATION NEEDS AND DISABILITIES . | Adventist Development and Relief Agency International | Somalia | 5-9 years | https://reliefweb.int/node/4233006 |
+| 2026-10-15 | 2026-10-06 | Digital Content Creator | Oxfam | — | 3-4 years | https://reliefweb.int/node/4232828 |
+| 2026-10-15 | 2026-10-06 | Consultant national – Enquêteur / Collecteur de données temporaire | International Organization for Migration | Djibouti | 0-2 years | https://reliefweb.int/node/4232784 |
 | 2026-10-15 | 2026-10-05 | Proposal Development Manager | Welthungerhilfe | — | 0-2 years | https://reliefweb.int/node/4232615 |
 | 2026-10-15 | 2026-10-05 | Consultant - Financial Systems Review, Benchmarking, and Alignment under One Program Approach (OPA) with Localization Focus | International Federation of Red Cross and Red Crescent Societies | Lebanon | 10+ years | https://reliefweb.int/node/4232582 |
 | 2026-10-15 | 2026-10-04 | Senior Technical Advisor - Capacity Development (Civil Defence) | Mines Advisory Group | Syrian Arab Republic | 10+ years | https://reliefweb.int/node/4232485 |
@@ -255,26 +131,49 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-15 | 2026-09-15 | Information Security and Systems Lead, (Associate) Director | IDinsight | India, Kenya, Philippines, Senegal, Zambia | 10+ years | https://reliefweb.int/node/4229844 |
 | 2026-10-15 | 2026-09-08 | Country Director Myanmar - based in Yangon | Première Urgence Internationale | Myanmar | 3-4 years | https://reliefweb.int/node/4228859 |
 | 2026-10-15 | 2026-07-24 | Payments & Reconciliation Transformation Lead | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4222945 |
+| 2026-10-16 | 2026-10-12 | Project Manager, UZHF (Assuit or Damietta) - Re advertisement) | Plan International | Egypt | 3-4 years | https://reliefweb.int/node/4233553 |
+| 2026-10-16 | 2026-10-09 | Programme Development and Quality Coordinator | Danish Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233331 |
+| 2026-10-16 | 2026-10-09 | Mental Health and Protection Coordinator | Union of Medical Care and Relief Organizations | Lebanon | 5-9 years | https://reliefweb.int/node/4233175 |
+| 2026-10-16 | 2026-10-09 | Medical and Health Coordinator | Union of Medical Care and Relief Organizations | Lebanon | 5-9 years | https://reliefweb.int/node/4233176 |
+| 2026-10-16 | 2026-10-08 | Area Manager, Tana River County | Concern Worldwide | Kenya | 5-9 years | https://reliefweb.int/node/4233141 |
+| 2026-10-16 | 2026-10-06 | Regional Coordinator - Coast Region | Fred Hollows Foundation | Kenya | 5-9 years | https://reliefweb.int/node/4232793 |
 | 2026-10-16 | 2026-10-05 | International call for MEAL consultancy - Outcome Harvesting Evaluation | MS ActionAid Denmark | — | 3-4 years | https://reliefweb.int/node/4232555 |
 | 2026-10-16 | 2026-10-02 | Head, Information and Communication Technology Services (P.5) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4232373 |
 | 2026-10-16 | 2026-10-02 | Technical Officer (P.3) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232372 |
 | 2026-10-16 | 2026-10-02 | Chief, Central Support Services (D.1) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4232371 |
+| 2026-10-16 | 2026-10-02 | Program Finance Coordinator | Relief International | — | 5-9 years | https://reliefweb.int/node/4232272 |
 | 2026-10-16 | 2026-10-01 | Field Monitoring Specialist | Global Emergency Group | Peru | 3-4 years | https://reliefweb.int/node/4232231 |
 | 2026-10-16 | 2026-10-01 | First Nations Engagement and Partnership Adviser | DT Global | Papua New Guinea | 5-9 years | https://reliefweb.int/node/4232116 |
 | 2026-10-16 | 2026-09-25 | Expression of Interest: Board Member(s) for RET Americas | RET International | United States of America | 10+ years | https://reliefweb.int/node/4231313 |
 | 2026-10-16 | 2026-09-24 | Monitoring and Evaluation (M&E) Lead | DT Global | Thailand | 5-9 years | https://reliefweb.int/node/4231276 |
-| 2026-10-16 | 2026-09-23 | Head of Corporate & Major Donors | War Child Holland | Netherlands | 10+ years | https://reliefweb.int/node/4231108 |
 | 2026-10-16 | 2026-09-22 | Europe Programme Officer - Balkans | International Detention Coalition | Albania, Bosnia and Herzegovina, Greece, Montenegro, Serbia, the Republic of North Macedonia | 3-4 years | https://reliefweb.int/node/4230833 |
 | 2026-10-16 | 2026-09-16 | Data Analyst | International Rescue Committee | Poland | 0-2 years | https://reliefweb.int/node/4230169 |
 | 2026-10-16 | 2026-09-10 | Fertilizer Procurement Associate | One Acre Fund | Kenya | 5-9 years | https://reliefweb.int/node/4229249 |
 | 2026-10-16 | 2026-08-19 | Programme Quality (PQ) Coordinator | Trócaire | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4226257 |
+| 2026-10-16 | 2026-07-23 | Awards, Grants and Partnership Manager - Remote in RI countries of operations | Relief International | Sudan | 5-9 years | https://reliefweb.int/node/4222765 |
 | 2026-10-16 | 2026-07-17 | Human resources coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4221898 |
+| 2026-10-16 | 2026-07-02 | Project Manager – DRC | Croix-Rouge de Belgique | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4219252 |
 | 2026-10-16 | 2025-10-21 | Legal Unit Intern | Médecins Sans Frontières en Suisse | Geneva, Switzerland | 0-2 years | https://reliefweb.int/node/4182489 |
+| 2026-10-17 | 2026-10-07 | Supply Chain Manager | Independent Doctors Association | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233027 |
+| 2026-10-17 | 2026-10-06 | Consultancy to support development of NORCAP Expert Reporting System | Norwegian Capacity | — | 5-9 years | https://reliefweb.int/node/4232802 |
+| 2026-10-17 | 2026-10-06 | Countering the Financing of Terrorism Expert (Remote) | UN Volunteers | — | 5-9 years | https://reliefweb.int/node/4232787 |
 | 2026-10-17 | 2026-10-05 | Humanitarian Communications Officer | ACT Alliance | — | 5-9 years | https://reliefweb.int/node/4232493 |
 | 2026-10-17 | 2026-10-05 | Türkiye Program Lead | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232477 |
 | 2026-10-17 | 2026-10-04 | Title: Regional Study on Gender Dynamics, Risks, and Decision-Making Related to Syrian Returns in Jordan, Lebanon, Türkiye, and Syria | ActionAid | Jordan | 3-4 years | https://reliefweb.int/node/4232498 |
 | 2026-10-17 | 2026-09-30 | Endline Evaluation of the Strategic Partnership Agreement II Programme and Syria & Lebanon Top Ups | ActionAid | Jordan | 5-9 years | https://reliefweb.int/node/4231653 |
 | 2026-10-17 | 2026-07-27 | Tanzania Tree Implementation and Audit intern | One Acre Fund | United Republic of Tanzania | 0-2 years | https://reliefweb.int/node/4223177 |
+| 2026-10-18 | 2026-10-12 | Field Project Officer | Mehad | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233196 |
+| 2026-10-18 | 2026-10-09 | Expression of Interest: Procurement of a Loans Management System for a Rural Based Informal MFI | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233338 |
+| 2026-10-18 | 2026-10-09 | Expression of Interest: Annual Audit of Project/Programme Support Including ISRS 4400 - Revised (Annex D) | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233329 |
+| 2026-10-18 | 2026-10-08 | Expression of Interest: Annual Resilience Measurement - SomReP | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233197 |
+| 2026-10-18 | 2026-10-08 | Socio-Economic Data Analysis Assistant | Pacific Community | Fiji | 0-2 years | https://reliefweb.int/node/4233115 |
+| 2026-10-18 | 2026-10-07 | ICT Systems Integration Technician EFMS/CARLOG | CTG (Committed To Good) | Central African Republic | 3-4 years | https://reliefweb.int/node/4233034 |
+| 2026-10-18 | 2026-10-07 | NTD Project Officer - Reaching the Last Mile Fund | Sightsavers | Benin | 3-4 years | https://reliefweb.int/node/4233026 |
+| 2026-10-18 | 2026-10-06 | ReDSS Kenya Policy Coordinator | Danish Refugee Council | Kenya | 5-9 years | https://reliefweb.int/node/4232906 |
+| 2026-10-18 | 2026-10-06 | Disaster Preparedness ECHO Project Coordinator - Libya | Norwegian Red Cross | Libya | 5-9 years | https://reliefweb.int/node/4232846 |
+| 2026-10-18 | 2026-10-06 | Humanitarian Affairs Officer, P3 | UN Office for the Coordination of Humanitarian Affairs | Port Sudan, occupied Palestinian territory | 5-9 years | https://reliefweb.int/node/4232845 |
+| 2026-10-18 | 2026-10-06 | Information Management Assistant, G5 | UN Office for the Coordination of Humanitarian Affairs | Kenya | 5-9 years | https://reliefweb.int/node/4232838 |
+| 2026-10-18 | 2026-10-06 | Sign Language Interpreter Consultants invitation to join our preferred supplier list | Sightsavers | United Republic of Tanzania | 3-4 years | https://reliefweb.int/node/4232808 |
 | 2026-10-18 | 2026-10-06 | Data Enumerator (DTM) | CTG (Committed To Good) | Nigeria | 0-2 years | https://reliefweb.int/node/4232804 |
 | 2026-10-18 | 2026-10-06 | Project Assistant (DTM) | CTG (Committed To Good) | Nigeria | 3-4 years | https://reliefweb.int/node/4232801 |
 | 2026-10-18 | 2026-10-05 | Consortium Manager | SOS Children's Villages International | Somalia | 5-9 years | https://reliefweb.int/node/4232592 |
@@ -287,14 +186,28 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-18 | 2026-09-14 | Epidemiologist - Training | Pacific Community | Fiji | 10+ years | https://reliefweb.int/node/4229633 |
 | 2026-10-18 | 2026-08-27 | Data Officer (national) | Agency for Technical Cooperation and Development | Ukraine | 0-2 years | https://reliefweb.int/node/4227296 |
 | 2026-10-18 | 2026-08-04 | Country Program Manager, Mali (f/h/x) | Médecins du Monde - Belgique | Mali | 5-9 years | https://reliefweb.int/node/4224275 |
+| 2026-10-19 | 2026-10-11 | Technical Manager Medical (TMM) - Maiduguri Roving | INTERSOS | Nigeria | 5-9 years | https://reliefweb.int/node/4233482 |
+| 2026-10-19 | 2026-10-11 | Field Pharmacist - Dikwa, Magumeri and Maiduguri (Roving) | INTERSOS | Nigeria | 5-9 years | https://reliefweb.int/node/4233483 |
+| 2026-10-19 | 2026-10-11 | Medical Activity Manager - Dikwa and Magumeri. | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233484 |
+| 2026-10-19 | 2026-10-11 | Midwife Activity Manager - Maiduguri (Roving). | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233485 |
+| 2026-10-19 | 2026-10-11 | Data Entry Operator (HMIS Officer) - Maiduguri | INTERSOS | Nigeria | 0-2 years | https://reliefweb.int/node/4233486 |
+| 2026-10-19 | 2026-10-11 | Nutrition Assistant - Maiduguri, Magumeri, Dikwa | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233487 |
+| 2026-10-19 | 2026-10-09 | Request for Proposal Production Partner - Digital Micro Drama Series October 2026 India | Girl Effect | India | 5-9 years | https://reliefweb.int/node/4233343 |
+| 2026-10-19 | 2026-10-07 | Project Manager (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4232905 |
+| 2026-10-19 | 2026-10-07 | Senior Grants and Finance Officer (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4232900 |
+| 2026-10-19 | 2026-10-07 | Finance Director - Kenya (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4232898 |
+| 2026-10-19 | 2026-10-06 | Human Resources Advisor - HQ | International NGO Safety Organisation | Netherlands | 5-9 years | https://reliefweb.int/node/4232834 |
+| 2026-10-19 | 2026-10-06 | Communication Officer | Farm Africa | Kenya | 3-4 years | https://reliefweb.int/node/4232684 |
+| 2026-10-19 | 2026-10-06 | Senior Medical Officer - Roster position | Croix-Rouge Française | — | 3-4 years | https://reliefweb.int/node/4232651 |
 | 2026-10-19 | 2026-10-05 | Junior Project Assistant | International Organization for Migration | Belgium | 0-2 years | https://reliefweb.int/node/4232649 |
 | 2026-10-19 | 2026-10-05 | Social Safeguard Assistant, Calabar | Wildlife Conservation Society | Nigeria | 0-2 years | https://reliefweb.int/node/4232638 |
 | 2026-10-19 | 2026-10-05 | Monitoring, Evaluation, Accountability and Learning Assistant - Part Time 50% | Agency for Technical Cooperation and Development | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4232601 |
 | 2026-10-19 | 2026-09-30 | Maestral Public Finance for Children (PF4C) Expert Cohort | Maestral International | — | 5-9 years | https://reliefweb.int/node/4231886 |
 | 2026-10-19 | 2026-09-28 | Operational Finance Advisor | Médecins Sans Frontières | Kenya, South Africa | 5-9 years | https://reliefweb.int/node/4231682 |
+| 2026-10-19 | 2026-09-25 | RFP- Donor Landscape Assessment in Kenya | Pathfinder International | Kenya | 0-2 years | https://reliefweb.int/node/4231480 |
 | 2026-10-19 | 2026-09-24 | Field Coordinator Hodeidah – YEMEN | Première Urgence Internationale | Yemen | 3-4 years | https://reliefweb.int/node/4231231 |
 | 2026-10-19 | 2026-09-22 | Senior Programme Manager, Academic Pillar (Refugee-Led Research Hub) | Refugee Studies Centre | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4230901 |
-| 2026-10-19 | 2026-09-22 | Sr. Administrative and Finance Associate | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230834 |
+| 2026-10-20 | 2026-10-12 | ERD Information Management Officer- Aleppo, first period in Raqaa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233567 |
 | 2026-10-20 | 2026-10-02 | Head of Support Services | International Network For Aid Relief and Assistance | — | 5-9 years | https://reliefweb.int/node/4232337 |
 | 2026-10-20 | 2026-10-02 | Travel Administrator | Médecins Sans Frontières | — | 0-2 years | https://reliefweb.int/node/4232402 |
 | 2026-10-20 | 2026-10-02 | Travel Referent | Médecins Sans Frontières | — | 0-2 years | https://reliefweb.int/node/4232401 |
@@ -302,18 +215,56 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-20 | 2026-10-02 | Head of Humanitarian Mine Action | Danish Refugee Council | Ukraine | 5-9 years | https://reliefweb.int/node/4232336 |
 | 2026-10-20 | 2026-07-27 | Tupande Area Coordinator - Lower Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4223182 |
 | 2026-10-20 | 2026-07-27 | Ethiopia Government Relations and Program Support Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4223176 |
+| 2026-10-21 | 2026-10-12 | Online Training Facilitator for African Mental Health CSOs and OPDs: Project Management, Resource Mobilization, Financial Management, and M&E | CBM Global Disability Inclusion | Kenya | 3-4 years | https://reliefweb.int/node/4233683 |
+| 2026-10-21 | 2026-10-12 | Arabic Editor and Language Specialist (National / Regional) | Chemonics | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233592 |
+| 2026-10-21 | 2026-10-09 | Digital Prevention and Capacity Development Consultants | Human Relief Foundation | Iraq, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4233333 |
+| 2026-10-21 | 2026-10-09 | Project Director (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4233241 |
+| 2026-10-21 | 2026-10-09 | Deputy Finance Director (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4233243 |
+| 2026-10-21 | 2026-10-08 | 23451 Regional Programme Coordinator (Route-Based Approach (RteBA) (P) | International Organization for Migration | Thailand | 5-9 years | https://reliefweb.int/node/4233134 |
+| 2026-10-21 | 2026-10-08 | 22954 Programme Officer (Immigration and Border Governance (IBG) (P) | International Organization for Migration | Ghana | 5-9 years | https://reliefweb.int/node/4233119 |
+| 2026-10-21 | 2026-10-07 | Head of Operational Finance & Support Services | DanChurchAid | Central African Republic | 5-9 years | https://reliefweb.int/node/4233039 |
+| 2026-10-21 | 2026-10-07 | Safety and Security Assistant - Idleb Saraqeb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233001 |
+| 2026-10-21 | 2026-10-06 | SYSTEMS INTEGRATION COORDINATOR | Mission for Essential Drugs and Supplies | Kenya | 5-9 years | https://reliefweb.int/node/4232852 |
+| 2026-10-21 | 2026-10-06 | Internship Program 2026 - 2027 | Jouri Research & Consultancy | — | 0-2 years | https://reliefweb.int/node/4232809 |
 | 2026-10-21 | 2026-10-02 | Communications Officer | Global Interagency Security Forum | United Kingdom of Great Britain and Northern Ireland | 0-2 years | https://reliefweb.int/node/4232411 |
 | 2026-10-21 | 2026-09-23 | SBC Programme Manager | Magenta FZE | — | 5-9 years | https://reliefweb.int/node/4231070 |
 | 2026-10-21 | 2026-09-23 | Medical Director | MSF - Holland | Netherlands | 10+ years | https://reliefweb.int/node/4231124 |
 | 2026-10-21 | 2026-07-23 | Tupande Health Safety and Environment Supervisor (Fixed-Term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4222797 |
+| 2026-10-21 | 2026-06-10 | WASH Project Manager – Syria / Yemen | Triangle Génération Humanitaire | Syrian Arab Republic, Yemen | 3-4 years | https://reliefweb.int/node/4215651 |
+| 2026-10-22 | 2026-10-12 | Coordination Unit (Forum) Coordinator Sudan Kauda | Norwegian Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233640 |
+| 2026-10-22 | 2026-10-12 | Warehouse Keeper | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233455 |
+| 2026-10-22 | 2026-10-12 | Receptionist | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233454 |
+| 2026-10-22 | 2026-10-12 | M&E Assistant | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233452 |
+| 2026-10-22 | 2026-10-12 | P&O Physiotherapist | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233446 |
+| 2026-10-22 | 2026-10-09 | 23437 Regional Programme Coordinator (Route-Based Approach (RteBA)) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233419 |
+| 2026-10-22 | 2026-10-09 | 23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233418 |
+| 2026-10-22 | 2026-10-09 | 23396 Regional Programme Specialist (Regional Responses to Climate Displacement (RE2CLID)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233417 |
+| 2026-10-22 | 2026-10-09 | 23395 Senior Programme Manager (Immigration and Border Governance (IBG)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233392 |
+| 2026-10-22 | 2026-10-09 | 23266 Regional Migration Health Nurse Coordinator (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233391 |
+| 2026-10-22 | 2026-10-09 | 23423 Regional Thematic Specialist (Climate Action and Mobility) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233389 |
+| 2026-10-22 | 2026-10-09 | 22519 Programme Manager (Community Stabilisation) (P) | International Organization for Migration | Somalia | 5-9 years | https://reliefweb.int/node/4233386 |
+| 2026-10-22 | 2026-10-09 | Account Manager | CTG (Committed To Good) | Afghanistan | 3-4 years | https://reliefweb.int/node/4233328 |
+| 2026-10-22 | 2026-10-08 | Head of Support Services - Lebanon (Readvertised) | Danish Refugee Council | Lebanon | 5-9 years | https://reliefweb.int/node/4233177 |
+| 2026-10-22 | 2026-10-07 | Reporting, Compliance & Budgeting Coordinator | Oxfam | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233020 |
+| 2026-10-22 | 2026-10-07 | Monitoring, Evaluation, Accountability and Learning (MEAL) Officer -Iraq | Tearfund | Iraq | 3-4 years | https://reliefweb.int/node/4232501 |
 | 2026-10-22 | 2026-10-01 | Strategic Planning and Projects Management Coordinator – (f/m/x) – MSF Belgium | Médecins Sans Frontières | Belgium | 3-4 years | https://reliefweb.int/node/4232196 |
 | 2026-10-22 | 2026-10-01 | Senior Research Monitoring Evaluation and Learning Officer | Siren Associates | Jordan | 5-9 years | https://reliefweb.int/node/4232135 |
 | 2026-10-22 | 2026-09-25 | Head of Programmes, South Sudan | Polish Humanitarian Action - Polska Akcja Humanitarna | South Sudan | 5-9 years | https://reliefweb.int/node/4231412 |
 | 2026-10-22 | 2026-09-16 | SOUTH SUDAN - Head of MEAL Department (M/F) - Juba | Solidarités International | South Sudan | 3-4 years | https://reliefweb.int/node/4230158 |
+| 2026-10-23 | 2026-10-12 | Regional Programme Coordinator (MENA) | Danish Red Cross | Jordan | 5-9 years | https://reliefweb.int/node/4233615 |
+| 2026-10-23 | 2026-10-12 | Health Data Audits consultant Nigeria (Abuja - FCT and Nasarawa) | Tiko | Nigeria | 5-9 years | https://reliefweb.int/node/4233601 |
+| 2026-10-23 | 2026-10-09 | Request for Proposals: Employer of Record Services | Amna | — | 5-9 years | https://reliefweb.int/node/4233365 |
+| 2026-10-23 | 2026-10-09 | Knowledge and Learning Manager | DT Global | Philippines | 5-9 years | https://reliefweb.int/node/4233300 |
+| 2026-10-23 | 2026-10-09 | MERL Officer | DT Global | Philippines | 3-4 years | https://reliefweb.int/node/4233299 |
+| 2026-10-23 | 2026-10-09 | Director of Monitoring, Evaluation, Research and Learning, VisionFund International | World Vision | — | 10+ years | https://reliefweb.int/node/4233295 |
+| 2026-10-23 | 2026-10-08 | Consultancy service to conduct a programme baseline assessment | IsraAID | Kenya, Uganda | 10+ years | https://reliefweb.int/node/4233180 |
+| 2026-10-23 | 2026-10-08 | Protection Officer | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233150 |
+| 2026-10-23 | 2026-10-06 | Comparative Learning Study on Cash Consortium Models in East Africa and the Horn | Concern Worldwide | — | 5-9 years | https://reliefweb.int/node/4232662 |
+| 2026-10-23 | 2026-10-06 | Comparative Learning Study on Cash Consortium Models in East Africa and the Horn | Concern Worldwide | — | 5-9 years | https://reliefweb.int/node/4232631 |
 | 2026-10-23 | 2026-10-05 | Consultant.e Expert.e en Architecture et IA Générative – Projet HAVA | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4232551 |
+| 2026-10-23 | 2026-10-05 | Lead, Client Impact, BRAC International Microfinance (BI MF) | BRAC | Kenya | 10+ years | https://reliefweb.int/node/4232594 |
 | 2026-10-23 | 2026-10-02 | Human Resources Payroll Associate (G.5) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232385 |
 | 2026-10-23 | 2026-10-01 | Director of Program Development, Quality & Learning (PQL) - Port au Prince, Haiti | Prosper Global | Haiti | 5-9 years | https://reliefweb.int/node/4232047 |
-| 2026-10-23 | 2026-09-28 | Program Officer | SPOON Foundation | United States of America | 5-9 years | https://reliefweb.int/node/4231556 |
 | 2026-10-23 | 2026-09-28 | Project Manager - West Africa | Shelter for Life | Guinea-Bissau | 5-9 years | https://reliefweb.int/node/4231509 |
 | 2026-10-23 | 2026-09-25 | Operatrice Inserimento Lavorativo | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4231430 |
 | 2026-10-23 | 2026-09-23 | Program Lead, Ebola Response | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4231139 |
@@ -323,6 +274,8 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-23 | 2026-07-30 | Strategic Partnerships Manager / Senior Associate (Fixed-Term) | One Acre Fund | Kenya, Rwanda, United States of America | 5-9 years | https://reliefweb.int/node/4223708 |
 | 2026-10-24 | 2026-09-25 | Consultancy – Food Insecurity and armed groups | Geneva Call | — | 10+ years | https://reliefweb.int/node/4231413 |
 | 2026-10-24 | 2026-05-18 | Field coordinator Feina (F/M) - Sudan | Médecins du Monde | Sudan | 3-4 years | https://reliefweb.int/node/4212479 |
+| 2026-10-25 | 2026-10-09 | Director of Programme Development | Mary's Meals | — | 5-9 years | https://reliefweb.int/node/4233349 |
+| 2026-10-25 | 2026-10-09 | Med Cell Support - Based in Nairobi (W/M) | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4233321 |
 | 2026-10-25 | 2026-10-05 | WHH Representative Canada | Welthungerhilfe | Canada | 5-9 years | https://reliefweb.int/node/4232613 |
 | 2026-10-25 | 2026-10-02 | Project Officer, Slovenia (Europe and Asia) | Geneva Centre for Security Sector Governance | Slovenia | 3-4 years | https://reliefweb.int/node/4232381 |
 | 2026-10-25 | 2026-10-02 | Programme Manager, Slovenia (Europe and Asia) | Geneva Centre for Security Sector Governance | Slovenia | 5-9 years | https://reliefweb.int/node/4232380 |
@@ -332,8 +285,17 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-25 | 2026-09-28 | Laboratory Manager - DRC - French proficiency mandatory | Médecins Sans Frontières | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4231623 |
 | 2026-10-25 | 2026-09-28 | Project Pharmacy Manager - DRC - French proficiency mandatory | Médecins Sans Frontières | Democratic Republic of the Congo | 0-2 years | https://reliefweb.int/node/4231614 |
 | 2026-10-25 | 2026-09-21 | Communications and Digital Engagement Officer | Pacific Community | Fiji | 5-9 years | https://reliefweb.int/node/4230777 |
+| 2026-10-25 | 2026-09-08 | Erasmus Internship - Partnership Development Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4228941 |
+| 2026-10-26 | 2026-10-12 | Partner-Centred Design Consultant | Blue Ventures | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 5-9 years | https://reliefweb.int/node/4233694 |
+| 2026-10-26 | 2026-10-12 | Middle East Head of Operations | Welthungerhilfe | Jordan | 5-9 years | https://reliefweb.int/node/4233654 |
+| 2026-10-26 | 2026-10-12 | International Consultant CC-2026-23 | International Organization for Migration | Armenia | 10+ years | https://reliefweb.int/node/4233664 |
+| 2026-10-26 | 2026-10-12 | Communications and Media Officer - Syria Aleppo or Idleb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233595 |
+| 2026-10-26 | 2026-10-12 | Nutrition and Health Coordinator | Acción contra el Hambre España | Jordan | 5-9 years | https://reliefweb.int/node/4233585 |
+| 2026-10-26 | 2026-10-12 | Partnership Officer- Syria Aleppo, Damascus or Idleb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233582 |
+| 2026-10-26 | 2026-10-12 | Procurement Coordinator Re-advertised - Syria Aleppo & Idleb | GOAL | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233576 |
+| 2026-10-26 | 2026-10-12 | Project officer, UZHF (Sohag) Re-advertisement | Plan International | Egypt | 3-4 years | https://reliefweb.int/node/4233557 |
+| 2026-10-26 | 2026-10-11 | Finance Manager | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233466 |
 | 2026-10-26 | 2026-10-06 | FINANCE HR COORDINATOR - SYRIA | Un Ponte per | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232806 |
-| 2026-10-26 | 2026-09-28 | Programme Officer - Sustainable Agriculture and Rural Development | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231629 |
 | 2026-10-26 | 2026-09-28 | Programme Manager - Community Health | SEED Madagascar | Madagascar | 3-4 years | https://reliefweb.int/node/4231628 |
 | 2026-10-26 | 2026-09-28 | Senior Conservation Research Assistant (Madagascar) | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231627 |
 | 2026-10-26 | 2026-09-28 | Programme Officer - Financial Resilience | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231626 |
@@ -344,14 +306,33 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-26 | 2026-09-08 | WATER, HYGIENE AND SANITATION MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières en Suisse | Costa Rica, Haiti, Honduras, Mexico, Nicaragua, Panama | 0-2 years | https://reliefweb.int/node/4228790 |
 | 2026-10-26 | 2026-09-08 | PEDIATRICIAN FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières | Costa Rica, El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama | 3-4 years | https://reliefweb.int/node/4228791 |
 | 2026-10-26 | 2026-09-08 | FINANCE AND HUMAN RESOURCES MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières | Brazil, Costa Rica, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Uruguay | 0-2 years | https://reliefweb.int/node/4228787 |
+| 2026-10-27 | 2026-10-12 | Senior Finance Associate (Fiji Nationals Only) | International Organization for Migration | Fiji | 3-4 years | https://reliefweb.int/node/4233710 |
+| 2026-10-27 | 2026-10-12 | Human Resources Associate (Fiji Nationals Only) | International Organization for Migration | Fiji | 3-4 years | https://reliefweb.int/node/4233709 |
+| 2026-10-27 | 2026-10-06 | Chargé.e de Communication Audiovisuelle - Dakar - H/F | ALIMA | Senegal | 0-2 years | https://reliefweb.int/node/4232908 |
 | 2026-10-27 | 2026-10-05 | FIELD COMMUNICATION OFFICER | EMERGENCY | Iraq | 3-4 years | https://reliefweb.int/node/4232614 |
 | 2026-10-27 | 2026-08-07 | Nigeria State Expansion Specialists | One Acre Fund | Nigeria | 3-4 years | https://reliefweb.int/node/4224820 |
 | 2026-10-27 | 2026-08-05 | Ethiopia Government Relations and Program Support Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4224453 |
 | 2026-10-27 | 2026-07-30 | Malawi Trees Execution Coordinator (Fixed-Term) | One Acre Fund | Malawi | 3-4 years | https://reliefweb.int/node/4223722 |
 | 2026-10-27 | 2026-07-28 | Coordinateur médical voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223228 |
+| 2026-10-28 | 2026-10-09 | Development of E-Learning Module Content — Tdh Migration and Displacement programme | Terre des hommes | Switzerland | 5-9 years | https://reliefweb.int/node/4233194 |
+| 2026-10-28 | 2026-10-07 | Regional HR Officer-Eurasia and North Africa | Tearfund | Jordan | 3-4 years | https://reliefweb.int/node/4232972 |
 | 2026-10-28 | 2026-10-02 | Call for Projects | Expertise France | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232263 |
 | 2026-10-28 | 2026-07-28 | Coordinateur général voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223409 |
+| 2026-10-29 | 2026-10-09 | Finance Manager | Norwegian Church Aid | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233347 |
+| 2026-10-29 | 2026-10-07 | Consultancy for the Development of a Facilitation Guide and Facilitation of Trainings for Beach Management Unit (BMU) Members in Kwale County | European Committee for Agricultural Training | Kenya | 3-4 years | https://reliefweb.int/node/4232963 |
 | 2026-10-29 | 2026-08-05 | DRC Senior MEL Program Associate (Fixed-Term) | One Acre Fund | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4224456 |
+| 2026-10-30 | 2026-10-12 | Project Manager / Assessment Researcher | Development Gateway | Iraq | 5-9 years | https://reliefweb.int/node/4233407 |
+| 2026-10-30 | 2026-10-09 | Safeguarding and Ethical Leadership Coordinator for MSF Boards and Associations | Médecins Sans Frontières | — | 5-9 years | https://reliefweb.int/node/4233363 |
+| 2026-10-30 | 2026-10-09 | Multi Country Representative for MENA, based in Amman | IMPACT Initiatives | Jordan | 5-9 years | https://reliefweb.int/node/4233361 |
+| 2026-10-30 | 2026-10-09 | Senior Research Officer - MSNA - Global, Based in Amman | IMPACT Initiatives | Jordan | 3-4 years | https://reliefweb.int/node/4233358 |
+| 2026-10-30 | 2026-10-09 | Senior Research Officer – MSNA – Global, based in Dakar | IMPACT Initiatives | Senegal | 3-4 years | https://reliefweb.int/node/4233357 |
+| 2026-10-30 | 2026-10-09 | Consultancy for the Design and Development of a Digital Caritas Internationalis Management Standards (CIMS) Platform | Caritas | Holy See | 5-9 years | https://reliefweb.int/node/4233165 |
+| 2026-10-30 | 2026-10-08 | Technical Advisor I, Cash & Markets | Catholic Relief Services | El Salvador, Guatemala, Honduras, Mexico, United States of America | 5-9 years | https://reliefweb.int/node/4233082 |
+| 2026-10-30 | 2026-10-08 | Project Director, Chad | Nutrition International | Chad | 10+ years | https://reliefweb.int/node/4233062 |
+| 2026-10-30 | 2026-10-07 | Digital Development and Connectivity Program Specialist | US Department of State | Colombia | 10+ years | https://reliefweb.int/node/4232928 |
+| 2026-10-30 | 2026-10-06 | Senior Compensation & Benefits Advisor, EU and Strategic Initiatives- UK or NL | Prosper Global | Netherlands, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232800 |
+| 2026-10-30 | 2026-10-06 | Director of Program Development, Quality & Learning (PQL) - Port au Prince, Haiti | Prosper Global | Haiti | 5-9 years | https://reliefweb.int/node/4232726 |
+| 2026-10-30 | 2026-10-06 | Humanitarian Response Coordinator | ShelterBox | Philippines | 5-9 years | https://reliefweb.int/node/4232673 |
 | 2026-10-30 | 2026-10-01 | Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking | Christian Blind Mission | Cameroon, Democratic Republic of the Congo, Ethiopia, Germany, Kenya, Niger, Nigeria, South Sudan, Togo, Uganda, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, United States of America, Zambia | 5-9 years | https://reliefweb.int/node/4232189 |
 | 2026-10-30 | 2026-09-30 | Employment Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232053 |
 | 2026-10-30 | 2026-09-30 | Education Content Manager | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4231972 |
@@ -365,24 +346,23 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-30 | 2026-09-16 | Director, Technical - GUARD | International Medical Corps | — | 10+ years | https://reliefweb.int/node/4230159 |
 | 2026-10-30 | 2026-08-13 | Regional Health Advisor - Latin America and the Caribbean (Consultant) | CORUS International | Colombia, Ecuador, El Salvador, Guatemala, Honduras | 10+ years | https://reliefweb.int/node/4225583 |
 | 2026-10-30 | 2026-08-03 | Regional Advisor for Humanitarian Access & Risk for Africa (F/M) - Nigeria or Ethiopia | Médecins du Monde | Nigeria | 3-4 years | https://reliefweb.int/node/4223885 |
-| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal Emergency Response (Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
+| 2026-10-30 | 2026-07-20 | Coordinator, MHPSS Emergency Response Team | International Medical Corps | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4222157 |
+| 2026-10-31 | 2026-10-12 | Area Coordinator (national) | Agency for Technical Cooperation and Development | Ukraine | 3-4 years | https://reliefweb.int/node/4233560 |
+| 2026-10-31 | 2026-10-08 | Country Representative | Habitat for Humanity | Jordan | 5-9 years | https://reliefweb.int/node/4233122 |
+| 2026-10-31 | 2026-10-07 | Emergency Pharmacy Coordinator | Médecins Sans Frontières en Suisse | — | 3-4 years | https://reliefweb.int/node/4233090 |
+| 2026-10-31 | 2026-10-06 | Nurse Mentor | Mercy Ships | Sierra Leone | 3-4 years | https://reliefweb.int/node/4232697 |
+| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal (Local Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
 | 2026-10-31 | 2026-10-01 | Data Specialist for Syria, based in Damascus | IMPACT Initiatives | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232206 |
 | 2026-10-31 | 2026-09-30 | Research Manager for Afghanistan, based in Kabul | IMPACT Initiatives | Afghanistan | 5-9 years | https://reliefweb.int/node/4232008 |
 | 2026-10-31 | 2026-09-30 | Accounting & Audit Intern for HQ, based in Geneva | IMPACT Initiatives | Switzerland | 0-2 years | https://reliefweb.int/node/4231981 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Gender Equality, Disability Inclusion & Social Inclusion (GEDSI) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231719 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Protection, GBV & Child Protection (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231717 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Health, Mental Health & Psychosocial Support (MHPSS) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231716 |
 | 2026-10-31 | 2026-09-28 | (Senior) Research Officer for Nigeria, Based in Dakar | IMPACT Initiatives | Nigeria | 3-4 years | https://reliefweb.int/node/4231701 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Digitalization, Digital Transformation & Technology for Development (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231545 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Social Protection, Cash & Economic Inclusion (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231544 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts Labour Market, Employment, TVET & Economic Development (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231540 |
 | 2026-10-31 | 2026-09-28 | International Education Expert | STOOS CONSULTING | — | 5-9 years | https://reliefweb.int/node/4231512 |
 | 2026-10-31 | 2026-09-28 | Recruitment for Multiple (Senior) Analyst Positions Across Multiple Regions & Countries: Acute Needs Analysis, Multiple Locations | IMPACT Initiatives | Afghanistan, Benin, Burkina Faso, Central African Republic, Chad, Côte d'Ivoire, Democratic Republic of the Congo, Ghana, Haiti, Jordan, Kenya, Lebanon, Mali, Mozambique, Myanmar, Nigeria, occupied Palestinian territory, Sudan, Syrian Arab Republic, Togo, Uganda | 3-4 years | https://reliefweb.int/node/4231644 |
 | 2026-10-31 | 2026-09-25 | Grants and Reporting Coordinantor | People in Need | Ukraine | 3-4 years | https://reliefweb.int/node/4231416 |
 | 2026-10-31 | 2026-09-24 | Project Quality, Reporting and Implementation Advisor | People in Need | Angola | 3-4 years | https://reliefweb.int/node/4231275 |
+| 2026-10-31 | 2026-09-23 | Head of Corporate & Major Donors | War Child Holland | Netherlands | 10+ years | https://reliefweb.int/node/4231108 |
 | 2026-10-31 | 2026-09-21 | Senior Research Officer for Mozambique, Based in Pemba | IMPACT Initiatives | Mozambique | 3-4 years | https://reliefweb.int/node/4230702 |
 | 2026-10-31 | 2026-09-21 | Senior Research Manager for South Sudan, Based in Juba | IMPACT Initiatives | South Sudan | 5-9 years | https://reliefweb.int/node/4230701 |
-| 2026-10-31 | 2026-09-17 | Project Manager – HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230161 |
 | 2026-10-31 | 2026-09-17 | Academic Expert (SME) – Procurement KPI Framework | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230163 |
 | 2026-10-31 | 2026-09-16 | Loan Officer (Jarablus, Aleppo) | Near East Foundation | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230063 |
 | 2026-10-31 | 2026-09-16 | Loan Officer (Aleppo) | Near East Foundation | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230062 |
@@ -401,6 +381,7 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-09-01 | Senior Research and Evaluation Lead in Palestine | ARFADA for Development and Consultations | occupied Palestinian territory | 10+ years | https://reliefweb.int/node/4227955 |
 | 2026-10-31 | 2026-08-31 | Early Education Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4226311 |
 | 2026-10-31 | 2026-08-31 | Middle School Alliance Site Coordinator | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4226082 |
+| 2026-10-31 | 2026-08-31 | Business Development and Grants Manager | People in Need | Moldova | 3-4 years | https://reliefweb.int/node/4227796 |
 | 2026-10-31 | 2026-08-28 | Senior Program Manager, Safety, Health & Wellness | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4227600 |
 | 2026-10-31 | 2026-08-28 | Deputy Director, Supply Chain Business Development and Program Delivery | International Rescue Committee | Kenya, Lebanon, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4227427 |
 | 2026-10-31 | 2026-08-28 | Finance/Ops Lead - FCDO-funded Technical Assistance | International Rescue Committee | Pakistan | 10+ years | https://reliefweb.int/node/4227587 |
@@ -423,6 +404,9 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-06-16 | Economic Programming and Private Business Partnerships Advisor | People in Need | Ethiopia | 3-4 years | https://reliefweb.int/node/4216437 |
 | 2026-10-31 | 2026-06-08 | Compliance and Systems Director for Ethiopia | People in Need | Ethiopia | 5-9 years | https://reliefweb.int/node/4215186 |
 | 2026-10-31 | 2024-06-18 | Grants and Reporting Officer (Only for national staff) | Polish Humanitarian Action - Polska Akcja Humanitarna | Kyiv, Ukraine | 0-2 years | https://reliefweb.int/node/4070774 |
+| 2026-11-01 | 2026-10-12 | Head of Advocacy and Evidencing | HelpAge International | Ethiopia, India, Italy, Jordan, Kenya, Nepal, Pakistan, Spain, Thailand, Türkiye, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, Zimbabwe | 10+ years | https://reliefweb.int/node/4233658 |
+| 2026-11-01 | 2026-10-12 | Malawi Case Investigation Senior Coordinator | One Acre Fund | Malawi | 3-4 years | https://reliefweb.int/node/4233552 |
+| 2026-11-01 | 2026-10-07 | COORDINATOR - UNITED NATIONS UNIVERSITY (UNU) HUB [FIXED-TERM PROJECT POSITION] | International Centre for Integrated Mountain Development | Nepal | 5-9 years | https://reliefweb.int/node/4233007 |
 | 2026-11-01 | 2026-10-05 | Economic Recovery Technical Coordinator | People in Need | Ukraine | 5-9 years | https://reliefweb.int/node/4232554 |
 | 2026-11-01 | 2026-10-01 | Program Officer, Instructional Design | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4232157 |
 | 2026-11-01 | 2026-09-30 | Software Developer | Pacific Community | New Caledonia (France) | 5-9 years | https://reliefweb.int/node/4231938 |
@@ -434,6 +418,7 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-01 | 2026-06-29 | Youth Programme Coordinator | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218301 |
 | 2026-11-01 | 2026-06-29 | Community Engagement & Accountability Officer | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218299 |
 | 2026-11-01 | 2026-06-29 | Fundraising Officer | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218297 |
+| 2026-11-02 | 2026-10-09 | Senior Research Monitoring Evaluation and Learning Officer | Siren Associates | Lebanon | 5-9 years | https://reliefweb.int/node/4233340 |
 | 2026-11-02 | 2026-10-02 | FIELD COMMUNICATION OFFICER | EMERGENCY | Iraq | 3-4 years | https://reliefweb.int/node/4232387 |
 | 2026-11-02 | 2026-10-01 | Midterm Evaluation of a USDA McGovern-Dole International Food for Education and Child Nutrition Project in Cameroon | Nascent Solutions | Cameroon | 10+ years | https://reliefweb.int/node/4232190 |
 | 2026-11-02 | 2026-09-14 | Nursing activity manager to work in international humanitarian missions | Médecins Sans Frontières | Costa Rica, Dominican Republic, El Salvador, Haiti, Honduras, Mexico, Nicaragua, Panama | 3-4 years | https://reliefweb.int/node/4229549 |
@@ -441,15 +426,22 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-03 | 2026-09-04 | Nigeria Junior Finance Analyst | One Acre Fund | Nigeria | 3-4 years | https://reliefweb.int/node/4228472 |
 | 2026-11-03 | 2026-08-05 | Tupande Area Coordinator - Nyanza | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4224471 |
 | 2026-11-03 | 2026-08-05 | Product Operations Lead (Fixed-Term) | One Acre Fund | Kenya, Rwanda | 5-9 years | https://reliefweb.int/node/4224464 |
-| 2026-11-03 | 2026-08-03 | Medical coordinator (F/M) - Syria | Médecins du Monde | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4224013 |
+| 2026-11-06 | 2026-10-07 | Senior Director, Housing Disaster Resilience and Recovery | Habitat for Humanity | United States of America | 5-9 years | https://reliefweb.int/node/4232921 |
+| 2026-11-06 | 2026-10-06 | Community Conservation Coordinator – Gabon | Wildlife Conservation Society | Gabon | 5-9 years | https://reliefweb.int/node/4232796 |
+| 2026-11-06 | 2026-10-06 | Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232831 |
+| 2026-11-07 | 2026-10-08 | Country Finance Manager Lebanon | WeWorld | Lebanon | 5-9 years | https://reliefweb.int/node/4233144 |
 | 2026-11-07 | 2026-08-19 | Uganda Finance Associate | One Acre Fund | Kenya, Rwanda, Uganda | 3-4 years | https://reliefweb.int/node/4226239 |
 | 2026-11-07 | 2026-08-15 | Rwanda National Performance Trial Specialist (Fixed-Term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4225757 |
+| 2026-11-09 | 2026-10-12 | Site and Research Manager ; Mondika (Nouabalé-Ndoki National Park), Republic of congo. | Wildlife Conservation Society | Congo | 5-9 years | https://reliefweb.int/node/4233599 |
+| 2026-11-09 | 2026-10-12 | Site and Research Manager ; Goualougo (Nouabalé-Ndoki ,Republic of Congo) | Wildlife Conservation Society | Congo | 5-9 years | https://reliefweb.int/node/4233593 |
 | 2026-11-09 | 2026-08-25 | Ethiopia Procurement Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4226970 |
 | 2026-11-11 | 2026-09-17 | AFGHANISTAN - Deputy Country Director -Program (M/F) -KABUL | Solidarités International | Afghanistan | 0-2 years | https://reliefweb.int/node/4230327 |
 | 2026-11-12 | 2026-08-19 | Tupande Biochar Compliance Specialist (Fixed-Term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4226212 |
 | 2026-11-13 | 2026-08-15 | Uganda Regional Innovations Supervisor (Fixed-Term) | One Acre Fund | Uganda | 0-2 years | https://reliefweb.int/node/4225758 |
+| 2026-11-15 | 2026-10-12 | Medical Supply Planner | Mercy Ships | United States of America | 3-4 years | https://reliefweb.int/node/4233665 |
 | 2026-11-15 | 2026-10-05 | Country Director Palestine – based in Amman | Première Urgence Internationale | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4232577 |
 | 2026-11-15 | 2026-10-05 | Senior Case Management Officer | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232564 |
+| 2026-11-16 | 2026-10-12 | Agricultural Value Chains - PROJECT MANAGER (Cashew & Coffee) - MOZAMBIQUE | Nitidae | Mozambique | 5-9 years | https://reliefweb.int/node/4233657 |
 | 2026-11-16 | 2026-10-05 | Fertilizer Procurement Strategy Associate | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4232622 |
 | 2026-11-17 | 2026-08-19 | Global MEL Manager/Senior Manager | One Acre Fund | Democratic Republic of the Congo, Nigeria, Uganda | 3-4 years | https://reliefweb.int/node/4226218 |
 | 2026-11-19 | 2026-05-04 | Operations Assistant | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4210495 |
@@ -460,6 +452,13 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-24 | 2026-08-25 | Nigeria Tech Specialist (Fixed-term) | One Acre Fund | Nigeria | 5-9 years | https://reliefweb.int/node/4226984 |
 | 2026-11-28 | 2026-09-02 | Analyst, Office of the CFO (Fixed-Term) | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4228168 |
 | 2026-11-28 | 2026-09-02 | Zambia MEL Lead (Fixed-Term) | One Acre Fund | Zambia | 5-9 years | https://reliefweb.int/node/4228162 |
+| 2026-11-29 | 2026-10-12 | Erasmus Internship - Community Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4233370 |
+| 2026-11-30 | 2026-10-12 | Technical Advisor II – Climate Change & Landscape Restoration | Catholic Relief Services | Uganda | 5-9 years | https://reliefweb.int/node/4233575 |
+| 2026-11-30 | 2026-10-09 | Senior Economic Empowerment Manager | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4233367 |
+| 2026-11-30 | 2026-10-09 | Survivor of Torture Caseworker (Safety & Wellness Caseworker) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4233359 |
+| 2026-11-30 | 2026-10-07 | Casework Supervisor | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4233011 |
+| 2026-11-30 | 2026-10-06 | Director, Finance | International Centre for Diarrhoeal Disease Research | Bangladesh | 10+ years | https://reliefweb.int/node/4232753 |
+| 2026-11-30 | 2026-10-06 | WASH&Shelter/NFI _only national staff | Polish Humanitarian Action - Polska Akcja Humanitarna | Ukraine | 5-9 years | https://reliefweb.int/node/4232817 |
 | 2026-11-30 | 2026-10-05 | Deputy Country Director for Programme | People in Need | Ukraine | 5-9 years | https://reliefweb.int/node/4232658 |
 | 2026-11-30 | 2026-10-01 | Software Developer Analyst | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4231910 |
 | 2026-11-30 | 2026-10-01 | Country Director - JRS Thailand | Jesuit Refugee Service | Thailand | 5-9 years | https://reliefweb.int/node/4232130 |
@@ -501,7 +500,10 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-03 | 2026-09-04 | Conservation Agriculture (Fixed-Term) | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4228460 |
 | 2026-12-05 | 2026-10-05 | Caseworker Assistant | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232724 |
 | 2026-12-05 | 2026-09-09 | Ethiopia Senior Tree Expansion Research Officer (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4229100 |
+| 2026-12-06 | 2026-10-06 | PIR Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232821 |
 | 2026-12-06 | 2026-09-04 | Credit and Portfolio Analyst | Habitat for Humanity | United States of America | 0-2 years | https://reliefweb.int/node/4224504 |
+| 2026-12-07 | 2026-10-08 | Monitoring, Evaluation and Learning Specialist | Habitat for Humanity | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4233044 |
+| 2026-12-08 | 2026-10-09 | AI Platform Engineer | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4233231 |
 | 2026-12-08 | 2026-09-09 | Head of support services (F/M) - Lebanon | Médecins du Monde | Lebanon | 3-4 years | https://reliefweb.int/node/4229182 |
 | 2026-12-08 | 2026-09-08 | Tupande Zone Supervisor - Mtaragon | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4228831 |
 | 2026-12-09 | 2026-09-10 | Medical coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4229281 |
@@ -514,6 +516,8 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-11 | 2026-09-11 | Burundi Recruitment Intern | One Acre Fund | Burundi | 0-2 years | https://reliefweb.int/node/4229496 |
 | 2026-12-15 | 2026-06-19 | General Director | Intiwawa en acción | Peru | 3-4 years | https://reliefweb.int/node/4216913 |
 | 2026-12-15 | 2025-10-17 | Tunisia M&E and Research Field Manager | STOOS CONSULTING | Tunisia | 3-4 years | https://reliefweb.int/node/4181604 |
+| 2026-12-15 | 2025-01-02 | Social Science Researcher - Volunteer | International Women's Initiative | — | 3-4 years | https://reliefweb.int/node/4122264 |
+| 2026-12-16 | 2026-10-06 | Malawi Farmer Behavior & Extension Design Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4232833 |
 | 2026-12-16 | 2026-09-22 | Tupande Export Logistics Senior Specialist | One Acre Fund | Kenya | 5-9 years | https://reliefweb.int/node/4230931 |
 | 2026-12-16 | 2026-09-21 | Malawi Extension Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4230643 |
 | 2026-12-16 | 2026-09-17 | Malawi Extension Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4230256 |
@@ -526,7 +530,6 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-23 | 2026-09-29 | Uganda Regional Data Coordinator (Fixed-term) | One Acre Fund | Uganda | 3-4 years | https://reliefweb.int/node/4231868 |
 | 2026-12-23 | 2026-09-29 | Zambia Client Experience Senior Coordinator (Fixed-term) | One Acre Fund | Zambia | 3-4 years | https://reliefweb.int/node/4231864 |
 | 2026-12-23 | 2026-09-22 | Rwanda Driver (Fixed-Term) | One Acre Fund | Rwanda | 0-2 years | https://reliefweb.int/node/4230895 |
-| 2026-12-29 | 2026-09-30 | Chargé de financements (F/H) - République Démocratique de Congo | Médecins du Monde | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232023 |
 | 2026-12-29 | 2026-09-29 | Medical Coordinator (F/M) - Afghanistan | Médecins du Monde | Afghanistan | 3-4 years | https://reliefweb.int/node/4231785 |
 | 2026-12-30 | 2026-10-05 | Zambia Field Operations & Performance Specialist (Fixed-Term) | One Acre Fund | Zambia | 3-4 years | https://reliefweb.int/node/4232583 |
 | 2026-12-30 | 2025-11-19 | Project Manager | Partners in Health | Liberia | 5-9 years | https://reliefweb.int/node/4187353 |
@@ -548,8 +551,10 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-31 | 2026-05-21 | Senior Urban Planner & Designer (Roster - Multiple Locations) | CTG (Committed To Good) | — | 5-9 years | https://reliefweb.int/node/4213043 |
 | 2026-12-31 | 2026-04-16 | Field Enumerator | CTG (Committed To Good) | Ukraine | 3-4 years | https://reliefweb.int/node/4207780 |
 | 2026-12-31 | 2025-12-20 | Appel général a candidatures - Intégration au pool d’experts en logistique humanitaire et en solutions digitales | Deve Consult | — | 5-9 years | https://reliefweb.int/node/4191509 |
+| 2026-12-31 | 2025-10-31 | ADMINISTRATIVE COORDINATOR PAKISTAN M/F | Secours Islamique France | Islamabad, Pakistan | 5-9 years | https://reliefweb.int/node/4184163 |
 | 2026-12-31 | 2025-01-09 | National Intern (full- or part-time) | Peace Brigades International | Kathmandu, Nepal | 0-2 years | https://reliefweb.int/node/4123686 |
 | 2026-12-31 | 2022-09-13 | Female Early Childhood Volunteer Athens, Greece | Glocal Roots | Athens, Greece | 0-2 years | https://reliefweb.int/node/3885633 |
+| 2027-01-03 | 2026-10-12 | Rwanda Audit Compliance Specialist (Fixed-term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4233634 |
 | 2027-01-03 | 2026-10-05 | Rwanda Master Data and Integration Specialist (Fixed-term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4232585 |
 | 2027-01-17 | 2026-01-29 | Cash and Market Systems Specialist Mozambique Pemba | Norwegian Refugee Council | Mozambique | 5-9 years | https://reliefweb.int/node/4196274 |
 | 2027-02-28 | 2026-09-16 | AV Driver (HH) | CTG (Committed To Good) | Ukraine | 3-4 years | https://reliefweb.int/node/4230044 |
@@ -565,113 +570,98 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2027-08-09 | 2026-08-03 | Grants and Compliance Coordinator (Syria - Damascus ) | MedGlobal | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4223937 |
 | 2027-09-07 | 2026-08-04 | Migration and Redevelopment of the MSFEA Association Membership Portal | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4224117 |
 | 2027-10-18 | 2025-10-01 | Energy Auditor: Industrial Energy Efficiency | Tetra Tech | Kyiv, Ukraine | 5-9 years | https://reliefweb.int/node/4178463 |
+| 2027-10-31 | 2026-10-07 | Pediatrician | Médecins Sans Frontières | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232989 |
 | 2028-08-31 | 2026-07-09 | Fundraising Manager | Syrian American Medical Society Foundation | United States of America | 5-9 years | https://reliefweb.int/node/4220591 |
 | 2029-05-10 | 2024-04-30 | National Consultant-Project Coordinator-UNFPA South Sudan | United Nations Population Fund | — | 5-9 years | https://reliefweb.int/node/4058799 |
 
-## Term set `displacement` — "displacement OR refugee OR asylum" — totalCount 170
+## Term set `displacement` — "displacement OR refugee OR asylum" — totalCount 168
 
 | Closing | Created | Title | Organisation | Location | Experience | URL |
 |---|---|---|---|---|---|---|
-| 2026-10-06 | 2026-09-29 | Psychosocial Support Expert - Consultancy | Media in Cooperation and Transition | — | 5-9 years | https://reliefweb.int/node/4231697 |
-| 2026-10-06 | 2026-09-28 | Protection Assistant - Child Protection | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231662 |
-| 2026-10-06 | 2026-09-24 | Call for a Project Manager – Lesvos | Yoga and Sports with Refugees | Greece | 0-2 years | https://reliefweb.int/node/4231266 |
-| 2026-10-06 | 2026-09-23 | MEAL Officer, OCHA Project- National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230938 |
-| 2026-10-06 | 2026-09-23 | Project Officer, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230936 |
-| 2026-10-06 | 2026-09-23 | Project Manager, WASH (OCHA Project)- National position | ZOA | Uganda | 5-9 years | https://reliefweb.int/node/4230935 |
-| 2026-10-06 | 2026-09-23 | Project Coordinator, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230934 |
-| 2026-10-06 | 2026-09-23 | Global Supply Chain Localisation Advisor | Danish Refugee Council | Denmark | 5-9 years | https://reliefweb.int/node/4231107 |
-| 2026-10-06 | 2026-09-22 | Country Director, South Sudan | Norwegian Refugee Council | South Sudan | 10+ years | https://reliefweb.int/node/4230923 |
-| 2026-10-06 | 2026-09-22 | Regional Head of Operational Support | Norwegian Refugee Council | Kenya | 10+ years | https://reliefweb.int/node/4230917 |
-| 2026-10-06 | 2026-09-21 | Project Manager | Human Rights Legal Project | Vathy, Samos, Greece | 3-4 years | https://reliefweb.int/node/4230689 |
-| 2026-10-07 | 2026-09-30 | Electoral Inclusion and Accessibility Consultant | UN Development Programme | Lebanon | 5-9 years | https://reliefweb.int/node/4231947 |
-| 2026-10-07 | 2026-09-30 | Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4231987 |
-| 2026-10-07 | 2026-09-28 | Protection Assistant - Child Protection - Case Management | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231660 |
-| 2026-10-07 | 2026-09-23 | ICLA Project Manager South Central Syria | Norwegian Refugee Council | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4231039 |
-| 2026-10-07 | 2026-09-16 | NGO Forum Partnerships & Localization Adviser Syria | Norwegian Refugee Council | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4230052 |
-| 2026-10-07 | 2026-09-07 | Syria : Economic Opportunities Technical Coordinator – Damascus | Agency for Technical Cooperation and Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4228694 |
-| 2026-10-08 | 2026-09-28 | Endline and Final Evaluation Assessment for GAC funded project | Oxfam | Jordan | 5-9 years | https://reliefweb.int/node/4231567 |
-| 2026-10-08 | 2026-09-17 | Country Director - Yemen, Sana'a | Danish Refugee Council | Yemen | 5-9 years | https://reliefweb.int/node/4230376 |
-| 2026-10-08 | 2026-09-09 | Education Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4229037 |
-| 2026-10-08 | 2026-09-08 | ERT Supply Chain Coordinator | International Rescue Committee | — | 3-4 years | https://reliefweb.int/node/4228985 |
-| 2026-10-09 | 2026-09-25 | Logistics Manager | Norwegian Refugee Council | Libya | 3-4 years | https://reliefweb.int/node/4231431 |
-| 2026-10-09 | 2026-09-25 | CALL FOR EXPRESSION OF INTEREST(EOI) Selection of Refugee-Led Organizations (RLOs) to Support Community-Based Project Implementation | Norwegian Refugee Council | Kenya | 3-4 years | https://reliefweb.int/node/4231417 |
-| 2026-10-10 | 2026-10-01 | Programme Manager - UK Remote/Hybrid - Spanish/Portuguese Speaker | MENTOR Initiative | — | 0-2 years | https://reliefweb.int/node/4232236 |
-| 2026-10-10 | 2026-09-29 | Oficial MEAL - Caracas (Personal Nacional) | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4231914 |
-| 2026-10-10 | 2026-09-28 | Remote and unpaid internship, researcher-Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231546 |
-| 2026-10-10 | 2026-09-28 | Remote, unpaid Internship (Capacity Development Intern), Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231548 |
-| 2026-10-10 | 2026-09-10 | Program Development and Award Advisor, Asia | International Rescue Committee | Pakistan, Thailand | 5-9 years | https://reliefweb.int/node/4229367 |
-| 2026-10-10 | 2026-08-10 | Sudan - WASH Program Manager (M/F) - Tawila (North Darfur) | Solidarités International | Sudan | 3-4 years | https://reliefweb.int/node/4225026 |
-| 2026-10-11 | 2026-10-05 | People & Culture Officer-Raqqa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232566 |
-| 2026-10-11 | 2026-10-02 | National HLP Legal Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232398 |
-| 2026-10-11 | 2026-10-02 | National HLP and Protection Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232394 |
-| 2026-10-11 | 2026-09-24 | AI Product Manager - CLEAR Project | Norwegian Refugee Council | Belgium, Germany, Kenya, Nigeria, Norway, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231278 |
-| 2026-10-11 | 2026-09-21 | Head of Support Services - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4230752 |
-| 2026-10-11 | 2026-09-14 | Country Director - Egypt | Terre des hommes | Egypt | 5-9 years | https://reliefweb.int/node/4229585 |
-| 2026-10-12 | 2026-09-29 | Feasibility study of Integrated Transformation for Food and Nutrition Security, Resilient Livelihoods, and one Health systems in ASALs project | Malteser International | Kenya | 5-9 years | https://reliefweb.int/node/4231775 |
-| 2026-10-12 | 2026-09-28 | Head of Programme Nigeria Abuja | Norwegian Refugee Council | Nigeria | 5-9 years | https://reliefweb.int/node/4231708 |
-| 2026-10-12 | 2026-09-28 | Explosive Ordnance Risk Education (EORE) Team Member | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231667 |
-| 2026-10-12 | 2026-09-25 | Economic Recovery Coordinator | Danish Refugee Council | Uganda | 5-9 years | https://reliefweb.int/node/4231453 |
-| 2026-10-12 | 2026-09-21 | Program Director for Europe | Habitat for Humanity | Slovakia | 5-9 years | https://reliefweb.int/node/4230700 |
 | 2026-10-13 | 2026-10-02 | Consortium Grants Officer - Caracas (National Staff) | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4232448 |
 | 2026-10-13 | 2026-10-01 | Comprehensive Mapping & Private Sector Analysis (CM&PSA) Consultant | International Organization for Migration | Qatar | 5-9 years | https://reliefweb.int/node/4232169 |
 | 2026-10-13 | 2026-09-29 | Humanitarian Disarmament and Peacebuilding Coordinator | Danish Refugee Council | Libya | 5-9 years | https://reliefweb.int/node/4231826 |
+| 2026-10-14 | 2026-10-08 | Head of Mission - Iran | INTERSOS | Iran (Islamic Republic of) | 5-9 years | https://reliefweb.int/node/4233182 |
+| 2026-10-14 | 2026-10-07 | Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4233054 |
 | 2026-10-14 | 2026-10-05 | Asistente de Protección Santa Bárbara del Zulia - Personal Nacional | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232693 |
 | 2026-10-14 | 2026-10-01 | MMC Consultancy on Sudan Displacement Data Analysis and Report Writing | Danish Refugee Council | Kenya | 5-9 years | https://reliefweb.int/node/4232055 |
 | 2026-10-14 | 2026-09-30 | Request for Proposal - WEE Barriers in ECCD Jordan Workforce - RFP\JOR\2026\730 | World University Service of Canada | Jordan | 5-9 years | https://reliefweb.int/node/4232009 |
 | 2026-10-14 | 2026-09-30 | Finance Manager Nigeria Abuja | Norwegian Refugee Council | Nigeria | 5-9 years | https://reliefweb.int/node/4232040 |
 | 2026-10-14 | 2026-09-29 | Request for Proposal - Baseline Study & Assessment Consultancy - RFP\JOR\2026\729 | World University Service of Canada | Jordan | 10+ years | https://reliefweb.int/node/4231805 |
+| 2026-10-15 | 2026-10-09 | Consultancy Services for Environmental and Social Impact Assessment (ESIA/EIA), Engineering Surveys, Detailed Engineering Designs and Tender Support | Millennium Water Alliance | Kenya | 5-9 years | https://reliefweb.int/node/4233254 |
+| 2026-10-15 | 2026-10-08 | Consultancy for an Inclusive Multi-Sector Needs Assessment (MSNA) in DR CONGO | Christian Blind Mission | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4233142 |
+| 2026-10-15 | 2026-10-07 | A CONSULTANT TO CONDUCT SCREENING, ASSESSMENT AND INTERVENTION FOR INCLUSIVE WELLBEING FOR CHILDREN WITH SPECIAL EDUCATION NEEDS AND DISABILITIES . | Adventist Development and Relief Agency International | Somalia | 5-9 years | https://reliefweb.int/node/4233006 |
 | 2026-10-15 | 2026-10-05 | Consortium Coordinator Mozambique (f/m/d) | Johanniter-Unfall-Hilfe | Mozambique | 5-9 years | https://reliefweb.int/node/4232441 |
 | 2026-10-15 | 2026-10-02 | Award Management Team Senior Assistant, AMEE (Asia, Middle East, Europe) - UK or NL | Prosper Global | Netherlands, United Kingdom of Great Britain and Northern Ireland | 0-2 years | https://reliefweb.int/node/4232251 |
 | 2026-10-15 | 2026-09-30 | Programme Manager (South) | Nonviolent Peaceforce | Ukraine | 5-9 years | https://reliefweb.int/node/4231969 |
 | 2026-10-15 | 2026-09-17 | Research Officer | Consilient | Somalia | 0-2 years | https://reliefweb.int/node/4230269 |
 | 2026-10-15 | 2026-08-13 | General Program Volunteers | Lifting Hands International | Greece | 0-2 years | https://reliefweb.int/node/4225413 |
+| 2026-10-16 | 2026-10-09 | Programme Development and Quality Coordinator | Danish Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233331 |
+| 2026-10-16 | 2026-10-07 | Oficial de Recuperación Económica - Medios de Vida (Caracas -Personal Nacional) - Republicado | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4233063 |
+| 2026-10-16 | 2026-10-07 | Regional Humanitarian Access and Safety Adviser (Colombia, Venezuela, Honduras nationals) | Norwegian Refugee Council | Colombia, Honduras, Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4233038 |
 | 2026-10-16 | 2026-10-05 | Project Coordinator | I Have Rights | Greece | 0-2 years | https://reliefweb.int/node/4232421 |
 | 2026-10-16 | 2026-09-25 | Expression of Interest: Board Member(s) for RET Americas | RET International | United States of America | 10+ years | https://reliefweb.int/node/4231313 |
 | 2026-10-16 | 2026-09-22 | Europe Programme Officer - Balkans | International Detention Coalition | Albania, Bosnia and Herzegovina, Greece, Montenegro, Serbia, the Republic of North Macedonia | 3-4 years | https://reliefweb.int/node/4230833 |
 | 2026-10-16 | 2026-07-17 | Human resources coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4221898 |
+| 2026-10-17 | 2026-10-06 | Consultancy to support development of NORCAP Expert Reporting System | Norwegian Capacity | — | 5-9 years | https://reliefweb.int/node/4232802 |
 | 2026-10-17 | 2026-10-05 | Türkiye Program Lead | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232477 |
 | 2026-10-17 | 2026-10-04 | Area Manager – Northwest Syria (NWS) | World Vision | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232514 |
 | 2026-10-17 | 2026-10-04 | Title: Regional Study on Gender Dynamics, Risks, and Decision-Making Related to Syrian Returns in Jordan, Lebanon, Türkiye, and Syria | ActionAid | Jordan | 3-4 years | https://reliefweb.int/node/4232498 |
 | 2026-10-17 | 2026-09-30 | Endline Evaluation of the Strategic Partnership Agreement II Programme and Syria & Lebanon Top Ups | ActionAid | Jordan | 5-9 years | https://reliefweb.int/node/4231653 |
 | 2026-10-17 | 2026-09-17 | Project Coordinator, Childcare Economy, PlayMatters | International Rescue Committee | Uganda | 5-9 years | https://reliefweb.int/node/4230301 |
+| 2026-10-17 | 2026-09-07 | ITB_COL _Llorente_Servicio de Alimentación (Restaurante)_20260907 | Danish Refugee Council | Colombia | 0-2 years | https://reliefweb.int/node/4228789 |
+| 2026-10-18 | 2026-10-08 | Expression of Interest: Annual Resilience Measurement - SomReP | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233197 |
+| 2026-10-18 | 2026-10-06 | ReDSS Kenya Policy Coordinator | Danish Refugee Council | Kenya | 5-9 years | https://reliefweb.int/node/4232906 |
+| 2026-10-18 | 2026-10-06 | Disaster Preparedness ECHO Project Coordinator - Libya | Norwegian Red Cross | Libya | 5-9 years | https://reliefweb.int/node/4232846 |
 | 2026-10-18 | 2026-10-06 | Project Assistant (DTM) | CTG (Committed To Good) | Nigeria | 3-4 years | https://reliefweb.int/node/4232801 |
 | 2026-10-18 | 2026-10-02 | Partnerships and Private Sector Engagement Manager Ethiopia | Norwegian Refugee Council | Ethiopia | 5-9 years | https://reliefweb.int/node/4232334 |
 | 2026-10-18 | 2026-09-22 | Senior Data Engineer (Maternity Cover) | Norwegian Refugee Council | Norway | 5-9 years | https://reliefweb.int/node/4230928 |
+| 2026-10-18 | 2026-09-01 | Disaster Preparedness Coordinator - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4227970 |
 | 2026-10-19 | 2026-10-06 | COUNTRY DIRECTOR – MYANMAR | Oxfam | Myanmar | 10+ years | https://reliefweb.int/node/4232764 |
 | 2026-10-19 | 2026-10-05 | Junior Project Assistant | International Organization for Migration | Belgium | 0-2 years | https://reliefweb.int/node/4232649 |
 | 2026-10-19 | 2026-09-22 | Senior Programme Manager, Academic Pillar (Refugee-Led Research Hub) | Refugee Studies Centre | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4230901 |
+| 2026-10-20 | 2026-10-12 | ERD Information Management Officer- Aleppo, first period in Raqaa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233567 |
 | 2026-10-20 | 2026-10-02 | Head of Support Services | International Network For Aid Relief and Assistance | — | 5-9 years | https://reliefweb.int/node/4232337 |
 | 2026-10-20 | 2026-10-02 | Head of Humanitarian Mine Action | Danish Refugee Council | Ukraine | 5-9 years | https://reliefweb.int/node/4232336 |
 | 2026-10-20 | 2026-09-25 | COL_RFP_NDS_&_BOL_Transporte_de_carga_20260923 | Danish Refugee Council | Colombia | 3-4 years | https://reliefweb.int/node/4231530 |
 | 2026-10-20 | 2026-09-23 | Country Director, Ethiopia | Right To Play | Ethiopia | 10+ years | https://reliefweb.int/node/4230929 |
+| 2026-10-21 | 2026-10-08 | 23451 Regional Programme Coordinator (Route-Based Approach (RteBA) (P) | International Organization for Migration | Thailand | 5-9 years | https://reliefweb.int/node/4233134 |
+| 2026-10-21 | 2026-10-08 | Communications, Advocacy and External Engagement Manager | World Vision | Central African Republic | 5-9 years | https://reliefweb.int/node/4233124 |
+| 2026-10-22 | 2026-10-12 | Coordination Unit (Forum) Coordinator Sudan Kauda | Norwegian Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233640 |
+| 2026-10-22 | 2026-10-09 | 23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233418 |
+| 2026-10-22 | 2026-10-09 | 23396 Regional Programme Specialist (Regional Responses to Climate Displacement (RE2CLID)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233417 |
+| 2026-10-22 | 2026-10-09 | 23423 Regional Thematic Specialist (Climate Action and Mobility) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233389 |
+| 2026-10-22 | 2026-10-08 | Education Project Manager Palestine West Bank | Norwegian Refugee Council | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4233255 |
+| 2026-10-22 | 2026-10-08 | Deputy Director of Finance, Ebola Response | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4233179 |
+| 2026-10-22 | 2026-10-08 | Head of Support Services - Lebanon (Readvertised) | Danish Refugee Council | Lebanon | 5-9 years | https://reliefweb.int/node/4233177 |
 | 2026-10-22 | 2026-09-16 | SOUTH SUDAN - Head of MEAL Department (M/F) - Juba | Solidarités International | South Sudan | 3-4 years | https://reliefweb.int/node/4230158 |
+| 2026-10-23 | 2026-10-12 | Program Manager I – Emergency Response | Catholic Relief Services | Uganda | 5-9 years | https://reliefweb.int/node/4233572 |
+| 2026-10-23 | 2026-10-09 | Request for Proposals: Employer of Record Services | Amna | — | 5-9 years | https://reliefweb.int/node/4233365 |
+| 2026-10-23 | 2026-10-08 | Wash and Shelter Specialist Cameroon | Norwegian Refugee Council | Cameroon | 5-9 years | https://reliefweb.int/node/4233252 |
+| 2026-10-23 | 2026-10-08 | Consultancy service to conduct a programme baseline assessment | IsraAID | Kenya, Uganda | 10+ years | https://reliefweb.int/node/4233180 |
+| 2026-10-23 | 2026-10-08 | Protection Officer | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233150 |
 | 2026-10-23 | 2026-10-05 | Consultant.e Expert.e en Architecture et IA Générative – Projet HAVA | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4232551 |
 | 2026-10-23 | 2026-09-23 | Program Lead, Ebola Response | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4231139 |
 | 2026-10-23 | 2026-09-23 | Housing Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4231128 |
+| 2026-10-23 | 2026-09-21 | Program Director for Europe | Habitat for Humanity | Slovakia | 5-9 years | https://reliefweb.int/node/4230700 |
 | 2026-10-24 | 2026-09-23 | Consultant Roster for Programme Quality, Learning and Strategy Support | Norwegian Refugee Council | Jordan | 3-4 years | https://reliefweb.int/node/4231036 |
 | 2026-10-24 | 2026-05-18 | Field coordinator Feina (F/M) - Sudan | Médecins du Monde | Sudan | 3-4 years | https://reliefweb.int/node/4212479 |
 | 2026-10-26 | 2026-10-05 | Request for Quotation for the Provision of Regional Coaching and L&D Services – Framework Agreement establishment | Norwegian Refugee Council | — | 5-9 years | https://reliefweb.int/node/4232611 |
 | 2026-10-26 | 2026-09-23 | Various Countries - Head of Programmes | COOPI - Cooperazione Internazionale | — | 3-4 years | https://reliefweb.int/node/4231148 |
 | 2026-10-26 | 2026-09-08 | WATER, HYGIENE AND SANITATION MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières en Suisse | Costa Rica, Haiti, Honduras, Mexico, Nicaragua, Panama | 0-2 years | https://reliefweb.int/node/4228790 |
+| 2026-10-28 | 2026-10-09 | Development of E-Learning Module Content — Tdh Migration and Displacement programme | Terre des hommes | Switzerland | 5-9 years | https://reliefweb.int/node/4233194 |
 | 2026-10-28 | 2026-09-29 | Head of Support Services Mozambique | WeWorld | Mozambique | 5-9 years | https://reliefweb.int/node/4231792 |
 | 2026-10-30 | 2026-10-01 | Deputy Director, Programs | International Rescue Committee | Central African Republic | 10+ years | https://reliefweb.int/node/4232177 |
 | 2026-10-30 | 2026-09-30 | Employment Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232053 |
 | 2026-10-30 | 2026-09-17 | ESC- Youth4All Project Assistant in Communications and Fundraising | Open Cultural Center | Spain | 0-2 years | https://reliefweb.int/node/4230133 |
 | 2026-10-31 | 2026-10-05 | Italian Teacher | International Rescue Committee | Italy | 0-2 years | https://reliefweb.int/node/4232609 |
-| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal Emergency Response (Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
+| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal (Local Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
 | 2026-10-31 | 2026-10-01 | Data Specialist for Syria, based in Damascus | IMPACT Initiatives | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232206 |
 | 2026-10-31 | 2026-09-30 | Research Manager for Afghanistan, based in Kabul | IMPACT Initiatives | Afghanistan | 5-9 years | https://reliefweb.int/node/4232008 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Gender Equality, Disability Inclusion & Social Inclusion (GEDSI) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231719 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Protection, GBV & Child Protection (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231717 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Health, Mental Health & Psychosocial Support (MHPSS) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231716 |
 | 2026-10-31 | 2026-09-28 | (Senior) Research Officer for Nigeria, Based in Dakar | IMPACT Initiatives | Nigeria | 3-4 years | https://reliefweb.int/node/4231701 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Education in Emergencies, Early Childhood Development & Youth Skills (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231551 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Peacebuilding, Social Cohesion & Conflict Analysis (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231541 |
 | 2026-10-31 | 2026-09-28 | International Education Expert | STOOS CONSULTING | — | 5-9 years | https://reliefweb.int/node/4231512 |
 | 2026-10-31 | 2026-09-21 | Senior Research Officer for Mozambique, Based in Pemba | IMPACT Initiatives | Mozambique | 3-4 years | https://reliefweb.int/node/4230702 |
 | 2026-10-31 | 2026-09-21 | Senior Research Manager for South Sudan, Based in Juba | IMPACT Initiatives | South Sudan | 5-9 years | https://reliefweb.int/node/4230701 |
-| 2026-10-31 | 2026-09-17 | Project Manager – HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230161 |
-| 2026-10-31 | 2026-09-17 | Community Manager (NGO) – HLGSC Procurement TWG / Global Procurement Forum | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230162 |
 | 2026-10-31 | 2026-09-17 | Academic Expert (SME) – Procurement KPI Framework | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230163 |
 | 2026-10-31 | 2026-09-11 | Palestine - Program Coordinator (M/F) - Jerusalem | Solidarités International | occupied Palestinian territory | 5-9 years | https://reliefweb.int/node/4229467 |
 | 2026-10-31 | 2026-09-10 | MOZAMBIQUE - DEPUTY COUNTRY DIRECTOR PROGRAM (M/F) - PEMBA | Solidarités International | Mozambique | 5-9 years | https://reliefweb.int/node/4229363 |
@@ -690,6 +680,8 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-08-17 | Economic Empowerment Project Lead | International Rescue Committee | Poland | 3-4 years | https://reliefweb.int/node/4225941 |
 | 2026-10-31 | 2026-08-13 | Associate Director, Advocacy Impact | International Rescue Committee | United Kingdom of Great Britain and Northern Ireland, United States of America | 5-9 years | https://reliefweb.int/node/4225573 |
 | 2026-10-31 | 2026-08-11 | Employment Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4225255 |
+| 2026-11-01 | 2026-10-12 | Head of Advocacy and Evidencing | HelpAge International | Ethiopia, India, Italy, Jordan, Kenya, Nepal, Pakistan, Spain, Thailand, Türkiye, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, Zimbabwe | 10+ years | https://reliefweb.int/node/4233658 |
+| 2026-11-01 | 2026-10-07 | Emergency Human Resources Coordinator | Médecins Sans Frontières en Suisse | Switzerland | 3-4 years | https://reliefweb.int/node/4233092 |
 | 2026-11-01 | 2026-10-02 | External Assurance Engagement on the Empowerment Guarantee Fund (EGF) managed by the Iraqi Company for Bank Guarantees (ICBG) | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232424 |
 | 2026-11-01 | 2026-10-01 | Program Officer, Instructional Design | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4232157 |
 | 2026-11-01 | 2026-08-31 | Ebola Response Director | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4227807 |
@@ -699,11 +691,21 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-01 | 2026-06-29 | Qualified English Teacher | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218300 |
 | 2026-11-01 | 2026-06-29 | Content Creator | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218298 |
 | 2026-11-01 | 2026-06-29 | Youth Programme Volunteer | Second Tree | Greece | 0-2 years | https://reliefweb.int/node/4218295 |
+| 2026-11-06 | 2026-10-08 | Psychiatrist or Clinical Psychologist - West Africa | Shelter for Life | Guinea-Bissau | 5-9 years | https://reliefweb.int/node/4233084 |
+| 2026-11-06 | 2026-10-08 | Medical Professional - West Africa | Shelter for Life | Guinea-Bissau | 5-9 years | https://reliefweb.int/node/4233081 |
+| 2026-11-06 | 2026-10-06 | Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232831 |
+| 2026-11-06 | 2026-10-06 | Director - Head of International Programs | Polish Center for International Aid | Poland | 10+ years | https://reliefweb.int/node/4232779 |
+| 2026-11-07 | 2026-10-08 | Country Finance Manager Lebanon | WeWorld | Lebanon | 5-9 years | https://reliefweb.int/node/4233144 |
 | 2026-11-10 | 2026-09-29 | PALESTINE - HEAD OF LOGISTIC DEPARTMENT - JERUSALEM | Solidarités International | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4231861 |
 | 2026-11-12 | 2026-09-29 | PALESTINE - HEAD OF FINANCE & HR DEPARTMENT - JERUSALEM | Solidarités International | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4231857 |
 | 2026-11-15 | 2026-10-05 | Country Director Palestine – based in Amman | Première Urgence Internationale | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4232577 |
 | 2026-11-15 | 2026-10-05 | Senior Case Management Officer | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232564 |
 | 2026-11-15 | 2026-09-10 | ESC Short-term Volunteering Greece (December-January) | Open Cultural Center | Greece | 0-2 years | https://reliefweb.int/node/4229258 |
+| 2026-11-21 | 2026-10-12 | Internship – Women's Empowerment, Self-Defense and Martial Arts in Athens (Women only) | EmpowerVan | Greece | 0-2 years | https://reliefweb.int/node/4233602 |
+| 2026-11-30 | 2026-10-09 | Senior Economic Empowerment Manager | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4233367 |
+| 2026-11-30 | 2026-10-09 | Survivor of Torture Caseworker (Safety & Wellness Caseworker) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4233359 |
+| 2026-11-30 | 2026-10-07 | ETHIOPIA - FIELD COORDINATOR (M/F) - TIGRAY | Solidarités International | Ethiopia | 3-4 years | https://reliefweb.int/node/4233075 |
+| 2026-11-30 | 2026-10-07 | Casework Supervisor | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4233011 |
 | 2026-11-30 | 2026-10-01 | Country Director - JRS Thailand | Jesuit Refugee Service | Thailand | 5-9 years | https://reliefweb.int/node/4232130 |
 | 2026-11-30 | 2026-09-30 | Health Coordinator | International Rescue Committee | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232069 |
 | 2026-11-30 | 2026-09-29 | Job Counselor | International Rescue Committee | Greece | 0-2 years | https://reliefweb.int/node/4231912 |
@@ -729,7 +731,9 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-02 | 2026-10-02 | Humanitarian Access, Safety and Security Advisor | International Rescue Committee | Kenya, Switzerland, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232413 |
 | 2026-12-02 | 2026-10-02 | Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232368 |
 | 2026-12-05 | 2026-10-05 | Caseworker Assistant | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232724 |
+| 2026-12-06 | 2026-10-06 | PIR Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232821 |
 | 2026-12-18 | 2026-05-12 | Internship at USCRI Mexico 2026 II | Habesha Project | Mexico | 0-2 years | https://reliefweb.int/node/4211513 |
+| 2026-12-19 | 2026-10-12 | Field Volunteer – Women's Empowerment & Self-Defense in Athens | EmpowerVan | Greece | 0-2 years | https://reliefweb.int/node/4233604 |
 | 2026-12-31 | 2026-10-02 | Training Officer, Cultural Orientation | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4232444 |
 | 2026-12-31 | 2026-10-01 | Digital Community Liaison (Dari and Pashto) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232241 |
 | 2026-12-31 | 2025-10-22 | Community Center and Free Shop General Volunteer | Glocal Roots | Kos, Greece | 0-2 years | https://reliefweb.int/node/4182211 |
@@ -743,202 +747,13 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2027-06-08 | 2026-06-25 | 18470 Protection Officer (Gender-Based Violence (GBV) and Child Protection (CP)) (P) | International Organization for Migration | Libya | 3-4 years | https://reliefweb.int/node/4217829 |
 | 2027-07-01 | 2026-07-01 | Water and Sanitation Manager | MSF - Holland | — | 3-4 years | https://reliefweb.int/node/4218770 |
 
-## Term set `data-me` — "data analyst OR statistician OR M&E" — totalCount 698
+## Term set `data-me` — "data analyst OR statistician OR M&E" — totalCount 732
 
 | Closing | Created | Title | Organisation | Location | Experience | URL |
 |---|---|---|---|---|---|---|
-| 2026-10-06 | 2026-09-30 | International Consultant - Technical supervision of afloat repair, mechanical refurbishment, system restoration, testing and handover of Tugboat Danu | UN Development Programme | Yemen | 5-9 years | https://reliefweb.int/node/4232020 |
-| 2026-10-06 | 2026-09-29 | Psychosocial Support Expert - Consultancy | Media in Cooperation and Transition | — | 5-9 years | https://reliefweb.int/node/4231697 |
-| 2026-10-06 | 2026-09-28 | Intern - Information Management | UN Office for the Coordination of Humanitarian Affairs | Gaziantep, Türkiye | 0-2 years | https://reliefweb.int/node/4231692 |
-| 2026-10-06 | 2026-09-28 | Protection Assistant - Child Protection | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231662 |
-| 2026-10-06 | 2026-09-25 | Operations Manager ATLAS logistique - RDC | Humanity & Inclusion | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4231481 |
-| 2026-10-06 | 2026-09-23 | NTS/EORE Team Member / Aleppo, Raqqa & Hasakah | DanChurchAid | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4230940 |
-| 2026-10-06 | 2026-09-23 | MEAL Officer, OCHA Project- National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230938 |
-| 2026-10-06 | 2026-09-23 | NTS/EORE Team Leader / Aleppo, Raqqa & Hasakah | DanChurchAid | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4230937 |
-| 2026-10-06 | 2026-09-23 | Project Officer, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230936 |
-| 2026-10-06 | 2026-09-23 | Project Manager, WASH (OCHA Project)- National position | ZOA | Uganda | 5-9 years | https://reliefweb.int/node/4230935 |
-| 2026-10-06 | 2026-09-23 | Project Coordinator, WASH (OCHA Project) - National Position | ZOA | Uganda | 3-4 years | https://reliefweb.int/node/4230934 |
-| 2026-10-06 | 2026-09-23 | Global Supply Chain Localisation Advisor | Danish Refugee Council | Denmark | 5-9 years | https://reliefweb.int/node/4231107 |
-| 2026-10-06 | 2026-09-22 | Country Director, South Sudan | Norwegian Refugee Council | South Sudan | 10+ years | https://reliefweb.int/node/4230923 |
-| 2026-10-06 | 2026-09-22 | Regional Head of Operational Support | Norwegian Refugee Council | Kenya | 10+ years | https://reliefweb.int/node/4230917 |
-| 2026-10-06 | 2026-09-22 | Senior Finance Officer | REACH Initiative | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4230916 |
-| 2026-10-06 | 2026-09-22 | Finance Manager - EA | Médecins Sans Frontières | Kenya | 5-9 years | https://reliefweb.int/node/4230898 |
-| 2026-10-06 | 2026-09-22 | Manager, Programme Design and Development | MSI Reproductive Choices | Burkina Faso, Madagascar, Mali, Niger, Senegal, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4230893 |
-| 2026-10-06 | 2026-09-22 | Formation des volontaires NDRT (National Disaster Response Team) / techniciens de la Croix-Rouge Malagasy sur les techniques constructives en terre | Croix-Rouge luxembourgeoise | Madagascar | 5-9 years | https://reliefweb.int/node/4230856 |
-| 2026-10-06 | 2026-09-18 | Consultancy to Develop a Western Indian Ocean Regional 30x30 Strategy and Regenerative Seascapes Toolkit | International Union for Conservation of Nature | — | 5-9 years | https://reliefweb.int/node/4230338 |
-| 2026-10-06 | 2026-09-18 | Graphic Design and Visualisation of the IslandPlas Plastic Waste Profiles | International Union for Conservation of Nature | — | 5-9 years | https://reliefweb.int/node/4230337 |
-| 2026-10-06 | 2026-09-18 | INCLUSION COMMUNICATIONS OFFICER | Médecins Sans Frontières | Côte d'Ivoire | 3-4 years | https://reliefweb.int/node/4230428 |
-| 2026-10-06 | 2026-09-18 | HEAD OF PEOPLE SAFEGUARDING AND INCLUSION | Médecins Sans Frontières | Côte d'Ivoire | 5-9 years | https://reliefweb.int/node/4230425 |
-| 2026-10-06 | 2026-09-17 | Head of Partnerships | Access to Nutrition initiative | Kenya, Netherlands, United Republic of Tanzania | 10+ years | https://reliefweb.int/node/4230248 |
-| 2026-10-06 | 2026-09-16 | Physiothérapeute – Santé de la Femme F/H | Médecins Sans Frontières | France | 3-4 years | https://reliefweb.int/node/4230149 |
-| 2026-10-06 | 2026-09-13 | Senior Investigator, P4, JFO, JO#283859 | UN Relief and Works Agency for Palestine Refugees in the Near East | Jordan | 5-9 years | https://reliefweb.int/node/4229579 |
-| 2026-10-06 | 2026-09-09 | Provision of Catering/Canteen Services – Wasaa Complex | International Union for Conservation of Nature | Kenya | 5-9 years | https://reliefweb.int/node/4229032 |
-| 2026-10-06 | 2026-08-30 | Request for Proposal (RFP) – Organizational Spend Analysis Consultancy | Netherlands Red Cross | Netherlands | 3-4 years | https://reliefweb.int/node/4227645 |
-| 2026-10-06 | 2026-08-11 | Project Manager-Local Position (Re-advertised) | Expertise France | Lebanon | 5-9 years | https://reliefweb.int/node/4225132 |
-| 2026-10-07 | 2026-10-01 | RFQ/328/2026/GAH/ROAS Event management for the third Meeting of the Joint Technical Committee of the PWP – Kurdistan Region of Iraq Duhok | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232282 |
-| 2026-10-07 | 2026-10-01 | Monitoring, Evaluation, Accountability and Learning (MEAL) Officer(Mogadishu) | Center for Civilians in Conflict | Somalia | 5-9 years | https://reliefweb.int/node/4232163 |
-| 2026-10-07 | 2026-10-01 | Persona Coordinadora de Monitoreo y Recaudación de Fondos | Peace Brigades International | Colombia | 0-2 years | https://reliefweb.int/node/4232075 |
-| 2026-10-07 | 2026-09-30 | FACE-TO-FACE FUNDRAISER | Médecins Sans Frontières | Kenya | 0-2 years | https://reliefweb.int/node/4232035 |
-| 2026-10-07 | 2026-09-30 | Electoral Inclusion and Accessibility Consultant | UN Development Programme | Lebanon | 5-9 years | https://reliefweb.int/node/4231947 |
-| 2026-10-07 | 2026-09-30 | Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4231987 |
-| 2026-10-07 | 2026-09-29 | Consultancy Opportunity – Water Sector Specialists / Somalia | Accord Worldwide | Somalia | 5-9 years | https://reliefweb.int/node/4231726 |
-| 2026-10-07 | 2026-09-29 | Team Leader – Evaluation on Humanitarian Assistance, Recovery and Protection in Ukraine Ukraine / Kyiv / Project-based consultancy | Voluntas | Ukraine | 10+ years | https://reliefweb.int/node/4231700 |
-| 2026-10-07 | 2026-09-28 | Chef de projet de services logistiques ATLAS – Bunia / RDC | Humanity & Inclusion | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4231691 |
-| 2026-10-07 | 2026-09-28 | Chef de projet de services logistiques ATLAS – Uvira / RDC | Humanity & Inclusion | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4231683 |
-| 2026-10-07 | 2026-09-28 | Protection Assistant - Child Protection - Case Management | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231660 |
-| 2026-10-07 | 2026-09-28 | Account Administrator | CTG (Committed To Good) | Democratic Republic of the Congo | 0-2 years | https://reliefweb.int/node/4231659 |
-| 2026-10-07 | 2026-09-28 | Chief Audit Executive (CAE) / Head of Internal Audit | Asian Disaster Preparedness Center | Thailand | 0-2 years | https://reliefweb.int/node/4231635 |
-| 2026-10-07 | 2026-09-25 | Market Access Lead | Mission for Essential Drugs and Supplies | Kenya | 0-2 years | https://reliefweb.int/node/4231401 |
-| 2026-10-07 | 2026-09-25 | APS Program Analyst | US Department of State | United States of America | 5-9 years | https://reliefweb.int/node/4231348 |
-| 2026-10-07 | 2026-09-25 | Finance, Compliance and Grants Coordinator - GORS | Global Emergency Group | — | 5-9 years | https://reliefweb.int/node/4231331 |
-| 2026-10-07 | 2026-09-24 | Finance Manager - Kenya/ Somalia / Ethiopia (Kenyan Nationals only) | Johanniter-Unfall-Hilfe | Kenya | 5-9 years | https://reliefweb.int/node/4231143 |
-| 2026-10-07 | 2026-09-24 | Manager - Health Supply Chain Transformation (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4231151 |
-| 2026-10-07 | 2026-09-23 | ICT & Database Intern | Urgent Action Fund-Africa | Kenya | 0-2 years | https://reliefweb.int/node/4231079 |
-| 2026-10-07 | 2026-09-23 | Area Manager | Sign of Hope | South Sudan | 5-9 years | https://reliefweb.int/node/4231059 |
-| 2026-10-07 | 2026-09-23 | HR Associate (Staff Development and Learning) | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4231055 |
-| 2026-10-07 | 2026-09-23 | ICLA Project Manager South Central Syria | Norwegian Refugee Council | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4231039 |
-| 2026-10-07 | 2026-09-23 | Head of Communications and Engagement | Save the Children | Thailand | 10+ years | https://reliefweb.int/node/4231028 |
-| 2026-10-07 | 2026-09-22 | Director, Medical | International Medical Corps | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4230973 |
-| 2026-10-07 | 2026-09-17 | Fundraising Manager | Association for the Prevention of Torture | Switzerland | 5-9 years | https://reliefweb.int/node/4230173 |
-| 2026-10-07 | 2026-09-17 | CONSULTANT FOR THE TM ADAPTATION TO THE ENVIRONMENT IN DRC | Tearfund | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4230293 |
-| 2026-10-07 | 2026-09-16 | NGO Forum Partnerships & Localization Adviser Syria | Norwegian Refugee Council | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4230052 |
-| 2026-10-07 | 2026-09-09 | MEAL Expert for French-speaking countries | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4229103 |
-| 2026-10-07 | 2026-09-07 | Field Coordinator | Action contre la Faim France | Afghanistan | 3-4 years | https://reliefweb.int/node/4228784 |
-| 2026-10-07 | 2026-09-07 | Tchad : Volontaire Sécurité Pays – N’Djaména | Agency for Technical Cooperation and Development | Chad | 0-2 years | https://reliefweb.int/node/4228763 |
-| 2026-10-07 | 2026-09-07 | République Démocratique du Congo : Volontaire Transparence & Conformité Pays – Kinshasa | Agency for Technical Cooperation and Development | Democratic Republic of the Congo | 0-2 years | https://reliefweb.int/node/4228736 |
-| 2026-10-07 | 2026-09-07 | Tchad : Volontaire Finance Pays - N'djaména | Agency for Technical Cooperation and Development | Chad | 0-2 years | https://reliefweb.int/node/4228690 |
-| 2026-10-07 | 2026-08-27 | Country Finance Manager Ukraine | We World | Ukraine | 0-2 years | https://reliefweb.int/node/4227286 |
-| 2026-10-08 | 2026-10-05 | Team Leader | Violet Organization for Relief and Development | Türkiye | 3-4 years | https://reliefweb.int/node/4232508 |
-| 2026-10-08 | 2026-10-04 | Community Liaison Manager, Ukraine | Mines Advisory Group | Ukraine | 5-9 years | https://reliefweb.int/node/4232480 |
-| 2026-10-08 | 2026-10-01 | Develop skills training and certification programme on Employment Intensive Approaches at Cultural Heritage Sector in Mosul and Basra, ILO Iraq | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232283 |
-| 2026-10-08 | 2026-09-29 | Subawards Compliance Finance Officer, Puerto Rico or Colombia | Prosper Global | Colombia, Puerto Rico (The United States of America) | 3-4 years | https://reliefweb.int/node/4231732 |
-| 2026-10-08 | 2026-09-29 | Compliance Coordinator (Temporary) | Relief International | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231681 |
-| 2026-10-08 | 2026-09-29 | Governance and Legal Operations Manager | Relief International | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231680 |
-| 2026-10-08 | 2026-09-28 | Endline and Final Evaluation Assessment for GAC funded project | Oxfam | Jordan | 5-9 years | https://reliefweb.int/node/4231567 |
-| 2026-10-08 | 2026-09-28 | PROVISION OF CLEANING INTERNAL, EXTERNAL FACILITIES AND TEA STEWARD SERVICE | Heifer International | Kenya | 3-4 years | https://reliefweb.int/node/4231539 |
-| 2026-10-08 | 2026-09-26 | BID NOTICE - Raqqa | International Rescue Committee | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4231550 |
-| 2026-10-08 | 2026-09-25 | Safeguarding Specialist | Médecins Sans Frontières | Kenya | 5-9 years | https://reliefweb.int/node/4231489 |
-| 2026-10-08 | 2026-09-24 | Labour Mobility Communications and Creative Content Specialist (Consultant A) | International Organization for Migration | — | 0-2 years | https://reliefweb.int/node/4231349 |
-| 2026-10-08 | 2026-09-17 | Referral for Migrants and Mobile Populations Consultant | International Organization for Migration | Philippines | 10+ years | https://reliefweb.int/node/4230234 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (MHPSS) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229067 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (Health) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229065 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (WASH/Shelter) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229062 |
-| 2026-10-08 | 2026-09-09 | Pooling: Field Officer (MPCA) (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229063 |
-| 2026-10-08 | 2026-09-09 | Pooling: MEAL Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229061 |
-| 2026-10-08 | 2026-09-09 | Pooling: Base Logistics Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229060 |
-| 2026-10-08 | 2026-09-09 | Pooling: WASH/Shelter Engineer (Filipinno Nationals Only) | Acción contra el Hambre España | Philippines | 0-2 years | https://reliefweb.int/node/4229058 |
-| 2026-10-08 | 2026-09-09 | Pooling: Project Officer (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 3-4 years | https://reliefweb.int/node/4229057 |
-| 2026-10-08 | 2026-09-09 | Pooling: Head of Project (Filipino Nationals Only) | Acción contra el Hambre España | Philippines | 3-4 years | https://reliefweb.int/node/4229056 |
-| 2026-10-08 | 2026-09-09 | Education Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4229037 |
-| 2026-10-08 | 2026-09-09 | COORDINATEUR.RICE DE LA GESTION DES CAS - PAW | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4228993 |
-| 2026-10-08 | 2026-09-08 | ERT Supply Chain Coordinator | International Rescue Committee | — | 3-4 years | https://reliefweb.int/node/4228985 |
-| 2026-10-08 | 2026-08-10 | PALESTINE - FINANCE & HUMAN RESOURCES MANAGER (M/F) - GAZA | Solidarités International | occupied Palestinian territory | 5-9 years | https://reliefweb.int/node/4225029 |
-| 2026-10-08 | 2026-07-08 | Directeur Santé et Plaidoyer (F/H) - Saint-Denis | Médecins du Monde | France | 10+ years | https://reliefweb.int/node/4220489 |
-| 2026-10-09 | 2026-10-05 | Final Evaluation of the South Africa Strategic Plan 2022–2026 | Good Shepherd International Foundation | South Africa | 5-9 years | https://reliefweb.int/node/4232433 |
-| 2026-10-09 | 2026-10-05 | Country Representative - IGNITE (PERU) | Catalyste+ | Peru | 5-9 years | https://reliefweb.int/node/4232416 |
-| 2026-10-09 | 2026-10-04 | Financial Analyst (Ukraine Programme Support) | Mines Advisory Group | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232484 |
-| 2026-10-09 | 2026-10-02 | MEAL Officer | ICS | United Republic of Tanzania | 5-9 years | https://reliefweb.int/node/4232384 |
-| 2026-10-09 | 2026-10-02 | M&E Officer ( Re-Advertisment) | International Network For Aid Relief and Assistance | Egypt | 3-4 years | https://reliefweb.int/node/4232335 |
-| 2026-10-09 | 2026-10-02 | International Development & Humanitarian Assistance Internship | Effaced Inc | — | 0-2 years | https://reliefweb.int/node/4232279 |
-| 2026-10-09 | 2026-10-02 | Technical Advisor II, REACH Malaria | Catholic Relief Services | — | 5-9 years | https://reliefweb.int/node/4232249 |
-| 2026-10-09 | 2026-09-30 | Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231975 |
-| 2026-10-09 | 2026-09-29 | Humanitarian Access and Security Manager – Bunia / RDC | Humanity & Inclusion | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4231865 |
-| 2026-10-09 | 2026-09-28 | International Consultant/Consultancy Firm - CLIMATE RESILIENCE AND ADAPTATION & SOCIAL PROTECTION | Save the Children | Mozambique | 5-9 years | https://reliefweb.int/node/4231693 |
-| 2026-10-09 | 2026-09-25 | Humanitarian AI Research Fellowship | NetHope | — | 3-4 years | https://reliefweb.int/node/4231529 |
-| 2026-10-09 | 2026-09-25 | RFP- Donor Landscape Assessment in Kenya | Pathfinder International | Kenya | 0-2 years | https://reliefweb.int/node/4231480 |
-| 2026-10-09 | 2026-09-25 | Logistics Manager | Norwegian Refugee Council | Libya | 3-4 years | https://reliefweb.int/node/4231431 |
-| 2026-10-09 | 2026-09-24 | Monitoring and Evaluation (M&E) Officer - East (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231259 |
-| 2026-10-09 | 2026-09-24 | Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) | Nonviolent Peaceforce | Ukraine | 3-4 years | https://reliefweb.int/node/4231255 |
-| 2026-10-09 | 2026-09-24 | HR Assistant | Oxfam GB | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4231228 |
-| 2026-10-09 | 2026-09-24 | Program Director (Contractor Representative) | DT Global | Indonesia | 10+ years | https://reliefweb.int/node/4231203 |
-| 2026-10-09 | 2026-09-23 | TERMS OF REFERENCE FOR CUSTOMIZATION AND IMPLEMENTATION OF MICROSOFT DYNAMICS 365 BUSINESS CENTRAL | GROOTS Kenya | Kenya | 5-9 years | https://reliefweb.int/node/4231085 |
-| 2026-10-09 | 2026-09-23 | REQUEST FOR KRA LEDGER RECONCILAITION SERVICES TO CHILDFUND KENYA | ChildFund International | Kenya | 5-9 years | https://reliefweb.int/node/4231046 |
-| 2026-10-09 | 2026-09-22 | Human Resources Coordinator – based in Damascus, Syria | Première Urgence Internationale | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230848 |
-| 2026-10-09 | 2026-09-22 | Associate Director/Director - East and Southern Africa | IDinsight | Kenya | 10+ years | https://reliefweb.int/node/4230846 |
-| 2026-10-09 | 2026-09-15 | Country Director, Syria | Turquoise Mountain | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4229852 |
-| 2026-10-09 | 2026-09-10 | ADJOINTE OU ADJOINT COORDINATEUR OU COORDINATRICE RMM-TCHAD | Action contre la Faim France | Bagasola, Chad | 3-4 years | https://reliefweb.int/node/4229226 |
-| 2026-10-09 | 2026-09-09 | Haiti : Responsable Développement de Projets - Port-au-Prince | Agency for Technical Cooperation and Development | Haiti | 3-4 years | https://reliefweb.int/node/4229088 |
-| 2026-10-09 | 2026-09-09 | SUDAN - Grants and Partnership Coordinator (M/F) - N'DJAMENA | Solidarités International | Sudan | 3-4 years | https://reliefweb.int/node/4229083 |
-| 2026-10-09 | 2026-09-08 | Erasmus Internship - Partnership Development Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4228941 |
-| 2026-10-09 | 2026-09-08 | Responsable Adjoint·e – Recrutement et Mobilité – SIEGE- basé à FRA-Asnieres-sur-Seine | Première Urgence Internationale | France | 5-9 years | https://reliefweb.int/node/4228755 |
-| 2026-10-09 | 2026-07-23 | Tupande Zone Supervisor - Lower Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222768 |
-| 2026-10-09 | 2026-07-23 | Tupande Cashew Extension & Aggregation Officer (Fixed-Term) | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222766 |
-| 2026-10-09 | 2026-07-23 | Tupande Zone Supervisor - Upper Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4222762 |
-| 2026-10-09 | 2026-07-01 | People and Talent Director - India | Americares | India | 10+ years | https://reliefweb.int/node/4218844 |
-| 2026-10-10 | 2026-10-06 | ICT END USER HW/SW SUPPORT (Network, Voice & Security (Cisco CUCM / Check Point) | CTG (Committed To Good) | Central African Republic | 5-9 years | https://reliefweb.int/node/4232795 |
-| 2026-10-10 | 2026-10-02 | TERMS OF REFERENCE (TOR) FOR CONDUCTING A GENDER AUDIT FOR SOS CHILDREN’S VILLAGES IN SOMALIA | SOS Children's Villages International | Somalia | 5-9 years | https://reliefweb.int/node/4232258 |
-| 2026-10-10 | 2026-10-01 | Programme Manager - UK Remote/Hybrid - Spanish/Portuguese Speaker | MENTOR Initiative | — | 0-2 years | https://reliefweb.int/node/4232236 |
-| 2026-10-10 | 2026-10-01 | Consultant/e principal/e appuyé/e par une équipe multidisciplinaire, d’un groupement/ cabinet pour la réalisation de deux études d'apprentissage | Norwegian Refugee Council | Burkina Faso, Niger | 3-4 years | https://reliefweb.int/node/4232188 |
-| 2026-10-10 | 2026-09-29 | Oficial MEAL - Caracas (Personal Nacional) | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4231914 |
-| 2026-10-10 | 2026-09-29 | Request for Proposal County Coordination Consultant (Individual Consultant) Nakuru County - Kenya | Girl Effect | Kenya | 5-9 years | https://reliefweb.int/node/4231699 |
-| 2026-10-10 | 2026-09-28 | Remote and unpaid internship, researcher-Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231546 |
-| 2026-10-10 | 2026-09-28 | Remote, unpaid Internship (Capacity Development Intern), Start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231548 |
-| 2026-10-10 | 2026-09-28 | Remote Internship, Proposal Writing OR Third-Party Monitoring & Evaluation (Unpaid), start in November 2026 or beyond | TRUST Consultancy & Development | — | 0-2 years | https://reliefweb.int/node/4231549 |
-| 2026-10-10 | 2026-09-25 | Country Financial Controller | Concern Worldwide | Sierra Leone | 3-4 years | https://reliefweb.int/node/4231312 |
-| 2026-10-10 | 2026-09-23 | Cardiologist | EMERGENCY | Sudan | 5-9 years | https://reliefweb.int/node/4231056 |
-| 2026-10-10 | 2026-09-16 | Proposal Writer | Relief Applications | — | 5-9 years | https://reliefweb.int/node/4230049 |
-| 2026-10-10 | 2026-09-11 | Programs and Partnerships Coordinator / منسق البرامج والشراكات | Ghiras Al-Nahda | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4229336 |
-| 2026-10-10 | 2026-09-10 | Senior Manager, Supply Chain Digitalization Benchmarking and Pilots | International Rescue Committee | Germany, Kenya, United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4229371 |
-| 2026-10-10 | 2026-09-10 | Program Development and Award Advisor, Asia | International Rescue Committee | Pakistan, Thailand | 5-9 years | https://reliefweb.int/node/4229367 |
-| 2026-10-10 | 2026-09-10 | Coordinador.a de Emergencias | Médicos del Mundo | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4229289 |
-| 2026-10-10 | 2026-09-10 | Associate, Global Donation Operations | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4229296 |
-| 2026-10-10 | 2026-09-10 | Director of Research | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 10+ years | https://reliefweb.int/node/4229284 |
-| 2026-10-10 | 2026-09-10 | HR Systems Analyst (Security & Integrations) | International Rescue Committee | Colombia, Honduras, Kenya | 3-4 years | https://reliefweb.int/node/4229256 |
-| 2026-10-10 | 2026-08-31 | Business Development and Grants Manager | People in Need | Moldova | 3-4 years | https://reliefweb.int/node/4227796 |
-| 2026-10-10 | 2026-08-10 | Sudan - WASH Program Manager (M/F) - Tawila (North Darfur) | Solidarités International | Sudan | 3-4 years | https://reliefweb.int/node/4225026 |
-| 2026-10-10 | 2026-08-10 | Gender and Protection Advisor (Re-advertisement) | Oxfam GB | Myanmar | 10+ years | https://reliefweb.int/node/4224936 |
-| 2026-10-11 | 2026-10-05 | Media Training Consultancy | Sightsavers | Zimbabwe | 3-4 years | https://reliefweb.int/node/4232581 |
-| 2026-10-11 | 2026-10-05 | People & Culture Officer-Raqqa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232566 |
-| 2026-10-11 | 2026-10-05 | Field Coordinator // منسق/ ـة ميداني/ ـة | Syrian Center for Media and Freedom of Expression | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232432 |
-| 2026-10-11 | 2026-10-02 | Chef de projet Atlas Logistique – Adré / Tchad | Humanity & Inclusion | Chad | 3-4 years | https://reliefweb.int/node/4232440 |
-| 2026-10-11 | 2026-10-02 | RFQ/332/2026/KIN/ROAS-Request for Quotation (RFQ) for National Consultancy Services for Conducting the Second Round of the Tracer Study – Iraq | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232425 |
-| 2026-10-11 | 2026-10-02 | National HLP Legal Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232398 |
-| 2026-10-11 | 2026-10-02 | National HLP and Protection Associate | CTG (Committed To Good) | South Sudan | 3-4 years | https://reliefweb.int/node/4232394 |
-| 2026-10-11 | 2026-10-01 | MEAL Assistant Syria | Arbeiter-Samariter-Bund Deutschland e.V. | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232166 |
-| 2026-10-11 | 2026-10-01 | MEAL Manager | Independent Doctors Association | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232153 |
-| 2026-10-11 | 2026-10-01 | Grants Manager | Médecins Sans Frontières | Papua New Guinea | 3-4 years | https://reliefweb.int/node/4232118 |
-| 2026-10-11 | 2026-09-28 | Especialista en Grants e Informes (National/International) | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4231721 |
-| 2026-10-11 | 2026-09-28 | Complaints and PSEA Advisor | Lutheran World Federation | — | 3-4 years | https://reliefweb.int/node/4231485 |
-| 2026-10-11 | 2026-09-27 | Projects Coordinator | World Vision | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231575 |
-| 2026-10-11 | 2026-09-25 | Head of Finance Department (NIGERIAN NATIONALS ONLY) | Solidarités International | Nigeria | 3-4 years | https://reliefweb.int/node/4231457 |
-| 2026-10-11 | 2026-09-25 | Administrative Assistant (GS-5) | International Monetary Fund | Jordan | 5-9 years | https://reliefweb.int/node/4231338 |
-| 2026-10-11 | 2026-09-24 | Digital Acquisition Officer | Médecins Sans Frontières en Suisse | Switzerland | 3-4 years | https://reliefweb.int/node/4231141 |
-| 2026-10-11 | 2026-09-24 | AI Product Manager - CLEAR Project | Norwegian Refugee Council | Belgium, Germany, Kenya, Nigeria, Norway, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4231278 |
-| 2026-10-11 | 2026-09-23 | Regional Finance Controller - Kenya | Islamic Relief; Islamic Relief Kenya | Ethiopia, Kenya, Somalia, South Sudan, Sudan | 0-2 years | https://reliefweb.int/node/4231081 |
-| 2026-10-11 | 2026-09-22 | HRIS Product Owner | Médecins Sans Frontières en Suisse | Switzerland | 5-9 years | https://reliefweb.int/node/4230911 |
-| 2026-10-11 | 2026-09-21 | Head of Support Services - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4230752 |
-| 2026-10-11 | 2026-09-18 | Transformation Manager | CBM Global Disability Inclusion | Australia, Bangladesh, Belgium, Burkina Faso, Germany, Indonesia, Ireland, Kenya, Lao People's Democratic Republic (the), Madagascar, Nepal, New Zealand, Nigeria, Philippines, Switzerland, United Kingdom of Great Britain and Northern Ireland, Zimbabwe | 5-9 years | https://reliefweb.int/node/4230447 |
-| 2026-10-11 | 2026-09-17 | National Project Officer / Emergency Response / Roster only | International Organization for Migration | Philippines | 0-2 years | https://reliefweb.int/node/4230229 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Response) / Roster only | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230228 |
-| 2026-10-11 | 2026-09-17 | Senior Project Associate (Health) / Roster only | International Organization for Migration | Philippines | 5-9 years | https://reliefweb.int/node/4230226 |
-| 2026-10-11 | 2026-09-15 | Head of Office (m/f/d), Sudan | German Red Cross | Sudan | 5-9 years | https://reliefweb.int/node/4229840 |
-| 2026-10-11 | 2026-09-14 | Supply and Delivery of Diesel ITT/Open Tender For Syria | Relief International | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4229688 |
-| 2026-10-11 | 2026-09-12 | COORDINATEUR.RICE DE LA GESTION DES CAS - MECANISME 'PROTECT AID WORKERS' | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4229564 |
-| 2026-10-11 | 2026-09-11 | Medical Coordinator - NES | Médicos del Mundo | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4229501 |
-| 2026-10-11 | 2026-09-11 | Zambia People Lead | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4229488 |
-| 2026-10-11 | 2026-09-10 | Project Director - DRC Human Resources for Health (HRH) | Global Communities | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4229391 |
-| 2026-10-12 | 2026-10-06 | Sr. Finance Associate (AP Invoice Processing) | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4232751 |
-| 2026-10-12 | 2026-10-04 | "Senior Manager, HR” BRAC International Microfinance (BI MF) | BRAC | Bangladesh, Kenya | 10+ years | https://reliefweb.int/node/4232478 |
-| 2026-10-12 | 2026-10-01 | Humanitarian Admin and Surge Consultant | United Nations Population Fund | — | 5-9 years | https://reliefweb.int/node/4232158 |
-| 2026-10-12 | 2026-09-30 | MERLA Coordinator – Program Support | DT Global | Papua New Guinea | 5-9 years | https://reliefweb.int/node/4231936 |
-| 2026-10-12 | 2026-09-29 | Feasibility study of Integrated Transformation for Food and Nutrition Security, Resilient Livelihoods, and one Health systems in ASALs project | Malteser International | Kenya | 5-9 years | https://reliefweb.int/node/4231775 |
-| 2026-10-12 | 2026-09-29 | Manager Ingénierie des Technologies de Réseau - Millennium Challenge Account (MCA) - Côte d’Ivoire Régional | Development Aid | Côte d'Ivoire | 5-9 years | https://reliefweb.int/node/4231737 |
-| 2026-10-12 | 2026-09-28 | Head of Programme Nigeria Abuja | Norwegian Refugee Council | Nigeria | 5-9 years | https://reliefweb.int/node/4231708 |
-| 2026-10-12 | 2026-09-28 | Explosive Ordnance Risk Education (EORE) Team Member | Danish Refugee Council | Libya | 0-2 years | https://reliefweb.int/node/4231667 |
-| 2026-10-12 | 2026-09-28 | Auditor – Gaza Project Audit (Palestine) | Christian Blind Mission | occupied Palestinian territory | 5-9 years | https://reliefweb.int/node/4231636 |
-| 2026-10-12 | 2026-09-24 | Consultancy – Strategic Expert, Libya | Geneva Call | Libya | 10+ years | https://reliefweb.int/node/4231260 |
-| 2026-10-12 | 2026-09-23 | Coordinateur·trice Logistique- Tchad | Triangle Génération Humanitaire | Chad | 3-4 years | https://reliefweb.int/node/4231111 |
-| 2026-10-12 | 2026-09-23 | Coordinateur Géographique H/F | Relief International | — | 5-9 years | https://reliefweb.int/node/4230971 |
-| 2026-10-12 | 2026-09-22 | Consultancy Midterm Review (two phases) for WWF GEF Seaweed project Viet Nam & Philippines | World Wide Fund For Nature | — | 5-9 years | https://reliefweb.int/node/4230954 |
-| 2026-10-12 | 2026-09-21 | Program Director for Europe | Habitat for Humanity | Slovakia | 5-9 years | https://reliefweb.int/node/4230700 |
-| 2026-10-12 | 2026-09-17 | APPEL D'OFFRES : Évaluation Externe du Programme Santé Environnement (2022-2026) Kinshasa, République Démocratique du Congo | Médecins du Monde | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4230341 |
-| 2026-10-12 | 2026-09-16 | RCA - Logisticien Projet | COOPI - Cooperazione Internazionale | Central African Republic | 3-4 years | https://reliefweb.int/node/4230129 |
-| 2026-10-12 | 2026-09-16 | RCA - Administrateur du Consortium | COOPI - Cooperazione Internazionale | Central African Republic | 3-4 years | https://reliefweb.int/node/4230125 |
-| 2026-10-12 | 2026-09-16 | RCA - Administrateur du Consortium | COOPI - Cooperazione Internazionale | Central African Republic | 3-4 years | https://reliefweb.int/node/4230124 |
-| 2026-10-12 | 2026-09-15 | Program Lead | Development Gateway | Jordan | 5-9 years | https://reliefweb.int/node/4229787 |
-| 2026-10-12 | 2026-09-12 | COORDINATEUR.RICE DE LA GESTION DES CAS - MECANISME 'PROTECT AID WORKERS' | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4229563 |
-| 2026-10-12 | 2026-08-28 | ASISTENTE DE PROTECCIÓN Caracas - Distrito Capital | Agency for Technical Cooperation and Development | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4227606 |
-| 2026-10-12 | 2025-09-25 | Planning, Monitoring and Evaluation Myanmar Partner Advisor | Mennonite Central Committee | The Partner Advisor will live in Phnom Penh, Cambodia and travel to Myanmar frequently for prolonged periods in order to provide direct accompaniment of partners., Myanmar | 3-4 years | https://reliefweb.int/node/4177378 |
+| 2026-10-13 | 2026-10-07 | Field engineer – FS&ERL Programs | Ataa Humanitarian Relief Association | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233036 |
+| 2026-10-13 | 2026-10-06 | Operatrice/tore NEET - Milano | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4232859 |
+| 2026-10-13 | 2026-10-06 | Programme and Administrative Assistant – Supporting the National Committee on International Humanitarian Law | UN Development Programme | Lebanon | 3-4 years | https://reliefweb.int/node/4232841 |
 | 2026-10-13 | 2026-10-06 | Protection Officer (PRoL)-Daraa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232789 |
 | 2026-10-13 | 2026-10-06 | Protection Officer (Child Protection)-Homs | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232788 |
 | 2026-10-13 | 2026-10-05 | Director of Finance and Administration (national contract) | Lutheran World Federation | Israel | 10+ years | https://reliefweb.int/node/4232639 |
@@ -951,10 +766,18 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-13 | 2026-09-22 | RESPONSABLE DU DÉVELOPPEMENT DES COMPÉTENCES ET DES APPRENTISSAGES BILINGUE (Anglais, Français) Siège Dakar - H/F | ALIMA | Senegal | 5-9 years | https://reliefweb.int/node/4230876 |
 | 2026-10-13 | 2026-09-13 | COORDINATEUR.RICE DE LA GESTION DES CAS - MECANISME 'PROTECT AID WORKERS' | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4229613 |
 | 2026-10-13 | 2026-07-20 | Rwanda Seed Sample Reception and Data Entry | One Acre Fund | Rwanda | 0-2 years | https://reliefweb.int/node/4222116 |
+| 2026-10-14 | 2026-10-08 | Trainer for Youth Capacity Development in Conflict Analysis, Peacebuilding and Community Dialogue | Terre des Hommes Italia | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233133 |
+| 2026-10-14 | 2026-10-08 | Venezuela: Asistente de Protección y Referencias (San Fernando de Apure) | Cruz Roja Venezolana | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233059 |
+| 2026-10-14 | 2026-10-08 | Venezuela: Asistente de Protección y Referencias (Coro) | Cruz Roja Venezolana | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233058 |
+| 2026-10-14 | 2026-10-07 | Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4233054 |
+| 2026-10-14 | 2026-10-07 | Expression of Interest: Rehabilitation of Forlanini Hospital MDR | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233033 |
+| 2026-10-14 | 2026-10-07 | Consultancy services to facilitate and to prepare the report for the Asia Leadership Team Meeting (ALT) and the Asia Leadership Forum (ALF) - F2F Meet | Oxfam | Thailand | 5-9 years | https://reliefweb.int/node/4232976 |
+| 2026-10-14 | 2026-10-07 | Partnerships Manager-Damascus | International Rescue Committee | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232978 |
+| 2026-10-14 | 2026-10-07 | MEAL Enumerator | Agency for Technical Cooperation and Development | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4232968 |
+| 2026-10-14 | 2026-10-06 | Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event | International Labour Organization | Iraq | 3-4 years | https://reliefweb.int/node/4232829 |
 | 2026-10-14 | 2026-10-05 | Asistente de Protección Santa Bárbara del Zulia - Personal Nacional | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232693 |
 | 2026-10-14 | 2026-10-05 | Consultancy – Consulting Risk Tool & Appetite Assignment | Netherlands Red Cross | Netherlands | 3-4 years | https://reliefweb.int/node/4232679 |
 | 2026-10-14 | 2026-10-05 | Partnerships and Engagement Officer - London, UK | Prosper Global | United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4232563 |
-| 2026-10-14 | 2026-10-05 | Lead, Client Impact, BRAC International Microfinance (BI MF) | BRAC | Kenya | 10+ years | https://reliefweb.int/node/4232594 |
 | 2026-10-14 | 2026-10-04 | Programme Officer | Mines Advisory Group | Senegal | 3-4 years | https://reliefweb.int/node/4232483 |
 | 2026-10-14 | 2026-10-02 | 23302 Head of Partnership and Programme Support Unit (P) | International Organization for Migration | Rwanda | 5-9 years | https://reliefweb.int/node/4232330 |
 | 2026-10-14 | 2026-10-02 | 23257 Chief Migration Health Officer (P) | International Organization for Migration | Ethiopia | 5-9 years | https://reliefweb.int/node/4232329 |
@@ -982,6 +805,17 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-14 | 2026-09-15 | CHEFFE OU CHEF DE PROJET TECHNIQUE - FIELD SUPPORT TEAM - FRANCE | Action contre la Faim France | Montreuil, France | 5-9 years | https://reliefweb.int/node/4229788 |
 | 2026-10-14 | 2026-09-11 | National Director - WV Ghana | World Vision | Ghana | 10+ years | https://reliefweb.int/node/4229528 |
 | 2026-10-14 | 2026-07-23 | Nigeria Chief of Staff | One Acre Fund | Nigeria | 5-9 years | https://reliefweb.int/node/4222784 |
+| 2026-10-15 | 2026-10-09 | Consultoría para la identificación y priorización de oportunidades de inversión en sectores estratégicos de la Bolivia Investment Platform (BIP) | World University Service of Canada | Bolivia (Plurinational State of) | 5-9 years | https://reliefweb.int/node/4233366 |
+| 2026-10-15 | 2026-10-09 | Consultancy Services for Environmental and Social Impact Assessment (ESIA/EIA), Engineering Surveys, Detailed Engineering Designs and Tender Support | Millennium Water Alliance | Kenya | 5-9 years | https://reliefweb.int/node/4233254 |
+| 2026-10-15 | 2026-10-09 | Venezuela: Asistente de Protección – Respuesta a la Emergencia (Caracas) | Cruz Roja Venezolana | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233217 |
+| 2026-10-15 | 2026-10-09 | Business Coach for We Can Work (WCW) Programme - Nyamira County | Light for the World | Kenya | 3-4 years | https://reliefweb.int/node/4233202 |
+| 2026-10-15 | 2026-10-08 | EOI: REVIEW, ENRICHMENT AND DEVELOPMENT OF COMPETENCY-BASED CURRICULA AND TRAINING PACKAGES FOR FOUR PRIORITY TVET TRADES UNDER BLOOM PROGRAMME | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233164 |
+| 2026-10-15 | 2026-10-08 | Field Engineer MEAL Officer/الحسكه | Watan Syria | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233154 |
+| 2026-10-15 | 2026-10-08 | Consultancy for an Inclusive Multi-Sector Needs Assessment (MSNA) in DR CONGO | Christian Blind Mission | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4233142 |
+| 2026-10-15 | 2026-10-07 | A CONSULTANT TO CONDUCT SCREENING, ASSESSMENT AND INTERVENTION FOR INCLUSIVE WELLBEING FOR CHILDREN WITH SPECIAL EDUCATION NEEDS AND DISABILITIES . | Adventist Development and Relief Agency International | Somalia | 5-9 years | https://reliefweb.int/node/4233006 |
+| 2026-10-15 | 2026-10-06 | Oficial de Recuperación Económica (agropecuario) republicado - Santa Bárbara del Zulia | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232883 |
+| 2026-10-15 | 2026-10-06 | Digital Content Creator | Oxfam | — | 3-4 years | https://reliefweb.int/node/4232828 |
+| 2026-10-15 | 2026-10-06 | Consultant national – Enquêteur / Collecteur de données temporaire | International Organization for Migration | Djibouti | 0-2 years | https://reliefweb.int/node/4232784 |
 | 2026-10-15 | 2026-10-05 | Proposal Development Manager | Welthungerhilfe | — | 0-2 years | https://reliefweb.int/node/4232615 |
 | 2026-10-15 | 2026-10-05 | Consultant - Financial Systems Review, Benchmarking, and Alignment under One Program Approach (OPA) with Localization Focus | International Federation of Red Cross and Red Crescent Societies | Lebanon | 10+ years | https://reliefweb.int/node/4232582 |
 | 2026-10-15 | 2026-10-05 | Consortium Coordinator Mozambique (f/m/d) | Johanniter-Unfall-Hilfe | Mozambique | 5-9 years | https://reliefweb.int/node/4232441 |
@@ -1007,24 +841,40 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-15 | 2026-09-15 | Information Security and Systems Lead, (Associate) Director | IDinsight | India, Kenya, Philippines, Senegal, Zambia | 10+ years | https://reliefweb.int/node/4229844 |
 | 2026-10-15 | 2026-09-08 | Country Director Myanmar - based in Yangon | Première Urgence Internationale | Myanmar | 3-4 years | https://reliefweb.int/node/4228859 |
 | 2026-10-15 | 2026-07-24 | Payments & Reconciliation Transformation Lead | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4222945 |
+| 2026-10-16 | 2026-10-12 | Venezuela: Oficial de Cadena de Suministro (Caracas) | Cruz Roja Venezolana | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233406 |
+| 2026-10-16 | 2026-10-12 | Project Manager, UZHF (Assuit or Damietta) - Re advertisement) | Plan International | Egypt | 3-4 years | https://reliefweb.int/node/4233553 |
+| 2026-10-16 | 2026-10-09 | Programme Development and Quality Coordinator | Danish Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233331 |
+| 2026-10-16 | 2026-10-09 | Consultant(e) national(e) pour l'étude de faisabilité et conception d’une plateforme numérique intelligente | International Organization for Migration | Djibouti | 5-9 years | https://reliefweb.int/node/4233201 |
+| 2026-10-16 | 2026-10-09 | Mental Health and Protection Coordinator | Union of Medical Care and Relief Organizations | Lebanon | 5-9 years | https://reliefweb.int/node/4233175 |
+| 2026-10-16 | 2026-10-09 | Medical and Health Coordinator | Union of Medical Care and Relief Organizations | Lebanon | 5-9 years | https://reliefweb.int/node/4233176 |
+| 2026-10-16 | 2026-10-08 | Area Manager, Tana River County | Concern Worldwide | Kenya | 5-9 years | https://reliefweb.int/node/4233141 |
+| 2026-10-16 | 2026-10-07 | Oficial de Recuperación Económica - Medios de Vida (Caracas -Personal Nacional) - Republicado | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4233063 |
+| 2026-10-16 | 2026-10-07 | Regional Humanitarian Access and Safety Adviser (Colombia, Venezuela, Honduras nationals) | Norwegian Refugee Council | Colombia, Honduras, Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4233038 |
+| 2026-10-16 | 2026-10-06 | Directeur du pôle Sahel | International Alert | Mali, Niger | 10+ years | https://reliefweb.int/node/4232882 |
+| 2026-10-16 | 2026-10-06 | Regional Coordinator - Coast Region | Fred Hollows Foundation | Kenya | 5-9 years | https://reliefweb.int/node/4232793 |
 | 2026-10-16 | 2026-10-05 | International call for MEAL consultancy - Outcome Harvesting Evaluation | MS ActionAid Denmark | — | 3-4 years | https://reliefweb.int/node/4232555 |
 | 2026-10-16 | 2026-10-02 | ASISTENTE DE LOGISTICA_CARACAS VENEZUELA | Agency for Technical Cooperation and Development | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232466 |
-| 2026-10-16 | 2026-10-02 | OFICIAL DE DESARROLLO DE PROYECTOS JUNIOR CARACAS – VENEZUELA | Agency for Technical Cooperation and Development | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232465 |
 | 2026-10-16 | 2026-10-02 | Head, Information and Communication Technology Services (P.5) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4232373 |
 | 2026-10-16 | 2026-10-02 | Technical Officer (P.3) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232372 |
 | 2026-10-16 | 2026-10-02 | Chief, Central Support Services (D.1) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4232371 |
+| 2026-10-16 | 2026-10-02 | Program Finance Coordinator | Relief International | — | 5-9 years | https://reliefweb.int/node/4232272 |
 | 2026-10-16 | 2026-10-01 | AUXILIAR DE APOYO Y MANTENIMIENTO Caracas Venezuela. | Agency for Technical Cooperation and Development | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232281 |
 | 2026-10-16 | 2026-10-01 | Field Monitoring Specialist | Global Emergency Group | Peru | 3-4 years | https://reliefweb.int/node/4232231 |
 | 2026-10-16 | 2026-10-01 | First Nations Engagement and Partnership Adviser | DT Global | Papua New Guinea | 5-9 years | https://reliefweb.int/node/4232116 |
 | 2026-10-16 | 2026-09-25 | Expression of Interest: Board Member(s) for RET Americas | RET International | United States of America | 10+ years | https://reliefweb.int/node/4231313 |
 | 2026-10-16 | 2026-09-24 | Monitoring and Evaluation (M&E) Lead | DT Global | Thailand | 5-9 years | https://reliefweb.int/node/4231276 |
-| 2026-10-16 | 2026-09-23 | Head of Corporate & Major Donors | War Child Holland | Netherlands | 10+ years | https://reliefweb.int/node/4231108 |
 | 2026-10-16 | 2026-09-22 | Europe Programme Officer - Balkans | International Detention Coalition | Albania, Bosnia and Herzegovina, Greece, Montenegro, Serbia, the Republic of North Macedonia | 3-4 years | https://reliefweb.int/node/4230833 |
 | 2026-10-16 | 2026-09-16 | Data Analyst | International Rescue Committee | Poland | 0-2 years | https://reliefweb.int/node/4230169 |
 | 2026-10-16 | 2026-09-10 | Fertilizer Procurement Associate | One Acre Fund | Kenya | 5-9 years | https://reliefweb.int/node/4229249 |
 | 2026-10-16 | 2026-08-19 | Programme Quality (PQ) Coordinator | Trócaire | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4226257 |
+| 2026-10-16 | 2026-07-23 | Awards, Grants and Partnership Manager - Remote in RI countries of operations | Relief International | Sudan | 5-9 years | https://reliefweb.int/node/4222765 |
 | 2026-10-16 | 2026-07-17 | Human resources coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4221898 |
+| 2026-10-16 | 2026-07-02 | Project Manager – DRC | Croix-Rouge de Belgique | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4219252 |
 | 2026-10-16 | 2025-10-21 | Legal Unit Intern | Médecins Sans Frontières en Suisse | Geneva, Switzerland | 0-2 years | https://reliefweb.int/node/4182489 |
+| 2026-10-17 | 2026-10-07 | Supply Chain Manager | Independent Doctors Association | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233027 |
+| 2026-10-17 | 2026-10-06 | Oficial Nacional de Enlace - Consultoría | Mines Advisory Group | Mexico | 5-9 years | https://reliefweb.int/node/4232854 |
+| 2026-10-17 | 2026-10-06 | Consultancy to support development of NORCAP Expert Reporting System | Norwegian Capacity | — | 5-9 years | https://reliefweb.int/node/4232802 |
+| 2026-10-17 | 2026-10-06 | Countering the Financing of Terrorism Expert (Remote) | UN Volunteers | — | 5-9 years | https://reliefweb.int/node/4232787 |
 | 2026-10-17 | 2026-10-06 | Liaison & Security Officer -Damascus | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232790 |
 | 2026-10-17 | 2026-10-05 | Humanitarian Communications Officer | ACT Alliance | — | 5-9 years | https://reliefweb.int/node/4232493 |
 | 2026-10-17 | 2026-10-05 | Türkiye Program Lead | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232477 |
@@ -1032,7 +882,28 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-17 | 2026-10-04 | Title: Regional Study on Gender Dynamics, Risks, and Decision-Making Related to Syrian Returns in Jordan, Lebanon, Türkiye, and Syria | ActionAid | Jordan | 3-4 years | https://reliefweb.int/node/4232498 |
 | 2026-10-17 | 2026-09-30 | Endline Evaluation of the Strategic Partnership Agreement II Programme and Syria & Lebanon Top Ups | ActionAid | Jordan | 5-9 years | https://reliefweb.int/node/4231653 |
 | 2026-10-17 | 2026-09-30 | MD Chief of Finance, ML | UN Relief and Works Agency for Palestine Refugees in the Near East | occupied Palestinian territory | 10+ years | https://reliefweb.int/node/4231942 |
+| 2026-10-17 | 2026-09-13 | Consultoría de Gestión de Casos de Protección de la Niñez en Emergencias / Venezuela | Plan International | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4229580 |
 | 2026-10-17 | 2026-07-27 | Tanzania Tree Implementation and Audit intern | One Acre Fund | United Republic of Tanzania | 0-2 years | https://reliefweb.int/node/4223177 |
+| 2026-10-18 | 2026-10-12 | Field Project Officer | Mehad | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233196 |
+| 2026-10-18 | 2026-10-09 | Gerente de Programa TCO | Danish Refugee Council | Colombia | 5-9 years | https://reliefweb.int/node/4233421 |
+| 2026-10-18 | 2026-10-09 | Expression of Interest: Procurement of a Loans Management System for a Rural Based Informal MFI | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233338 |
+| 2026-10-18 | 2026-10-09 | Expression of Interest: Annual Audit of Project/Programme Support Including ISRS 4400 - Revised (Annex D) | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233329 |
+| 2026-10-18 | 2026-10-09 | Paediatrician Specialist | Pacific Community | Tuvalu | 10+ years | https://reliefweb.int/node/4233293 |
+| 2026-10-18 | 2026-10-08 | Asistente de Recuperación Económica – Santa Bárbara del Zulia | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4233250 |
+| 2026-10-18 | 2026-10-08 | Oficial de Monitoreo, Evaluación, Rendición de Cuentas y Aprendizaje | Danish Refugee Council | Colombia | 0-2 years | https://reliefweb.int/node/4233222 |
+| 2026-10-18 | 2026-10-08 | Expression of Interest: Annual Resilience Measurement - SomReP | World Vision | Somalia | 5-9 years | https://reliefweb.int/node/4233197 |
+| 2026-10-18 | 2026-10-08 | Socio-Economic Data Analysis Assistant | Pacific Community | Fiji | 0-2 years | https://reliefweb.int/node/4233115 |
+| 2026-10-18 | 2026-10-07 | Líder de Equipo de Recuperación Económica - Cumaná | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233093 |
+| 2026-10-18 | 2026-10-07 | ICT Systems Integration Technician EFMS/CARLOG | CTG (Committed To Good) | Central African Republic | 3-4 years | https://reliefweb.int/node/4233034 |
+| 2026-10-18 | 2026-10-07 | NTD Project Officer - Reaching the Last Mile Fund | Sightsavers | Benin | 3-4 years | https://reliefweb.int/node/4233026 |
+| 2026-10-18 | 2026-10-06 | Gerente de Programas | Danish Refugee Council | Colombia | 5-9 years | https://reliefweb.int/node/4232927 |
+| 2026-10-18 | 2026-10-06 | Oficial de Recuperación Económica | Danish Refugee Council | Colombia | 0-2 years | https://reliefweb.int/node/4232925 |
+| 2026-10-18 | 2026-10-06 | Asistente de Recuperación Económica | Danish Refugee Council | Colombia | 0-2 years | https://reliefweb.int/node/4232924 |
+| 2026-10-18 | 2026-10-06 | ReDSS Kenya Policy Coordinator | Danish Refugee Council | Kenya | 5-9 years | https://reliefweb.int/node/4232906 |
+| 2026-10-18 | 2026-10-06 | Disaster Preparedness ECHO Project Coordinator - Libya | Norwegian Red Cross | Libya | 5-9 years | https://reliefweb.int/node/4232846 |
+| 2026-10-18 | 2026-10-06 | Humanitarian Affairs Officer, P3 | UN Office for the Coordination of Humanitarian Affairs | Port Sudan, occupied Palestinian territory | 5-9 years | https://reliefweb.int/node/4232845 |
+| 2026-10-18 | 2026-10-06 | Information Management Assistant, G5 | UN Office for the Coordination of Humanitarian Affairs | Kenya | 5-9 years | https://reliefweb.int/node/4232838 |
+| 2026-10-18 | 2026-10-06 | Sign Language Interpreter Consultants invitation to join our preferred supplier list | Sightsavers | United Republic of Tanzania | 3-4 years | https://reliefweb.int/node/4232808 |
 | 2026-10-18 | 2026-10-06 | Data Enumerator (DTM) | CTG (Committed To Good) | Nigeria | 0-2 years | https://reliefweb.int/node/4232804 |
 | 2026-10-18 | 2026-10-06 | Project Assistant (DTM) | CTG (Committed To Good) | Nigeria | 3-4 years | https://reliefweb.int/node/4232801 |
 | 2026-10-18 | 2026-10-05 | Consortium Manager | SOS Children's Villages International | Somalia | 5-9 years | https://reliefweb.int/node/4232592 |
@@ -1049,17 +920,41 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-18 | 2026-09-18 | Haiti : Directeur.rice Adjoint.e Pays – Port-au-Prince | Agency for Technical Cooperation and Development | Haiti | 3-4 years | https://reliefweb.int/node/4230490 |
 | 2026-10-18 | 2026-09-18 | Senior Writer | DT Global | Papua New Guinea | 5-9 years | https://reliefweb.int/node/4230398 |
 | 2026-10-18 | 2026-09-14 | Epidemiologist - Training | Pacific Community | Fiji | 10+ years | https://reliefweb.int/node/4229633 |
+| 2026-10-18 | 2026-09-01 | Disaster Preparedness Coordinator - Caracas | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 5-9 years | https://reliefweb.int/node/4227970 |
 | 2026-10-18 | 2026-08-27 | Data Officer (national) | Agency for Technical Cooperation and Development | Ukraine | 0-2 years | https://reliefweb.int/node/4227296 |
 | 2026-10-18 | 2026-08-04 | Country Program Manager, Mali (f/h/x) | Médecins du Monde - Belgique | Mali | 5-9 years | https://reliefweb.int/node/4224275 |
 | 2026-10-18 | 2026-07-20 | Tupande Senior Transport Officer | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4222097 |
+| 2026-10-19 | 2026-10-12 | MEAL Officer | DanChurchAid | Central African Republic | 3-4 years | https://reliefweb.int/node/4233377 |
+| 2026-10-19 | 2026-10-11 | Technical Manager Medical (TMM) - Maiduguri Roving | INTERSOS | Nigeria | 5-9 years | https://reliefweb.int/node/4233482 |
+| 2026-10-19 | 2026-10-11 | Field Pharmacist - Dikwa, Magumeri and Maiduguri (Roving) | INTERSOS | Nigeria | 5-9 years | https://reliefweb.int/node/4233483 |
+| 2026-10-19 | 2026-10-11 | Medical Activity Manager - Dikwa and Magumeri. | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233484 |
+| 2026-10-19 | 2026-10-11 | Midwife Activity Manager - Maiduguri (Roving). | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233485 |
+| 2026-10-19 | 2026-10-11 | Data Entry Operator (HMIS Officer) - Maiduguri | INTERSOS | Nigeria | 0-2 years | https://reliefweb.int/node/4233486 |
+| 2026-10-19 | 2026-10-11 | Nutrition Assistant - Maiduguri, Magumeri, Dikwa | INTERSOS | Nigeria | 3-4 years | https://reliefweb.int/node/4233487 |
+| 2026-10-19 | 2026-10-09 | AVISO DE LICITACIÓN – ITB-VEN-CCS-WASI-09102026 Acuerdo Marco para obras de rehabilitación y/o construcción de infraestructura y sistemas WASH | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4233387 |
+| 2026-10-19 | 2026-10-09 | Request for Proposal Production Partner - Digital Micro Drama Series October 2026 India | Girl Effect | India | 5-9 years | https://reliefweb.int/node/4233343 |
+| 2026-10-19 | 2026-10-07 | Project Manager (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4232905 |
+| 2026-10-19 | 2026-10-07 | Senior Grants and Finance Officer (Kenya Nationals Only) | JSI | Kenya | 5-9 years | https://reliefweb.int/node/4232900 |
+| 2026-10-19 | 2026-10-07 | Finance Director - Kenya (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4232898 |
+| 2026-10-19 | 2026-10-06 | Consultoria para Conceção e Realização de uma Ação de Formação Especializada em Atividade Bancária no Âmbito da Implementação do Sistema Banco do Teso | UN Development Programme | Cabo Verde | 10+ years | https://reliefweb.int/node/4232870 |
+| 2026-10-19 | 2026-10-06 | Human Resources Advisor - HQ | International NGO Safety Organisation | Netherlands | 5-9 years | https://reliefweb.int/node/4232834 |
+| 2026-10-19 | 2026-10-06 | Office Space Requirements For CBM Kenya | Christian Blind Mission | Kenya | 5-9 years | https://reliefweb.int/node/4232773 |
+| 2026-10-19 | 2026-10-06 | Communication Officer | Farm Africa | Kenya | 3-4 years | https://reliefweb.int/node/4232684 |
+| 2026-10-19 | 2026-10-06 | Senior Medical Officer - Roster position | Croix-Rouge Française | — | 3-4 years | https://reliefweb.int/node/4232651 |
 | 2026-10-19 | 2026-10-05 | Junior Project Assistant | International Organization for Migration | Belgium | 0-2 years | https://reliefweb.int/node/4232649 |
 | 2026-10-19 | 2026-10-05 | Social Safeguard Assistant, Calabar | Wildlife Conservation Society | Nigeria | 0-2 years | https://reliefweb.int/node/4232638 |
 | 2026-10-19 | 2026-10-05 | Monitoring, Evaluation, Accountability and Learning Assistant - Part Time 50% | Agency for Technical Cooperation and Development | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4232601 |
 | 2026-10-19 | 2026-09-30 | Maestral Public Finance for Children (PF4C) Expert Cohort | Maestral International | — | 5-9 years | https://reliefweb.int/node/4231886 |
 | 2026-10-19 | 2026-09-28 | Operational Finance Advisor | Médecins Sans Frontières | Kenya, South Africa | 5-9 years | https://reliefweb.int/node/4231682 |
+| 2026-10-19 | 2026-09-25 | RFP- Donor Landscape Assessment in Kenya | Pathfinder International | Kenya | 0-2 years | https://reliefweb.int/node/4231480 |
 | 2026-10-19 | 2026-09-24 | Field Coordinator Hodeidah – YEMEN | Première Urgence Internationale | Yemen | 3-4 years | https://reliefweb.int/node/4231231 |
 | 2026-10-19 | 2026-09-22 | Senior Programme Manager, Academic Pillar (Refugee-Led Research Hub) | Refugee Studies Centre | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4230901 |
-| 2026-10-19 | 2026-09-22 | Sr. Administrative and Finance Associate | International Organization for Migration | Philippines | 3-4 years | https://reliefweb.int/node/4230834 |
+| 2026-10-20 | 2026-10-12 | ERD Information Management Officer- Aleppo, first period in Raqaa | International Rescue Committee | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233567 |
+| 2026-10-20 | 2026-10-07 | Program officer | Tropical Health and Education Trust | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233004 |
+| 2026-10-20 | 2026-10-06 | Responsable de la gestion de l'information (IMM) | Mines Advisory Group | Senegal | 3-4 years | https://reliefweb.int/node/4232922 |
+| 2026-10-20 | 2026-10-06 | Senior Project Officer (Assistant to the Chief of Party) | Agency for Technical Cooperation and Development | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232881 |
+| 2026-10-20 | 2026-10-06 | Assistant.e paie F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4232807 |
+| 2026-10-20 | 2026-10-02 | OFICIAL DE DESARROLLO DE PROYECTOS JUNIOR CARACAS – VENEZUELA | Agency for Technical Cooperation and Development | Venezuela (Bolivarian Republic of) | 0-2 years | https://reliefweb.int/node/4232465 |
 | 2026-10-20 | 2026-10-02 | Head of Support Services | International Network For Aid Relief and Assistance | — | 5-9 years | https://reliefweb.int/node/4232337 |
 | 2026-10-20 | 2026-10-02 | Travel Administrator | Médecins Sans Frontières | — | 0-2 years | https://reliefweb.int/node/4232402 |
 | 2026-10-20 | 2026-10-02 | Travel Referent | Médecins Sans Frontières | — | 0-2 years | https://reliefweb.int/node/4232401 |
@@ -1077,6 +972,21 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-20 | 2026-09-21 | REQUEST FOR OFFER (RFO)- SUPPLIER PRE-QUALIFICATION FOR KENYA COUNTRY OFFICES | Terre des hommes | Kenya | 3-4 years | https://reliefweb.int/node/4230640 |
 | 2026-10-20 | 2026-07-27 | Tupande Area Coordinator - Lower Western | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4223182 |
 | 2026-10-20 | 2026-07-27 | Ethiopia Government Relations and Program Support Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4223176 |
+| 2026-10-20 | 2026-06-11 | Safety & Security capacity building Specialist- Sudan | Triangle Génération Humanitaire | Sudan | 3-4 years | https://reliefweb.int/node/4215805 |
+| 2026-10-21 | 2026-10-12 | Online Training Facilitator for African Mental Health CSOs and OPDs: Project Management, Resource Mobilization, Financial Management, and M&E | CBM Global Disability Inclusion | Kenya | 3-4 years | https://reliefweb.int/node/4233683 |
+| 2026-10-21 | 2026-10-12 | ToR: Consultancy for a Podcast Production (Recording Support, Editing, English/French Subtitles, Upload/Publishing | CBM Global Disability Inclusion | Kenya | 3-4 years | https://reliefweb.int/node/4233666 |
+| 2026-10-21 | 2026-10-12 | Arabic Editor and Language Specialist (National / Regional) | Chemonics | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233592 |
+| 2026-10-21 | 2026-10-09 | Digital Prevention and Capacity Development Consultants | Human Relief Foundation | Iraq, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4233333 |
+| 2026-10-21 | 2026-10-09 | Project Director (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4233241 |
+| 2026-10-21 | 2026-10-09 | Deputy Finance Director (Kenya Nationals Only) | JSI | Kenya | 10+ years | https://reliefweb.int/node/4233243 |
+| 2026-10-21 | 2026-10-08 | Oficial de Gestión de Información | Danish Refugee Council | Colombia | 3-4 years | https://reliefweb.int/node/4233223 |
+| 2026-10-21 | 2026-10-08 | Translator & Interpreter (Re-advertisement - for internal and external candidates), Grade 17 | UN Relief and Works Agency for Palestine Refugees in the Near East | Jordan | 5-9 years | https://reliefweb.int/node/4233221 |
+| 2026-10-21 | 2026-10-08 | 22954 Programme Officer (Immigration and Border Governance (IBG) (P) | International Organization for Migration | Ghana | 5-9 years | https://reliefweb.int/node/4233119 |
+| 2026-10-21 | 2026-10-07 | Oficial de Gestión de Información (IM) - Caracas (Personal Nacional) | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4233094 |
+| 2026-10-21 | 2026-10-07 | Head of Operational Finance & Support Services | DanChurchAid | Central African Republic | 5-9 years | https://reliefweb.int/node/4233039 |
+| 2026-10-21 | 2026-10-07 | Safety and Security Assistant - Idleb Saraqeb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233001 |
+| 2026-10-21 | 2026-10-06 | SYSTEMS INTEGRATION COORDINATOR | Mission for Essential Drugs and Supplies | Kenya | 5-9 years | https://reliefweb.int/node/4232852 |
+| 2026-10-21 | 2026-10-06 | Internship Program 2026 - 2027 | Jouri Research & Consultancy | — | 0-2 years | https://reliefweb.int/node/4232809 |
 | 2026-10-21 | 2026-10-05 | Coordinateur·rice Ressources Humaines – Mission France | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4232656 |
 | 2026-10-21 | 2026-10-02 | Communications Officer | Global Interagency Security Forum | United Kingdom of Great Britain and Northern Ireland | 0-2 years | https://reliefweb.int/node/4232411 |
 | 2026-10-21 | 2026-09-23 | SBC Programme Manager | Magenta FZE | — | 5-9 years | https://reliefweb.int/node/4231070 |
@@ -1084,23 +994,59 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-21 | 2026-09-22 | COORDINATEUR.ICE PAIE ET ADMINISTRATION DU PERSONNEL TERRAIN (HOMERE) | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4230782 |
 | 2026-10-21 | 2026-09-22 | COORDINATRICE OU COORDINATEUR FINANCE - DEPLOIEMENT POLARIS - FRANCE | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4230783 |
 | 2026-10-21 | 2026-07-23 | Tupande Health Safety and Environment Supervisor (Fixed-Term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4222797 |
+| 2026-10-21 | 2026-06-10 | WASH Project Manager – Syria / Yemen | Triangle Génération Humanitaire | Syrian Arab Republic, Yemen | 3-4 years | https://reliefweb.int/node/4215651 |
+| 2026-10-22 | 2026-10-12 | Coordination Unit (Forum) Coordinator Sudan Kauda | Norwegian Refugee Council | Sudan | 5-9 years | https://reliefweb.int/node/4233640 |
+| 2026-10-22 | 2026-10-12 | Project Officer | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233458 |
+| 2026-10-22 | 2026-10-12 | Warehouse Keeper | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233455 |
+| 2026-10-22 | 2026-10-12 | Receptionist | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233454 |
+| 2026-10-22 | 2026-10-12 | M&E Assistant | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233452 |
+| 2026-10-22 | 2026-10-12 | P&O Physiotherapist | National Syrian Project for Prosthetic Limbs | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233446 |
+| 2026-10-22 | 2026-10-09 | 23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233418 |
+| 2026-10-22 | 2026-10-09 | 23395 Senior Programme Manager (Immigration and Border Governance (IBG)) (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233392 |
+| 2026-10-22 | 2026-10-09 | 23266 Regional Migration Health Nurse Coordinator (P) | International Organization for Migration | Kenya | 5-9 years | https://reliefweb.int/node/4233391 |
+| 2026-10-22 | 2026-10-09 | 23423 Regional Thematic Specialist (Climate Action and Mobility) (P) | International Organization for Migration | Senegal | 5-9 years | https://reliefweb.int/node/4233389 |
+| 2026-10-22 | 2026-10-09 | 22519 Programme Manager (Community Stabilisation) (P) | International Organization for Migration | Somalia | 5-9 years | https://reliefweb.int/node/4233386 |
+| 2026-10-22 | 2026-10-09 | Account Manager | CTG (Committed To Good) | Afghanistan | 3-4 years | https://reliefweb.int/node/4233328 |
+| 2026-10-22 | 2026-10-09 | Coordonnateur·Trice de Projet | Catalyste+ | Benin | 3-4 years | https://reliefweb.int/node/4233276 |
+| 2026-10-22 | 2026-10-09 | Appel à propositions pour la mise en œuvre d’une enquête de couverture dénommée « PECS », après les activités de routinisation de la supplémentation e | Helen Keller International | Madagascar | 5-9 years | https://reliefweb.int/node/4233192 |
+| 2026-10-22 | 2026-10-08 | Education Project Manager Palestine West Bank | Norwegian Refugee Council | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4233255 |
+| 2026-10-22 | 2026-10-08 | Head of Support Services - Lebanon (Readvertised) | Danish Refugee Council | Lebanon | 5-9 years | https://reliefweb.int/node/4233177 |
+| 2026-10-22 | 2026-10-07 | Reporting, Compliance & Budgeting Coordinator | Oxfam | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233020 |
+| 2026-10-22 | 2026-10-07 | Monitoring, Evaluation, Accountability and Learning (MEAL) Officer -Iraq | Tearfund | Iraq | 3-4 years | https://reliefweb.int/node/4232501 |
 | 2026-10-22 | 2026-10-01 | Strategic Planning and Projects Management Coordinator – (f/m/x) – MSF Belgium | Médecins Sans Frontières | Belgium | 3-4 years | https://reliefweb.int/node/4232196 |
 | 2026-10-22 | 2026-10-01 | Senior Research Monitoring Evaluation and Learning Officer | Siren Associates | Jordan | 5-9 years | https://reliefweb.int/node/4232135 |
 | 2026-10-22 | 2026-09-25 | Head of Programmes, South Sudan | Polish Humanitarian Action - Polska Akcja Humanitarna | South Sudan | 5-9 years | https://reliefweb.int/node/4231412 |
+| 2026-10-22 | 2026-09-24 | Labour Mobility Communications and Creative Content Specialist (Consultant A) | International Organization for Migration | — | 0-2 years | https://reliefweb.int/node/4231349 |
 | 2026-10-22 | 2026-09-23 | BURKINA FASO / MALI - COORDINATEUR.TRICE GRANT ET PARTENARIAT (H/F) - OUAGADOUGOU | Solidarités International | Burkina Faso | 3-4 years | https://reliefweb.int/node/4231069 |
 | 2026-10-22 | 2026-09-23 | EMERGENCY PROGRAMME COORDINATOR | Action contre la Faim France | Aden, Yemen | 3-4 years | https://reliefweb.int/node/4231009 |
 | 2026-10-22 | 2026-09-23 | CHEFFE OU CHEF DE PROJET FINANCE SI - FRANCE | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4231008 |
 | 2026-10-22 | 2026-09-22 | FIELD COORDINATOR - MOZAMBIQUE | Action contre la Faim France | Mueda, Mozambique | 3-4 years | https://reliefweb.int/node/4230966 |
 | 2026-10-22 | 2026-09-22 | COORDINATEUR.ICE PAIE ET ADMINISTRATION DU PERSONNEL TERRAIN (HOMERE) | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4230896 |
 | 2026-10-22 | 2026-09-16 | SOUTH SUDAN - Head of MEAL Department (M/F) - Juba | Solidarités International | South Sudan | 3-4 years | https://reliefweb.int/node/4230158 |
+| 2026-10-23 | 2026-10-12 | Program Manager I – Emergency Response | Catholic Relief Services | Uganda | 5-9 years | https://reliefweb.int/node/4233572 |
+| 2026-10-23 | 2026-10-12 | Regional Programme Coordinator (MENA) | Danish Red Cross | Jordan | 5-9 years | https://reliefweb.int/node/4233615 |
+| 2026-10-23 | 2026-10-12 | Health Data Audits consultant Nigeria (Abuja - FCT and Nasarawa) | Tiko | Nigeria | 5-9 years | https://reliefweb.int/node/4233601 |
+| 2026-10-23 | 2026-10-09 | Request for Proposals: Employer of Record Services | Amna | — | 5-9 years | https://reliefweb.int/node/4233365 |
+| 2026-10-23 | 2026-10-09 | Knowledge and Learning Manager | DT Global | Philippines | 5-9 years | https://reliefweb.int/node/4233300 |
+| 2026-10-23 | 2026-10-09 | MERL Officer | DT Global | Philippines | 3-4 years | https://reliefweb.int/node/4233299 |
+| 2026-10-23 | 2026-10-09 | Director of Monitoring, Evaluation, Research and Learning, VisionFund International | World Vision | — | 10+ years | https://reliefweb.int/node/4233295 |
+| 2026-10-23 | 2026-10-08 | Wash and Shelter Specialist Cameroon | Norwegian Refugee Council | Cameroon | 5-9 years | https://reliefweb.int/node/4233252 |
+| 2026-10-23 | 2026-10-08 | Protection Lead - National Only | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233224 |
+| 2026-10-23 | 2026-10-08 | Market Systems Technical Coordinator | Oxfam | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233198 |
+| 2026-10-23 | 2026-10-08 | Consultancy service to conduct a programme baseline assessment | IsraAID | Kenya, Uganda | 10+ years | https://reliefweb.int/node/4233180 |
+| 2026-10-23 | 2026-10-08 | Director Community Based Inclusive Development (CBID) | Christian Blind Mission | Cameroon, Ethiopia, Germany, Kenya, Niger, Nigeria, Togo, Uganda, United Kingdom of Great Britain and Northern Ireland, Zambia | 10+ years | https://reliefweb.int/node/4233043 |
+| 2026-10-23 | 2026-10-08 | Consultancy: Situation Analysis for the SHINE Rehabilitation Project – Kenya | Christian Blind Mission | Kenya | 5-9 years | https://reliefweb.int/node/4233048 |
+| 2026-10-23 | 2026-10-08 | Protection Officer | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233150 |
+| 2026-10-23 | 2026-10-06 | Comparative Learning Study on Cash Consortium Models in East Africa and the Horn | Concern Worldwide | — | 5-9 years | https://reliefweb.int/node/4232662 |
+| 2026-10-23 | 2026-10-06 | Comparative Learning Study on Cash Consortium Models in East Africa and the Horn | Concern Worldwide | — | 5-9 years | https://reliefweb.int/node/4232631 |
 | 2026-10-23 | 2026-10-05 | Fundraising Volunteer for Gender Justice Program (f/m/d) – Remote, approx. 4 hrs/week | EmpowerVan | — | 3-4 years | https://reliefweb.int/node/4232576 |
 | 2026-10-23 | 2026-10-05 | Consultant.e Expert.e en Architecture et IA Générative – Projet HAVA | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4232551 |
+| 2026-10-23 | 2026-10-05 | Lead, Client Impact, BRAC International Microfinance (BI MF) | BRAC | Kenya | 10+ years | https://reliefweb.int/node/4232594 |
 | 2026-10-23 | 2026-10-02 | Human Resources Payroll Associate (G.5) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232385 |
 | 2026-10-23 | 2026-10-02 | Head, Internal Oversight and Ethics Office (D.1) | International Maritime Organization | United Kingdom of Great Britain and Northern Ireland | 10+ years | https://reliefweb.int/node/4232369 |
 | 2026-10-23 | 2026-10-02 | COORDINATEUR.RICE URGENCE - ITURI - H/F | ALIMA | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232374 |
 | 2026-10-23 | 2026-10-01 | Director of Program Development, Quality & Learning (PQL) - Port au Prince, Haiti | Prosper Global | Haiti | 5-9 years | https://reliefweb.int/node/4232047 |
 | 2026-10-23 | 2026-09-30 | Especialista en Finanzas | Miyamoto International | Venezuela (Bolivarian Republic of) | 10+ years | https://reliefweb.int/node/4231909 |
-| 2026-10-23 | 2026-09-28 | Program Officer | SPOON Foundation | United States of America | 5-9 years | https://reliefweb.int/node/4231556 |
 | 2026-10-23 | 2026-09-28 | Project Manager - West Africa | Shelter for Life | Guinea-Bissau | 5-9 years | https://reliefweb.int/node/4231509 |
 | 2026-10-23 | 2026-09-25 | Operatrice Inserimento Lavorativo | WeWorld | Italy | 3-4 years | https://reliefweb.int/node/4231430 |
 | 2026-10-23 | 2026-09-25 | Copy Editing and Graphic Designer Consultant | International Planned Parenthood Federation | — | 3-4 years | https://reliefweb.int/node/4231389 |
@@ -1108,9 +1054,11 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-23 | 2026-09-23 | Program Lead, Ebola Response | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4231139 |
 | 2026-10-23 | 2026-09-23 | Housing Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4231128 |
 | 2026-10-23 | 2026-09-22 | RDC - Responsable de Département Ethique & Conformité - Goma | Solidarités International | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4230857 |
+| 2026-10-23 | 2026-09-21 | Program Director for Europe | Habitat for Humanity | Slovakia | 5-9 years | https://reliefweb.int/node/4230700 |
 | 2026-10-23 | 2026-09-18 | REQUEST FOR PROPOSALS (RFP): MIDLINE EVALUATION OF THE USDA-FUNDED TIWOLOKA PROGRAM IN MALAWI | CARE USA | Malawi | 5-9 years | https://reliefweb.int/node/4230328 |
 | 2026-10-23 | 2026-09-17 | Research Analyst | Laterite | United Republic of Tanzania | 0-2 years | https://reliefweb.int/node/4230320 |
 | 2026-10-23 | 2026-07-30 | Strategic Partnerships Manager / Senior Associate (Fixed-Term) | One Acre Fund | Kenya, Rwanda, United States of America | 5-9 years | https://reliefweb.int/node/4223708 |
+| 2026-10-24 | 2026-10-12 | IT Endpoint Administrator | Habitat for Humanity | United States of America | 0-2 years | https://reliefweb.int/node/4233439 |
 | 2026-10-24 | 2026-09-25 | Consultancy – Food Insecurity and armed groups | Geneva Call | — | 10+ years | https://reliefweb.int/node/4231413 |
 | 2026-10-24 | 2026-09-24 | Tchad : Responsable de Projet Climat & Environnement – Adré | Agency for Technical Cooperation and Development | Chad | 5-9 years | https://reliefweb.int/node/4231314 |
 | 2026-10-24 | 2026-09-24 | République Démocratique du Congo : Responsable MEAL Pays - Kinshasa | Agency for Technical Cooperation and Development | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4231305 |
@@ -1119,6 +1067,12 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-24 | 2026-09-22 | AFGHANISTAN - GRANTS MANAGER (M/F) - KABUL | Solidarités International | Afghanistan | 3-4 years | https://reliefweb.int/node/4230867 |
 | 2026-10-24 | 2026-09-07 | Tchad : Coordinateur.rice Technique CATALYST – N’Djaména | Agency for Technical Cooperation and Development | Chad | 3-4 years | https://reliefweb.int/node/4228693 |
 | 2026-10-24 | 2026-05-18 | Field coordinator Feina (F/M) - Sudan | Médecins du Monde | Sudan | 3-4 years | https://reliefweb.int/node/4212479 |
+| 2026-10-25 | 2026-10-12 | Country Director – Ethiopia | Concern Worldwide | Ethiopia | 5-9 years | https://reliefweb.int/node/4233675 |
+| 2026-10-25 | 2026-10-12 | Tender Announcement: Provision of a Mobile Soil Analysis Laboratory. | People in Need | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4233618 |
+| 2026-10-25 | 2026-10-09 | Director of Programme Development | Mary's Meals | — | 5-9 years | https://reliefweb.int/node/4233349 |
+| 2026-10-25 | 2026-10-09 | Regional Coordinator – Middle East (M/F) - 4 Months | HAMAP Humanitaire | Lebanon | 5-9 years | https://reliefweb.int/node/4233193 |
+| 2026-10-25 | 2026-10-09 | Senior Human Resource Management Adviser to CSC | DT Global | Timor-Leste | 5-9 years | https://reliefweb.int/node/4233322 |
+| 2026-10-25 | 2026-10-09 | Med Cell Support - Based in Nairobi (W/M) | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4233321 |
 | 2026-10-25 | 2026-10-05 | Médecin support Unité Santé des Equipes F/H | Médecins Sans Frontières | France | 3-4 years | https://reliefweb.int/node/4232670 |
 | 2026-10-25 | 2026-10-05 | WHH Representative Canada | Welthungerhilfe | Canada | 5-9 years | https://reliefweb.int/node/4232613 |
 | 2026-10-25 | 2026-10-02 | Project Officer, Slovenia (Europe and Asia) | Geneva Centre for Security Sector Governance | Slovenia | 3-4 years | https://reliefweb.int/node/4232381 |
@@ -1132,11 +1086,21 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-25 | 2026-09-26 | COORDINATEUR·ICE RH ET AMELIORATION CONTINUE AMINISTRATION ET PAIE - FRANCE | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4231554 |
 | 2026-10-25 | 2026-09-26 | ASSISTANTE OU ASSISTANT MEAL SANTÉ MENTALE ET SOUTIEN PSYCHOSOCIAL (SMSP) | Action contre la Faim France | Montreuil, France | 0-2 years | https://reliefweb.int/node/4231534 |
 | 2026-10-25 | 2026-09-21 | Communications and Digital Engagement Officer | Pacific Community | Fiji | 5-9 years | https://reliefweb.int/node/4230777 |
+| 2026-10-25 | 2026-09-08 | Erasmus Internship - Partnership Development Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4228941 |
 | 2026-10-25 | 2026-05-21 | Contrôleur de Gestion Afrique F/M | Fondation Mérieux | Senegal | 3-4 years | https://reliefweb.int/node/4213014 |
+| 2026-10-26 | 2026-10-12 | Partner-Centred Design Consultant | Blue Ventures | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 5-9 years | https://reliefweb.int/node/4233694 |
+| 2026-10-26 | 2026-10-12 | Middle East Head of Operations | Welthungerhilfe | Jordan | 5-9 years | https://reliefweb.int/node/4233654 |
+| 2026-10-26 | 2026-10-12 | International Consultant CC-2026-23 | International Organization for Migration | Armenia | 10+ years | https://reliefweb.int/node/4233664 |
+| 2026-10-26 | 2026-10-12 | Communications and Media Officer - Syria Aleppo or Idleb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233595 |
+| 2026-10-26 | 2026-10-12 | Nutrition and Health Coordinator | Acción contra el Hambre España | Jordan | 5-9 years | https://reliefweb.int/node/4233585 |
+| 2026-10-26 | 2026-10-12 | Partnership Officer- Syria Aleppo, Damascus or Idleb | GOAL | Syrian Arab Republic | 0-2 years | https://reliefweb.int/node/4233582 |
+| 2026-10-26 | 2026-10-12 | Procurement Coordinator Re-advertised - Syria Aleppo & Idleb | GOAL | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233576 |
+| 2026-10-26 | 2026-10-12 | Project officer, UZHF (Sohag) Re-advertisement | Plan International | Egypt | 3-4 years | https://reliefweb.int/node/4233557 |
+| 2026-10-26 | 2026-10-11 | Finance Manager | Oxfam GB | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233466 |
+| 2026-10-26 | 2026-10-09 | Administration and Finance Officer, Tuvalu | DT Global | Tuvalu | 3-4 years | https://reliefweb.int/node/4233279 |
 | 2026-10-26 | 2026-10-06 | FINANCE HR COORDINATOR - SYRIA | Un Ponte per | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4232806 |
 | 2026-10-26 | 2026-10-05 | COORDINATEUR.RICE PROJET BAHAI - TCHAD - H/F | ALIMA | — | 3-4 years | https://reliefweb.int/node/4232657 |
-| 2026-10-26 | 2026-10-05 | RCA - Coordinatuer du Consortium | COOPI - Cooperazione Internazionale | Central African Republic | 5-9 years | https://reliefweb.int/node/4232580 |
-| 2026-10-26 | 2026-09-28 | Programme Officer - Sustainable Agriculture and Rural Development | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231629 |
+| 2026-10-26 | 2026-10-05 | RCA - Coordinatuer de Consortium | COOPI - Cooperazione Internazionale | Central African Republic | 5-9 years | https://reliefweb.int/node/4232580 |
 | 2026-10-26 | 2026-09-28 | Programme Manager - Community Health | SEED Madagascar | Madagascar | 3-4 years | https://reliefweb.int/node/4231628 |
 | 2026-10-26 | 2026-09-28 | Senior Conservation Research Assistant (Madagascar) | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231627 |
 | 2026-10-26 | 2026-09-28 | Programme Officer - Financial Resilience | SEED Madagascar | Madagascar | 0-2 years | https://reliefweb.int/node/4231626 |
@@ -1147,16 +1111,43 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-26 | 2026-09-08 | WATER, HYGIENE AND SANITATION MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières en Suisse | Costa Rica, Haiti, Honduras, Mexico, Nicaragua, Panama | 0-2 years | https://reliefweb.int/node/4228790 |
 | 2026-10-26 | 2026-09-08 | PEDIATRICIAN FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières | Costa Rica, El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama | 3-4 years | https://reliefweb.int/node/4228791 |
 | 2026-10-26 | 2026-09-08 | FINANCE AND HUMAN RESOURCES MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS | Médecins Sans Frontières | Brazil, Costa Rica, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Uruguay | 0-2 years | https://reliefweb.int/node/4228787 |
+| 2026-10-27 | 2026-10-12 | Senior Finance Associate (Fiji Nationals Only) | International Organization for Migration | Fiji | 3-4 years | https://reliefweb.int/node/4233710 |
+| 2026-10-27 | 2026-10-12 | Human Resources Associate (Fiji Nationals Only) | International Organization for Migration | Fiji | 3-4 years | https://reliefweb.int/node/4233709 |
+| 2026-10-27 | 2026-10-06 | Chargé.e de Communication Audiovisuelle - Dakar - H/F | ALIMA | Senegal | 0-2 years | https://reliefweb.int/node/4232908 |
+| 2026-10-27 | 2026-10-06 | Assistive Technology Technical Officer - Afghanistan | Humanity & Inclusion | Afghanistan | 5-9 years | https://reliefweb.int/node/4232892 |
+| 2026-10-27 | 2026-10-06 | COORDINATEUR.TRICE PROJET TILLABERI - NIGER - H/F | ALIMA | Niger | 5-9 years | https://reliefweb.int/node/4232848 |
+| 2026-10-27 | 2026-10-06 | Point of Care Ultrasound Advisor W/M | Médecins Sans Frontières | France | 3-4 years | https://reliefweb.int/node/4232836 |
 | 2026-10-27 | 2026-10-05 | FIELD COMMUNICATION OFFICER | EMERGENCY | Iraq | 3-4 years | https://reliefweb.int/node/4232614 |
 | 2026-10-27 | 2026-09-30 | Mama Lucy Eye Unit Design Consultancy | Christian Blind Mission | Kenya | 5-9 years | https://reliefweb.int/node/4231950 |
 | 2026-10-27 | 2026-08-07 | Nigeria State Expansion Specialists | One Acre Fund | Nigeria | 3-4 years | https://reliefweb.int/node/4224820 |
 | 2026-10-27 | 2026-08-05 | Ethiopia Government Relations and Program Support Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4224453 |
 | 2026-10-27 | 2026-07-30 | Malawi Trees Execution Coordinator (Fixed-Term) | One Acre Fund | Malawi | 3-4 years | https://reliefweb.int/node/4223722 |
 | 2026-10-27 | 2026-07-28 | Coordinateur médical voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223228 |
+| 2026-10-28 | 2026-10-09 | Development of E-Learning Module Content — Tdh Migration and Displacement programme | Terre des hommes | Switzerland | 5-9 years | https://reliefweb.int/node/4233194 |
+| 2026-10-28 | 2026-10-08 | Stagiaire - Coordination éditoriale et communication médicale | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4233232 |
+| 2026-10-28 | 2026-10-08 | Coordinateur/Coordinatrice MEALS | AVSI Foundation – ETS | Congo | 3-4 years | https://reliefweb.int/node/4233158 |
+| 2026-10-28 | 2026-10-07 | Spécialiste Clinique Rééducation en pédiatrie (troubles du développement) F/H | Médecins Sans Frontières | France | 3-4 years | https://reliefweb.int/node/4233068 |
+| 2026-10-28 | 2026-10-07 | Regional HR Officer-Eurasia and North Africa | Tearfund | Jordan | 3-4 years | https://reliefweb.int/node/4232972 |
 | 2026-10-28 | 2026-10-02 | Call for Projects | Expertise France | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4232263 |
 | 2026-10-28 | 2026-09-28 | EMERGENCY PROGRAMME COORDINATOR | Action contre la Faim France | Aden, Yemen | 3-4 years | https://reliefweb.int/node/4231727 |
 | 2026-10-28 | 2026-07-28 | Coordinateur général voltigeur - Worldwide (F/H) | Médecins du Monde | France | 3-4 years | https://reliefweb.int/node/4223409 |
+| 2026-10-29 | 2026-10-09 | Finance Manager | Norwegian Church Aid | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4233347 |
+| 2026-10-29 | 2026-10-07 | Consultancy for the Development of a Facilitation Guide and Facilitation of Trainings for Beach Management Unit (BMU) Members in Kwale County | European Committee for Agricultural Training | Kenya | 3-4 years | https://reliefweb.int/node/4232963 |
 | 2026-10-29 | 2026-08-05 | DRC Senior MEL Program Associate (Fixed-Term) | One Acre Fund | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4224456 |
+| 2026-10-30 | 2026-10-12 | Project Manager / Assessment Researcher | Development Gateway | Iraq | 5-9 years | https://reliefweb.int/node/4233407 |
+| 2026-10-30 | 2026-10-09 | Safeguarding and Ethical Leadership Coordinator for MSF Boards and Associations | Médecins Sans Frontières | — | 5-9 years | https://reliefweb.int/node/4233363 |
+| 2026-10-30 | 2026-10-09 | Multi Country Representative for MENA, based in Amman | IMPACT Initiatives | Jordan | 5-9 years | https://reliefweb.int/node/4233361 |
+| 2026-10-30 | 2026-10-09 | Senior Research Officer - MSNA - Global, Based in Amman | IMPACT Initiatives | Jordan | 3-4 years | https://reliefweb.int/node/4233358 |
+| 2026-10-30 | 2026-10-09 | Senior Research Officer – MSNA – Global, based in Dakar | IMPACT Initiatives | Senegal | 3-4 years | https://reliefweb.int/node/4233357 |
+| 2026-10-30 | 2026-10-09 | Consultancy for the Design and Development of a Digital Caritas Internationalis Management Standards (CIMS) Platform | Caritas | Holy See | 5-9 years | https://reliefweb.int/node/4233165 |
+| 2026-10-30 | 2026-10-08 | Consultor Experto en Diseño de Ejercicios y Preparación ante Crisis | Pan American Development Foundation | Panama | 10+ years | https://reliefweb.int/node/4233089 |
+| 2026-10-30 | 2026-10-08 | Technical Advisor I, Cash & Markets | Catholic Relief Services | El Salvador, Guatemala, Honduras, Mexico, United States of America | 5-9 years | https://reliefweb.int/node/4233082 |
+| 2026-10-30 | 2026-10-08 | Project Director, Chad | Nutrition International | Chad | 10+ years | https://reliefweb.int/node/4233062 |
+| 2026-10-30 | 2026-10-07 | Digital Development and Connectivity Program Specialist | US Department of State | Colombia | 10+ years | https://reliefweb.int/node/4232928 |
+| 2026-10-30 | 2026-10-06 | Senior Compensation & Benefits Advisor, EU and Strategic Initiatives- UK or NL | Prosper Global | Netherlands, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4232800 |
+| 2026-10-30 | 2026-10-06 | Director of Program Development, Quality & Learning (PQL) - Port au Prince, Haiti | Prosper Global | Haiti | 5-9 years | https://reliefweb.int/node/4232726 |
+| 2026-10-30 | 2026-10-06 | Humanitarian Response Coordinator | ShelterBox | Philippines | 5-9 years | https://reliefweb.int/node/4232673 |
+| 2026-10-30 | 2026-10-06 | DIRECTRICE GÉNÉRALE OU DIRECTEUR GÉNÉRAL - FRANCE | Action contre la Faim France | Montreuil, France | 10+ years | https://reliefweb.int/node/4232744 |
 | 2026-10-30 | 2026-10-01 | Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking | Christian Blind Mission | Cameroon, Democratic Republic of the Congo, Ethiopia, Germany, Kenya, Niger, Nigeria, South Sudan, Togo, Uganda, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, United States of America, Zambia | 5-9 years | https://reliefweb.int/node/4232189 |
 | 2026-10-30 | 2026-10-01 | Deputy Director, Programs | International Rescue Committee | Central African Republic | 10+ years | https://reliefweb.int/node/4232177 |
 | 2026-10-30 | 2026-09-30 | RESPONSABLE DE DEPARTEMENT NUTRITION ET SANTÉ - TCHAD | Action contre la Faim France | N'Djamena, Chad | 3-4 years | https://reliefweb.int/node/4232064 |
@@ -1174,9 +1165,16 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-30 | 2026-09-16 | Director, Technical - GUARD | International Medical Corps | — | 10+ years | https://reliefweb.int/node/4230159 |
 | 2026-10-30 | 2026-08-13 | Regional Health Advisor - Latin America and the Caribbean (Consultant) | CORUS International | Colombia, Ecuador, El Salvador, Guatemala, Honduras | 10+ years | https://reliefweb.int/node/4225583 |
 | 2026-10-30 | 2026-08-03 | Regional Advisor for Humanitarian Access & Risk for Africa (F/M) - Nigeria or Ethiopia | Médecins du Monde | Nigeria | 3-4 years | https://reliefweb.int/node/4223885 |
+| 2026-10-30 | 2026-07-20 | Coordinator, MHPSS Emergency Response Team | International Medical Corps | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4222157 |
+| 2026-10-31 | 2026-10-12 | Head of Systems and Operations for Myanmar | People in Need | Myanmar | 3-4 years | https://reliefweb.int/node/4233613 |
+| 2026-10-31 | 2026-10-12 | Area Coordinator (national) | Agency for Technical Cooperation and Development | Ukraine | 3-4 years | https://reliefweb.int/node/4233560 |
+| 2026-10-31 | 2026-10-08 | Country Representative | Habitat for Humanity | Jordan | 5-9 years | https://reliefweb.int/node/4233122 |
+| 2026-10-31 | 2026-10-07 | Emergency Pharmacy Coordinator | Médecins Sans Frontières en Suisse | — | 3-4 years | https://reliefweb.int/node/4233090 |
+| 2026-10-31 | 2026-10-07 | Coordinator and legal institutional representant of the programme in Brazil | HEKS/EPER | Brazil | 10+ years | https://reliefweb.int/node/4232896 |
+| 2026-10-31 | 2026-10-06 | Nurse Mentor | Mercy Ships | Sierra Leone | 3-4 years | https://reliefweb.int/node/4232697 |
 | 2026-10-31 | 2026-10-05 | Italian Teacher | International Rescue Committee | Italy | 0-2 years | https://reliefweb.int/node/4232609 |
 | 2026-10-31 | 2026-10-02 | Directeur.trice Général.e | Avocats Sans Frontières | Belgium | 10+ years | https://reliefweb.int/node/4232399 |
-| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal Emergency Response (Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
+| 2026-10-31 | 2026-10-01 | WASH Technical Advisor, Nepal (Local Consultant) | Project HOPE | Nepal | 5-9 years | https://reliefweb.int/node/4232274 |
 | 2026-10-31 | 2026-10-01 | Chef·fe de délégation – République démocratique du Congo | HEKS/EPER | Democratic Republic of the Congo | 10+ years | https://reliefweb.int/node/4232186 |
 | 2026-10-31 | 2026-10-01 | General Director f/m/x | Médecins Sans Frontières | Luxembourg | 10+ years | https://reliefweb.int/node/4232154 |
 | 2026-10-31 | 2026-10-01 | Country Manager, Jordan | Seenaryo | Jordan | 5-9 years | https://reliefweb.int/node/4232146 |
@@ -1184,23 +1182,15 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-09-30 | Research Manager for Afghanistan, based in Kabul | IMPACT Initiatives | Afghanistan | 5-9 years | https://reliefweb.int/node/4232008 |
 | 2026-10-31 | 2026-09-30 | Rwanda Quantity Surveyor Lead (Fixed-Term) | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4231989 |
 | 2026-10-31 | 2026-09-30 | Accounting & Audit Intern for HQ, based in Geneva | IMPACT Initiatives | Switzerland | 0-2 years | https://reliefweb.int/node/4231981 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Gender Equality, Disability Inclusion & Social Inclusion (GEDSI) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231719 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Protection, GBV & Child Protection (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231717 |
-| 2026-10-31 | 2026-09-29 | Call for Syrian Experts: Health, Mental Health & Psychosocial Support (MHPSS) – Syria | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231716 |
 | 2026-10-31 | 2026-09-28 | (Senior) Research Officer for Nigeria, Based in Dakar | IMPACT Initiatives | Nigeria | 3-4 years | https://reliefweb.int/node/4231701 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Digitalization, Digital Transformation & Technology for Development (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231545 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Social Protection, Cash & Economic Inclusion (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231544 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts: Value Chain Analysis & Market Systems Development (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231543 |
-| 2026-10-31 | 2026-09-28 | Call for Syrian Experts Labour Market, Employment, TVET & Economic Development (Syria) | TRUST Consultancy & Development | Syrian Arab Republic | 5-9 years | https://reliefweb.int/node/4231540 |
 | 2026-10-31 | 2026-09-28 | International Education Expert | STOOS CONSULTING | — | 5-9 years | https://reliefweb.int/node/4231512 |
 | 2026-10-31 | 2026-09-28 | Recruitment for Multiple (Senior) Analyst Positions Across Multiple Regions & Countries: Acute Needs Analysis, Multiple Locations | IMPACT Initiatives | Afghanistan, Benin, Burkina Faso, Central African Republic, Chad, Côte d'Ivoire, Democratic Republic of the Congo, Ghana, Haiti, Jordan, Kenya, Lebanon, Mali, Mozambique, Myanmar, Nigeria, occupied Palestinian territory, Sudan, Syrian Arab Republic, Togo, Uganda | 3-4 years | https://reliefweb.int/node/4231644 |
 | 2026-10-31 | 2026-09-25 | Consultance sur l'analyse et l’amélioration de la gestion des déchets de soins de santé dans les délégations internationales de la CRF | Croix-Rouge Française | — | 10+ years | https://reliefweb.int/node/4231217 |
 | 2026-10-31 | 2026-09-25 | Grants and Reporting Coordinantor | People in Need | Ukraine | 3-4 years | https://reliefweb.int/node/4231416 |
 | 2026-10-31 | 2026-09-24 | Project Quality, Reporting and Implementation Advisor | People in Need | Angola | 3-4 years | https://reliefweb.int/node/4231275 |
+| 2026-10-31 | 2026-09-23 | Head of Corporate & Major Donors | War Child Holland | Netherlands | 10+ years | https://reliefweb.int/node/4231108 |
 | 2026-10-31 | 2026-09-21 | Senior Research Officer for Mozambique, Based in Pemba | IMPACT Initiatives | Mozambique | 3-4 years | https://reliefweb.int/node/4230702 |
 | 2026-10-31 | 2026-09-21 | Senior Research Manager for South Sudan, Based in Juba | IMPACT Initiatives | South Sudan | 5-9 years | https://reliefweb.int/node/4230701 |
-| 2026-10-31 | 2026-09-17 | Project Manager – HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230161 |
-| 2026-10-31 | 2026-09-17 | Community Manager (NGO) – HLGSC Procurement TWG / Global Procurement Forum | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230162 |
 | 2026-10-31 | 2026-09-17 | Academic Expert (SME) – Procurement KPI Framework | Humanitarian Logistics Cooperative (Hulo) | — | 5-9 years | https://reliefweb.int/node/4230163 |
 | 2026-10-31 | 2026-09-16 | Loan Officer (Jarablus, Aleppo) | Near East Foundation | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230063 |
 | 2026-10-31 | 2026-09-16 | Loan Officer (Aleppo) | Near East Foundation | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4230062 |
@@ -1223,6 +1213,7 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-09-01 | Senior Research and Evaluation Lead in Palestine | ARFADA for Development and Consultations | occupied Palestinian territory | 10+ years | https://reliefweb.int/node/4227955 |
 | 2026-10-31 | 2026-08-31 | Early Education Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4226311 |
 | 2026-10-31 | 2026-08-31 | Middle School Alliance Site Coordinator | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4226082 |
+| 2026-10-31 | 2026-08-31 | Business Development and Grants Manager | People in Need | Moldova | 3-4 years | https://reliefweb.int/node/4227796 |
 | 2026-10-31 | 2026-08-28 | Senior Program Manager, Safety, Health & Wellness | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4227600 |
 | 2026-10-31 | 2026-08-28 | Head of Business Development, WACAR | International Rescue Committee | Belgium, Kenya | 5-9 years | https://reliefweb.int/node/4227597 |
 | 2026-10-31 | 2026-08-28 | Deputy Director, Supply Chain Business Development and Program Delivery | International Rescue Committee | Kenya, Lebanon, United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4227427 |
@@ -1242,6 +1233,7 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-08-18 | Head of Programmes for Myanmar | People in Need | Myanmar | 3-4 years | https://reliefweb.int/node/4225987 |
 | 2026-10-31 | 2026-08-17 | Outreach Officer | International Rescue Committee | Poland | 0-2 years | https://reliefweb.int/node/4225944 |
 | 2026-10-31 | 2026-08-17 | Economic Empowerment Project Lead | International Rescue Committee | Poland | 3-4 years | https://reliefweb.int/node/4225941 |
+| 2026-10-31 | 2026-08-12 | Community Development and Service Delivery Department Manager (Re-advertisement) | SEED | Iraq | 10+ years | https://reliefweb.int/node/4225339 |
 | 2026-10-31 | 2026-08-11 | Finance Manager, Budgeting and Reporting | International Rescue Committee | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4225259 |
 | 2026-10-31 | 2026-08-11 | Employment Specialist | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4225255 |
 | 2026-10-31 | 2026-08-11 | New Roots Farm Coordinator | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4225251 |
@@ -1258,6 +1250,12 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-10-31 | 2026-06-04 | Head of Systems and Operations for Zambia | People in Need | Zambia | 5-9 years | https://reliefweb.int/node/4214786 |
 | 2026-10-31 | 2026-06-03 | Donor Engagement Advisor - Gulf Partnerships | People in Need | Jordan, Lebanon, United Arab Emirates | 5-9 years | https://reliefweb.int/node/4214669 |
 | 2026-10-31 | 2024-06-18 | Grants and Reporting Officer (Only for national staff) | Polish Humanitarian Action - Polska Akcja Humanitarna | Kyiv, Ukraine | 0-2 years | https://reliefweb.int/node/4070774 |
+| 2026-11-01 | 2026-10-12 | Head of Advocacy and Evidencing | HelpAge International | Ethiopia, India, Italy, Jordan, Kenya, Nepal, Pakistan, Spain, Thailand, Türkiye, United Kingdom of Great Britain and Northern Ireland, United Republic of Tanzania, Zimbabwe | 10+ years | https://reliefweb.int/node/4233658 |
+| 2026-11-01 | 2026-10-12 | Malawi Case Investigation Senior Coordinator | One Acre Fund | Malawi | 3-4 years | https://reliefweb.int/node/4233552 |
+| 2026-11-01 | 2026-10-07 | Emergency Human Resources Coordinator | Médecins Sans Frontières en Suisse | Switzerland | 3-4 years | https://reliefweb.int/node/4233092 |
+| 2026-11-01 | 2026-10-07 | COORDINATOR - UNITED NATIONS UNIVERSITY (UNU) HUB [FIXED-TERM PROJECT POSITION] | International Centre for Integrated Mountain Development | Nepal | 5-9 years | https://reliefweb.int/node/4233007 |
+| 2026-11-01 | 2026-10-06 | HAITI - RESPONSABLE LOG ADMIN (H/F) - SAINT-MARC | Solidarités International | Haiti | 3-4 years | https://reliefweb.int/node/4232897 |
+| 2026-11-01 | 2026-10-06 | Vice President, Global Human Resources | ChildFund International | United States of America | 10+ years | https://reliefweb.int/node/4232046 |
 | 2026-11-01 | 2026-10-05 | Economic Recovery Technical Coordinator | People in Need | Ukraine | 5-9 years | https://reliefweb.int/node/4232554 |
 | 2026-11-01 | 2026-10-03 | CHARGE-E DE PROJET APPUI AUX PARTENAIRES | Action contre la Faim France | Montreuil, France | 3-4 years | https://reliefweb.int/node/4232469 |
 | 2026-11-01 | 2026-10-01 | Program Officer, Instructional Design | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4232157 |
@@ -1274,6 +1272,9 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-01 | 2026-06-29 | Youth Programme Coordinator | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218301 |
 | 2026-11-01 | 2026-06-29 | Community Engagement & Accountability Officer | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218299 |
 | 2026-11-01 | 2026-06-29 | Fundraising Officer | Second Tree | Ioannina, Greece | 0-2 years | https://reliefweb.int/node/4218297 |
+| 2026-11-02 | 2026-10-12 | Medical Technologies and Innovation Intern | Médecins Sans Frontières en Suisse | Switzerland | 0-2 years | https://reliefweb.int/node/4233623 |
+| 2026-11-02 | 2026-10-09 | Senior Research Monitoring Evaluation and Learning Officer | Siren Associates | Lebanon | 5-9 years | https://reliefweb.int/node/4233340 |
+| 2026-11-02 | 2026-10-06 | Finanzsachbearbeitung Projektabrechnung (m/w/d) | German Red Cross | Germany | 0-2 years | https://reliefweb.int/node/4232783 |
 | 2026-11-02 | 2026-10-02 | FIELD COMMUNICATION OFFICER | EMERGENCY | Iraq | 3-4 years | https://reliefweb.int/node/4232387 |
 | 2026-11-02 | 2026-10-01 | Midterm Evaluation of a USDA McGovern-Dole International Food for Education and Child Nutrition Project in Cameroon | Nascent Solutions | Cameroon | 10+ years | https://reliefweb.int/node/4232190 |
 | 2026-11-02 | 2026-09-14 | Nursing activity manager to work in international humanitarian missions | Médecins Sans Frontières | Costa Rica, Dominican Republic, El Salvador, Haiti, Honduras, Mexico, Nicaragua, Panama | 3-4 years | https://reliefweb.int/node/4229549 |
@@ -1281,22 +1282,39 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-03 | 2026-09-04 | Nigeria Junior Finance Analyst | One Acre Fund | Nigeria | 3-4 years | https://reliefweb.int/node/4228472 |
 | 2026-11-03 | 2026-08-05 | Tupande Area Coordinator - Nyanza | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4224471 |
 | 2026-11-03 | 2026-08-05 | Product Operations Lead (Fixed-Term) | One Acre Fund | Kenya, Rwanda | 5-9 years | https://reliefweb.int/node/4224464 |
-| 2026-11-03 | 2026-08-03 | Medical coordinator (F/M) - Syria | Médecins du Monde | Syrian Arab Republic | 3-4 years | https://reliefweb.int/node/4224013 |
-| 2026-11-04 | 2026-10-06 | DIRECTRICE GÉNÉRALE OU DIRECTEUR GÉNÉRAL - FRANCE | Action contre la Faim France | Montreuil, France | 5-9 years | https://reliefweb.int/node/4232744 |
+| 2026-11-05 | 2026-10-06 | ASSISTANTE OU ASSISTANT RECHERCHE | Action contre la Faim France | Montreuil, France | 0-2 years | https://reliefweb.int/node/4232914 |
+| 2026-11-06 | 2026-10-08 | Psychiatrist or Clinical Psychologist - West Africa | Shelter for Life | Guinea-Bissau | 5-9 years | https://reliefweb.int/node/4233084 |
+| 2026-11-06 | 2026-10-07 | Senior Director, Housing Disaster Resilience and Recovery | Habitat for Humanity | United States of America | 5-9 years | https://reliefweb.int/node/4232921 |
+| 2026-11-06 | 2026-10-06 | CANADEM is recruiting for its French-Speaking OB/GYN Roster | CANADEM | — | 3-4 years | https://reliefweb.int/node/4232913 |
+| 2026-11-06 | 2026-10-06 | Community Conservation Coordinator – Gabon | Wildlife Conservation Society | Gabon | 5-9 years | https://reliefweb.int/node/4232796 |
+| 2026-11-06 | 2026-10-06 | Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232831 |
+| 2026-11-07 | 2026-10-08 | ASSISTANTE OU ASSISTANT SERVICE SUPPORT - MISSION FRANCE | Action contre la Faim France | Montreuil, France | 0-2 years | https://reliefweb.int/node/4233256 |
+| 2026-11-07 | 2026-10-08 | ASSISTANTE OU ASSISTANT PLAIDOYER | Action contre la Faim France | Montreuil, France | 0-2 years | https://reliefweb.int/node/4233257 |
+| 2026-11-07 | 2026-10-08 | Country Finance Manager Lebanon | WeWorld | Lebanon | 5-9 years | https://reliefweb.int/node/4233144 |
+| 2026-11-07 | 2026-10-07 | République Démocratique du Congo : Coordinateur.rice de Zone – Uvira | Agency for Technical Cooperation and Development | Democratic Republic of the Congo | 5-9 years | https://reliefweb.int/node/4233037 |
 | 2026-11-07 | 2026-08-19 | Uganda Finance Associate | One Acre Fund | Kenya, Rwanda, Uganda | 3-4 years | https://reliefweb.int/node/4226239 |
 | 2026-11-07 | 2026-08-15 | Rwanda National Performance Trial Specialist (Fixed-Term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4225757 |
+| 2026-11-09 | 2026-10-12 | Site and Research Manager ; Mondika (Nouabalé-Ndoki National Park), Republic of congo. | Wildlife Conservation Society | Congo | 5-9 years | https://reliefweb.int/node/4233599 |
+| 2026-11-09 | 2026-10-12 | Site and Research Manager ; Goualougo (Nouabalé-Ndoki ,Republic of Congo) | Wildlife Conservation Society | Congo | 5-9 years | https://reliefweb.int/node/4233593 |
 | 2026-11-09 | 2026-08-25 | Ethiopia Procurement Coordinator (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4226970 |
 | 2026-11-09 | 2025-10-28 | 196-International Senior Audit & Regulatory Consultant (Full-time, International Consultant as CPA Afghanistan Employee) | Government of Afghanistan | Kabul, Afghanistan | 10+ years | https://reliefweb.int/node/4183321 |
+| 2026-11-10 | 2026-10-09 | Termes de référence pour un.e Consultant.e en APC - Aproche Par Competences (Deuxième phase) | Jóvenes y Desarrollo | Haiti | 10+ years | https://reliefweb.int/node/4233230 |
+| 2026-11-11 | 2026-10-08 | MANAGER RÉGIONAL·E DES RESSOURCES HUMAINES – SAO (H/F) | Humanity & Inclusion | Benin, Burkina Faso, Chad, Mali, Niger, Senegal, Togo | 5-9 years | https://reliefweb.int/node/4233166 |
 | 2026-11-11 | 2026-09-17 | AFGHANISTAN - Deputy Country Director -Program (M/F) -KABUL | Solidarités International | Afghanistan | 0-2 years | https://reliefweb.int/node/4230327 |
 | 2026-11-11 | 2026-09-04 | Spec- Affiliate Support Center | Habitat for Humanity | United States of America | 3-4 years | https://reliefweb.int/node/4227815 |
 | 2026-11-11 | 2026-08-25 | DIRECTOR, COUNTRY - (5432)-Ethiopia | International Medical Corps | Ethiopia | 10+ years | https://reliefweb.int/node/4227027 |
+| 2026-11-12 | 2026-10-12 | Advisor, Global MHPSS TU, Intl - (5531) | International Medical Corps | — | 5-9 years | https://reliefweb.int/node/4233617 |
 | 2026-11-12 | 2026-08-19 | Tupande Biochar Compliance Specialist (Fixed-Term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4226212 |
+| 2026-11-13 | 2026-10-08 | TCA - COORDINATEUR TERRAIN (H/F) - EST TCHAD | Solidarités International | Chad | 3-4 years | https://reliefweb.int/node/4233163 |
 | 2026-11-13 | 2026-09-23 | Adjoint·e Directeur Pays aux Programmes Tchad-Cameroun – basé à N’Djaména | Première Urgence Internationale | Chad | 3-4 years | https://reliefweb.int/node/4230922 |
 | 2026-11-13 | 2026-08-15 | Uganda Regional Innovations Supervisor (Fixed-Term) | One Acre Fund | Uganda | 0-2 years | https://reliefweb.int/node/4225758 |
+| 2026-11-15 | 2026-10-12 | Medical Supply Planner | Mercy Ships | United States of America | 3-4 years | https://reliefweb.int/node/4233665 |
+| 2026-11-15 | 2026-10-09 | Oficial de Producción Audiovisual | Habesha Project | Mexico | 3-4 years | https://reliefweb.int/node/4233253 |
 | 2026-11-15 | 2026-10-05 | Country Director Palestine – based in Amman | Première Urgence Internationale | occupied Palestinian territory | 3-4 years | https://reliefweb.int/node/4232577 |
 | 2026-11-15 | 2026-10-05 | Senior Case Management Officer | International Network For Aid Relief and Assistance | Türkiye | 5-9 years | https://reliefweb.int/node/4232564 |
 | 2026-11-15 | 2026-10-05 | Técnico/a Sanitario/a. Campamentos Saharauis | Médicos del Mundo | Algeria | 0-2 years | https://reliefweb.int/node/4232549 |
 | 2026-11-15 | 2026-09-10 | ESC Short-term Volunteering Greece (December-January) | Open Cultural Center | Greece | 0-2 years | https://reliefweb.int/node/4229258 |
+| 2026-11-16 | 2026-10-12 | Agricultural Value Chains - PROJECT MANAGER (Cashew & Coffee) - MOZAMBIQUE | Nitidae | Mozambique | 5-9 years | https://reliefweb.int/node/4233657 |
 | 2026-11-16 | 2026-10-05 | Fertilizer Procurement Strategy Associate | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4232622 |
 | 2026-11-17 | 2026-08-19 | Tupande Engineering & Maintenance Lead (Fixed-Term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4226235 |
 | 2026-11-17 | 2026-08-19 | Global MEL Manager/Senior Manager | One Acre Fund | Democratic Republic of the Congo, Nigeria, Uganda | 3-4 years | https://reliefweb.int/node/4226218 |
@@ -1311,6 +1329,15 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-28 | 2026-09-02 | Analyst, Office of the CFO (Fixed-Term) | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4228168 |
 | 2026-11-28 | 2026-09-02 | Zambia MEL Lead (Fixed-Term) | One Acre Fund | Zambia | 5-9 years | https://reliefweb.int/node/4228162 |
 | 2026-11-28 | 2026-08-20 | Sudan - HR Coordinator (M/F) - Khartoum | Solidarités International | Sudan | 3-4 years | https://reliefweb.int/node/4226398 |
+| 2026-11-29 | 2026-10-12 | Erasmus Internship - Community Intern | CLEAR Global | France, Netherlands | 0-2 years | https://reliefweb.int/node/4233370 |
+| 2026-11-30 | 2026-10-12 | Technical Advisor II – Climate Change & Landscape Restoration | Catholic Relief Services | Uganda | 5-9 years | https://reliefweb.int/node/4233575 |
+| 2026-11-30 | 2026-10-09 | Senior Economic Empowerment Manager | International Rescue Committee | United States of America | 5-9 years | https://reliefweb.int/node/4233367 |
+| 2026-11-30 | 2026-10-09 | Survivor of Torture Caseworker (Safety & Wellness Caseworker) | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4233359 |
+| 2026-11-30 | 2026-10-07 | ETHIOPIA - FIELD COORDINATOR (M/F) - TIGRAY | Solidarités International | Ethiopia | 3-4 years | https://reliefweb.int/node/4233075 |
+| 2026-11-30 | 2026-10-07 | Casework Supervisor | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4233011 |
+| 2026-11-30 | 2026-10-06 | Chef de la délégation régionale Tchad/Cameroun (H/F/X) | Croix-Rouge Française | Chad | 5-9 years | https://reliefweb.int/node/4232835 |
+| 2026-11-30 | 2026-10-06 | Director, Finance | International Centre for Diarrhoeal Disease Research | Bangladesh | 10+ years | https://reliefweb.int/node/4232753 |
+| 2026-11-30 | 2026-10-06 | WASH&Shelter/NFI _only national staff | Polish Humanitarian Action - Polska Akcja Humanitarna | Ukraine | 5-9 years | https://reliefweb.int/node/4232817 |
 | 2026-11-30 | 2026-10-05 | Deputy Country Director for Programme | People in Need | Ukraine | 5-9 years | https://reliefweb.int/node/4232658 |
 | 2026-11-30 | 2026-10-01 | Software Developer Analyst | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland | 3-4 years | https://reliefweb.int/node/4231910 |
 | 2026-11-30 | 2026-10-01 | Country Director - JRS Thailand | Jesuit Refugee Service | Thailand | 5-9 years | https://reliefweb.int/node/4232130 |
@@ -1349,6 +1376,7 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-11-30 | 2026-09-01 | Senior Manager Global Procurement-Corporate and Professional Services | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 5-9 years | https://reliefweb.int/node/4227972 |
 | 2026-11-30 | 2026-08-24 | Coordinatrices.teurs Ressources Humaines F/H | Médecins Sans Frontières | — | 3-4 years | https://reliefweb.int/node/4226827 |
 | 2026-11-30 | 2026-08-17 | Coordinateur des Programmes Tchad H/F | Secours Islamique France | Chad | 3-4 years | https://reliefweb.int/node/4225848 |
+| 2026-11-30 | 2026-07-23 | PIN Asia Representative | People in Need | Thailand | 3-4 years | https://reliefweb.int/node/4222679 |
 | 2026-11-30 | 2026-06-02 | Head of AI & Program Technology Engineering | International Rescue Committee | Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America | 10+ years | https://reliefweb.int/node/4214557 |
 | 2026-11-30 | 2026-04-23 | IT Program Manager | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4208684 |
 | 2026-11-30 | 2025-04-08 | Coordinateur des Programmes Madagascar H/F | Secours Islamique France | Antananarivo, Madagascar | 3-4 years | https://reliefweb.int/node/4144569 |
@@ -1364,10 +1392,13 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-03 | 2026-09-04 | Conservation Agriculture (Fixed-Term) | One Acre Fund | Rwanda | 5-9 years | https://reliefweb.int/node/4228460 |
 | 2026-12-05 | 2026-10-05 | Caseworker Assistant | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232724 |
 | 2026-12-05 | 2026-09-09 | Ethiopia Senior Tree Expansion Research Officer (Fixed-Term) | One Acre Fund | Ethiopia | 3-4 years | https://reliefweb.int/node/4229100 |
+| 2026-12-06 | 2026-10-06 | PIR Caseworker | International Rescue Committee | United States of America | 0-2 years | https://reliefweb.int/node/4232821 |
 | 2026-12-06 | 2026-09-09 | Mission France - Bénévole Logistique - Ile de France F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4229045 |
 | 2026-12-06 | 2026-09-09 | Mission France - Bénévole Infirmier.e - Ile de France F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4229040 |
 | 2026-12-06 | 2026-09-09 | Mission France - Bénévole Médecin - Ile de France F/H | Médecins Sans Frontières | France | 0-2 years | https://reliefweb.int/node/4229036 |
 | 2026-12-06 | 2026-09-04 | Credit and Portfolio Analyst | Habitat for Humanity | United States of America | 0-2 years | https://reliefweb.int/node/4224504 |
+| 2026-12-07 | 2026-10-08 | Monitoring, Evaluation and Learning Specialist | Habitat for Humanity | United Kingdom of Great Britain and Northern Ireland | 5-9 years | https://reliefweb.int/node/4233044 |
+| 2026-12-08 | 2026-10-09 | AI Platform Engineer | International Rescue Committee | United States of America | 3-4 years | https://reliefweb.int/node/4233231 |
 | 2026-12-08 | 2026-09-09 | Head of support services (F/M) - Lebanon | Médecins du Monde | Lebanon | 3-4 years | https://reliefweb.int/node/4229182 |
 | 2026-12-08 | 2026-09-08 | Tupande Zone Supervisor - Mtaragon | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4228831 |
 | 2026-12-09 | 2026-09-10 | Medical coordinator (F/M) - Yemen | Médecins du Monde | Yemen | 3-4 years | https://reliefweb.int/node/4229281 |
@@ -1378,9 +1409,12 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-10 | 2026-09-10 | Tupande Cashew Extension & Aggregation Officer (Fixed-term) | One Acre Fund | Kenya | 0-2 years | https://reliefweb.int/node/4229306 |
 | 2026-12-10 | 2026-09-10 | Tupande Cashew Extension and Aggregation Supervisor (Fixed-term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4229305 |
 | 2026-12-11 | 2026-09-11 | Burundi Recruitment Intern | One Acre Fund | Burundi | 0-2 years | https://reliefweb.int/node/4229496 |
+| 2026-12-15 | 2026-10-08 | Sudan - Field Coordinator (M/F) - Ed Daein | Solidarités International | Sudan | 3-4 years | https://reliefweb.int/node/4233157 |
 | 2026-12-15 | 2026-09-16 | Responsable des programmes humanitaires (H/F) | Plan International | France | 5-9 years | https://reliefweb.int/node/4230160 |
 | 2026-12-15 | 2026-06-19 | General Director | Intiwawa en acción | Peru | 3-4 years | https://reliefweb.int/node/4216913 |
 | 2026-12-15 | 2025-10-17 | Tunisia M&E and Research Field Manager | STOOS CONSULTING | Tunisia | 3-4 years | https://reliefweb.int/node/4181604 |
+| 2026-12-15 | 2025-01-02 | Social Science Researcher - Volunteer | International Women's Initiative | — | 3-4 years | https://reliefweb.int/node/4122264 |
+| 2026-12-16 | 2026-10-06 | Malawi Farmer Behavior & Extension Design Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4232833 |
 | 2026-12-16 | 2026-09-22 | Tupande Export Logistics Senior Specialist | One Acre Fund | Kenya | 5-9 years | https://reliefweb.int/node/4230931 |
 | 2026-12-16 | 2026-09-21 | Malawi Extension Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4230643 |
 | 2026-12-16 | 2026-09-17 | Malawi Extension Lead | One Acre Fund | Malawi | 5-9 years | https://reliefweb.int/node/4230256 |
@@ -1393,7 +1427,6 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-23 | 2026-09-29 | Zambia Client Experience Senior Coordinator (Fixed-term) | One Acre Fund | Zambia | 3-4 years | https://reliefweb.int/node/4231864 |
 | 2026-12-23 | 2026-09-22 | Rwanda Driver (Fixed-Term) | One Acre Fund | Rwanda | 0-2 years | https://reliefweb.int/node/4230895 |
 | 2026-12-26 | 2026-09-29 | Tupande Senior Quality Assurance Supervisor (Fixed-term) | One Acre Fund | Kenya | 3-4 years | https://reliefweb.int/node/4231881 |
-| 2026-12-29 | 2026-09-30 | Chargé de financements (F/H) - République Démocratique de Congo | Médecins du Monde | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232023 |
 | 2026-12-29 | 2026-09-29 | Medical Coordinator (F/M) - Afghanistan | Médecins du Monde | Afghanistan | 3-4 years | https://reliefweb.int/node/4231785 |
 | 2026-12-30 | 2026-10-05 | Zambia Field Operations & Performance Specialist (Fixed-Term) | One Acre Fund | Zambia | 3-4 years | https://reliefweb.int/node/4232583 |
 | 2026-12-30 | 2025-11-19 | Project Manager | Partners in Health | Liberia | 5-9 years | https://reliefweb.int/node/4187353 |
@@ -1420,10 +1453,15 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2026-12-31 | 2026-04-16 | Field Enumerator | CTG (Committed To Good) | Ukraine | 3-4 years | https://reliefweb.int/node/4207780 |
 | 2026-12-31 | 2026-01-13 | Military English Language Training (ELT) Program — Jordan | Amideast | Jordan | 5-9 years | https://reliefweb.int/node/4193974 |
 | 2026-12-31 | 2025-12-20 | Appel général a candidatures - Intégration au pool d’experts en logistique humanitaire et en solutions digitales | Deve Consult | — | 5-9 years | https://reliefweb.int/node/4191509 |
+| 2026-12-31 | 2025-10-31 | ADMINISTRATIVE COORDINATOR PAKISTAN M/F | Secours Islamique France | Islamabad, Pakistan | 5-9 years | https://reliefweb.int/node/4184163 |
 | 2026-12-31 | 2025-01-09 | National Intern (full- or part-time) | Peace Brigades International | Kathmandu, Nepal | 0-2 years | https://reliefweb.int/node/4123686 |
 | 2026-12-31 | 2023-09-28 | Events and Campaigns Coordinator | Latin American Foundation for the Future | Cusco, Peru | 0-2 years | https://reliefweb.int/node/4001165 |
 | 2026-12-31 | 2023-09-28 | Fundraising Coordinator | Latin American Foundation for the Future | Cusco, Peru | 0-2 years | https://reliefweb.int/node/4001164 |
+| 2027-01-03 | 2026-10-12 | Rwanda Senior Networks Technician | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4233637 |
+| 2027-01-03 | 2026-10-12 | Rwanda Audit Compliance Specialist (Fixed-term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4233634 |
+| 2027-01-03 | 2026-10-06 | Chargé·e de projets CDI (H/F) | Plan International | France | 3-4 years | https://reliefweb.int/node/4232895 |
 | 2027-01-03 | 2026-10-05 | Rwanda Master Data and Integration Specialist (Fixed-term) | One Acre Fund | Rwanda | 3-4 years | https://reliefweb.int/node/4232585 |
+| 2027-01-10 | 2026-10-12 | Responsable du Pôle Conformité et Finances CDI (H/F) | Plan International | France | 5-9 years | https://reliefweb.int/node/4233681 |
 | 2027-01-17 | 2026-01-29 | Cash and Market Systems Specialist Mozambique Pemba | Norwegian Refugee Council | Mozambique | 5-9 years | https://reliefweb.int/node/4196274 |
 | 2027-02-28 | 2026-09-16 | AV Driver (HH) | CTG (Committed To Good) | Ukraine | 3-4 years | https://reliefweb.int/node/4230044 |
 | 2027-03-31 | 2026-09-09 | Expresión de Interés para Organizaciones Nacionales | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4229160 |
@@ -1441,1012 +1479,27 @@ Open postings only (date.closing >= 2026-10-06). Unique jobs: 736.
 | 2027-09-07 | 2026-08-04 | Migration and Redevelopment of the MSFEA Association Membership Portal | Médecins Sans Frontières | Kenya | 3-4 years | https://reliefweb.int/node/4224117 |
 | 2027-09-11 | 2026-09-30 | Líder de Protección - Santa Bárbara del Zulia | Danish Refugee Council | Venezuela (Bolivarian Republic of) | 3-4 years | https://reliefweb.int/node/4232034 |
 | 2027-10-18 | 2025-10-01 | Energy Auditor: Industrial Energy Efficiency | Tetra Tech | Kyiv, Ukraine | 5-9 years | https://reliefweb.int/node/4178463 |
-| 2028-02-29 | 2026-08-03 | Proposal Writing & Business Development Manager | Amideast | Jordan | 5-9 years | https://reliefweb.int/node/4223871 |
+| 2027-10-31 | 2026-10-07 | Pediatrician | Médecins Sans Frontières | Democratic Republic of the Congo | 3-4 years | https://reliefweb.int/node/4232989 |
 | 2028-08-24 | 2026-06-08 | Contrôleur.euse de Gestion - SIEGE- basé à FRA-Asnieres-sur-Seine | Première Urgence Internationale | France | 3-4 years | https://reliefweb.int/node/4215240 |
 | 2028-08-31 | 2026-07-09 | Fundraising Manager | Syrian American Medical Society Foundation | United States of America | 5-9 years | https://reliefweb.int/node/4220591 |
 | 2029-05-10 | 2024-04-30 | National Consultant-Project Coordinator-UNFPA South Sudan | United Nations Population Fund | — | 5-9 years | https://reliefweb.int/node/4058799 |
 
 ## Body snippets (unique jobs, by closing date)
 
-### Project Manager — Human Rights Legal Project — closes 2026-10-06
-https://reliefweb.int/node/4230689  
-Terms: migration, migration-data, displacement  
-Vacancy Announcement **Project Manager** **Location:** Samos (Vathy), Greece **Position Type:** Full-time **Reporting to:** Board **Salary and Contract:** 12-month fixed-term contract, with the possibility of extension. Salary of €1200 net/month, paid in 14 instalments in line with Greek practice. **Starting date:** As soon as possible ## **Organisational Context** The Human Rights Legal Project (HRLP) works to defend the dignity and fundamental rights of displaced people within the European Union, and at its borders, by providing legal assistance to individuals and affected communities, and b…
-
-### International Consultant - Technical supervision of afloat repair, mechanical refurbishment, system restoration, testing and handover of Tugboat Danu — UN Development Programme — closes 2026-10-06
-https://reliefweb.int/node/4232020  
-Terms: migration-data, data-me  
-**Position Information** - Organization: UNDP Yemen, through Stars Orbit Consultants and Management Development (SOC). - VA No. VA26/186 - Position Title: International Consultant - Technical supervision of afloat repair, mechanical refurbishment, system restoration, testing and handover of Tugboat Danum 61 - Duty Station: Mukalla, Hadramout Governorate, Yemen. Field-based assignment with regular presence at the vessel/worksite and other relevant project locations in Mukalla as required. No dedicated UNDP office/workstation will be provided. - National or International Consultancy: Internation…
-
-### Intern - Information Management — UN Office for the Coordination of Humanitarian Affairs — closes 2026-10-06
-https://reliefweb.int/node/4231692  
-Terms: migration-data, data-me  
-**Work Location** Istanbul (in-person, remotely or hybrid); Full-time/Part-time **Expected duration** October - March 2026 **Duties and Responsibilities** The Office for the Coordination of Humanitarian Affairs (OCHA) is the part of the UN Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. OCHA's mission is to mobilize and coordinate effective and principled humanitarian action in partnership with national and international actors in order to alleviate human suffering in disasters and emergencies; advocate the rights of people in nee…
-
-### Protection Assistant - Child Protection — Danish Refugee Council — closes 2026-10-06
-https://reliefweb.int/node/4231662  
-Terms: migration-data, displacement, data-me  
-Danish Refugee Council, one of the world’s leading humanitarian NGOs, is currently looking for a highly qualified **Protection Assistant - Child Protection**. ## **About the job** DRC will provide child protection services for children in Tripoli to respond to the pressing humanitarian needs. To prevent and respond to the risk of exploitation, violence, abuse and harm, DRC will establish Child Friendly Spaces and provide case management services to children at risk. In addition DRC will train and support educators to use learning through play methodologies in education services. The Protection…
-
-### NTS/EORE Team Member / Aleppo, Raqqa & Hasakah — DanChurchAid — closes 2026-10-06
-https://reliefweb.int/node/4230940  
-Terms: migration-data, data-me  
-**DanChurchAid (DCA) Syria** invites applications for an experienced **NTS/EORE Team Member** to join our dedicated team. - Under the supervision of the NTS/EORE Team Leader, undertake assigned Non-Technical Survey (NTS) and Explosive Ordnance Risk Education (EORE) activities in accordance with applicable DCA procedures and operational tasking. - Conduct NTS through the systematic collection, recording and reporting of information from communities, authorities and other relevant sources relating to suspected explosive ordnance contamination and humanitarian impact, without independently determ…
-
-### MEAL Officer, OCHA Project- National Position — ZOA — closes 2026-10-06
-https://reliefweb.int/node/4230938  
-Terms: migration-data, displacement, data-me  
-**Position: MEAL Officer (OCHA Project) - National Position** **Reports to: MEAL Coordinator** **Job location:** Kiryandongo, Palorinya and Rhino Camp **Starting date:** November 2026 **Vacancy closing date: 6th October 2026** **Duration position:** 10 months renewable contract **Working hours:** Fulltime (40 hours per week) **Please note:** The recruitment for this position is contingent upon confirmation of project funding. The position will only be filled subject to the availability and confirmation of the required funding. **About ZOA** ***We are here for people who have lost everything du…
-
-### NTS/EORE Team Leader / Aleppo, Raqqa & Hasakah — DanChurchAid — closes 2026-10-06
-https://reliefweb.int/node/4230937  
-Terms: migration-data, data-me  
-**DanChurchAid (DCA) Syria** invites applications for an experienced **NTS/EORE Team Leader** to join our dedicated team. Under the supervision of the NTS/EORE Coordinator, the NTS/EORE Team Leader is responsible for planning, coordinating, supervising and monitoring Non-Technical Survey (NTS) and Explosive Ordnance Risk Education (EORE) activities implemented by the assigned NTS/EORE team. The position ensures that NTS and EORE activities are delivered effectively, safely and in accordance with DCA policies, SOPs and applicable humanitarian mine action standards. The NTS/EORE Team Leader supe…
-
-### Project Officer, WASH (OCHA Project) - National Position — ZOA — closes 2026-10-06
-https://reliefweb.int/node/4230936  
-Terms: migration-data, displacement, data-me  
-Position: **Project Officer, WASH (OCHA Project) - National Position** **Reports to:** Project Coordinator, WASH **Job location:** Kiryandongo, Palorinya & Rhino Camp (1 per location) **Starting date:** November 2026 **Vacancy closing date:** 6th October 2026 **Duration position:** 10 months contract **Working hours:** Fulltime (40 hours per week) **Please note:** The recruitment for this position is contingent upon confirmation of project funding. The position will only be filled subject to the availability and confirmation of the required funding. **About ZOA** ***We are here for people who …
-
-### Project Manager, WASH (OCHA Project)- National position — ZOA — closes 2026-10-06
-https://reliefweb.int/node/4230935  
-Terms: migration-data, displacement, data-me  
-**Position: Project Manager, WASH (OCHA Project) - National Position** **Reports to:** Program Manager, West Nile **Job location:** West Nile, Arua **Starting date:** November 2026 **Vacancy closing date:** 6th October 2026 **Duration position:** 10 months contract **Working hours:** Fulltime (40 hours per week) **Please note:** The recruitment for this position is contingent upon confirmation of project funding. The position will only be filled subject to the availability and confirmation of the required funding. **About ZOA** ***We are here for people who have lost everything due to armed co…
-
-### Project Coordinator, WASH (OCHA Project) - National Position — ZOA — closes 2026-10-06
-https://reliefweb.int/node/4230934  
-Terms: migration-data, displacement, data-me  
-**Position: Project Coordinator, WASH (OCHA Project) - National Position** **Reports to:** Project Manager, WASH **Job location:** Kiryandongo, Palorinya & Rhino Camp (1 per location) **Starting date:** November 2025 **Vacancy closing date:** 6th October 2026 **Duration position:** 10 months contract **Working hours:** Fulltime (40 hours per week) **Please note:** The recruitment for this position is contingent upon confirmation of project funding. The position will only be filled subject to the availability and confirmation of the required funding. **About ZOA** ***We are here for people who …
-
-### Regional Head of Operational Support — Norwegian Refugee Council — closes 2026-10-06
-https://reliefweb.int/node/4230917  
-Terms: migration-data, displacement, data-me  
-## **Background:** The Norwegian Refugee Council (NRC) is an independent humanitarian organisation dedicated to protecting the rights of displaced and affected people during crises. NRC delivers high-quality programmes to support people forced to flee, helping them rebuild their lives and establish a new future. NRC provides immediate humanitarian assistance, prevents further displacement, and contributes to durable solutions. It operates across both new and protracted crises across 40 countries. The country programmes in the East and Southern Africa region incorporate Ethiopia, Uganda, South …
-
-### Finance Manager - EA — Médecins Sans Frontières — closes 2026-10-06
-https://reliefweb.int/node/4230898  
-Terms: migration-data, data-me  
-## **MSF Eastern Africa is looking for a Finance Manager** *Do your skills and experience not precisely match the requirements? At MSF EA, we strive to create a safe, diverse and inclusive workplace, recognizing the need to increase access to professional opportunities for historically underrepresented groups. If you're interested in this position but your experience doesn't align perfectly with the selection criteria, we encourage you to apply anyway. You might be the ideal candidate for this or other positions.* *Firmly committed to safeguarding patients, community members, staff, and all th…
-
-### Manager, Programme Design and Development — MSI Reproductive Choices — closes 2026-10-06
-https://reliefweb.int/node/4230893  
-Terms: migration-data, data-me  
-**About MSI** MSI Reproductive Choices is one of the world’s leading providers of sexual and reproductive healthcare. We believe that everyone should have the right to choose. From contraception to safe abortion and life-saving post-abortion care, we are committed to delivering compassionate, affordable, high-quality services for all. Today, our organisation has around 10,000 team members working in 36 countries across the world. Our success lies in the fact that MSI teams are locally led, entrepreneurial and results-driven, and are passionate about delivering high quality, client-centred care…
-
-### Consultancy to Develop a Western Indian Ocean Regional 30x30 Strategy and Regenerative Seascapes Toolkit — International Union for Conservation of Nature — closes 2026-10-06
-https://reliefweb.int/node/4230338  
-Terms: migration-data, data-me  
-**Consultancy to Develop a Western Indian Ocean Regional 30x30 Strategy and Regenerative Seascapes Toolkit** ## Objective of the Consultancy The objective of this consultancy is to support IUCN and its partners to develop a practical, ambitious and action-oriented Western Indian Ocean (WIO) Regional 30x30 Strategy and Roadmap, identifying tangible and scalable pathways through which the region can accelerate progress towards conserving and effectively managing at least 30% of marine and coastal areas by 2030. With only four years remaining to achieve the 2030 target, the consultancy will build…
-
-### Graphic Design and Visualisation of the IslandPlas Plastic Waste Profiles — International Union for Conservation of Nature — closes 2026-10-06
-https://reliefweb.int/node/4230337  
-Terms: migration-data, data-me  
-**Terms of Reference for IUCN Consultancy** **Title: Graphic Design and Visualisation of the IslandPlas Plastic Waste Profiles** **Objective of the Consultancy** The objective of this consultancy is to engage an experienced graphic designer or design agency to develop an understandable, engaging and accessible visual identity for the seven IslandPlas national Plastic Waste Profiles (PWPs), covering Cabo Verde, Comoros, Madagascar, Mauritius, São Tomé and Príncipe, Seychelles, and Zanzibar. IUCN holds in its possession the draft PWP reports, and the aim of this consultancy is to transform these…
-
-### INCLUSION COMMUNICATIONS OFFICER — Médecins Sans Frontières — closes 2026-10-06
-https://reliefweb.int/node/4230428  
-Terms: migration-data, data-me  
-**Médecins Sans Frontières,** founded in 1971, is an international medical humanitarian organization that provides emergency medical assistance to people affected by conflict, epidemics, disasters or exclusion from health care. Our teams are made up of tens of thousands of medical professionals, logistics, administrative and various other professions, all guided by our medical ethics and our principles of impartiality, independence and neutrality. **MSF WaCA,** created in 2019, is the first MSF headquarters in Africa, and responds to the desire to reinvent the MSF movement after 50 years of hu…
-
-### HEAD OF PEOPLE SAFEGUARDING AND INCLUSION — Médecins Sans Frontières — closes 2026-10-06
-https://reliefweb.int/node/4230425  
-Terms: migration-data, data-me  
-**Médecins Sans Frontières,** founded in 1971, is an international medical humanitarian organization that provides emergency medical assistance to people affected by conflict, epidemics, disasters or exclusion from health care. Our teams are made up of tens of thousands of medical professionals, logistics, administrative and various other professions, all guided by our medical ethics and our principles of impartiality, independence and neutrality. **MSF WaCA,** created in 2019, is the first MSF headquarters in Africa, and responds to the desire to reinvent the MSF movement after 50 years of hu…
-
-### Head of Partnerships — Access to Nutrition initiative — closes 2026-10-06
-https://reliefweb.int/node/4230248  
-Terms: migration-data, data-me  
-## **About ATNi** ATNi (Access to Nutrition Initiative) is a global nonprofit actively challenging the food industry, investors and policymakers to shape healthier food systems. We analyse and translate data into actionable insights, driving partnerships, finance and innovations for market transformation so that all people have access to nutritious and sustainable food. ATNi is registered in the Netherlands and two dozen staff as well as over a dozen advisors and consultants. For more information on ATNi, please visit our website. [https://accesstonutrition.org/](https://accesstonutrition.org/…
-
-### Provision of Catering/Canteen Services – Wasaa Complex — International Union for Conservation of Nature — closes 2026-10-06
-https://reliefweb.int/node/4229032  
-Terms: migration-data, data-me  
-**Terms of Reference for IUCN Consultancy** **Title: Provision of Catering/Canteen Services – Wasaa Complex** **There will be a mandatory site visit on the 14/09/2026 at Wasaa Conservation centre on Mukoma Road, off Magadi Road** **Objective of the Consultancy** This consultancy has the following objective(s): 1. To appoint a competent catering service provider capable of operating a professional catering service from the IUCN ESARO Wasaa Campus. 2. To secure reliable, high-quality, and value-for-money routine catering services (tea and lunch) for IUCN staff and authorised users. 3. To establi…
-
-### Request for Proposal (RFP) – Organizational Spend Analysis Consultancy — Netherlands Red Cross — closes 2026-10-06
-https://reliefweb.int/node/4227645  
-Terms: migration-data, data-me  
-## **All questions from bidders will be registered and shared publicly for transparency and fairness:** [**NLRC RFP 1352\_Register of Questions.docx**](https://rodekruis.sharepoint.com/sites/Meetingsinternational/_layouts/15/guestaccess.aspx?share=IQDzwCy7DHk0QYlANjvvFxBPAaGV41pPISUWYYVBM5gZbW8&e=StNOKy) ## **Find the Complete folder** [**TD 2026 1352\_ Spend Analysis**](https://rodekruis.sharepoint.com/sites/Meetingsinternational/_layouts/15/guestaccess.aspx?share=IgDW-RcKzARKSZo_Y5kl7ZGrAdVnetaX2kz-AwEj2Leo2E8&e=zTlbKm) **with all supporting documents including the Terms of Reference and Req…
-
-### Psychosocial Support Expert - Consultancy — Media in Cooperation and Transition — closes 2026-10-06
-https://reliefweb.int/node/4231697  
-Terms: displacement, data-me  
-**Keeping the Story Alive: Strategic Citizen Journalism in Sudan** ## **Project Background** Sudan’s information ecosystem faces severe challenges amidst ongoing conflict. Professional journalists and citizen reporters operating inside Sudan document critical field realities under extreme pressure, insecurity, and personal risk. Exposure to conflict, displacement, and traumatic events creates a significant psychological burden and complex mental health challenges for frontline reporters. **Role Objective** The Psychosocial Support Expert provides mental health and group therapy expertise, desi…
-
-### Call for a Project Manager – Lesvos — Yoga and Sports with Refugees — closes 2026-10-06
-https://reliefweb.int/node/4231266  
-Terms: displacement  
-At YSR, we believe that sport is more than physical activity — it is a powerful tool for connection, empowerment, inclusion, and community building. Since 2017, YSR has been creating free and inclusive sports spaces for refugees, asylum seekers, locals, volunteers, and people from all backgrounds. What started on the island of Lesvos as a grassroots initiative responding to the lack of access to sports and wellbeing opportunities has grown into an international community operating across Greece and Europe. Through our gyms and programs in Lesvos, Athens, and Paris, we aim to improve physical a…
-
-### Global Supply Chain Localisation Advisor — Danish Refugee Council — closes 2026-10-06
-https://reliefweb.int/node/4231107  
-Terms: displacement, data-me  
-Every year, humanitarian organisations rely on supply chains to deliver life-saving assistance to people affected by conflict, displacement, disasters and crises around the world. Strengthening the role of local actors within these supply chains — and how international and local actors plan, coordinate and deliver together — is a key part of building more sustainable and locally led humanitarian responses The Danish Refugee Council (DRC), one of the world's leading humanitarian NGOs, is looking for a highly qualified and experienced supply chain professional to help drive this agenda at a glob…
-
-### Country Director, South Sudan — Norwegian Refugee Council — closes 2026-10-06
-https://reliefweb.int/node/4230923  
-Terms: displacement, data-me  
-## **Background:** The humanitarian situation in South Sudan remains one of the most severe and complex crises driven by conflict, economic collapse, climate shocks, disease outbreaks, mass displacement, and shrinking humanitarian funding. An estimated 10 million people will experience critical needs in 2026. The conflict in neighbouring Sudan continues to drive refugee inflows and returnee movements into South Sudan, placing additional pressure on already overstretched services and humanitarian systems. Over 1 million people have crossed into South Sudan since the Sudan conflict began. Access…
-
-### Operations Manager ATLAS logistique - RDC — Humanity & Inclusion — closes 2026-10-06
-https://reliefweb.int/node/4231481  
-Terms: data-me  
-**Lieu : Bunia RDC** **Date souhaitée de démarrage : début novembre 2026** **Durée de contrat : 5 mois** Handicap International / Humanity & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins essentiels et améliorer leurs conditions de vie. Elle s’engage à promouvoir le respect de leur dignité et de leurs droits fondamentaux. Chez Handicap Intern…
-
-### Senior Finance Officer — REACH Initiative — closes 2026-10-06
-https://reliefweb.int/node/4230916  
-Terms: data-me  
-**Assignment** The IMPACT/REACH Syria mission, present in Damascus since 2025 and with activities in Syria since 2012, has traditionally had finance support from both the Acted Syria mission as well as dedicated IMPACT/REACH support in Amman. Since a shift in activities and location to Damascus, IMPACT/REACH is in the process of setting up a more independent finance structure to support activities in Syria. As such, IMPACT/REACH is looking for an experienced Senior Finance Officer, with ability to lead and advise on financial priorities, think critically about and manage financial workflows, m…
-
-### Formation des volontaires NDRT (National Disaster Response Team) / techniciens de la Croix-Rouge Malagasy sur les techniques constructives en terre — Croix-Rouge luxembourgeoise — closes 2026-10-06
-https://reliefweb.int/node/4230856  
-Terms: data-me  
-L’Aide internationale de la Croix-Rouge luxembourgeoise (AICRL) recherche un.e consultant.e ou un bureau d’étude pour mener à bien la mission suivante : **Titre** : Formation des volontaires NDRT (National Disaster Response Team) / techniciens de la Croix-Rouge Malagasy sur les techniques constructives en terre. **Contexte :** La Croix‑Rouge Malagasy (CRM), avec l’appui de l’Aide internationale de la Croix‑Rouge Luxembourgeoise (AICRL), agit depuis plusieurs années pour renforcer la résilience des communautés face aux aléas climatiques. Cependant, il est apparu nécessaire d’aller plus loin en …
-
-### Physiothérapeute – Santé de la Femme F/H — Médecins Sans Frontières — closes 2026-10-06
-https://reliefweb.int/node/4230149  
-Terms: data-me  
-Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. La Fondation MSF est une entité satellite créée en 1989 par Médecins Sans Frontières qui se consacre à l’innovation médicale pour le contexte humanitaire. Sa mission, au nom de MSF, est d’être un laboratoire d’innovation et d’incuber des projets à haute incertitude et fort impact pour le secteur…
-
-### Senior Investigator, P4, JFO, JO#283859 — UN Relief and Works Agency for Palestine Refugees in the Near East — closes 2026-10-06
-https://reliefweb.int/node/4229579  
-Terms: data-me  
-Org. Setting and Reporting UNRWA, the largest United Nations operation in the Middle East with over 25,000 staff and complementary personnel working across five areas of operation, is looking for highly committed personnel wishing to make a change. If you are looking for a challenging and rewarding opportunity to help safeguard the integrity of UNRWA's operations through high-quality investigations and independent oversight, while supporting the Agency's mission to serve one of the world's most vulnerable communities, UNRWA would like to hear from you. The incumbent reports to the Chief, Inves…
-
-### Project Manager-Local Position (Re-advertised) — Expertise France — closes 2026-10-06
-https://reliefweb.int/node/4225132  
-Terms: data-me  
-**English:** 1. **DESCRIPTION OF THE AGENCY** **Expertise France** is the French public agency responsible for designing and implementing international technical cooperation projects. The agency operates around four priority areas: - Democratic, economic and financial governance; - Peace, stability and security; - Climate, agriculture and sustainable development; - Health and human development. In these areas, Expertise France provides project engineering and implementation support, contributes to capacity-building initiatives, mobilises technical expertise, and acts as a project integrator br…
-
-### Team Leader – Evaluation on Humanitarian Assistance, Recovery and Protection in Ukraine Ukraine / Kyiv | Project-based consultancy — Voluntas — closes 2026-10-07
-https://reliefweb.int/node/4231700  
-Terms: migration, migration-data, data-me  
-**Team Leader – Evaluation on Humanitarian Assistance, Recovery and Protection in Ukraine / Kyiv | Project-based consultancy | Anticipated end 2026–mid 2027** **About Voluntas (Latin: will, goal, purpose, meaning)** Voluntas was created from the fundamental belief that all human beings have the inherent right to live a meaningful life. **That is why we exist: to realize human potential in all corridors of life** – making every workplace, community, and country on the planet full of hope and dignity. Philosophers by heart and advisors by profession, we use our insights to provide evidence-based…
-
-### HR Associate (Staff Development and Learning) — International Organization for Migration — closes 2026-10-07
-https://reliefweb.int/node/4231055  
-Terms: migration, migration-data, data-me  
-**Position Title: HR Associate (Staff Development and Learning)** **Reference Code: VN 098/2026** **Job classification: General Service Staff** **Duty station: Global Shared Services Centre (GSSC)** **Type of Appointment: One year fixed-term with possibility of extension** **Salary: Php 876,102.00 per annum net of taxes** **Context** Within the Integrated Talent Management Division (ITMD) and under the Department of Human Resources (DHR), the Staff Development and Learning (SDL) unit is responsible for the development, implementation and management of programmes and initiatives established in …
-
-### RFQ/328/2026/GAH/ROAS Event management for the third Meeting of the Joint Technical Committee of the PWP – Kurdistan Region of Iraq Duhok — International Labour Organization — closes 2026-10-07
-https://reliefweb.int/node/4232282  
-Terms: migration-data, data-me  
-RFQ/328/2026/GAH/ROAS Event management for the third Meeting of the Joint Technical Committee of the PWP – Kurdistan Region of Iraq Duhok, Iraq 14 - 15 October 2026 ## Background and Context: The PROSPECTS Partnership (Partnership for Improving Prospects for Host Communities and Forcibly Displaced Persons) was launched in 2019 by the Government of the Kingdom of the Netherlands. The Partnership brings together the International Labour Organization (ILO), the International Finance Corporation (IFC), UNHCR, UNICEF and the World Bank to deliver complementary interventions in education, skills dev…
-
-### Monitoring, Evaluation, Accountability and Learning (MEAL) Officer(Mogadishu) — Center for Civilians in Conflict — closes 2026-10-07
-https://reliefweb.int/node/4232163  
-Terms: migration-data, data-me  
-**About CIVIC** Center for Civilians in Conflict (CIVIC) Center is an international nonprofit and nongovernmental organization with offices around the world working to improve protection for civilians in conflict zones. Our mission is to support communities affected by conflict in their quest for protection and strengthen the resolve and capacity of armed actors and relevant institutions to prevent and respond to civilian harm. We are advocates who believe that no civilian caught in conflict should be ignored, and advisors who provide practical solutions to preventing and responding to civilia…
-
-### FACE-TO-FACE FUNDRAISER — Médecins Sans Frontières — closes 2026-10-07
-https://reliefweb.int/node/4232035  
-Terms: migration-data, data-me  
-## **MSF Eastern Africa is looking for a Face-to-Face Fundraiser** *Do your skills and experience not precisely match the requirements? At MSF EA, we strive to create a safe, diverse and inclusive workplace, recognizing the need to increase access to professional opportunities for historically underrepresented groups. If you're interested in this position but your experience doesn't align perfectly with the selection criteria, we encourage you to apply anyway. You might be the ideal candidate for this or other positions.* *Firmly committed to safeguarding patients, community members, staff, an…
-
-### Electoral Inclusion and Accessibility Consultant — UN Development Programme — closes 2026-10-07
-https://reliefweb.int/node/4231947  
-Terms: migration-data, displacement, data-me  
-**POSITION INFORMATION** - Organization: UNDP Lebanon Through Stars Orbit Consultants and Management Development - VA No.: UNDP/LBN/VA26/185 - Position Title: Electoral Inclusion and Accessibility Consultant - Duty Station: work from home, with occasional meetings with UNDP - Duration: 2 months (without exceeding 18 working days per month) - Vacancy Date of Issue: 30 September 2026 - Vacancy Closure Date: 07 October 2026 - National or International consultancy: National consultancy To review the full Terms of Reference (TOR), please follow link: [https://drive.google.com/file/d/1k4qiQaXRNZG8ii…
-
-### Consultancy Opportunity – Water Sector Specialists | Somalia — Accord Worldwide — closes 2026-10-07
-https://reliefweb.int/node/4231726  
-Terms: migration-data, data-me  
-**Important notice** This recruitment is being conducted in connection with a **competitive proposal currently under preparation**. Inclusion of a candidate in the proposed team does not constitute an offer of employment or guarantee of an assignment. Any engagement will be subject to successful contract award, final client requirements, verification of qualifications and experience, availability, and agreement on contractual terms. **About Accord Worldwide, Inc.** Accord Worldwide, Inc., through its professional training brand Accordemy®, provides training, capacity development, institutional…
-
-### Protection Assistant - Child Protection - Case Management — Danish Refugee Council — closes 2026-10-07
-https://reliefweb.int/node/4231660  
-Terms: migration-data, displacement, data-me  
-Danish Refugee Council, one of the world’s leading humanitarian NGOs, is currently looking for a highly qualified **Protection Assistant - Child Protection - Case Management**. ## **About the job** DRC will provide child protection services for children in Tripoli to respond to the pressing humanitarian needs. To prevent and respond to the risk of exploitation, violence, abuse and harm, DRC will establish Child Friendly Spaces to provide essential prevention activities, such as awareness raising and psychosocial support activities, as well as to ensure early identification and referrals of chi…
-
-### Account Administrator — CTG (Committed To Good) — closes 2026-10-07
-https://reliefweb.int/node/4231659  
-Terms: migration-data, data-me  
-Overview of position The Account Administrator supports the Account Management team by handling a variety of administrative tasks related to CTG consultants. The role involves managing consultant documentation, overseeing the recruitment and onboarding processes, maintaining consultant data, and ensuring compliance with internal policies and external regulations. The Account Administrator ensures smooth operations and effective communication with consultants, contributing to the efficient delivery of services to clients. This position plays a key role in supporting the overall success of the a…
-
-### Chief Audit Executive (CAE) / Head of Internal Audit — Asian Disaster Preparedness Center — closes 2026-10-07
-https://reliefweb.int/node/4231635  
-Terms: migration-data, data-me  
-**Background:** The Asian Disaster Preparedness Center (ADPC) is an autonomous international organization working to build the resilience of people and institutions to disasters and climate change in Asia and the Pacific. ADPC operates through partnerships with governments, development partners, donors, civil society, academia, and other stakeholders, and manages programs, grants, projects, country operations, procurement, finance, human resources, information systems, and other institutional functions. ADPC has adopted the Three Lines Governance Model. Management owns and manages risks; Risk …
-
-### APS Program Analyst — US Department of State — closes 2026-10-07
-https://reliefweb.int/node/4231348  
-Terms: migration-data, data-me  
-**Overview** Join a team where innovation meets mission. Our AI, cloud, cyber, and modernization solutions save agencies thousands of hours, safeguard national security, and strengthen health and humanitarian missions worldwide. With 1,700+ team members, 1,500+ AI/data experts, and 100+ prime contracts, we deliver at scale and with purpose. We’ve been recognized as a Top Workplace by The Washington Post for six consecutive years and named to the Inc. 5000 Fastest Growing Private Companies list in 13 of the past 14 years. Credence is a welcoming environment for those looking to grow and make a …
-
-### Finance, Compliance and Grants Coordinator - GORS — Global Emergency Group — closes 2026-10-07
-https://reliefweb.int/node/4231331  
-Terms: migration-data, data-me  
-**Location:** Remote **Consultancy**: part-time, 30 hours per week, for 3 months with the possibility of extension **Compensation:** US$50 -$60 per hour, depending on experience **Background** Global Outbreak Response Support (GORS) delivered by Global Emergency Group, Inc. (GEG), under a cooperative agreement with the U.S. Department of State's Bureau of Global Health Security and Diplomacy (GHSD), provides rapid activation, surge response, and transition support enabling countries to detect, contain, and recover from infectious disease outbreaks. GEG leads GORS as the prime recipient, buildi…
-
-### Finance Manager - Kenya/ Somalia / Ethiopia (Kenyan Nationals only) — Johanniter-Unfall-Hilfe — closes 2026-10-07
-https://reliefweb.int/node/4231143  
-Terms: migration-data, data-me  
-**Job Location - Nairobi, Kenya** **Overall Job Purpose** The Finance Manager is responsible for the effective operational financial management of the Kenya, Somalia and Ethiopia country programmes, ensuring the implementation of robust systems for accounting, compliance, budgeting and reporting, in alignment with donor and organizational requirements. The role provides financial leadership and strategic support to programme and operational teams by delivering timely financial information, strengthening financial controls and ensuring sound financial stewardship across the country programme. R…
-
-### Manager - Health Supply Chain Transformation (Kenya Nationals Only) — JSI — closes 2026-10-07
-https://reliefweb.int/node/4231151  
-Terms: migration-data, data-me  
-**Hiring Unit**:[ inSupply Health](https://insupplyhealth.com/) **Organization Overview:** [**inSupply Health**](https://insupplyhealth.com/insupply-overview/) is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. inSupply operates as a social enterprise, aiming to achieve business sustainability while advancing our social mission. We aim to transition short-term supply chain fixes into sustainable solutions that transcend …
-
-### ICT & Database Intern — Urgent Action Fund-Africa — closes 2026-10-07
-https://reliefweb.int/node/4231079  
-Terms: migration-data, data-me  
-## Who We Are Urgent Action Fund-Africa (UAF-Africa) is a consciously feminist, women’s human rights pan-African Fund registered in Kenya and Zimbabwe. Operating as a virtual organisation, the Fund has a strategic presence across Africa’s five sub-regions: North Africa: Cairo, (Egypt); Nairobi (Kenya), Kampala (Uganda); Central Africa: Douala & Yaoundé (Cameroon); Southern Africa: Harare (Zimbabwe), Lilongwe (Malawi), Antananarivo (Madagascar); Johannesburg, Pretoria & Cape Town (South Africa), Gaborone (Botswana), and West Africa: Ouagadougou (Burkina Faso). Recognising the need to move resou…
-
-### Area Manager — Sign of Hope — closes 2026-10-07
-https://reliefweb.int/node/4231059  
-Terms: migration-data, data-me  
-Hoffnungszeichen | Sign of Hope e.V. (SoH) is a Christian-motivated international organization working in humanitarian relief, development cooperation and human rights. The organization was founded and is headquartered in Germany. SoH thematic focus areas include Health and Nutrition, WASH, Food Security and Sustainable Livelihoods, Access to Basic Education, Human Rights, Emergency Relief and Resilience Building through directly implemented and partner-implemented projects and programmes. SoH provides emergency relief worldwide and regionally while linking relief, rehabilitation and developme…
-
-### Director, Medical — International Medical Corps — closes 2026-10-07
-https://reliefweb.int/node/4230973  
-Terms: migration-data, data-me  
-**JOB SUMMARY:** The Medical Director is primarily responsible for technical vision, strategy, design, implementation and management of the health programs at senior management level. The Medical Director will work in collaboration with the senior management team and health teams in the field to deliver high-quality health services to the targeted beneficiaries. The Medical Director will make frequent visits to the field sites to ensure the highest standards of service delivery. This role will ensure high-quality clinical services in all IMC-supported health facilities. The role will monitor s…
-
-### CONSULTANT FOR THE TM ADAPTATION TO THE ENVIRONMENT IN DRC — Tearfund — closes 2026-10-07
-https://reliefweb.int/node/4230293  
-Terms: migration-data, data-me  
-**Terms of Reference (ToR)** **Research Consultant: Gender- Environment Research, Transforming Masculinities Adaptation, and M&E System** **I. Post Title:** Research Consultant for Gender-Environment Research, Transforming Masculinities Adaptation, and M&E System **II. Contract Duration:** The total number of working days is 69 **Background** Tearfund DRC plans to implement an initiative focused on the intersection of environment and gender-based violence in Aru territory, Ituri Province in the Democratic Republic of Congo. Environmental degradation, climate change, and resource scarcity in DR…
-
-### MEAL Expert for French-speaking countries — WeWorld — closes 2026-10-07
-https://reliefweb.int/node/4229103  
-Terms: migration-data, data-me  
-**Position:** MEAL Expert for French-speaking countries **Location:** Anywhere in Italy **Reporting Relationship**: Global MEAL Manager **Application deadline:** 07/10/2026 **Starting date:** ASAP **Purpose of the Role** Within the framework of the MEAL Unit and the WeWorld Quality Accountability Unit, the French-speaking MEAL Expert will plan her/his work according to the priorities defined by the Global MEAL Manager and will be responsible for supporting and following WeWorld programmes in French-speaking countries. The MEAL Expert support will be provided partly through remote back-office s…
-
-### Country Finance Manager Ukraine — We World — closes 2026-10-07
-https://reliefweb.int/node/4227286  
-Terms: migration-data, data-me  
-**Position:** Country Finance Manager Ukraine **Location:** Kyiv **Reporting Relationship**: Regional Finance Manager (Functional Line Manager) and Country Representative (Organizational Line Manager) **Application deadline:** 07/10/2026 **Starting date:** ASAP **Family duty station:** NO **Working context** Since the beginning of the conflict in Ukraine, around 17 million people are in need of humanitarian assistance and protection throughout Ukraine. WeWorld works alongside those who, despite the conflict, have decided to stay, those who have returned after having abandoned their homes under…
-
-### Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H — Médecins Sans Frontières — closes 2026-10-07
-https://reliefweb.int/node/4231987  
-Terms: displacement, data-me  
-Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. La mission France recherche un.e : Médiateur.ice Interculturel.le - Basé à Dunkerque. **CONTEXTE** La Mission France de MSF porte assistance aux personnes migrantes en situation de grande vulnérabilité sociale, médicale et/ou psychique sur le territoire français et mène des actions de plaidoyer …
-
-### ICLA Project Manager South Central Syria — Norwegian Refugee Council — closes 2026-10-07
-https://reliefweb.int/node/4231039  
-Terms: displacement, data-me  
-**Background** As the Syrian crisis has entered its 14th year, a record-level 16.7 million people, over 71% of the population, needs humanitarian assistance. Almost half are children. The former government's change in December 2024 sparked hope for the country’s future and for those in need of aid. However, ongoing conflict, economic collapse and record-high humanitarian needs persist throughout the country, coinciding with unprecedented cuts to humanitarian aid globally at a time when aid resources for Syria were already stretched thin. The Norwegian Refugee Council (NRC) has been a leading h…
-
-### NGO Forum Partnerships & Localization Adviser Syria — Norwegian Refugee Council — closes 2026-10-07
-https://reliefweb.int/node/4230052  
-Terms: displacement, data-me  
-**What we are looking for** NRC Syria is in search of an **NGO Forum** **Partnerships and Localization Adviser** who will provide strategic leadership on localisation and partnership strengthening within the Syria NGO Forum, supporting collective efforts to advance locally led humanitarian action and more equitable, principled, and effective partnerships and improve access to quality funding and decision-making opportunities for Syrian civil society organisations including work related to localisation financing, direct funding, risk sharing, indirect cost recovery, and equitable resource alloc…
-
-### Syria : Economic Opportunities Technical Coordinator – Damascus — Agency for Technical Cooperation and Development — closes 2026-10-07
-https://reliefweb.int/node/4228694  
-Terms: displacement  
-**Fixed term | 6 months | November 2026** ## Acted ***Who we are*** Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty. ***Who we are looking for*** You bring the core compet…
-
-### Persona Coordinadora de Monitoreo y Recaudación de Fondos — Peace Brigades International — closes 2026-10-07
-https://reliefweb.int/node/4232075  
-Terms: data-me  
-Este es uno de dos puestos que hacen parte del área de trabajo de Monitoreo y Recaudación de Fondos. Este área de trabajo tiene el objetivo central de asegurar los ingresos para la estabilidad financiera del Proyecto. El Proyecto Colombia de PBI recibe financiación de cerca de 16 entidades europeas y norteamericanas; la meta de recaudación para 2027 es de alrededor de 900.000 Euros\*\*.\*\* **Responsabilidades de la Persona Coordinadora de Monitoreo y Recaudación de Fondos:** Diseñar e implementar la estrategia anual de recaudación de fondos para el Proyecto Colombia. Planificar, desarrollar y…
-
-### Chef de projet de services logistiques ATLAS – Bunia / RDC — Humanity & Inclusion — closes 2026-10-07
-https://reliefweb.int/node/4231691  
-Terms: data-me  
-Lieu : Bunia / RDC Date souhaitée de démarrage : Début novembre 2026 Durée de contrat : 5 mois Handicap International / Humanity & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins essentiels et améliorer leurs conditions de vie. Elle s’engage à promouvoir le respect de leur dignité et de leurs droits fondamentaux. Depuis sa création en 1982, HI…
-
-### Chef de projet de services logistiques ATLAS – Uvira / RDC — Humanity & Inclusion — closes 2026-10-07
-https://reliefweb.int/node/4231683  
-Terms: data-me  
-Lieu : Uvira / RDC Date souhaitée de démarrage : Mi-novembre 2026 Durée de contrat : 3.5 mois Handicap International / Humanity & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins essentiels et améliorer leurs conditions de vie. Elle s’engage à promouvoir le respect de leur dignité et de leurs droits fondamentaux. Depuis sa création en 1982, HI …
-
-### Market Access Lead — Mission for Essential Drugs and Supplies — closes 2026-10-07
-https://reliefweb.int/node/4231401  
-Terms: data-me  
-Mission for Essential Drugs and Supplies (MEDS) is a faith-based health solutions provider founded by an ecumenical partnership of the Kenya Conference of Catholic Bishops (KCCB) and the Christian Health Association of Kenya (CHAK). The Organization’s core mandate is being a reliable provider for quality and affordable Health Products and Technologies, Quality Assurance and Health Systems Strengthening Services. MEDS was established in 1986 and serves clients spread throughout Kenya, other regions in Africa and beyond. Project Summary MEDS is implementing Access to Health Program (ATH) in part…
-
-### Head of Communications and Engagement — Save the Children — closes 2026-10-07
-https://reliefweb.int/node/4231028  
-Terms: data-me  
-**EXTERNAL ANNOUNCEMENT** **TITLE: Head of Communications and Engagement** **Contract Type: National** **TEAM/PROGRAMME: Advocacy, Campaign, Communications and Media (ACCM)** **LOCATION: Bangkok, Thailand** **CONTRACT LENGTH: Open-ended** **ROLE PURPOSE:** The Head of Communications and Engagement will provide overall leadership, management and strategic direction to Save the Children’s communications, campaigns, media, brand, and broader audience engagement work in Thailand. S/he will oversee the development and implementation of communication strategies that strengthen Save the Children’s re…
-
-### Fundraising Manager — Association for the Prevention of Torture — closes 2026-10-07
-https://reliefweb.int/node/4230173  
-Terms: data-me  
-## **Description** Location: Geneva, Switzerland Term: 100% (40 hours/week), open-ended contract Projected start date: 16.11.2026 or earliest available Application deadline: 7.10.26 The Association for the Prevention of Torture (APT) is seeking to recruit a Fundraising Manager to lead and strengthen the organisation's fundraising efforts and support the implementation of the APT's Strategic Plan. **WHO ARE WE LOOKING FOR?** We are looking for a dynamic and strategic fundraising professional with a proven ability to build strong donor relationships, secure institutional and individual funding a…
-
-### Field Coordinator — Action contre la Faim France — closes 2026-10-07
-https://reliefweb.int/node/4228784  
-Terms: data-me  
-About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
-
-### Tchad : Volontaire Sécurité Pays – N’Djaména — Agency for Technical Cooperation and Development — closes 2026-10-07
-https://reliefweb.int/node/4228763  
-Terms: data-me  
-**Volontariat (CEV) | 6 mois | ASAP** ## Acted Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pauvreté. ## Acted Tchad Prés…
-
-### République Démocratique du Congo : Volontaire Transparence & Conformité Pays – Kinshasa — Agency for Technical Cooperation and Development — closes 2026-10-07
-https://reliefweb.int/node/4228736  
-Terms: data-me  
-**Volontariat (CEV) | 6 mois | Octobre 2026** ## Acted Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pauvreté. ## Acted Ré…
-
-### Tchad : Volontaire Finance Pays - N'djaména — Agency for Technical Cooperation and Development — closes 2026-10-07
-https://reliefweb.int/node/4228690  
-Terms: data-me  
-**Volontariat (CEV) | 6 mois | Août 2026** ## Acted ***Qui sommes-nous*** Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pa…
-
-### Country Director - Yemen, Sana'a — Danish Refugee Council — closes 2026-10-08
-https://reliefweb.int/node/4230376  
-Terms: migration, migration-data, displacement  
-**Who are we?** The Danish Refugee Council (DRC) is one of the world's leading humanitarian organizations, working to protect, advocate for, and promote durable solutions for people affected by displacement, conflict, and crisis. Across the Middle East, Asia, and Europe, DRC delivers integrated humanitarian and development programming that addresses immediate needs while supporting longer-term resilience and recovery. Yemen is one of DRC's largest, most complex, and strategically important operations globally. With a presence in the country since 2008 and a significant scale-up following the o…
-
-### Referral for Migrants and Mobile Populations Consultant — International Organization for Migration — closes 2026-10-08
-https://reliefweb.int/node/4230234  
-Terms: migration, migration-data, data-me  
-Position Title : **Referral for Migrants and Mobile Populations Consultant** Duty Station : IOM Philippines Country Office (Cotabato) Classification: Consultant Type of Appointment: Consultancy Estimated Start Date: ASAP Closing Date : 8 October 2026 **Project Context and Scope** AThe International Organization for Migration (IOM)’s health program in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) aims at strengthening the resilience and responsiveness of the region’s health system and improving access to healthcare, as part of the organization’s strategy to alleviate the driver of…
-
-### Directeur Santé et Plaidoyer (F/H) - Saint-Denis — Médecins du Monde — closes 2026-10-08
-https://reliefweb.int/node/4220489  
-Terms: migration, migration-data, data-me  
-Vous souhaitez intégrer une association militante et agir concrètement pour plus de justice sociale ? Médecins du Monde agit depuis plus de 40 ans pour soigner les populations les plus vulnérables, dénoncer les entraves à l’accès aux soins et faire évoluer durablement les politiques de santé. En France et dans près de 30 pays, nos actions s’articulent autour de six combats politiques : - droits et santé sexuels et reproductifs (dont le droit à l’avortement) - migration, exil, droits et santé - réduction des risques - santé environnement - droits et système de santé - espaces humanitaires **Con…
-
-### Team Leader — Violet Organization for Relief and Development — closes 2026-10-08
-https://reliefweb.int/node/4232508  
-Terms: migration-data, data-me  
-**Job title** :Team Leader(Male) **Job code** : 1-2026 \*\*Workplace:\*\*Türkiye-Gaziantep **Last date for receiving applications**:08-10-2026 **Job description** **Job Purpose** The Team Leader will be responsible for the direct supervision of project field activities, ensuring the quality of services provided to beneficiaries, coordinating the work of field staff and volunteers, and monitoring progress against approved plans and performance indicators. The Team Leader will ensure the effective achievement of, project objectives while maintaining compliance with humanitarian principles, organ…
-
-### Community Liaison Manager, Ukraine — Mines Advisory Group — closes 2026-10-08
-https://reliefweb.int/node/4232480  
-Terms: migration-data, data-me  
-**Community Liaison Manager, Ukraine** **The starting salary package for this position is £47,910.80 GBP including all allowances.** **This is a fixed-term role for 12 months.** **This is an unaccompanied post.** **About MAG:** MAG (Mines Advisory Group) is an international humanitarian organisation based in Manchester, UK, and working in over 40 countries. We remove landmines and unexploded ordnance to release safe and productive land for communities, and work to reduce the threat of armed violence by supporting governments to safely manage weapons and ammunition. In 1997, MAG was a co-recipi…
-
-### Subawards Compliance Finance Officer, Puerto Rico or Colombia — Prosper Global — closes 2026-10-08
-https://reliefweb.int/node/4231732  
-Terms: migration-data, data-me  
-**Location:** Puerto Rico or Colombia Valid unrestricted work authorization in the country in which you will be based is required at the time of application for this position. **Position Status:** Full-time **Duration:** until end September 2027 **Salary Level:** Puerto Rico: $46,000 to $54,625 ; Colombia to be benchmarked on local scale - commensurate on professional experience - **closing date:** posting closing October 8th - please submit application documents in English [**Risk Level:**](https://library.mercycorps.org/record/47705?ln=en) ☐ **Level 3** ☐**Level 2** ☐**Level 1** (Level 3: Fr…
-
-### Compliance Coordinator (Temporary) — Relief International — closes 2026-10-08
-https://reliefweb.int/node/4231681  
-Terms: migration-data, data-me  
-We are currently recruiting an interim **Compliance Coordinator** to join our Legal, Ethics & Compliance team. This is a remote, temporary 3-month position open to candidates based in the UK. The role will be full-time, offering a salary of circa. £36k per annum. At Relief International, we are committed to building a representative, inclusive and authentic workplace. We strongly encourage applications from candidates from minoritized backgrounds and those who bring lived experience of the contexts in which we work. This role is classified as requiring standard pre-employment checks. **About R…
-
-### Governance and Legal Operations Manager — Relief International — closes 2026-10-08
-https://reliefweb.int/node/4231680  
-Terms: migration-data, data-me  
-We are currently recruiting a **Governance and Legal Operations Manager** to join our Legal, Ethics & Compliance team. This is a remote, permanent position open to candidates based in the UK. The role will be full-time, offering a salary of circa. £40k per annum. At Relief International, we are committed to building a representative, inclusive and authentic workplace. We strongly encourage applications from candidates from minoritized backgrounds and those who bring lived experience of the contexts in which we work. This role is classified as requiring standard pre-employment checks. **About R…
-
-### Endline and Final Evaluation Assessment for GAC funded project — Oxfam — closes 2026-10-08
-https://reliefweb.int/node/4231567  
-Terms: migration-data, displacement, data-me  
-Oxfam is a global movement of people who are fighting inequality to end poverty and injustice. Across regions, from the local to the global, we work with people to bring change that lasts. [**Click Here**](https://oxfam.box.com/s/s73dy36skscd8fr1p89qur4xjno9i6an) to view the post overview **BACKGROUND AND CONTEXT** The purpose of this Terms of Reference (ToR) is to outline the scope, responsibilities, and deliverables for a consultant (individual or firm) who will be responsible for conducting an endline assessment and final evaluation for the Global Affairs Canada (GAC)-funded project “Reduci…
-
-### PROVISION OF CLEANING INTERNAL, EXTERNAL FACILITIES AND TEA STEWARD SERVICE — Heifer International — closes 2026-10-08
-https://reliefweb.int/node/4231539  
-Terms: migration-data, data-me  
-**1. INTRODUCTION** Heifer International is a global nonprofit organization working to end hunger and poverty while caring for the Earth. Since its establishment in 1944, Heifer International has supported millions of farming families by strengthening sustainable agriculture, improving livelihoods, and building resilient communities. Heifer International has been implementing development programmes in Kenya since 1981, working with smallholder farmers and communities to improve agricultural productivity, incomes, food security, and livelihoods. Heifer International Kenya invites qualified and …
-
-### Safeguarding Specialist — Médecins Sans Frontières — closes 2026-10-08
-https://reliefweb.int/node/4231489  
-Terms: migration-data, data-me  
-## **MSF Eastern Africa is looking for a Safeguarding Specialist** *Do your skills and experience not precisely match the requirements? At MSF EA, we strive to create a safe, diverse and inclusive workplace, recognizing the need to increase access to professional opportunities for historically underrepresented groups. If you're interested in this position but your experience doesn't align perfectly with the selection criteria, we encourage you to apply anyway. You might be the ideal candidate for this or other positions.* *Firmly committed to safeguarding patients, community members, staff, an…
-
-### Pooling: Field Officer (MHPSS) (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229067  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Improving emergency preparedness and response mechanisms through capacity building and partnership, aiming to improve access to basic health services and specialized mental health and psychosocial supports. ## **Key activities in your role will include** **Objective 1: Assist the Head of Project in the planning and implementation of the mental health psychosocial component of the Project.** - Mobilize and organize community based psychosocial support groups - Support and assist the community-based support in conducting culturally sensitize…
-
-### Pooling: Field Officer (Health) (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229065  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** - Act as the focal person in supervising, coordinating, and implementing all activities with the municipal and barangay Local Government Unit (LGU), Rural Health Units (RHU), Barangay health station (BHU), Municipal Social Welfare and Development Office (MSWDO) and community partners. - Prepare work plan, regular reports, capitalization reports and submit to Head of Project for consolidation. - Serve as field-based support on Health and Nutrition and implement major components/sectoral activities in the project. ## **Key activities in your…
-
-### Pooling: Field Officer (WASH/Shelter) (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229062  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** - Improve access to water, sanitation, and hygiene services among the affected population. - In charge of WASH activities about safeguarding and improving the public health of the affected and the most vulnerable population. The post-holder is responsible for implementing emergency hygiene promotion activities, distributing WASH and shelter kits, ensuring the distribution of water supplies, promoting appropriate community involvement, and delivering essential WASH and Shelter services. They also provide positive acceptance of Action Agains…
-
-### Pooling: Field Officer (MPCA) (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229063  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Responsible for assisting the Head of Project in planning, organizing, implementing and monitoring all cash transfer programming in all our areas of operation. The position will implement and supervise the technical field activities in collaboration with the beneficiary communities, partners, and other technical departments of Action Against Hunger. ## **Key activities in your role will include** **Objective 1: Assist the Head of Project in planning and implementation of the activities in the project.** - Assist the Head of Project in the …
-
-### Pooling: MEAL Officer (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229061  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Providing support in setting up an overall M&E framework/system for the project and be responsible for all M&E related activities, including collection, analysis relevant data and reporting on MEAL. ## **Key activities in your role will include** **Objective 1: Project cycle management – M&E** - Support in the planning and developing of M&E system and tools in coordination with thematic specialists and in line with approved project documents - Facilitate the collection of baselines and endline data and ongoing data collection and analysis …
-
-### Pooling: Base Logistics Officer (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229060  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Responsible for the management of the operational logistics activities in the base and is responsible for the implementation of the procedures and policies according to the five mandates of logistics department defined in Kit Log which are: supply chain, transportation & vehicles, communication and IT, security and risk management, and equipment resource management ## **Key activities in your role will include** **Objective 1: Supply Chain Management** - Collect the orders and to update the procurement follow-up. - Elaborate a monthly purc…
-
-### Pooling: Project Officer (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229057  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Contribute to the planning, implementation, day-to-day operations, and financial management of the project. The specific purpose of the position is to support the management and implementation of effective and efficient operational and compliance activities to deliver the project in accordance with internal and donor obligations and standard. ## **Key activities in your role will include** **Objective 1: In coordination with the Head of Project/Head of Base plan and implement the activities** - With the Head of Project/Head of Base, develo…
-
-### Pooling: Head of Project (Filipino Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229056  
-Terms: migration-data, data-me  
-## **You'll contribute to ending world hunger by ...** Responsible for planning, implementation, management, overall supervision, and monitoring of the program/projects. They will be responsible for ensuring Action Against Hunger’s, National government agencies and donor’s technical policy, guidelines are procedures are implemented. The Head of Project shall ensure the correct implementation and management of the activities and resources, in accordance with the objectives set out for the project, as well as their everyday management. ## **Key activities in your role will include** **Objective …
-
-### Education Specialist — International Rescue Committee — closes 2026-10-08
-https://reliefweb.int/node/4229037  
-Terms: migration-data, displacement, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### ERT Supply Chain Coordinator — International Rescue Committee — closes 2026-10-08
-https://reliefweb.int/node/4228985  
-Terms: migration-data, displacement, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### Develop skills training and certification programme on Employment Intensive Approaches at Cultural Heritage Sector in Mosul and Basra, ILO Iraq — International Labour Organization — closes 2026-10-08
-https://reliefweb.int/node/4232283  
-Terms: data-me  
-Call for External Collaborator – Develop skills training and certification programme on Employment Intensive Approaches at Cultural Heritage Sector in Mosul and Basra, ILO Iraq. Dear Bidder, The International Labour Office (ILO) is looking for an individual to undertake work as an External Collaborator. Below is a summary of the work to be performed: The ILO is looking for a technical consultant to develop and implement skills training programmes on Employment Intensive Approaches for workers at Cultural Heritage sites in Basra and Mosul, under the UNESCO project “Reviving Mosul and Basra Old …
-
-### BID NOTICE - Raqqa — International Rescue Committee — closes 2026-10-08
-https://reliefweb.int/node/4231550  
-Terms: data-me  
-A private international, voluntary organization is undertaking Requests for Proposals in Syria to seek proposals from potential suppliers who can supply (**Equipment and tolls for Seed Multiplication Laboratory in Raqqa**) The targeted bidding market is targeting both local and international suppliers. A detailed list of items is available in the Tender Package. The full information and details on this tender are available in the tender package that you can **request them:** via e-mail from tenders.nes@rescue.org with the subject “**Seed Multiplication lab-5SYR/0018”** Completed bids and propo…
-
-### Labour Mobility Communications and Creative Content Specialist (Consultant A) — International Organization for Migration — closes 2026-10-08
-https://reliefweb.int/node/4231349  
-Terms: data-me  
-Job Identification (Reference Number): **23923** Position Title: **Labour Mobility Communications and Creative Content Specialist (Consultant A)** Duty Station City: **Honiara** Duty Station Country: **Solomon Islands** Contract Type: **Consultant A** *Recruiting Type:* **Consultancy** *Vacancy Type:* **Call for Applications** Initial duration: **9 months** Closing date: **8 October 2026** **Nature of the consultancy:** Technical Assistance on Communications and Creative Content to the Labour Mobility Unit (LMU) of the Government of Solomon Islands (Category A Consultancy). **Context:** Labour…
-
-### Pooling: WASH/Shelter Engineer (Filipinno Nationals Only) — Acción contra el Hambre España — closes 2026-10-08
-https://reliefweb.int/node/4229058  
-Terms: data-me  
-## **You'll contribute to ending world hunger by ...** - Improve access to water, sanitation, and hygiene services among the earthquake-affected population. - In charge of WASH activities about safeguarding and improving the public health of the affected and the most vulnerable population. The post-holder is responsible for implementing emergency hygiene promotion activities, distributing WASH and shelter kits, ensuring the distribution of water supplies, promoting appropriate community involvement, and delivering essential WASH and Shelter services. They also provide positive acceptance of Ac…
-
-### COORDINATEUR.RICE DE LA GESTION DES CAS - PAW — Action contre la Faim France — closes 2026-10-08
-https://reliefweb.int/node/4228993  
-Terms: data-me  
-About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
-
-### PALESTINE - FINANCE & HUMAN RESOURCES MANAGER (M/F) - GAZA — Solidarités International — closes 2026-10-08
-https://reliefweb.int/node/4225029  
-Terms: data-me  
-## About us **Desired start date: 1st of September 2026** **Duration of the mission: 7 Months (3 rotations)** **Location: Deir El Balah, Gaza Stip** **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to …
-
-### TERMS OF REFERENCE FOR CUSTOMIZATION AND IMPLEMENTATION OF MICROSOFT DYNAMICS 365 BUSINESS CENTRAL — GROOTS Kenya — closes 2026-10-09
-https://reliefweb.int/node/4231085  
-Terms: migration, migration-data, data-me  
-**1.Background** GROOTS Kenya is a national movement of grassroots, women-led, community-based organizations and self-help groups in Kenya. We were founded in 1995, after the fourth UN Conference on Women in Beijing, China. We aim to address the lack of visibility of grassroots women in development processes and decision-making forums that affect them and their communities. GROOTS Kenya currently uses Microsoft Dynamics NAV 2017 as its finance management system. The organization intends to migrate to Microsoft Dynamics 365 Business Central to strengthen financial management, reporting, system …
-
-### Final Evaluation of the South Africa Strategic Plan 2022–2026 — Good Shepherd International Foundation — closes 2026-10-09
-https://reliefweb.int/node/4232433  
-Terms: migration-data, data-me  
-Organisation: Congregation of Our Lady of Charity of the Good Shepherd – South Africa Mission Sites: Hebron, Madidi and Akhanani Assignment Period: October–December 2026 1\. Introduction and Background The Congregation of Our Lady of Charity of the Good Shepherd in South Africa operates community-based missions dedicated to supporting women, girls, children and other persons living in situations of poverty and vulnerability. The current Strategic Plan covers the period January 2022 to December 2026 and was informed by a Community Needs Assessment conducted in 2021 across the three mission site…
-
-### Country Representative - IGNITE (PERU) — Catalyste+ — closes 2026-10-09
-https://reliefweb.int/node/4232416  
-Terms: migration-data, data-me  
-**SUMMARY** IGNITE (Inclusive Growth and Networks for Investment, Trade and Economic Linkages) is a six-year (2026–2031) technical assistance program funded by Global Affairs Canada and implemented by Catalyste+. The program supports governments and key stakeholders across Latin America to strengthen institutional capacity, improve enabling conditions for inclusive and sustainable economic growth, and foster trade, investment, and economic partnerships. Reporting to the Program Manager (PM) in Canada, the Country Representative (CR) for IGNITE will lead the implementation of the project strate…
-
-### Financial Analyst (Ukraine Programme Support) — Mines Advisory Group — closes 2026-10-09
-https://reliefweb.int/node/4232484  
-Terms: migration-data, data-me  
-**Financial Analyst, Manchester UK** **The starting salary package for this position is £35,604 GBP (plus contributory pension)** **This is a fixed-term role for 6 months.** **About MAG:** MAG (Mines Advisory Group) is an international humanitarian organisation based in Manchester, UK, and working in over 40 countries. We remove landmines and unexploded ordnance to release safe and productive land for communities, and work to reduce the threat of armed violence by supporting governments to safely manage weapons and ammunition. In 1997, MAG was a co-recipient of the Nobel Peace Prize for our wo…
-
-### MEAL Officer — ICS — closes 2026-10-09
-https://reliefweb.int/node/4232384  
-Terms: migration-data, data-me  
-**Job Title:** MEAL Officer **Grade:** ICS 6 **Department/ Unit:** Programmes **Position Available:** 1 **Reporting To:** Country Director **Travel Required:** Yes **Location/ Address:** Head Office, Dodoma *(With field travel to other ICS offices)* P. O. Box 1814, Mabuba Street, Makole Ward, Emaus Rd; Area E- Dodoma, Tanzania. **Position Type:** Full Time **Email Contact:** recruitmenttz@icsafrica.org **Date Posted:** 02/10/2026 **Training:** Minimum **Posting Expires:** 09/10/2026 **JOB DECRIPTION** **About Investing in Children & Strengthening their Societies (ICS)** Our goal is for every c…
-
-### M&E Officer ( Re-Advertisment) — International Network For Aid Relief and Assistance — closes 2026-10-09
-https://reliefweb.int/node/4232335  
-Terms: migration-data, data-me  
-**Background** Founded in 2015, INARA is a 501(c)(3) nonprofit organization that provides life-altering medical, mental health and psychosocial support and essential care to children impacted by human-induced and natural disasters. Fostering a future where we empower children to shape their own dignified lives. INARA areas of intervention include comprehensive medical services, mental health and psychosocial support, education in emergencies, economic empowerment, WASH (Water, Sanitation, and Hygiene) initiatives, and rapid emergency response. INARA emphasizes long-term care, ensuring that chi…
-
-### International Development & Humanitarian Assistance Internship — Effaced Inc — closes 2026-10-09
-https://reliefweb.int/node/4232279  
-Terms: migration-data, data-me  
-**Introduction** Do you enjoy building meaningful relationships with colleagues and partners across the globe? Are you motivated by the opportunity to help shape a growing company from an early stage? Would you like to learn from evaluators, researchers, and management consultants with decades of experience in low- and middle-income countries and a shared commitment to the common good? If so, Effaced may be the right place for you. Effaced is offering two to three internships for entry-level professionals interested in business development, research, and operational support within our internat…
-
-### Technical Advisor II, REACH Malaria — Catholic Relief Services — closes 2026-10-09
-https://reliefweb.int/node/4232249  
-Terms: migration-data, data-me  
-**Job Summary** CRS seeks a Malaria Technical Advisor for the USG-funded Reaching every at-risk community and household with malaria services (REACH Malaria) global project, where PATH is the prime contractor and CRS is major sub-contractor. REACH aims to provide implementation support services and technical assistance to countries to accelerate progress in comprehensive delivery of facility and community-based malaria services, including malaria case management, prevention of malaria in pregnancy (MiP), seasonal malaria chemoprevention (SMC), health systems strengthening, data collection and …
-
-### Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) — Nonviolent Peaceforce — closes 2026-10-09
-https://reliefweb.int/node/4231975  
-Terms: migration-data, data-me  
-**Job Title**: Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) **Function**: Programme Development **Job Group:** Programmes **Duty Station**: Mykolaiv, Ukraine (with frequent travel to NP field sites) **Line Manager:** Monitoring and Evaluation (M&E) Coordinator **Technical Line Manager:** Programme Development Manager **Line Management Responsibility:** N/A Nonviolent Peaceforce (NP) is a dynamic, international non-governmental organisation. We work with people affected by violent conflicts to enhance their security and dignity through Unarmed Civilian Protection (UCP). W…
-
-### International Consultant/Consultancy Firm - CLIMATE RESILIENCE AND ADAPTATION & SOCIAL PROTECTION — Save the Children — closes 2026-10-09
-https://reliefweb.int/node/4231693  
-Terms: migration-data, data-me  
-Midline Evaluation of: BUILDING CLIMATE RESILIENCE BY LINKING CLIMATE ADAPTATION AND SOCIAL PROTECTION THROUGH DECENTRALISED PLANNING IN MOZAMBIQUE •Short-term consultancy assignment •Evaluation period: October 2026 – July 2027 •Period to be evaluated: 23 October 2024 – 31 March 2027 •Consultancy location: Mozambique – Gaza, Manica and Tete Provinces **Save the Children** believes every child deserves a future. We work to ensure children survive, learn, and are protected, particularly those living in the most vulnerable circumstances. Our work brings together local and global expertise to supp…
-
-### Humanitarian AI Research Fellowship — NetHope — closes 2026-10-09
-https://reliefweb.int/node/4231529  
-Terms: migration-data, data-me  
-**About the Fellowship** NetHope is piloting a new, short-term Humanitarian AI Research Fellowship to grow the pool of researchers and practitioners who understand how AI can responsibly advance humanitarian and development work, and to produce research findings that NetHope's Member organizations and the wider nonprofit community can put to immediate, practical use. This is a part-time, remote, internationally open opportunity for individuals who bring rigor, curiosity, and a genuine interest in responsible AI for humanitarian impact. **About NetHope** NetHope brings together leading humanita…
-
-### RFP- Donor Landscape Assessment in Kenya — Pathfinder International — closes 2026-10-09
-https://reliefweb.int/node/4231480  
-Terms: migration-data, data-me  
-## Request for Proposal (RFP) Issued on: September 25, 2026 Solicitation Number: **51495** For: Donor Landscape Assessment Quotes Deadline: October 9, 2026 1. **Background** For nearly 70 years, Pathfinder International has been a catalyst for systems transformation, inclusive growth, and resilient communities. With a global footprint spanning Africa, South Asia, and the Middle East, we invest in women and girls by expanding access to essential health products and services, unlocking leadership pathways, and strengthening economic participation. By partnering with civil society, governments, a…
-
-### Logistics Manager — Norwegian Refugee Council — closes 2026-10-09
-https://reliefweb.int/node/4231431  
-Terms: migration-data, displacement, data-me  
-**What we are looking for** We’re looking for a **strategic,hands-on logistics leader** who thrives in **complex humanitarian environments** and knows how to turn supply-chain challenges into practical solutions. You’ll bring **strong experience across procurement, supply chain, fleet, assets, warehousing and compliance**, combined with the **leadership skills** to build capable teams, strengthen systems and drive accountability across multiple locations. If you’re analytical, collaborative, adaptable and solutions-focused, with a track record of delivering under pressure and the confidence to…
-
-### Monitoring and Evaluation (M&E) Officer - East (UA Nationals Only) — Nonviolent Peaceforce — closes 2026-10-09
-https://reliefweb.int/node/4231259  
-Terms: migration-data, data-me  
-**Job Title**: Monitoring and Evaluation (M&E) Officer - East (UA Nationals Only) **Function**: Programme Support **Job Group:** Programmes **Duty Station**: Kharkiv, Ukraine (with frequent travel to NP field sites) **Line Manager:** Monitoring and Evaluation (M&E) Coordinator **Technical Line Manager:** Programme Development Manager **Line Management Responsibility:** N/A Nonviolent Peaceforce (NP) is a dynamic, international non-governmental organisation. We work with people affected by violent conflicts to enhance their security and dignity through Unarmed Civilian Protection (UCP). We work…
-
-### Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) — Nonviolent Peaceforce — closes 2026-10-09
-https://reliefweb.int/node/4231255  
-Terms: migration-data, data-me  
-**Job Title**: Monitoring and Evaluation (M&E) Officer - South (UA Nationals Only) **Function**: Programme Development **Job Group:** Programmes **Duty Station**: Mykolaiv, Ukraine (with frequent travel to NP field sites) **Line Manager:** Monitoring and Evaluation (M&E) Coordinator **Technical Line Manager:** Programme Development Manager **Line Management Responsibility:** N/A Nonviolent Peaceforce (NP) is a dynamic, international non-governmental organisation. We work with people affected by violent conflicts to enhance their security and dignity through Unarmed Civilian Protection (UCP). W…
-
-### HR Assistant — Oxfam GB — closes 2026-10-09
-https://reliefweb.int/node/4231228  
-Terms: migration-data, data-me  
-DEPARTMENT PURPOSE: The Human Resources department is responsible for people strategy; ensuring efficiency and effectiveness in delivery of Oxfam’s human resource operations, whilst ensuring consistency and transparency in line with OGB policies, procedures and systems. TEAM PURPOSE: The HR team is responsible for providing quality HR services support to Oxfam’s Syria Program. Working with other members of the HR team, the post holder role will be responsible for contributing to the objectives and delivery of HR Function. The Country HR Manager provides matrix line management to all field loca…
-
-### Program Director (Contractor Representative) — DT Global — closes 2026-10-09
-https://reliefweb.int/node/4231203  
-Terms: migration-data, data-me  
-This position is open for Indonesian nationals only. The Program Director leads the successful delivery of development programs, managing performance, risk, client relationships, and team capability to achieve strategic and operational outcomes. About DT Global Asia Pacific At DT Global Asia Pacific, we aim to positively impact people’s lives through delivery excellence. As a leading implementing partner across Asia and the Pacific, we co-create locally led solutions in partnership with governments, communities, and stakeholders. We bring together talented teams and deep regional expertise to …
-
-### REQUEST FOR KRA LEDGER RECONCILAITION SERVICES TO CHILDFUND KENYA — ChildFund International — closes 2026-10-09
-https://reliefweb.int/node/4231046  
-Terms: migration-data, data-me  
-**Introduction** The purpose of this TOR is to request a financial proposal for the provision of KRA tax ledger reconciliation services. **About ChildFund:** ChildFund is a child-focused international development organization that works with children living in extreme poverty, reaching 17.6 million children and family members in 26 counties. With primary funding from sponsors and from government, corporate and individual donors, we work long-term in communities to help them transform themselves into places where children have what they need to live at their potential throughout their lives: ac…
-
-### Human Resources Coordinator – based in Damascus, Syria — Première Urgence Internationale — closes 2026-10-09
-https://reliefweb.int/node/4230848  
-Terms: migration-data, data-me  
-## **Fixed-term contract: 6 months,** ## Starting date : ASAP ## **PUI all around the world** **With its 40 years of experience, Première Urgence Internationale :** - Supports close to **6** millions beneficiaries - With more than **100** millions € yearly budget - Present in **22** countries, on **5** continents Thanks to the work and commitment of : - More than **2000** national staffs - Around **200** expatriates from 45 different nationalities - And **90** employees at HQ PUI works in 10 areas of intervention and distinguishes itself by the implementation of an integrated approach in its r…
-
-### Associate Director/Director - East and Southern Africa — IDinsight — closes 2026-10-09
-https://reliefweb.int/node/4230846  
-Terms: migration-data, data-me  
-**About IDinsight** *We're a global data and evidence advisory, working with governments, philanthropies, and non-profits to improve lives at scale, using technology and AI where they can deliver the most impact.* IDinsight is a mission-driven global advisory, data analytics, and research organization that helps global development leaders maximize their social impact. We tailor a wide range of data and evidence tools, including randomized evaluations and machine learning, to help decision-makers design effective programs and rigorously test what works to support communities. We work with gover…
-
-### ADJOINTE OU ADJOINT COORDINATEUR OU COORDINATRICE RMM-TCHAD — Action contre la Faim France — closes 2026-10-09
-https://reliefweb.int/node/4229226  
-Terms: migration-data, data-me  
-About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
-
-### Erasmus Internship - Partnership Development Intern — CLEAR Global — closes 2026-10-09
-https://reliefweb.int/node/4228941  
-Terms: migration-data, data-me  
-**Contract length:** 4–6 months, with a possible paid 6-month extension based on performance and budget availability **Hours:** flexible, 20-40 hours per week, during CET core working hours (Monday to Friday) **Location:** Amsterdam or Lyon (to be confirmed) Hybrid arrangement: office-based with some remote flexibility **Travel:** none, except relocating to Amsterdam or Lyon **Reporting to**: Grants and Partnerships Coordinator Erasmus+ supports traineeships (work placements, internships) abroad at any workplace for students currently enrolled in higher education institutions in Program Countr…
-
-### Tupande Zone Supervisor - Lower Western — One Acre Fund — closes 2026-10-09
-https://reliefweb.int/node/4222768  
-Terms: migration-data, data-me  
-## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
-
-### Tupande Cashew Extension & Aggregation Officer (Fixed-Term) — One Acre Fund — closes 2026-10-09
-https://reliefweb.int/node/4222766  
-Terms: migration-data, data-me  
-## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
-
-### Tupande Zone Supervisor - Upper Western — One Acre Fund — closes 2026-10-09
-https://reliefweb.int/node/4222762  
-Terms: migration-data, data-me  
-## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
-
-### People and Talent Director - India — Americares — closes 2026-10-09
-https://reliefweb.int/node/4218844  
-Terms: migration-data, data-me  
-***GLOBAL HEALTH STARTS WITH YOU!*** **Title:** People and Talent (P&T) Director **Location:** Mumbai or Bangaluru. 30-40% travel expected between these two locations and other states. **Reports to:** dual reporting line to the HQ Chief People and Systems Officer and Americares India Foundation (AIF) Country Director **Direct reports:** 4 **Schedule:** This role will be required to occasionally work during hours that may be outside of traditional office hours as we are an organization that responds to humanitarian emergencies that may occur during evenings and on weekends. **About Americares I…
-
-### CALL FOR EXPRESSION OF INTEREST(EOI) Selection of Refugee-Led Organizations (RLOs) to Support Community-Based Project Implementation — Norwegian Refugee Council — closes 2026-10-09
-https://reliefweb.int/node/4231417  
-Terms: displacement  
-FORM Kenya hosts approximately 836,466 refugees and asylum seekers with the majority residing in Dadaab and Kakuma/Kalobeyei camps as well as in urban areas. Children and youth constitute more than 80% of the refugee population. Refugee communities continue to face the effects of conflict, displacement, poverty and climate-related shocks. The Norwegian Refugee Council (NRC), with support from a variety of donors, implements Information, Counselling and Legal Assistance (ICLA), Water, Sanitation and Hygiene (WASH), Education, Shelter, Emergency Response and Energy and Environment interventions …
-
-### Humanitarian Access and Security Manager – Bunia / RDC — Humanity & Inclusion — closes 2026-10-09
-https://reliefweb.int/node/4231865  
-Terms: data-me  
-Lieu : Bunia / RDC Date souhaitée de démarrage : Asap Durée de contrat : 2 mois renouvelable Handicap International / Humanity & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins essentiels et améliorer leurs conditions de vie. Elle s’engage à promouvoir le respect de leur dignité et de leurs droits fondamentaux. Depuis sa création en 1982, HI a…
-
-### Country Director, Syria — Turquoise Mountain — closes 2026-10-09
-https://reliefweb.int/node/4229852  
-Terms: data-me  
-## Background Turquoise Mountain supports artisan communities to protect and revitalise their heritage. Our work is rooted in the belief that cultural heritage has the power to transform lives. Founded in 2006 by His Majesty King Charles III, we work directly with artisan communities across Afghanistan, Myanmar, Saudi Arabia, Jordan, Palestine and Syria. Turquoise Mountain has worked in the Levant since 2017, supporting Syrian, Jordanian and Palestinian artisans across a wide range of craft traditions, including woodworking, textiles, glass-blowing, embroidery, jewellery-making and mother-of-p…
-
-### Haiti : Responsable Développement de Projets - Port-au-Prince — Agency for Technical Cooperation and Development — closes 2026-10-09
-https://reliefweb.int/node/4229088  
-Terms: data-me  
-**CDD | 6 mois | Novembre 2026** ## Acted ***Qui sommes-nous*** Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pauvreté. **…
-
-### SUDAN - Grants and Partnership Coordinator (M/F) - N'DJAMENA — Solidarités International — closes 2026-10-09
-https://reliefweb.int/node/4229083  
-Terms: data-me  
-## About us **Desired start date:** as soon as possible **Duration of the mission:** 6 months **Location:** N'DJAMENA **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and …
-
-### Responsable Adjoint·e – Recrutement et Mobilité – SIEGE- basé à FRA-Asnieres-sur-Seine — Première Urgence Internationale — closes 2026-10-09
-https://reliefweb.int/node/4228755  
-Terms: data-me  
-## **Contrat à durée déterminée (CDD) de 6 mois à compter du 16/11/2026** ## **Deadline for application : 09/10/2026** ## **PUI aux quatre coins du monde** **Forte de ses 40 années d’expérience, Première Urgence Internationale :** Vient en aide à près de **6** millions de bénéficiaires Avec un budget de plus de **100** Millions € par an Répartis dans **24** pays, sur **5** continents Grâce à l’implication et l’engagement de : - Plus de **2500**collaborateurs nationaux - Environ **225** expatriés de 50 nationalités différentes - Et **120** salariés au siège PUI œuvre dans 10 secteurs d’interven…
-
-### Program Development and Award Advisor, Asia — International Rescue Committee — closes 2026-10-10
-https://reliefweb.int/node/4229367  
-Terms: migration, migration-data, displacement, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### HR Systems Analyst (Security & Integrations) — International Rescue Committee — closes 2026-10-10
-https://reliefweb.int/node/4229256  
-Terms: migration, migration-data, data-me  
-**Background/IRC Summary:** The International Rescue Committee (IRC) responds to the world's worst humanitarian crises and helps people to survive and rebuild their lives. Founded in 1933 at the request of Albert Einstein, the IRC offers lifesaving care and life-changing assistance to refugees forced to flee from war or disaster. At work today in over 40 countries and 22 U.S. cities, we restore safety, dignity and hope to millions who are uprooted and struggling to endure. The IRC leads the way from harm to home. This position will be located in Nairobi, Kenya. - TBC **Job Overview/Summary:** …
-
-### ICT END USER HW/SW SUPPORT (Network, Voice & Security (Cisco CUCM / Check Point) — CTG (Committed To Good) — closes 2026-10-10
-https://reliefweb.int/node/4232795  
-Terms: migration-data, data-me  
-Overview of position CTG is seeking a highly skilled Network, Voice & Security Technician to support and maintain enterprise network infrastructure, Cisco Unified Communications (CUCM) environments, and Check Point security platforms. The successful candidate will ensure the availability, performance, and security of voice, video, and data communication services while providing advanced technical support to users and remote sites. Role objectives Key Responsibilities Administer and support LAN/WAN, Wi-Fi, routing, switching, and Internet connectivity. Manage and troubleshoot Cisco Unified Comm…
-
-### TERMS OF REFERENCE (TOR) FOR CONDUCTING A GENDER AUDIT FOR SOS CHILDREN’S VILLAGES IN SOMALIA — SOS Children's Villages International — closes 2026-10-10
-https://reliefweb.int/node/4232258  
-Terms: migration-data, data-me  
-[https://soscv-my.sharepoint.com/:b:/g/personal/hassan_ibrahim_sos-somaliland_org/IQBXr1FYu82oSpqG_fLHScN8ATXwxqdLFwXBwW7fNBrfjD8?e=Vpjry3](https://soscv-my.sharepoint.com/:b:/g/personal/hassan_ibrahim_sos-somaliland_org/IQBXr1FYu82oSpqG_fLHScN8ATXwxqdLFwXBwW7fNBrfjD8?e=Vpjry3) TERMS OF REFERENCE (TOR) FOR CONDUCTING A GENDER AUDIT FOR SOS CHILDREN’S VILLAGES IN SOMALIA 1. ## Background 2. ### Overview of SOS Children’s Villages in Somalia SOS Children’s Villages in Somalia (SOS CV Somalia) is the national member association of SOS Children’s Villages International, a global federation present…
-
-### Programme Manager - UK Remote/Hybrid - Spanish/Portuguese Speaker — MENTOR Initiative — closes 2026-10-10
-https://reliefweb.int/node/4232236  
-Terms: migration-data, displacement, data-me  
-The MENTOR Initiative (‘MENTOR’) is a humanitarian organisation specialising in disease control and improving access to healthcare in emergency settings currently across countries in Africa, the Middle East and South America. MENTOR is the leading organisation dedicated to the control of malaria and other vector-borne diseases in complex, vulnerable settings. MENTOR delivers large scale disease control interventions working with communities affected by emergencies such as conflict and natural disasters and at higher risk of diseases. We also help build the technical and operational capacity of…
-
-### Request for Proposal County Coordination Consultant (Individual Consultant) Nakuru County - Kenya — Girl Effect — closes 2026-10-10
-https://reliefweb.int/node/4231699  
-Terms: migration-data, data-me  
-**Request for Proposal** **County Coordination Consultant (Individual Consultant)** **Nakuru County - Kenya** **September 2026** ## **Procurement Summary** **Item Details** RFP Title County Coordination Consultant – Nakuru County Consultant Type Individual Consultant Location Nakuru County, Kenya, with regular field presence Contract Period 12 months Reporting To Designated Programme Manager Proposal Deadline 10th October Submission Email suppliers@girleffect.org Anticipated Start November ## **Who We Are** Girl Effect is an international non-profit that builds media and technology that girls …
-
-### Remote and unpaid internship, researcher-Start in November 2026 or beyond — TRUST Consultancy & Development — closes 2026-10-10
-https://reliefweb.int/node/4231546  
-Terms: migration-data, displacement, data-me  
-Trust Consultancy and Development is an independent research and third-party monitoring and evaluation (M&E) consultancy based in Gaziantep, Turkey, with two sister-companies, one in Islamabad, Pakistan and one in Erbil, Iraq. Trust provides a range of services and works with partner companies and NGOs in the MENA region and beyond. Our work addresses the growing demand for high-quality research, third-party research, data collection, and data analysis. Our clients include international and national non-governmental organizations and donors, including UNICEF, UNFPA, OCHA, Expertise France, Glo…
-
-### Remote, unpaid Internship (Capacity Development Intern), Start in November 2026 or beyond — TRUST Consultancy & Development — closes 2026-10-10
-https://reliefweb.int/node/4231548  
-Terms: migration-data, displacement, data-me  
-**About Trust Consultancy and Development** Trust Consultancy and Development is an independent research and third-party monitoring and evaluation (M&E) consultancy based in Gaziantep, Turkey, with two sister-companies, one in Islamabad, Pakistan and one in Erbil, Iraq. Trust provides a range of services and works with partner companies and NGOs in the MENA region and beyond. Our work addresses the growing demand for high-quality research, third-party research, data collection, data analysis and capacity-building services. Our clients include international and national non-governmental organiz…
-
-### Remote Internship, Proposal Writing OR Third-Party Monitoring & Evaluation (Unpaid), start in November 2026 or beyond — TRUST Consultancy & Development — closes 2026-10-10
-https://reliefweb.int/node/4231549  
-Terms: migration-data, data-me  
-**About Trust Consultancy and Development** Trust Consultancy and Development is an independent research and third-party monitoring and evaluation (M&E) firm based in Gaziantep, Turkey, with sister companies in Palestine, Pakistan and Iraq. We provide high-quality research, data collection, and analysis for NGOs and donors across the MENA region and beyond. Our clients include UNICEF, GOAL, HelpAge International, Save the Children, NRC, World Vision, USAID/BHA, ECHO, and others. Active in Syria, Turkey, Iraq, Yemen, Palestine, Pakistan, Lebanon and Afghanistan, we bring a unique perspective th…
-
-### Country Financial Controller — Concern Worldwide — closes 2026-10-10
-https://reliefweb.int/node/4231312  
-Terms: migration-data, data-me  
-**Role Purpose** As a member of Concern Sierra Leone Country Management Team, the Country Financial Controller (CFC) is responsible for the effective management of Concern Sierra Leone’s finance function. This will include ensuring internal controls are in place, managing the finance team, partner finance oversight, training, treasury management, financial planning and reporting. The successful candidate will be responsible for ensuring proper financial management and reporting on all grants received by Concern Sierra Leone. **Reports to:** Country Director **Terms:** Two-year Fixed Term, Full…
-
-### Cardiologist — EMERGENCY — closes 2026-10-10
-https://reliefweb.int/node/4231056  
-Terms: migration-data, data-me  
-EMERGENCY is looking for senior cardiologists for its Salam Centre for Cardiac Surgery in Sudan. **The Cardiologist is required to manage the diagnosis and care of patients affected by cardiac pathologies requiring surgical intervention.** ## **BACKGROUND AND ORGANISATION OF WORK** The Cardiologist will work as part of a team of international specialists – experts or in training – organising and directing the training of the local medical and health care staff in his/her area of responsibility, in collaboration with the international colleagues and the Medical Coordinator of the project. Some …
-
-### Proposal Writer — Relief Applications — closes 2026-10-10
-https://reliefweb.int/node/4230049  
-Terms: migration-data, data-me  
-Business development · Technical proposals · International tenders **Remote Part-time 2.5 days / week** Relief Applications is a humanitarian tech company headquartered in Toulouse, France. We build digital tools with and for NGOs, UN agencies and mission-driven organisations, bringing solutions to those changing the world. Our clients include United Nations agencies, international NGOs, foundations and public institutions. We support them across the full digital cycle: software and platform development, information management, data and MEAL systems, ERP implementation and data protection advi…
-
-### Senior Manager, Supply Chain Digitalization Benchmarking and Pilots — International Rescue Committee — closes 2026-10-10
-https://reliefweb.int/node/4229371  
-Terms: migration-data, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### Associate, Global Donation Operations — International Rescue Committee — closes 2026-10-10
-https://reliefweb.int/node/4229296  
-Terms: migration-data, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### Director of Research — International Rescue Committee — closes 2026-10-10
-https://reliefweb.int/node/4229284  
-Terms: migration-data, data-me  
-The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
-
-### Business Development and Grants Manager — People in Need — closes 2026-10-10
-https://reliefweb.int/node/4227796  
-Terms: migration-data, data-me  
-**Country Programme:** Moldova **Contract Length:** 1 year **Base:** Chisinau **Starting date**: September 2026 **Line Manager**: Deputy Head of Programmes **People in Need (PIN)** is a Czech-based international non-governmental organization (NGO) that has been providing humanitarian and development assistance worldwide since 1992. Today, PIN operates in more than 40 countries, responding to humanitarian crises and supporting long-term development through programmes in education, human rights, climate resilience, and social inclusion. As one of the largest organizations of its kind in Central …
-
-### Gender and Protection Advisor (Re-advertisement) — Oxfam GB — closes 2026-10-10
-https://reliefweb.int/node/4224936  
-Terms: migration-data, data-me  
-**Employment Term: Fixed Term (1 Year Contract)** **Level: National/International, C1** **Location**: **Yangon, Myanmar** **Closing Date**: **10th October 2026** **“This position is opened to both National/International Applicants.”** **Early application is encouraged as the recruitment process will be done on a rolling basis and Oxfam reserves the right to appoint a suitable candidate as soon as they are identified.** ## ***The Role:*** Oxfam is looking for **Gender and Protection Advisor** ## ***Job Purpose:*** The Gender and Protection Advisor will play a key role in driving Oxfam Myanmar’s…
-
-### Oficial MEAL - Caracas (Personal Nacional) — Danish Refugee Council — closes 2026-10-10
-https://reliefweb.int/node/4231914  
-Terms: displacement, data-me  
-Danish Refugee Council (DRC) es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, en el marco de la respuesta de emergencia al terremoto, DRC está buscando un/a Oficial MEAL altamente calificado/a con sede en Caracas, Venezuela. **Acerca del trabajo:** DRC administra sus operaciones en Venezuela bajo la dirección de la oficina de país en Caracas y tres oficina…
-
-### Sudan - WASH Program Manager (M/F) - Tawila (North Darfur) — Solidarités International — closes 2026-10-10
-https://reliefweb.int/node/4225026  
-Terms: displacement, data-me  
-## About us **Desired start date: 01/10/2026** **Duration of the mission: 6 months** **Location: Tawila** **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene prom…
-
-### Consultant/e principal/e appuyé/e par une équipe multidisciplinaire, d’un groupement/ cabinet pour la réalisation de deux études d'apprentissage — Norwegian Refugee Council — closes 2026-10-10
-https://reliefweb.int/node/4232188  
-Terms: data-me  
-**1. Contexte et justification** Les régions du Liptako au Burkina Faso et de Tillabéri au Niger continuent de faire face à une crise humanitaire prolongée, marquée par l’insécurité, les déplacements de populations, les contraintes d’accès et la fragilisation des services essentiels. Les besoins restent multidimensionnels et concernent notamment la protection, la santé, la nutrition, l’eau, l’hygiène et l’assainissement, la sécurité alimentaire et les moyens d’existence. Le projet RISE, Renforcement de la résilience et soutien intégré aux situations d’urgence au Burkina Faso et au Niger est fi…
-
-### Programs and Partnerships Coordinator / منسق البرامج والشراكات — Ghiras Al-Nahda — closes 2026-10-10
-https://reliefweb.int/node/4229336  
-Terms: data-me  
-**Job Purpose:** The Programs and Partnerships Coordinator is responsible for leading and coordinating the organization’s programs in Syria, while also developing and managing relationships with donors and local/international partners. This role aims to ensure efficient and effective program implementation, enhance funding and collaboration opportunities, and maintain compliance with donor requirements. The coordinator works closely with the Executive Director and senior management to achieve the organization’s strategic goals, while maintaining high standards of institutional performance and …
-
-### Coordinador.a de Emergencias — Médicos del Mundo — closes 2026-10-10
-https://reliefweb.int/node/4229289  
-Terms: data-me  
-**Misión** Coordinar y participar en la respuesta a las consecuencias del terremoto en Venezuela. **Enfoque geográfico de la intervención** Basado en Caracas, con desplazamientos a las áreas de intervención. **Organigrama** Este puesto reportará al responsable de la Unidad de Emergencias de Médicos del Mundo en la sede central de Madrid y estará bajo la supervisión de la Coordinadora General de la misión de MdM España en Venezuela. **Funciones** - Negociar en coordinación con la Coordinación General País el acceso con las autoridades venezolanas. - Junto a la Coordinación General País, represe…
-
-### Head of Support Services - Caracas — Danish Refugee Council — closes 2026-10-11
-https://reliefweb.int/node/4230752  
-Terms: migration, migration-data, displacement, data-me  
-The Danish Refugee Council is one of the world's leading humanitarian NGOs, working in over 30 countries to provide adequate assistance and protection to refugees, asylum seekers, IDPs, returnees, people on the move, and vulnerable local populations/host communities. Currently, DRC is seeking a highly qualified Head of Support Services, based in Caracas, Venezuela. **About the job:** DRC is managing its operations in Venezuela under the direction of the country office in Caracas and four field offices located in the states of Sucre, Apure, and Zulia (Maracaibo and Santa Barbara de Zulia). DRC …
-
-### National Project Officer | Emergency Response | Roster only — International Organization for Migration — closes 2026-10-11
-https://reliefweb.int/node/4230229  
-Terms: migration, migration-data, data-me  
-Position Title : **National Project Officer | Emergency Response | Roster only** Duty Station : IOM Philippines Country Office Classification: General Service, UG Type of Appointment: Special Short-Term Estimated Start Date: ASAP Closing Date : 11 October 2026 This Call for Applications aims to establish **a roster of qualified candidates** who may be mobilized to support the Mission’s surge staffing requirements during disasters, emergencies, and other humanitarian response operations. Please note that there is currently no confirmed start date or immediate deployment opportunity associated w…
-
-### Senior Project Associate (Response) | Roster only — International Organization for Migration — closes 2026-10-11
-https://reliefweb.int/node/4230228  
-Terms: migration, migration-data, data-me  
-Position Title : **Senior Project Associate (Response) | Roster only** Duty Station : IOM Philippines Country Office Classification: General Service, UG Type of Appointment: Special Short-Term Estimated Start Date: ASAP Closing Date : 11 October 2026 This Call for Applications aims to establish **a roster of qualified candidates** who may be mobilized to support the Mission’s surge staffing requirements during disasters, emergencies, and other humanitarian response operations. Please note that there is currently no confirmed start date or immediate deployment opportunity associated with this r…
-
-### Senior Project Associate (Health) | Roster only — International Organization for Migration — closes 2026-10-11
-https://reliefweb.int/node/4230226  
-Terms: migration, migration-data, data-me  
-Position Title : **Senior Project Associate (Health) | Roster only** Duty Station : IOM Philippines Country Office Classification: General Service, UG Type of Appointment: Special Short-Term Estimated Start Date: ASAP Closing Date : 11 October 2026 This Call for Applications aims to establish **a roster of qualified candidates** who may be mobilized to support the Mission’s surge staffing requirements during disasters, emergencies, and other humanitarian response operations. Please note that there is currently no confirmed start date or immediate deployment opportunity associated with this ros…
-
-### Country Director - Egypt — Terre des hommes — closes 2026-10-11
-https://reliefweb.int/node/4229585  
-Terms: migration, migration-data, displacement  
-**Country Director - Egypt** **Position Start Date:** October 15, 2026 **Duration:** 24 months **Location:** Cairo – Egypt **Status:** family posting **Terre des hommes does not set closing dates for this position; recruitment is on-going until the position is filled.** **Tdh:** The Terre des hommes Foundation (Tdh), with headquarters in Lausanne and an office in Zurich, is the leading Swiss child rights organisation with more than 2000 employees worldwide. We stand together with children to uphold their rights, protect their lives and improve their well-being. We achieve this through innovati…
-
-### Media Training Consultancy — Sightsavers — closes 2026-10-11
-https://reliefweb.int/node/4232581  
-Terms: migration-data, data-me  
-Fee: To be negotiated Location: Zimbabwe – 4 days training in-person, travel required Duration: 12 days (5 days for training prep, 4 days for in-person training workshop, and 3 days for post-training evaluation) **About the role** **Consultant to Facilitate Digital Advocacy and Strategic Communications Training for Organisations of Persons with Disabilities (OPDs) in Zimbabwe** The Realisation of the African Disability Protocol (RAD-P) Project seeks to promote the rights, inclusion and meaningful participation of persons with disabilities in Zimbabwe through advocacy, policy engagement, awaren…
-
-### People & Culture Officer-Raqqa — International Rescue Committee — closes 2026-10-11
-https://reliefweb.int/node/4232566  
-Terms: migration-data, displacement, data-me  
-**Background/IRC Summary:** The Syria crisis is often described as the worst humanitarian catastrophe since the end of the Cold War. Today, 13.4 million people in Syria - more than half of the country's population - are in need of humanitarian assistance with needs increasingly being exacerbated by economic decline. Of these, 6.8 million are refugees and asylum-seekers who have fled the country. This is no short-term humanitarian episode. The devastating human consequences to huge numbers of people will endure for decades. The destruction of relationships, communities, livelihoods, homes and i…
-
-### Field Coordinator || منسق/ ـة ميداني/ ـة — Syrian Center for Media and Freedom of Expression — closes 2026-10-11
-https://reliefweb.int/node/4232432  
-Terms: migration-data, data-me  
-**About SCM:** The Syrian Center for Media and Freedom of Expression (SCM), is an independent, non-governmental, and non-profit civil society organization founded in 2004. It works to achieve justice, defend human rights, promote media freedom, support civil society, and encourage active citizenship. SCM has gained extensive experience in combating impunity and strengthening the rule of law. Since 2011, SCM has held Special Consultative Status with the United Nations Economic and Social Council (ECOSOC). Its work focuses on documenting human rights violations and submitting legal files to hold…
-
-### National HLP Legal Associate — CTG (Committed To Good) — closes 2026-10-11
-https://reliefweb.int/node/4232398  
-Terms: migration-data, displacement, data-me  
-Overview of position HLP and protection programming to support durable solutions for displacement-affected communities. The programme focuses on strengthening access to Housing, Land and Property rights, improving protection-sensitive case management, and supporting safe, informed, and rights-based pathways for return, relocation, reintegration, and recovery. HLP and protection concerns remain closely linked in South Sudan. Displaced persons, returnees, and host communities often face land disputes, forced evictions, secondary occupation, lack of documentation, family and community-level dispu…
-
-### National HLP and Protection Associate — CTG (Committed To Good) — closes 2026-10-11
-https://reliefweb.int/node/4232394  
-Terms: migration-data, displacement, data-me  
-Overview of position HLP and protection programming to support durable solutions for displacement-affected communities. The programme focuses on strengthening access to Housing, Land and Property rights, improving protection-sensitive case management, and supporting safe, informed, and rights-based pathways for return, relocation, reintegration, and recovery. HLP and protection concerns remain closely linked in South Sudan. Displaced persons, returnees, and host communities often face land disputes, forced evictions, secondary occupation, lack of documentation, family and community-level dispu…
-
-### MEAL Assistant Syria — Arbeiter-Samariter-Bund Deutschland e.V. — closes 2026-10-11
-https://reliefweb.int/node/4232166  
-Terms: migration-data, data-me  
-**1. Background** The **Arbeiter-Samariter-Bund Deutschland (ASB)** is a German aid and welfare organisation with more than 300 branches at national, regional, district and municipal level across Germany. More than 1.4 million members provide a broad social basis for the organisation, supported by more than 40,000 employees and 20,000 volunteers. Since its foundation in 1888, ASB has acted as a politically and denominationally independent organisation, providing continuity and reliability in areas including rescue services, civil protection and social services. The **ASB Foreign Aid Department…
-
-### MEAL Manager — Independent Doctors Association — closes 2026-10-11
-https://reliefweb.int/node/4232153  
-Terms: migration-data, data-me  
-**Who we are?** ***IDA is an international independent non-governmental organization providing medical and humanitarian assistance to people affected by conflicts, natural disasters and epidemics regardless of race, religion, gender or political affiliation.*** ***IDA was founded in 2012 by Syrian doctors from Aleppo in response to the healthcare and humanitarian crisis in Syria.*** ***IDA Syria is the main healthcare provider in the Northern Aleppo/Syria area, working closely with 500,000 IDPs and 700,000 host community through 20 healthcare facility and other health and nutrition projects***…
-
-### Complaints and PSEA Advisor — Lutheran World Federation — closes 2026-10-11
-https://reliefweb.int/node/4231485  
-Terms: migration-data, data-me  
-Location: home-based; ideally South Africa or another location in similar time-zone Duration of contract: 1 year (possibility for extension) Supervisor: Global Coordinator PMER, Complaints and Safeguarding Start date: as soon as possible **Lutheran World Federation (LWF) World Service** LWF World Service is the humanitarian and development arm of the Lutheran World Federation. We are a widely recognized, international, faith-based organization working in more than 20 countries globally. We seek to bring people of all backgrounds together in the common quest for justice, peace, and reconciliati…
-
-### Projects Coordinator — World Vision — closes 2026-10-11
-https://reliefweb.int/node/4231575  
-Terms: migration-data, data-me  
-**About World Vision** For more than 75 years, World Vision has been committed to making a positive and lasting difference in the world. We have become a global leader in improving and transforming the lives of children, their families, and their communities. We help children, families, and communities overcome poverty and injustice, irrespective of religion, race, ethnicity, or gender. Every child deserves a life rich in meaning and purpose. We work with the most vulnerable children in the world so they can experience life in all its fullness. **Location: Syria – Hassakeh and Raqqa** **Job pu…
-
-### Head of Finance Department (NIGERIAN NATIONALS ONLY) — Solidarités International — closes 2026-10-11
-https://reliefweb.int/node/4231457  
-Terms: migration-data, data-me  
-SOLIDARITES INTERNATIONAL (SI) is an international humanitarian NGO which, for more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their vital needs for food, water and shelter. Particularly involved in the fight against diseases linked to unsafe water, the first cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene promotion, but also in the essential area of food security and livelihoods. Present in around twenty countries, SI's teams - 2000 p…
-
-### Digital Acquisition Officer — Médecins Sans Frontières en Suisse — closes 2026-10-11
-https://reliefweb.int/node/4231141  
-Terms: migration-data, data-me  
-**Join MSF OCG as a Digital Acquisition Officer!** **We are looking for passionate candidates ready to contribute to our humanitarian mission.** **Below, you will find the job details and the qualifications we are looking for.** **Inclusivity and Diversity at MSF** Do your qualifications and experience not exactly match all requirements of the job? At MSF OCG, we are committed to an inclusive culture that supports and amplifies the diverse voices of our staff members. We strive to create workplaces where teams of people with diverse backgrounds, characteristics, perspectives, ideas and experie…
-
-### AI Product Manager - CLEAR Project — Norwegian Refugee Council — closes 2026-10-11
-https://reliefweb.int/node/4231278  
-Terms: migration-data, displacement, data-me  
-**What we’re looking for** Help build NRC’s future of AI-enabled humanitarian response. NRC is hiring an experienced **Product Manager** for the CLEAR Initiative to help build the next generation of humanitarian information systems and turn complex, fragmented crisis data into insights that enable humanitarian teams to act earlier - and potentially save lives. CLEAR is building open infrastructure for crisis emergency response and anticipatory action. Across the humanitarian sector, critical signals such as earth observation data, conflict feeds, field reports, and market information often sit…
-
-### Regional Finance Controller - Kenya — Islamic Relief; Islamic Relief Kenya — closes 2026-10-11
-https://reliefweb.int/node/4231081  
-Terms: migration-data, data-me  
-**Location:** Nairobi, Kenya (for exceptional candidates, we are open to other countries where IRW has a country office in the African region) **Contract:** Permanent **Salary:** £38,322 **Closing Date:** 11th October 2026 Islamic Relief Worldwide (IRW) is a faith-based humanitarian and development organisation working to save and transform the lives of some of the world's most vulnerable people. Established in 1984 and operating in over 45 countries, we respond to emergencies, tackle poverty, empower communities, and advocate for lasting change. We are seeking an experienced and strategic Reg…
-
-### HRIS Product Owner — Médecins Sans Frontières en Suisse — closes 2026-10-11
-https://reliefweb.int/node/4230911  
-Terms: migration-data, data-me  
-**Join MSF OCG as a HRIS Product Owner!** **We are looking for passionate candidates ready to contribute to our humanitarian mission.** **Below, you will find the job details and the qualifications we are looking for.** ## Inclusivity and Diversity at MSF Do your qualifications and experience not exactly match all requirements of the job? At MSF OCG, we are committed to an inclusive culture that supports and amplifies the diverse voices of our staff members. We strive to create workplaces where teams of people with diverse backgrounds, characteristics, perspectives, ideas and experiences work …
-
-### Supply and Delivery of Diesel ITT/Open Tender For Syria — Relief International — closes 2026-10-11
-https://reliefweb.int/node/4229688  
-Terms: migration-data, data-me  
-Relief International (RI) invites your submission of a financial bid in order to provide goods and services in accordance with the conditions detailed in the attached documents. RI seeks a supplier/s for the provision of fuel to Health centers across Syria for 3 years. Deadline for question submission from suppliers is 21 Sep 2026 to procurement.damascus@ri.org. Note: Getting this ITT document will be by downloading through link . [https://drive.google.com/drive/folders/1PttDlGxg4FnK-THBYRQr0vZDfxAaNz2B?usp=sharing](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google…
-
-### Medical Coordinator - NES — Médicos del Mundo — closes 2026-10-11
-https://reliefweb.int/node/4229501  
-Terms: migration-data, data-me  
-## Mission The Medical Coordinator is responsible for the design, development, supervision and improvement of the medical strategy and health and nutrition activities of MdM programs in the area. It ensures the quality of services supported by MdM by integrating Triple Nexus approach into health programs thereby strengthening the local healthcare system's ability to withstand and recover from crises while promoting sustainable development and peacebuilding. He/she represents the organization in all technical strategic and coordination forums and ensures proper communication and coordination wi…
-
-### Zambia People Lead — One Acre Fund — closes 2026-10-11
-https://reliefweb.int/node/4229488  
-Terms: migration-data, data-me  
-## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
-
-### Project Director - DRC Human Resources for Health (HRH) — Global Communities — closes 2026-10-11
-https://reliefweb.int/node/4229391  
-Terms: migration-data, data-me  
-**Program:** Improve Human Resources for Health (HRH) through Implementing a Digital Health Worker Information System (iHRIS) in the Democratic Republic of the Congo (DRC) **Location:** Kinshasa, DRC (full-time, in-country) **Reports to:** Sr. Program Manager (GST) **Duration:** 36 months **Please Note:** *This position is contingent upon award and donor approval. Start date will be determined upon award.* **Overview:** *Global Communities champions community-led solutions to complex challenges at the intersection of global health, humanitarian assistance, sustainable development, and financia…
-
-### Chef de projet Atlas Logistique – Adré / Tchad — Humanity & Inclusion — closes 2026-10-11
-https://reliefweb.int/node/4232440  
-Terms: data-me  
-**Lieu : Adré / Tchad** **Date souhaitée de démarrage : début novembre 2026** **Durée de contrat : 4 mois** Handicap International / Humanity & Inclusion (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins essentiels et améliorer leurs conditions de vie. Elle s’engage à promouvoir le respect de leur dignité et de leurs droits fondamentaux. Depuis sa créatio…
-
-### RFQ/332/2026/KIN/ROAS-Request for Quotation (RFQ) for National Consultancy Services for Conducting the Second Round of the Tracer Study – Iraq — International Labour Organization — closes 2026-10-11
-https://reliefweb.int/node/4232425  
-Terms: data-me  
-Dear Bidder, The International Labour Office (hereinafter the “ILO”) is pleased to invite your company to submit an offer for this RFQ/332/2026/KIN/ROAS-Request for Quotation (RFQ) for National Consultancy Services for Conducting the Second Round of the Tracer Study – Iraq. To enable you to prepare and submit a bid, please refer to the attached Annexes in the attachment area. The ILO must receive your offer no later than the deadline specified at the ILO e-Sourcing Platform (Jaggaer). Late offers shall be rejected. You may submit an offer to the ILO provided that your organization is qualified…
-
-### Grants Manager — Médecins Sans Frontières — closes 2026-10-11
-https://reliefweb.int/node/4232118  
-Terms: data-me  
-## Doctors Without Borders is looking for a [Grants Manager](https://doctorswithoutborders-apac.org/en/careers/regional-vacancies) to support the Morobe Cancer Initiative in Papua New Guinea **Duty station:** Lae, Morobe Province, Papua New Guinea **Duration:** 12 months **Line manager:** Cancer Initiative Coordinator **Functional manager:** Project Finance Coordinator at HQ **Job purpose** Under the supervision of the Cancer Initiative Coordinator, and in collaboration with MoPHA, the Technical Working Group, MSF technical and finance teams, and external partners, the Grants Manager leads the…
-
-### Especialista en Grants e Informes (National/International) — Danish Refugee Council — closes 2026-10-11
-https://reliefweb.int/node/4231721  
-Terms: data-me  
-El **Consejo Danés para los Refugiados (DRC)** es una de las principales ONG humanitarias del mundo, que trabaja en más de 30 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, personas retornadas, personas en movilidad y poblaciones locales/comunidades de acogida en situación de vulnerabilidad. Actualmente, **DRC** busca un(a) **Especialista en Grants e Informes** altamente calificado(a) con sede en **Caracas, Venezuela**. **Acerca del Puesto:** El/la Especialista en Grants e Informes es responsable de apoyar la gestión de subvenci…
-
-### Administrative Assistant (GS-5) — International Monetary Fund — closes 2026-10-11
-https://reliefweb.int/node/4231338  
-Terms: data-me  
-The IMF Resident Representative office in Jordan is seeking to hire a highly qualified **Administrative Assistant** to join its team, preferably starting on **December 1, 2026 or earlier.** The position is offered as a one-year local contractual appointment, with the possibility of renewal for successive terms of up to three years, subject to continued need and satisfactory performance. Candidates must be **nationals or residents of Jordan** or be able to independently obtain a valid work permit before starting employment with the Fund to be considered. Proof of nationality, residency, and/or …
-
-### Transformation Manager — CBM Global Disability Inclusion — closes 2026-10-11
-https://reliefweb.int/node/4230447  
-Terms: data-me  
-**Position Title**: Transformation Manager **Location**: UK, Ireland, Belgium, Germany, Switzerland, Australia, New Zealand, Burkina Faso, Zimbabwe, Kenya, Nigeria, Madagascar, Indonesia, Nepal, Bangladesh, Philippines or Laos. **Reports to**: International Director **Application Deadline**: 11 October 2026 **Contract Type**: Fixed term – 3 years **? About CBM Global** CBM Global works alongside people with disabilities in low- and middle-income countries to fight poverty and exclusion and transform lives. Check out our website and LinkedIn profile to learn more. Drawing on over 100 years of e…
-
-### Head of Office (m/f/d), Sudan — German Red Cross — closes 2026-10-11
-https://reliefweb.int/node/4229840  
-Terms: data-me  
-**The German Red Cross (GRC)** is part of a worldwide community assisting victims of conflicts and disasters and people affected by social or health related crises. The Red Cross / Red Crescent Movement provides vulnerable people with assistance without discrimination and adheres to the seven Fundamental Principles of the Movement: Humanity, Impartiality, Neutrality, Independence, Voluntary Service, Unity and Universality. **Our Mission:** We provide needs-based, flexible, innovative and sustainable support to Sister National Societies, the International Committee of the Red Cross (ICRC), the …
-
-### COORDINATEUR.RICE DE LA GESTION DES CAS - MECANISME 'PROTECT AID WORKERS' — Action contre la Faim France — closes 2026-10-11
-https://reliefweb.int/node/4229564  
-Terms: data-me  
-About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
-
-### "Senior Manager, HR” BRAC International Microfinance (BI MF) — BRAC — closes 2026-10-12
-https://reliefweb.int/node/4232478  
-Terms: migration-data, data-me  
-**BRAC International is Hiring! Join BRAC International to create opportunities for people to realise their potential.** **Position: “Senior Manager, HR” BRAC International Microfinance (BI MF)** **Job Location: Nairobi, Kenya / Dhaka, Bangladesh** ***(Candidates must be nationals of, or have the legal right to work in, either Kenya or Bangladesh)*** **Application Deadline: 12 October 2026** **About BRAC International:** BRAC International (BI), a leading non-profit organisation, is on a mission to empower people and communities facing poverty, illiteracy, disease, and social injustice. Our vi…
-
-### Humanitarian Admin and Surge Consultant — United Nations Population Fund — closes 2026-10-12
-https://reliefweb.int/node/4232158  
-Terms: migration-data, data-me  
-**Humanitarian Admin and Surge Consultant** **Organization:** United Nations Population Fund (UNFPA) – Humanitarian Response Division (HRD) **Duty Station:** Remote **Contract Duration:** 6 Months (renewable subject to performance and funding availability) **Application Deadline:** 12 October, 2026 **About UNFPA & The Role** The United Nations Population Fund (UNFPA) Humanitarian Response Division (HRD) rapidly deploys specialized personnel to Country and Regional Offices during acute emergencies and protracted crises. As the **Humanitarian Admin and Surge Consultant**, you will support HRD’s …
-
-### MERLA Coordinator – Program Support — DT Global — closes 2026-10-12
-https://reliefweb.int/node/4231936  
-Terms: migration-data, data-me  
-We are looking for a MERLA Coordinator – Program Support **Program Background** The Incentive Fund is a flagship program for the Australian Government that has delivered critical infrastructure to under-served communities across Papua New Guinea (PNG). The Incentive Fund Phase 5, commenced in July 2023 and runs for an initial four years, representing the next phase of Australia’s long-term investment in essential social and economic infrastructure in PNG, through a mechanism that has established its development effectiveness over two decades of operations. IF5 builds on the success of earlier …
-
-### Feasibility study of Integrated Transformation for Food and Nutrition Security, Resilient Livelihoods, and one Health systems in ASALs project — Malteser International — closes 2026-10-12
-https://reliefweb.int/node/4231775  
-Terms: migration-data, displacement, data-me  
-**1.0 Background** Malteser International (MI) is the worldwide relief agency of the Sovereign Order of Malta that has for over 60 years provided relief and recovery during and following conflicts and disasters. MI also works alongside vulnerable communities on long-term programs to deliver lasting change. Christian values and humanitarian principles form the foundations of our work: bringing aid to people regardless of their religion, background, or political convictions at over 100 Projects in more than 20 countries. MI’s vision is a life in health and dignity for all; its mission is to prov…
-
-### Explosive Ordnance Risk Education (EORE) Team Member — Danish Refugee Council — closes 2026-10-12
-https://reliefweb.int/node/4231667  
-Terms: migration-data, displacement, data-me  
-Danish Refugee Council, one of the world’s leading humanitarian NGOs, is currently looking for a highly qualified **Explosive Ordnance Risk Education (EORE) Team Member**. ## **About the job** The EORE Team Member position is created within the Libya programme team under the Humanitarian Disarmament and Peacebuilding (HDP) sector for the BRIDGE project (Building Resilience through Integrated Services for Displaced and Host Communities in Greater Libya, Enhancing Well-being), funded by the Italian Agency for Development Cooperation (AICS). The project is being implemented in partnership with IN…
-
-### Consultancy – Strategic Expert, Libya — Geneva Call — closes 2026-10-12
-https://reliefweb.int/node/4231260  
-Terms: migration-data, data-me  
-**DUTY STATION: Libya** **Expected Start Date: ASAP** **REPORTING TO: Regional Head of Programme — MENA** ## **BACKGROUND:** Libya, serving as a transit, destination and influence hub, plays a central role in North Africa. Beyond internal political divisions and localised security tensions, the impact of potential tensions within the country extends across its national borders and could result in heightened protection risks and humanitarian needs. Having said that, Geneva Call remained fully operational in Libya from 2019 until 2023 and since then Geneva Call has been in contact with key inter…
-
-### Consultancy Midterm Review (two phases) for WWF GEF Seaweed project Viet Nam & Philippines — World Wide Fund For Nature — closes 2026-10-12
-https://reliefweb.int/node/4230954  
-Terms: migration-data, data-me  
-**POSITION DETAILS** Project Title: Blue Horizon: Ocean Relief through Seaweed Aquaculture Location: Flexible Preferred time frame: Two phased approach is proposed (see Scope section for details): - Phase 1: Inception period, desktop review, and initial recommendations. To begin as early as late October 2026 and end by late January 2027. - Phase 2: Continued data collection, site visits and delivery of remaining deliverables commence June 2027 and end July/August 2027. Potential site visits: Seaweed farms in Philippines and Viet Nam **INTRODUCTION** World Wildlife Fund, Inc. (WWF) policies and…
-
-### Program Lead — Development Gateway — closes 2026-10-12
-https://reliefweb.int/node/4229787  
-Terms: migration-data, data-me  
-## About Development Gateway and the Early Grade Education Activity (EGEA) [Development Gateway: An IREX Venture (DG)](https://developmentgateway.org/) is an international non-profit organization with approximately 80 team members based in more than 10 countries worldwide. By leveraging the combination of programmatic and IT developer capacity and skills within DG, over the last 20 years we have *researched* data ecosystems, *built* digital tools to support those data ecosystems, and *advised* on data strategy and digital transformation to strengthen decision-making, transparency, and service …
-
-### Planning, Monitoring and Evaluation Myanmar Partner Advisor — Mennonite Central Committee — closes 2026-10-12
-https://reliefweb.int/node/4177378  
-Terms: migration-data, data-me  
-The Planning, Monitoring and Evaluation Myanmar Partner Advisor will complete the planning, monitoring and evaluation tasks for MCC partner organizations in Myanmar. They will be responsible to listen to the partners, develop strong relationships with partners and local people, write realistic plans based upon the partner’s capacity and vision, select tools and conduct the monitoring tasks, and organize the evaluations of the projects. The Partner Advisor will also conduct ongoing training for local partner staff in completing all these tasks. They are responsible to ensure all internal docume…
-
-### Head of Programme Nigeria Abuja — Norwegian Refugee Council — closes 2026-10-12
-https://reliefweb.int/node/4231708  
-Terms: displacement, data-me  
-**About the Context** Nigeria continues to face a complex and protracted humanitarian crisis driven by armed conflict, insecurity, climate-related shocks, displacement, and economic challenges. The Northeast remains the epicenter of the crisis, where years of conflict have displaced millions of people and disrupted access to basic services, livelihoods, and protection. In addition, increasing levels of violence and displacement in the Northwest and North Central regions, alongside recurrent flooding and food insecurity, have further exacerbated protection and humanitarian needs across the coun…
-
-### Economic Recovery Coordinator — Danish Refugee Council — closes 2026-10-12
-https://reliefweb.int/node/4231453  
-Terms: displacement  
-DRC Uganda is currently looking for a highly qualified and motivated individual to join our dynamic team as Economic Recovery Coordinator. **The overall purpose of the role:** The Economic Recovery Coordinator will work in close collaboration with the coordination team of DRC Uganda as well as the implementation teams based in the implementation areas providing technical support to DRC and partner teams through capacity building and close coaching/monitoring of programme implementation for all economic recovery activities across the economic recovery core sectors food security, livelihoods, ma…
-
-### Program Director for Europe — Habitat for Humanity — closes 2026-10-12
-https://reliefweb.int/node/4230700  
-Terms: displacement, data-me  
-**Opportunity Type:** Regular Fixed Term (Fixed Term) **Summary:** Around the world, access to safe and decent shelter remains a fundamental human right—and across Europe, the challenge of building sustainable, equitable housing systems has never been more urgent. At Habitat for Humanity International (HFHI), we are driving transformative change to ensure everyone has a safe place to call home. To drive this regional impact, we are seeking a Program Director for Europe. In this regional leadership role, you will drive systemic impact across four core pillars: strategic portfolio leadership, te…
-
-### Sr. Finance Associate (AP Invoice Processing) — International Organization for Migration — closes 2026-10-12
-https://reliefweb.int/node/4232751  
-Terms: data-me  
-**Position Title: Sr. Finance Associate (AP Invoice Processing)** **Reference Code: VN 098/2026** **Job classification: General Service Staff** **Duty station: Global Shared Services Centre (GSSC)** **Type of Appointment: One year fixed-term with possibility of extension** **Salary: Php 876,102.00 per annum net of taxes** **Context** Under the overall supervision of the Chief, Global Shared Services Centre (GSSC) Finance Hub and the direct supervision of the Finance Officer (AP, AR and TBR), the Senior Finance Associate – AP Invoice Processing will provide specialized assistance in managing th…
-
-### Manager Ingénierie des Technologies de Réseau - Millennium Challenge Account (MCA) - Côte d’Ivoire Régional — Development Aid — closes 2026-10-12
-https://reliefweb.int/node/4231737  
-Terms: data-me  
-## À propos de MCA – Côte d’Ivoire Régional Le Millennium Challenge Account (MCA-Côte d’Ivoire Régional), en collaboration avec le Gouvernement de la République de Côte d’Ivoire (GoCI) et le Millennium Challenge Corporation (“MCC”) du Gouvernement des États-Unis d’Amérique, met en œuvre un projet dans le cadre du Compact d’un montant de 322,5 millions de dollars. Ce programme vise à renforcer la sécurité énergétique régionale, à réduire les coûts de l’énergie et à favoriser l’accès à une électricité fiable et abordable en Afrique de l’Ouest, en améliorant la capacité de la Côte d’Ivoire à écha…
-
-### Auditor – Gaza Project Audit (Palestine) — Christian Blind Mission — closes 2026-10-12
-https://reliefweb.int/node/4231636  
-Terms: data-me  
-**CBM** is seeking to recruit an auditor to perform an audit of the funds received and payments made by **Atfaluna Society for Deaf Children (ASDC)** under the project **“Strengthening women and girls with and without disabilities by enhancing an inclusive and safe environment in the Gaza Strip”.** ASDC has received funds from CBM to implement this project. The funds transferred to ASDC are co-financed by the German Federal Ministry for Economic Cooperation and Development (BMZ). The objective of this audit is: To express an opinion on the project financial statement for the following reportin…
-
-### Coordinateur·trice Logistique- Tchad — Triangle Génération Humanitaire — closes 2026-10-12
-https://reliefweb.int/node/4231111  
-Terms: data-me  
-***A propos de TGH*** ***"Acteur d'une solidarité durable et partagée"*** Créée en 1994, TGH, association française de solidarité internationale basée à Lyon, élabore et met en œuvre des programmes d'urgence, de réhabilitation et de développement dans les domaines de l'eau, de l'hygiène et de l'assainissement, de la sécurité alimentaire et des moyens d'existence, de la protection et de l'éducation. TGH travaille actuellement dans 13 pays d’Afrique, d’Europe et d’Asie. ***TGH au Tchad*** TGH est présente au Tchad depuis novembre 2023, avec un bureau principal à N'Djamena et des bureaux opératio…
-
-### Coordinateur Géographique H/F — Relief International — closes 2026-10-12
-https://reliefweb.int/node/4230971  
-Terms: data-me  
-**Aperçu** Nous recrutons actuellement un **Coordinateur Géographique H/F** pour rejoindre notre équipe **Développement des Ressources et Mise en Oeuvre des Programmes**. Il s'agit de postes en télétravail, ouverts aux candidat·es basé·es dans l'un des pays où Relief International opère, dans une zone comprise entre les fuseaux horaires du Royaume-Uni et du Pakistan. Des déplacements pouvant représenter jusqu'à 30 % du temps sont à prévoir dans les bureaux pays et sur les sites d'intervention, selon les besoins. Nous sommes fiers de recruter à l'échelle internationale et d'accueillir des colla…
-
-### APPEL D'OFFRES : Évaluation Externe du Programme Santé Environnement (2022-2026) Kinshasa, République Démocratique du Congo — Médecins du Monde — closes 2026-10-12
-https://reliefweb.int/node/4230341  
-Terms: data-me  
-## **PRÉSENTATION DE L’ORGANISATION** Médecins du Monde France (MdM-F) est une association médicale militante de solidarité internationale créée en 1980. Depuis plus de quarante ans, l'organisation œuvre en faveur de l'accès universel aux soins de santé pour les populations les plus vulnérables, en France et à l'international. Son action repose sur une double mission : fournir des soins de santé aux personnes exclues des systèmes de santé et témoigner des obstacles qui limitent l'accès aux soins afin d'influencer durablement les politiques publiques de santé. Organisation non gouvernementale i…
-
-### RCA - Logisticien Projet — COOPI - Cooperazione Internazionale — closes 2026-10-12
-https://reliefweb.int/node/4230129  
-Terms: data-me  
-## **COOPI recherche un Logisticien Projet en RCA** **Depuis 1974 COOPI travaille en RCA pour un développement harmonieux et complet, en faveur tant des individus que des communautés locales.** En ce qui concerne les secteurs d’intervention, l'engagement vis-à-vis des réalités locales a encouragé **COOPI à établir des plans et à implémenter des projets de développement dans le domaine social, économique, sanitaire, environnemental et de la formation.** Les situations de conflit ont amené à la décision de se faire charge de projets d'urgence et de réhabilitation, qui sont aujourd'hui devenus un…
-
-### RCA - Administrateur du Consortium — COOPI - Cooperazione Internazionale — closes 2026-10-12
-https://reliefweb.int/node/4230125  
-Terms: data-me  
-## **COOPI recherche un Administrateur du Consortium en RCA** **Depuis 1974 COOPI travaille en RCA pour un développement harmonieux et complet, en faveur tant des individus que des communautés locales.** En ce qui concerne les secteurs d’intervention, l'engagement vis-à-vis des réalités locales a encouragé **COOPI à établir des plans et à implémenter des projets de développement dans le domaine social, économique, sanitaire, environnemental et de la formation.** Les situations de conflit ont amené à la décision de se faire charge de projets d'urgence et de réhabilitation, qui sont aujourd'hui …
-
-### RCA - Administrateur du Consortium — COOPI - Cooperazione Internazionale — closes 2026-10-12
-https://reliefweb.int/node/4230124  
-Terms: data-me  
-## **COOPI recherche un Administrateur du Consortium en RCA** **Depuis 1974 COOPI travaille en RCA pour un développement harmonieux et complet, en faveur tant des individus que des communautés locales.** En ce qui concerne les secteurs d’intervention, l'engagement vis-à-vis des réalités locales a encouragé **COOPI à établir des plans et à implémenter des projets de développement dans le domaine social, économique, sanitaire, environnemental et de la formation.** Les situations de conflit ont amené à la décision de se faire charge de projets d'urgence et de réhabilitation, qui sont aujourd'hui …
-
-### COORDINATEUR.RICE DE LA GESTION DES CAS - MECANISME 'PROTECT AID WORKERS' — Action contre la Faim France — closes 2026-10-12
-https://reliefweb.int/node/4229563  
-Terms: data-me  
-About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
-
-### ASISTENTE DE PROTECCIÓN Caracas - Distrito Capital — Agency for Technical Cooperation and Development — closes 2026-10-12
-https://reliefweb.int/node/4227606  
-Terms: data-me  
-OBJETIVO DEL TRABAJO Como Asistente de Protección, brindará apoyo operativo directo en la ejecución de las actividades de protección en terreno para la respuesta de emergencia post terremoto en Caracas y La Guaira. Sus responsabilidades principales se centrarán en la identificación inicial de necesidades de protección, la facilitación de sesiones de sensibilización comunitaria, la ejecución de actividades psicosociales y el apoyo logístico en el sistema de remisión de casos bajo la supervisión del Oficial de Protección. FUNCIONES 1\. Implementación y trabajo de campo • Apoyar la recolección de…
-
 ### Comprehensive Mapping & Private Sector Analysis (CM&PSA) Consultant — International Organization for Migration — closes 2026-10-13
 https://reliefweb.int/node/4232169  
 Terms: migration, migration-data, displacement, data-me  
 Established in 1951, IOM is a Related Organization of the United Nations and the leading UN agency in the field of migration. Working closely with governmental, intergovernmental and non-governmental partners, IOM promotes humane and orderly migration for the benefit of all. It saves lives and protects people on the move, drives solutions to displacement, and facilitates pathways for regular migration, while providing services and advice to governments and migrants. IOM is committed to fostering a respectful, inclusive and supportive workplace where all employees can thrive professionally and …
+
+### Field engineer – FS&ERL Programs — Ataa Humanitarian Relief Association — closes 2026-10-13
+https://reliefweb.int/node/4233036  
+Terms: migration-data, data-me  
+**Location**: HAMA **Job summary** Preparing engineering studies and detailed drawings, following up on the implementation of engineering works in accordance with technical specifications, and reviewing and analyzing engineering bids. The position also involves coordinating with the Project Manager to supervise field operations and ensure the application of quality and safety standards throughout the project. **Qualifications and education requirements**: - Bachelor's degree in Agricultural, Civil, or Architectural Engineering. - A Project Management certificate is also preferred. **Required S…
+
+### Operatrice/tore NEET - Milano — WeWorld — closes 2026-10-13
+https://reliefweb.int/node/4232859  
+Terms: migration-data, data-me  
+**Posizione:** Operatrice/tore NEET Milano **Riporta a (Reporting Relationship):** Coordinatrice Programmi Domestici **Dipartimento:** Dipartimento di Comunicazione, Ricerca, Advocacy e Programmi Domestici **Sede di lavoro:** Milano **Data di inizio:** ASAP **Disponibilità richiesta:** 10 ore/settimana **Scadenza per la candidatura:** 13/10/26 **Durata del contratto:** fino al 31/12/2026, con possibilità di rinnovo **Chi siamo** WeWorld è un’organizzazione italiana no profit e indipendente che da 50 anni difende i diritti di tutte le persone per costruire un mondo più equo e garantire loro una…
 
 ### Protection Officer (PRoL)-Daraa — International Rescue Committee — closes 2026-10-13
 https://reliefweb.int/node/4232789  
@@ -2498,6 +1551,11 @@ https://reliefweb.int/node/4231826
 Terms: displacement  
 Danish Refugee Council, one of the world’s leading humanitarian NGOs, is currently looking for a highly qualified **Humanitarian Disarmament and Peacebuilding Coordinator.** ## **About the job** Humanitarian Disarmamant and Peacebuilding is one of DRC’s core sectors, implemented through peacebuilding, conflict sensitivity and humanitarian mine action interventions. The HDP Coordinator will be based in Tripoli, Libya, with frequent travel to implementation sites across the Algeria-Libya-Tunisia operation and the coordination office in Tunis. This is a role for a senior practitioner motivated in…
 
+### Programme and Administrative Assistant – Supporting the National Committee on International Humanitarian Law — UN Development Programme — closes 2026-10-13
+https://reliefweb.int/node/4232841  
+Terms: data-me  
+**POSITION INFORMATION** - Organization: UNDP Lebanon Through Stars Orbit Consultants and Management Development - VA No.: UNDP/LBN/VA26/187 - Position Title: Programme and Administrative Assistant – Supporting the National Committee on International Humanitarian Law - Duty Station: Beirut - Duration: 6 months (without exceeding 18 working days per month) - Vacancy Date of Issue: 06 October 2026 - Vacancy Closure Date: 13 October 2026 - National or International consultancy: National consultancy To review the full Terms of Reference (TOR), please follow link: [https://drive.google.com/file/d/1…
+
 ### RESPONSABLE DU DÉVELOPPEMENT DES COMPÉTENCES ET DES APPRENTISSAGES BILINGUE (Anglais, Français) Siège Dakar - H/F — ALIMA — closes 2026-10-13
 https://reliefweb.int/node/4230876  
 Terms: data-me  
@@ -2518,7 +1576,7 @@ https://reliefweb.int/node/4232329
 Terms: migration, migration-data, data-me  
 Under the direct supervision of the Chief of Mission (COM), and the technical supervision of the Regional Health Assessment Programme Coordinator (RHAPC) and in coordination with the Head of Programmes and the Regional Migration Health Specialist for your region, the Chief Migration Health Officer will be responsible for the development, implementation, and management of the Health Assessment and other health programmes. **Responsibilities and Accountabilities** **Health Assessment Portfolio** 1. Organize and supervise the migration health assessment process to fulfil the technical requirement…
 
-### 23233 Media and Communications Officer (P) — 1001fontaines; International Organization for Migration — closes 2026-10-14
+### 23233 Media and Communications Officer (P) — International Organization for Migration — closes 2026-10-14
 https://reliefweb.int/node/4232327  
 Terms: migration, migration-data  
 Under the overall supervision of the Chief of Mission (COM) in Conakry, Guinea, and the direct collaboration with the Programme/Project Managers, and in close coordination with the Media and Communications Unit (MCU) at the Regional Office (RO) of West and Central Africa in Dakar and the Media and Communications Division (MCD) in Geneva, the Media and Communications Officer will assist with the implementation of internal and external communication and media-related activities for IOM in Conakry, Guinea. In light of the rise in irregular migration and the abuses suffered by migrant’s en-route, …
@@ -2538,15 +1596,25 @@ https://reliefweb.int/node/4229915
 Terms: migration, migration-data  
 **Position Start Date:** 01.12.2026 **Type of contract:** CDM **Duration:** 12 months **Location:** Maiduguri, Nigeria **Status**: Unaccompanied **Terre des hommes does not set closing date for this position. Recruitment is on-going until the position is filled** **Tdh:** Terre des hommes (Tdh), founded in 1960, is an independent, neutral and impartial Swiss organization committed to bringing meaningful and lasting change to the lives of children and youth, especially to those most exposed to risks. To make a difference, we focus on the areas of maternal and child health, children and youth mi…
 
+### Trainer for Youth Capacity Development in Conflict Analysis, Peacebuilding and Community Dialogue — Terre des Hommes Italia — closes 2026-10-14
+https://reliefweb.int/node/4233133  
+Terms: migration-data, data-me  
+## 1. Background Terre des Hommes Italia (TDH Italy) supports children, young people, families and communities in Syria through education, protection, inclusion and social cohesion programmes. As part of its social cohesion work, TDH Italy intends to strengthen young people’s ability to understand conflict dynamics, design contextually relevant peacebuilding interventions, and plan and facilitate inclusive community dialogue. The training will combine practical knowledge with opportunities to apply skills through exercises, simulations and group work relevant to participants’ communities. TDH …
+
+### MEAL Enumerator — Agency for Technical Cooperation and Development — closes 2026-10-14
+https://reliefweb.int/node/4232968  
+Terms: migration-data, data-me  
+ACTED is committed to immediate humanitarian relief to support those in urgent need and protect people’s dignity, while co-creating longer term opportunities for sustainable growth and fulfilling people’s potential. ACTED endeavours to respond to humanitarian crises and build resilience; promote inclusive and sustainable growth; co-construct effective governance and support the building of civil society worldwide by investing in people and their potential. The commitment of ACTED and that if our teams is guided by 4 core values: (1) Responsibility: we ensure the efficient and responsible deliv…
+
+### Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event — International Labour Organization — closes 2026-10-14
+https://reliefweb.int/node/4232829  
+Terms: migration-data, data-me  
+**Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event** In Erbil, Iraq 1 - 5 November 20261 ## Background and purpose / Objective for this Service: ### Credit Analysis for MoLSA Staff The promotion of the Development of Small and Medium-sized Enterprises (SMEs) plays a central role in fostering inclusive economic growth, job creation, and resilience in Iraq. In partnership with the Ministry of Labour and Social Affairs (MoLSA) and with financial support from KfW, the International Labour Organization (ILO) is implementing the Promot…
+
 ### Partnerships and Engagement Officer - London, UK — Prosper Global — closes 2026-10-14
 https://reliefweb.int/node/4232563  
 Terms: migration-data, data-me  
 **Location:** London, UK **Position Status:** Full-time, Regular **Salary:** starting £37,040 - commensurate with professional experience and internal equity. **Closing date:** Please submit application by **October 14th** [**Risk Level:**](https://library.mercycorps.org/record/47705?ln=en) **☐ Level 3 ☐Level 2** X **Level 1** Level 1: Likely to have no contact with participants or sensitive data ## **About Prosper Global** Barely enough is not enough for anyone. Prosper Global is a humanitarian organization working alongside communities facing conflict, climate change, and economic hardship t…
-
-### Lead, Client Impact, BRAC International Microfinance (BI MF) — BRAC — closes 2026-10-14
-https://reliefweb.int/node/4232594  
-Terms: migration-data, data-me  
-**BRAC International is Hiring! Join BRAC International to create opportunities for people to realise their potential.** **Position: Lead, Client Impact, BRAC International Microfinance (BI MF)** **Job Location: Nairobi, Kenya | Open to Kenyan and international candidates.** **Application deadline: 14 October 2026** **About BRAC International:** BRAC International (BI), a leading non-profit organisation, is on a mission to empower people and communities facing poverty, illiteracy, disease, and social injustice. Our vision is to create a world free from exploitation and discrimination, where ev…
 
 ### Programme Officer — Mines Advisory Group — closes 2026-10-14
 https://reliefweb.int/node/4232483  
@@ -2628,6 +1696,16 @@ https://reliefweb.int/node/4222784
 Terms: migration-data, data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
 
+### Head of Mission - Iran — INTERSOS — closes 2026-10-14
+https://reliefweb.int/node/4233182  
+Terms: displacement  
+INTERSOS is an independent humanitarian organization that assists the victims of natural disasters, armed conflicts and exclusion. Its activities are based on the principles of solidarity, justice, human dignity, equality of rights and opportunities, respect for diversity and coexistence, paying special attention to the most vulnerable people. **Terms of reference** **Job Title:** Head of Mission **Code:** SR-58-10281 **Duty station:** Tehran with field missions in projects' locations **Starting date:** 01/01/2027 **Contract duration:** 5 months (Extendable) **Reporting to:** Regional Director…
+
+### Mission France - Médiateur.ice Interculturel.le - Basé à Dunkerque F/H — Médecins Sans Frontières — closes 2026-10-14
+https://reliefweb.int/node/4233054  
+Terms: displacement, data-me  
+Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. La mission France recherche un.e : Médiateur.ice Interculturel.le - Basé à Dunkerque. **CONTEXTE** La Mission France de MSF porte assistance aux personnes migrantes en situation de grande vulnérabilité sociale, médicale et/ou psychique sur le territoire français et mène des actions de plaidoyer …
+
 ### Asistente de Protección Santa Bárbara del Zulia - Personal Nacional — Danish Refugee Council — closes 2026-10-14
 https://reliefweb.int/node/4232693  
 Terms: displacement, data-me  
@@ -2637,6 +1715,31 @@ Danish Refugee Council (DRC) es una de las ONG humanitarias líderes en el mundo
 https://reliefweb.int/node/4232040  
 Terms: displacement, data-me  
 **About the Context** Nigeria continues to face a complex and protracted humanitarian crisis driven by armed conflict, insecurity, climate-related shocks, displacement, and economic challenges. The Northeast remains the epicentre of the crisis, where years of conflict have displaced millions of people and disrupted access to basic services, livelihoods, and protection. In addition, increasing levels of violence and displacement in the Northwest and North Central regions, alongside recurrent flooding and food insecurity, have further exacerbated protection and humanitarian needs across the coun…
+
+### Venezuela: Asistente de Protección y Referencias (San Fernando de Apure) — Cruz Roja Venezolana — closes 2026-10-14
+https://reliefweb.int/node/4233059  
+Terms: data-me  
+La Cruz Roja Venezolana (CRV) es una organización humanitaria cuyo mandato es salvar vidas y mejorar las condiciones de las personas en situación de vulnerabilidad. Como parte del Movimiento Internacional de la Cruz Roja y la Media Luna Roja, brinda asistencia oportuna en emergencias, desastres y contextos de necesidad humanitaria. Guiada por sus Principios Fundamentales—Humanidad, Imparcialidad, Neutralidad, Independencia, Voluntariado, Unidad y Universalidad—la CRV actúa como auxiliar de los poderes públicos en el ámbito humanitario, trabajando para reducir el sufrimiento humano sin distinci…
+
+### Venezuela: Asistente de Protección y Referencias (Coro) — Cruz Roja Venezolana — closes 2026-10-14
+https://reliefweb.int/node/4233058  
+Terms: data-me  
+La Cruz Roja Venezolana (CRV) es una organización humanitaria cuyo mandato es salvar vidas y mejorar las condiciones de las personas en situación de vulnerabilidad. Como parte del Movimiento Internacional de la Cruz Roja y la Media Luna Roja, brinda asistencia oportuna en emergencias, desastres y contextos de necesidad humanitaria. Guiada por sus Principios Fundamentales—Humanidad, Imparcialidad, Neutralidad, Independencia, Voluntariado, Unidad y Universalidad—la CRV actúa como auxiliar de los poderes públicos en el ámbito humanitario, trabajando para reducir el sufrimiento humano sin distinci…
+
+### Expression of Interest: Rehabilitation of Forlanini Hospital MDR — World Vision — closes 2026-10-14
+https://reliefweb.int/node/4233033  
+Terms: data-me  
+**Background** World Vision Somalia Program invites qualified and reputable Contractors with proven experience in construction and rehabilitation works for demolition, renovation and rehabilitation of Forlanini Hospital MDR. **Important Notes:** - The works cover demolition, renovation and rehabilitation of Forlanini Hospital MDR. - Currency of offer should preferably be in US Dollars, but in case local currency is offered, the comparison of offers will be based on the prevailing rate of exchange. - World Vision does not undertake to pay by letter of credit (LOC) or in advance of work completi…
+
+### Consultancy services to facilitate and to prepare the report for the Asia Leadership Team Meeting (ALT) and the Asia Leadership Forum (ALF) - F2F Meet — Oxfam — closes 2026-10-14
+https://reliefweb.int/node/4232976  
+Terms: data-me  
+**Terms of Reference** **Consultancy services to facilitate and to prepare the report for the Asia Leadership Team Meeting (ALT) and the Asia Leadership Forum (ALF) - F2F Meeting or “ALT+ALF Meeting”, in Bangkok, Thailand** ***Shaping a stronger Oxfam for people living in poverty*** **DEPARTMENT PURPOSE** Oxfam is an international confederation of 21 organizations networked together in 87 countries. As part of a global movement for change, we are working together to end world poverty and injustice. We work with thousands of partners in countries around the world and employ staff in a wide vari…
+
+### Partnerships Manager-Damascus — International Rescue Committee — closes 2026-10-14
+https://reliefweb.int/node/4232978  
+Terms: data-me  
+**Background/Context:** The IRC has operated in Syria since 2012, providing protection, health, economic recovery, and early childhood development programs in Idleb, Aleppo, Ar-Raqqa, Hassakeh, and Deir ez-Zor, with new programs expanding into Hama, rural Damascus, and Homs. With a team of over 350 members, the IRC has established trust and strong community relationships, ensuring access and effective service delivery. Our longstanding experience in the country to date provides a strong foundation for the IRC to further adapt and expand its programming across Syria, in order to respond to the …
 
 ### Consultancy – Consulting Risk Tool & Appetite Assignment — Netherlands Red Cross — closes 2026-10-14
 https://reliefweb.int/node/4232679  
@@ -2673,6 +1776,11 @@ https://reliefweb.int/node/4229528
 Terms: data-me  
 With 75 years of experience, our focus is on helping the most vulnerable children overcome poverty and experience fullness of life. We help children of all backgrounds, even in the most dangerous places, inspired by our Christian faith. Come join our 33,000+ staff working in nearly 100 countries and share the joy of transforming vulnerable children’s life stories! **Here’s where you come in:** **GHANA COUNTRY CONTEXT** World Vision is a global leader in improving and transforming the lives of children, their families, and their communities. In1979, it expanded its operations to Ghana, a countr…
 
+### Consultant national – Enquêteur / Collecteur de données temporaire — International Organization for Migration — closes 2026-10-15
+https://reliefweb.int/node/4232784  
+Terms: migration, migration-data, data-me  
+Dans le cadre du programme Better Regional Migration Management (BRMM), l’Organisation internationale pour les migrations (OIM), basée à Djibouti, recrute un consultant national (enquêteur/collecteur de données temporaire) pour une durée de 12,5 jours afin de réaliser la collecte de données auprès des bénéficiaires du programme Youth Business Incubator (YBI). Cette mission s’inscrit dans le cadre d’une étude de suivi visant à évaluer les résultats, les effets et l’impact de l’initiative. ## Contexte et portée du projet Le programme Better Regional Migration Management (BRMM), intitulé « Mobili…
+
 ### 23229 Head of Programmes (P) — International Organization for Migration — closes 2026-10-15
 https://reliefweb.int/node/4232328  
 Terms: migration, migration-data, data-me  
@@ -2687,6 +1795,41 @@ Terms: migration, migration-data, data-me
 https://reliefweb.int/node/4230269  
 Terms: migration, migration-data, displacement, data-me  
 Consilient ([www.consilientresearch.org](http://www.consilientresearch.org/)), is a research and monitoring and evaluation firm dedicated to delivering evidence-based insights to the aid and development community. We at Consilient believe the best work is done when full-time international and local researchers collaborate in-country to deliver informed products across topical sectors. As such, Consilient delivers its research products to the development, humanitarian, government, U.N., and donor clients with full-time, locally based research teams. Today, with a team of more than 75, Consilien…
+
+### Consultancy Services for Environmental and Social Impact Assessment (ESIA/EIA), Engineering Surveys, Detailed Engineering Designs and Tender Support — Millennium Water Alliance — closes 2026-10-15
+https://reliefweb.int/node/4233254  
+Terms: migration-data, displacement, data-me  
+**Consultancy Services for Environmental and Social Impact Assessment (ESIA/EIA), Engineering Surveys, Detailed Engineering Designs and Tender Support** *Water Supply Enhancement Program for Low-Income Communities (WASEP)* *Marsabit County, Kenya* Procurement Reference No. 2423 Assignment Duration: October 2026 – Jan 2026 ## **1. Background and Project Context** The Millennium Water Alliance (MWA), in partnership with the M-PESA Foundation and the Marsabit Water and Sewerage Company (MARWASCO), is implementing the Water Supply Enhancement Program for Low-Income Communities (WASEP) in Marsabit …
+
+### Business Coach for We Can Work (WCW) Programme - Nyamira County — Light for the World — closes 2026-10-15
+https://reliefweb.int/node/4233202  
+Terms: migration-data, data-me  
+**Business Coaches for We Can Work (WCW) program - Nyamira County** **Responsible To:** Entrepreneurship Advisor **Employer:** Light for the World Kenya **Contract:** One-year contract, renewal subject to availability of funding. **Mode of Employment:** Full time, 40 hours per week **About Light for the World** Light for the World is a global development organization that champions the rights and inclusion of persons with disabilities. In Kenya, we focus on empowering youth with disabilities through inclusive economic empowerment, education, and eye health initiatives. Through our program, We …
+
+### EOI: REVIEW, ENRICHMENT AND DEVELOPMENT OF COMPETENCY-BASED CURRICULA AND TRAINING PACKAGES FOR FOUR PRIORITY TVET TRADES UNDER BLOOM PROGRAMME — World Vision — closes 2026-10-15
+https://reliefweb.int/node/4233164  
+Terms: migration-data, data-me  
+**1. Background** The BLOOM Programme is committed to improving livelihoods, economic resilience, and employment outcomes for young people through enhanced access to quality, inclusive, and market-responsive skills development opportunities. As part of this commitment, a Labour Market Assessment (LMA) was undertaken to identify occupations and sectors with the greatest potential for employment, self-employment, and enterprise development. The LMA findings highlighted a number of occupational areas with strong labour market demand. To ensure a focused and realistic approach to skills developmen…
+
+### Field Engineer MEAL Officer/الحسكه — Watan Syria — closes 2026-10-15
+https://reliefweb.int/node/4233154  
+Terms: migration-data, data-me  
+**Job Summary:** The MEAL officer will be responsible for supporting the WATAN MEAL team in planning, tool design, documentation, data analysis, and reporting. Also, he/she will work closely with the WATAN programs team, the MEAL field team, INGO partners, and donors. This will include training field staff on best practice approaches to data collection, including ensuring the confidentiality and rights of beneficiaries are respected. **Tasks and Responsibilities of the Job** - Conduct regular field visits to home rehabilitation sites to monitor the progress of construction works and ensure com…
+
+### Consultancy for an Inclusive Multi-Sector Needs Assessment (MSNA) in DR CONGO — Christian Blind Mission — closes 2026-10-15
+https://reliefweb.int/node/4233142  
+Terms: migration-data, displacement, data-me  
+## **Background** CBM (Christian Blind Mission) is an international development and humanitarian organisation dedicated to improving the quality of life of persons with disabilities in the world's poorest countries. We are providing inclusive humanitarian assistance in contexts of disasters, conflict, and displacement. CBM’s humanitarian activities aim to equally reach and actively involve persons with disabilities, addressing specific needs while promoting and facilitating full inclusion in mainstream services. We work together with our partners on programmes that are context specific, from d…
+
+### A CONSULTANT TO CONDUCT SCREENING, ASSESSMENT AND INTERVENTION FOR INCLUSIVE WELLBEING FOR CHILDREN WITH SPECIAL EDUCATION NEEDS AND DISABILITIES . — Adventist Development and Relief Agency International — closes 2026-10-15
+https://reliefweb.int/node/4233006  
+Terms: migration-data, displacement, data-me  
+**REQUEST FOR CONSULTANTS** The Adventist Development and Relief Agency (ADRA) is a global humanitarian organization with a mission to work with people in poverty and distress to create just and positive change. ADRA Somalia belongs to the worldwide network, comprised of more than 130 supporting and implementing country offices. ADRA Somalia is seeking to recruit a consultant to undertake the following assignment: **SCREENING, ASSESSMENT AND INTERVENTION FOR INCLUSIVE WELLBEING FOR CHILDREN WITH SPECIAL EDUCATION NEEDS AND DISABILITIES** 1. **Background Information** In many contexts, even whe…
+
+### Digital Content Creator — Oxfam — closes 2026-10-15
+https://reliefweb.int/node/4232828  
+Terms: migration-data, data-me  
+**About The Role** **HUB PURPOSE:** Achieving systemic change and impact using Oxfam’s presence at every level from local, to regional, to global, aligned with the vision of the global strategic framework: influencing and engaging audiences around the world – through action and by generating financial support - to fight inequality to end poverty and injustice. **TEAM PURPOSE:** - Ensuring that Oxfam’s influencing around the world including campaigns, advocacy, policy, research is high impact and achieves systemic change with a focus on inequality, economic and climate justice. - Leading, conve…
 
 ### Proposal Development Manager — Welthungerhilfe — closes 2026-10-15
 https://reliefweb.int/node/4232615  
@@ -2768,6 +1911,21 @@ https://reliefweb.int/node/4225413
 Terms: displacement  
 **Lifting Hands International is looking for motivated and compassionate General Program Volunteers to join our** **community center in Serres, Greece.** This is a great opportunity for someone who wants to gain experience working in a community-based NGO setting, build meaningful connections with community members, and contribute across our core psychosocial support and community programs. Applications will be reviewed on a rolling basis. **About Us** Lifting Hands International operates a community center in Serres, a small city about an hour from Thessaloniki in Northern Greece. We work wit…
 
+### Consultoría para la identificación y priorización de oportunidades de inversión en sectores estratégicos de la Bolivia Investment Platform (BIP) — World University Service of Canada — closes 2026-10-15
+https://reliefweb.int/node/4233366  
+Terms: data-me  
+**TÉRMINOS DE REFERENCIA** **Servicio de Consultoría / Servicio Civil** ***Contratación de Corto Plazo*** **“Consultoría para la identificación y priorización de oportunidades de inversión en sectores estratégicos de la Bolivia Investment Platform (BIP)” (REF: WUSC/BOL/TS/006-26)** **Lugar de Servicio:** Santa Cruz de la Sierra, con alcance a otras ciudades **Entidad contratante:** World University Service of Canada (WUSC) **Cliente:** Global Affairs Canadá (GAC) **Temporalidad del contrato:** 5 meses, según el siguiente período indicativo: **Inicio:** 22 de octubre 2026; Cierre: 22 de marzo 2…
+
+### Venezuela: Asistente de Protección – Respuesta a la Emergencia (Caracas) — Cruz Roja Venezolana — closes 2026-10-15
+https://reliefweb.int/node/4233217  
+Terms: data-me  
+La Cruz Roja Venezolana (CRV) es una organización humanitaria cuyo mandato es salvar vidas y mejorar las condiciones de las personas en situación de vulnerabilidad. Como parte del Movimiento Internacional de la Cruz Roja y la Media Luna Roja, brinda asistencia oportuna en emergencias, desastres y contextos de necesidad humanitaria. Guiada por sus Principios Fundamentales—Humanidad, Imparcialidad, Neutralidad, Independencia, Voluntariado, Unidad y Universalidad—la CRV actúa como auxiliar de los poderes públicos en el ámbito humanitario, trabajando para reducir el sufrimiento humano sin distinci…
+
+### Oficial de Recuperación Económica (agropecuario) republicado - Santa Bárbara del Zulia — Danish Refugee Council — closes 2026-10-15
+https://reliefweb.int/node/4232883  
+Terms: data-me  
+El Consejo Dánes para refugiados es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, DRC está buscando un Oficial de recuperación económica altamente calificado con sede en Santa Bárbara del Zulia, Venezuela. **Acerca del trabajo:** DRC está administrando sus operaciones en Venezuela, bajo la dirección de la oficina de país en Caracas y tres oficinas de campo…
+
 ### Programme Officer – Resilient Livelihoods and Governance — Catholic Agency for Overseas Development — closes 2026-10-15
 https://reliefweb.int/node/4232201  
 Terms: data-me  
@@ -2813,6 +1971,36 @@ https://reliefweb.int/node/4221898
 Terms: migration, migration-data, displacement, data-me  
 For more than 40 years, Médecins du Monde (MdM), a campaigning medical organisation committed to international solidarity, has been caring for the most vulnerable populations here and abroad. It has continued to bear witness to obstacles that exist in accessing healthcare and has secured sustainable improvements in health-for-all policies. Those working for this independent organisation do not solely dispense care and treatment but condemn violations of human dignity and rights and fight to improve matters for populations living in precarious situations. MdM France currently works in 30 countr…
 
+### Project Manager, UZHF (Assuit or Damietta) - Re advertisement) — Plan International — closes 2026-10-16
+https://reliefweb.int/node/4233553  
+Terms: migration-data, data-me  
+**THE ORGANISATION** Plan International is an independent development and humanitarian organisation/charity/non-profit that advances children’s rights and equality for girls. We believe in the power and potential of every child but know this is often suppressed by poverty, violence, exclusion and discrimination. And it is girls who are most affected. Working together with children, young people, supporters and partners, we strive for a just world, tackling the root causes of the challenges girls and vulnerable children face. We support children’s rights from birth until they reach adulthood an…
+
+### Programme Development and Quality Coordinator — Danish Refugee Council — closes 2026-10-16
+https://reliefweb.int/node/4233331  
+Terms: migration-data, displacement, data-me  
+**Overall purpose of the role** The Program Development and Quality Coordinator (PDQC) is responsible for the coordination and management of key program processes, particularly in proposal development and grants management and reporting, ensuring timely reporting to donors, ensuring communication tools and strategies are in place. The PDQC contributes to increased quality by ensuring program coherence, adherence to program standards and appropriate learning from lessons learnt across the country program. The Coordinator is also responsible for donor compliance, application of correct procedure…
+
+### Mental Health and Protection Coordinator — Union of Medical Care and Relief Organizations — closes 2026-10-16
+https://reliefweb.int/node/4233175  
+Terms: migration-data, data-me  
+**Title:** Mental Health and Protection Coordinator **Location: Remote (with travels as required)** **Organization:** UOSSM USA **Contract Duration:** 6 months (with possibility of extension based on funding and performance) **Start date:** November 2, 2026 **Type of Contract:** Full-time **Salary:** USD 2,500/month **Application Deadline:** October 16, 2026 **About UOSSM USA** **The Union of Medical Care and Relief Organizations (UOSSM USA) is a humanitarian, non-profit medical organization committed to improving access to quality healthcare and strengthening health systems for vulnerable and…
+
+### Medical and Health Coordinator — Union of Medical Care and Relief Organizations — closes 2026-10-16
+https://reliefweb.int/node/4233176  
+Terms: migration-data, data-me  
+**Title:** Medical and Health Coordinator **Location: Beirut, Lebanon (with travel across Lebanon as required)** **Organization:** UOSSM USA **Contract Duration:** 6 months (with possibility of extension based on funding and performance) **Start date:** November 2, 2026 **Type of Contract:** Full-time **Salary:** USD 2,500/month **Application Deadline:** October 16, 2026 **About UOSSM USA** **The Union of Medical Care and Relief Organizations (UOSSM USA) is a humanitarian, non-profit medical organization committed to improving access to quality healthcare and strengthening health systems for v…
+
+### Area Manager, Tana River County — Concern Worldwide — closes 2026-10-16
+https://reliefweb.int/node/4233141  
+Terms: migration-data, data-me  
+**Job Title:** Area Manager **Reports to:** Programme Coordinator **Job Location:** Tana River **Contract Details:** Fixed Term **Salary Range:** Kes 299,930 per month **About Concern:** Established in 1968, Concern is a non-profit, non-governmental humanitarian organisation, dedicated to the reduction of suffering and the ultimate elimination of extreme poverty in the world’s poorest countries. Concern’s vision, our mission and our work are all defined by one goal – ending extreme poverty, whatever it takes. Concern strives for a world free from poverty, fear and oppression. Our culture is va…
+
+### Regional Coordinator - Coast Region — Fred Hollows Foundation — closes 2026-10-16
+https://reliefweb.int/node/4232793  
+Terms: migration-data, data-me  
+- **Do you want to do work that really matters? Help us end avoidable blindness.** - **Full time, Fixed Term Role based in Mombasa, Kenya.** - **Closing Date: Friday, 16th October 2026.** **ABOUT THE FRED HOLLOWS FOUNDATION** The Fred Hollows Foundation is an international development organisation working to prevent blindness and restore sight. We continue to carry on the legacy of Professor Fred Hollows, who believed every person had the right to quality eye care, no matter where they live. The Foundation is known around the world as an organisation that works with purpose and determination. …
+
 ### International call for MEAL consultancy - Outcome Harvesting Evaluation — MS ActionAid Denmark — closes 2026-10-16
 https://reliefweb.int/node/4232555  
 Terms: migration-data, data-me  
@@ -2832,6 +2020,11 @@ Under the supervision of the Head of the Facilitation Section, the incumbent wil
 https://reliefweb.int/node/4232371  
 Terms: migration-data, data-me  
 Under the immediate supervision of the Director, Administrative Division, the incumbent leads and provides direction to the Office of Central Support Services which provides the following services to the Secretariat: information, communication and technology services, facilities management, procurement, asset management, publishing, catering, travel, diplomatic, and registry/mailroom and distribution. **Main Duties and Responsibilities** 1. Plan, oversee and provide direction to the management of Central Support Services (CSS), including facilities management, procurement, asset management, pu…
+
+### Program Finance Coordinator — Relief International — closes 2026-10-16
+https://reliefweb.int/node/4232272  
+Terms: migration-data, data-me  
+We are currently recruiting a **Program Finance Coordinator** to join our **Finance** team. This is a **remote position** open to candidates based in any Relief International country of operation, ideally **between UK and Jordan** time zones, with up to **20% international travel**. The role sits within Relief International's global Finance function and provides strategic financial support across multiple country programmes and donor portfolios. At Relief International, we are committed to building a representative, inclusive and authentic workplace. We strongly encourage applications from can…
 
 ### Field Monitoring Specialist — Global Emergency Group — closes 2026-10-16
 https://reliefweb.int/node/4232231  
@@ -2853,11 +2046,6 @@ https://reliefweb.int/node/4231276
 Terms: migration-data, data-me  
 **Program Background** Partnerships for Infrastructure (P4I) Phase 2 is an Australian Government initiative to support quality infrastructure development that drives inclusive growth in Southeast Asia. P4I-2 is a 10-year initiative to December 2035, with an initial period of five years from January 2026 to December 2030. P4I works with partners to strengthen policy and regulatory frameworks related to infrastructure development. It also addresses obstacles to project development, including through advice on financing strategies (with an emphasis on mobilising private finance). P4I works closel…
 
-### Head of Corporate & Major Donors — War Child Holland — closes 2026-10-16
-https://reliefweb.int/node/4231108  
-Terms: migration-data, data-me  
-## **Jouw profiel** - HBO of WO opleiding in marketing, business, management, economics, international development/relations of vergelijkbare richting. - Vloeiend Nederlands en Engels; goede beheersing van extra talen is een pré. - Ondernemend, resultaatgericht en besluitvaardig. - Kan omgaan met prestatiedruk en presteren onder deadlines - Uitstekende communicatie-, presentatie- en representatievaardigheden; kan vertrouwen wekken op senior niveau. - Kan mensen effectief leiden, betrekken en helpen ontwikkelen. - Analytisch en data‑gedreven: vertaalt trends naar fundraisingkansen. - Kennis van…
-
 ### Data Analyst — International Rescue Committee — closes 2026-10-16
 https://reliefweb.int/node/4230169  
 Terms: migration-data, data-me  
@@ -2873,30 +2061,75 @@ https://reliefweb.int/node/4226257
 Terms: migration-data, data-me  
 Trócaire is an international NGO. We work with local partners in the world’s most at-risk communities and with people in Ireland to tackle the underlying causes of poverty and injustice and respond to the crises they create. Together we bring about positive and lasting change for a just world. Trócaire works in up to 20 countries across Africa, Asia, Latin America and the Middle East. We work towards five goals: - Promote Access to Justice; - Achieve Climate & Environmental Justice; - Ensure Women & Girls’ Protection, Voice & Influence; - Save Lives and Protect Human Dignity and - Mobilise the…
 
+### Awards, Grants and Partnership Manager - Remote in RI countries of operations — Relief International — closes 2026-10-16
+https://reliefweb.int/node/4222765  
+Terms: migration-data, data-me  
+**Location** Remote in RI countries of operations ( PAK, LEB, KNY, AFG, TUR, SYR, JOR) **Travel** Frequent travel to the field (including Chad) **Context** **Relief International (RI) is an international non-profit organization** that partners with communities impacted by conflict, climate change and disaster to save lives, build greater resilience and promote long-term health and wellbeing. Our team of more than 4,000 staff and local volunteers work in 14 countries across Africa, Asia, and the Middle East, providing Health and Nutrition, WASH (Water, Sanitation, and Hygiene), Education and Li…
+
+### Project Manager – DRC — Croix-Rouge de Belgique — closes 2026-10-16
+https://reliefweb.int/node/4219252  
+Terms: migration-data, data-me  
+**INTRODUCTION** The Belgian Red Cross-Flanders (Rode Kruis-Vlaanderen, RKV) is part of the International Red Cross and Red Crescent Movement. Adherence to the seven Fundamental Principles – Humanity, Impartiality, Neutrality, Independence, Voluntary Service, Unity, and Universality – is at the core of all our actions. In close collaboration with the local Red Cross Society in each country and its many volunteers, RKV, as a sister National Society, focuses on implementing projects related to first aid, blood donor recruitment and management, disaster preparedness, and emergency response, prima…
+
 ### Legal Unit Intern — Médecins Sans Frontières en Suisse — closes 2026-10-16
 https://reliefweb.int/node/4182489  
 Terms: migration-data, data-me  
 ## Inclusivity and Diversity at MSF Do your qualifications and experience not exactly match all requirements of the job? At MSF OCG, we are committed to an inclusive culture that supports and amplifies the diverse voices of our staff members. We strive to create workplaces where teams of people with diverse backgrounds, characteristics, perspectives, ideas and experiences work together to advance MSF's social mission and create better outcomes for our patients and the communities we work with. We understand that some people may hesitate to apply for employment if they don't meet all listed job…
+
+### Oficial de Recuperación Económica - Medios de Vida (Caracas -Personal Nacional) - Republicado — Danish Refugee Council — closes 2026-10-16
+https://reliefweb.int/node/4233063  
+Terms: displacement, data-me  
+Danish Refugee Council (DRC) es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, en el marco de la respuesta de emergencia al terremoto, DRC está buscando un/a Oficial de Recuperación Económica altamente calificado/a con sede en Caracas, Venezuela. **Acerca del trabajo:** DRC administra sus operaciones en Venezuela bajo la dirección de la oficina de país en C…
+
+### Regional Humanitarian Access and Safety Adviser (Colombia, Venezuela, Honduras nationals) — Norwegian Refugee Council — closes 2026-10-16
+https://reliefweb.int/node/4233038  
+Terms: displacement, data-me  
+All NRC employees are expected to work in accordance with the organization’s values. To be dedicated, innovative, inclusive and accountable are attitudes and beliefs that shall guide our actions and relationships. NRC has a commitment to safety and wellbeing and together we build a positive working culture to feel valued, empowered, supported, safe and have a sense of belonging. NRC does not tolerate employees exploiting or abusing people and has zero tolerance to inaction. ## What we are looking for The Norwegian Refugee Council (NRC) is seeking a **highly qualified,** **resilient, and dynami…
 
 ### Project Coordinator — I Have Rights — closes 2026-10-16
 https://reliefweb.int/node/4232421  
 Terms: displacement  
 **Project Description** I Have Rights provides legal information to asylum seekers on the island of Samos, prepares applicants for their asylum interviews, holds legal information workshops, appeals procedures for rejected applicants and accompanies applicants to interviews. As a political organisation, I Have Rights speaks out about the situation on Samos and in Greece and actively advocates for policy and practice reforms that are responsible for human rights violations in both Samos and Europe. The organisation on Samos consists of a project coordinator, a Greek lawyer, a senior case worker…
 
+### Venezuela: Oficial de Cadena de Suministro (Caracas) — Cruz Roja Venezolana — closes 2026-10-16
+https://reliefweb.int/node/4233406  
+Terms: data-me  
+La Cruz Roja Venezolana (CRV) es una organización humanitaria cuyo mandato es salvar vidas y mejorar las condiciones de las personas en situación de vulnerabilidad. Como parte del Movimiento Internacional de la Cruz Roja y la Medialuna Roja, brinda asistencia oportuna en emergencias, desastres y contextos de necesidad humanitaria. Guiada por sus Principios Fundamentales (Humanidad, Imparcialidad, Neutralidad, Independencia, Voluntariado, Unidad y Universalidad) la CRV actúa como auxiliar de los poderes públicos en el ámbito humanitario, trabajando para reducir el sufrimiento humano sin distinc…
+
+### Consultant(e) national(e) pour l'étude de faisabilité et conception d’une plateforme numérique intelligente — International Organization for Migration — closes 2026-10-16
+https://reliefweb.int/node/4233201  
+Terms: data-me  
+L'Organisation Internationale pour les Migrations (OIM) basée à Djibouti, recrute un(e) consultant(e) national(e) pour la réalisation d’une étude de faisabilité et la conception fonctionnelle et technique d’un poste frontière standard et d’une plateforme numérique intelligente et interopérable de facilitation du commerce sur le corridor Djibouti–Éthiopie « Smart Trade Border Platform » ## **I. Contexte et justification** La Zone de Libre Echange Continentale Africaine (ZLECAf) constitue une opportunité stratégique pour renforcer l’intégration économique africaine, stimuler le commerce intra-af…
+
+### Directeur du pôle Sahel — International Alert — closes 2026-10-16
+https://reliefweb.int/node/4232882  
+Terms: data-me  
+Nous recherchons un(e) candidat(e) exceptionnel(le) pour renforcer la présence d’International Alert (Alert) et approfondir notre engagement et notre impact en matière de consolidation de la paix au Sahel. Basé(e) à Bamako, ou à Niamey, vous développerez davantage la stratégie de collecte de fonds et le travail de consolidation de la paix d’Alert au Mali et au Niger, notamment en menant des actions de sensibilisation et en développant des relations avec des partenaires stratégiques et des bailleurs de fonds clés, en identifiant et en explorant des domaines de croissance stratégique, et en gara…
+
 ### ASISTENTE DE LOGISTICA_CARACAS VENEZUELA — Agency for Technical Cooperation and Development — closes 2026-10-16
 https://reliefweb.int/node/4232466  
 Terms: data-me  
 **Objetivo General** - En coordinación con el Departamento de Logística de ACTED en Caracas, brindar apoyo específico y exclusivo a los procesos de compras, contratación de bienes y servicios, y gestión de inventario de los proyectos ACTED Colombia y Venezuela. - **OBJETIVOS ESPECIFICOS** - Realizar cotizaciones, estudios de mercado, y levantamiento de expedientes de compra, según lineamientos del supervisor/a directo/a y las políticas de compras de ACTED; - Coordinar con el equipo logístico de ACTED y proveedores la gestión de servicios de transporte, hospedaje y compra de bienes y servicios;…
 
-### OFICIAL DE DESARROLLO DE PROYECTOS JUNIOR CARACAS – VENEZUELA — Agency for Technical Cooperation and Development — closes 2026-10-16
-https://reliefweb.int/node/4232465  
-Terms: data-me  
-**OBJETIVO DEL TRABAJO:** Como Oficial de Desarrollo de Proyectos Junior, brindará apoyo al departamento de Desarrollo de Proyectos en la elaboración de propuestas técnicas y en el seguimiento del ciclo de subvenciones de la respuesta ante la emergencia del doblete sísmico del 24-06-2026. Contribuirá a la recopilación de información, la preparación de borradores de informes narrativos y productos de visibilidad, y al archivo y seguimiento de la documentación contractual, facilitando el flujo de información entre los equipos internos. **Cadena de Mando** Bajo la autoridad de: *Gerente de Desarr…
-
 ### AUXILIAR DE APOYO Y MANTENIMIENTO Caracas Venezuela. — Agency for Technical Cooperation and Development — closes 2026-10-16
 https://reliefweb.int/node/4232281  
 Terms: data-me  
 **OBJETIVO DEL CARGO** El Auxiliar de apoyo y mantenimiento está a cargo de la limpieza y mantenimiento de los inmuebles arrendados por Acted para uso de oficina y Guesthouse en la ciudad de Caracas. Su rol va más allá de la limpieza de áreas ya que busca además poder contribuir con la conservación y control de los bienes inmuebles arrendados por Acted desde una perspectiva de la prevención. De ahí que servirá de apoyo a la Gerencia de Administración para identificar novedades relacionadas con materiales, equipos, muebles e inmuebles y también poder llevar un control más exhaustivo de insumos …
+
+### Supply Chain Manager — Independent Doctors Association — closes 2026-10-17
+https://reliefweb.int/node/4233027  
+Terms: migration-data, data-me  
+**Who we are?** ***IDA is an international independent non-governmental organization providing medical and humanitarian assistance to people affected by conflicts, natural disasters and epidemics regardless of race, religion, gender or political affiliation.*** ***IDA was founded in 2012 by Syrian doctors from Aleppo in response to the healthcare and humanitarian crisis in Syria.*** ***IDA Syria is the main healthcare provider in the Northern Aleppo/Syria area, working closely with 500,000 IDPs and 700,000 host community through 20 healthcare facility and other health and nutrition projects***…
+
+### Consultancy to support development of NORCAP Expert Reporting System — Norwegian Capacity — closes 2026-10-17
+https://reliefweb.int/node/4232802  
+Terms: migration-data, displacement, data-me  
+## Introduction to NORCAP NORCAP is part of Norwegian Refugee council (NRC), and has a mission is to improve aid to protect and empower people affected by crises and climate change. With expertise in the humanitarian, development, and peacebuilding sectors, we collaborate with local, national, and international partners on finding solutions that meet the needs of people at risk. ## Context of the assignment NORCAP is working on development of an internal expert reporting system (ERS) that will tie together reporting sources within one MS Fabric workspace. In the first phase of the project we h…
+
+### Countering the Financing of Terrorism Expert (Remote) — UN Volunteers — closes 2026-10-17
+https://reliefweb.int/node/4232787  
+Terms: migration-data, data-me  
+**Mission and objectives** The United Nations Office of Counter-Terrorism (UNOCT) was established by the General Assembly in June 2017. The Office has five main functions: (a) provide leadership on the General Assembly counter-terrorism mandates across the United Nations System; (b) enhance coordination and coherence across the 43 Global Counter-Terrorism Coordination Compact entities to ensure the balanced implementation of the four pillars of the Strategy; (c) strengthen the delivery of United Nations counter-terrorism capacity-building assistance to Member States; (d) improve visibility, ad…
 
 ### Humanitarian Communications Officer — ACT Alliance — closes 2026-10-17
 https://reliefweb.int/node/4232493  
@@ -2933,6 +2166,16 @@ https://reliefweb.int/node/4230301
 Terms: displacement  
 The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
 
+### ITB_COL _Llorente_Servicio de Alimentación (Restaurante)_20260907 — Danish Refugee Council — closes 2026-10-17
+https://reliefweb.int/node/4228789  
+Terms: displacement  
+El Consejo Danés para Refugiados - Danish Refugee Council - DRC Programme Colombia ha recibido una subvención de diferentes donantes para la implementación de programas de ayuda humanitaria en el territorio nacional, y, como parte de uno de sus procesos de servicios soporte para el desarrollo de operaciones en oficinas y terreno, busca invitar a diferentes oferentes a participar en el proceso de licitación concerniente a la ***Prestación de servicio de alimentación en sitio (restaurante) en Llorente. La prestación del servicio será de lunes a domingo incluido días festivos***. Por lo anterior …
+
+### Oficial Nacional de Enlace - Consultoría — Mines Advisory Group — closes 2026-10-17
+https://reliefweb.int/node/4232854  
+Terms: data-me  
+**Date posted:** October 5, 2026 **Pay:** Between MXN 36,000.00 - 42,000.00 per month **Job description:** IMPORTANTE Todos los candidatos interesados deberán enviar su CV y carta de presentación en español a info.mexico@maginternational.org antes de la fecha límite del 17 de octubre del 2026. Debido al gran volumen de solicitudes que recibimos, no podemos responder a todas ellas. Si no ha recibido respuesta en un plazo de un mes, significa que su solicitud no ha sido aceptada. Remuneración: 36,000.00 - 42,000.00 MXN mensuales Jefe Directo: Directora País Ubicación: Cdmx - México Duración: 6 m…
+
 ### Liaison & Security Officer -Damascus — International Rescue Committee — closes 2026-10-17
 https://reliefweb.int/node/4232790  
 Terms: data-me  
@@ -2942,6 +2185,21 @@ Terms: data-me
 https://reliefweb.int/node/4231942  
 Terms: data-me  
 ## Org. Setting and Reporting UNRWA is a United Nations agency established by the General Assembly in 1949 and is mandated to provide assistance and protection to a population of some 5.8 million registered Palestine refugees. Its mission is to help Palestine refugees in Jordan, Lebanon, Syria, West Bank and the Gaza Strip to achieve their full potential in human development, pending a just solution to their plight. UNRWA's services encompass education, health care, relief and social services, camp infrastructure and improvement, microfinance, and emergency assistance. UNRWA is the largest UN …
+
+### Consultoría de Gestión de Casos de Protección de la Niñez en Emergencias | Venezuela — Plan International — closes 2026-10-17
+https://reliefweb.int/node/4229580  
+Terms: data-me  
+**Objeto de la consultoría** Prestación de servicios especializados de gestión de casos para NNA afectados por la emergencia. **Área de apoyo técnico** Programas humanitarios **Contraparte técnica** Especialista de Protección de la Niñez en la Acción Humanitaria **Lugar de prestación** Venezuela, con servicios presenciales y/o remotos según las necesidades de los productos acordados **Cobertura geográfica** Carabobo, Yaracuy y Falcón, y otras zonas priorizadas de la respuesta **Duración estimada** 6 meses **Fecha prevista de inicio** 28/09/2026 **Modalidad contractual** Consultoría con contrat…
+
+### Expression of Interest: Procurement of a Loans Management System for a Rural Based Informal MFI — World Vision — closes 2026-10-18
+https://reliefweb.int/node/4233338  
+Terms: migration, migration-data, data-me  
+**Organization:** World Vision Somalia (SomReP) **Project:** SERECA **Donor Funded:** ANCP **Position Type:** Contract **Location:** Remote & in Somalia/Land (Dollow and Elefyne) **Estimated working days:** 60 days **Estimated number of staff required to work on the project:** 1-5 **Reporting to:** Economic Development and Market System Development Advisor - SomReP **Starting Date:** Oct 2026 **Background** The Somalia Resilience Programme (SomReP) is a consortium of seven international non-governmental organizations (INGO) and one Local NGO. SomReP works to enhance the resilience of chronical…
+
+### ICT Systems Integration Technician EFMS/CARLOG — CTG (Committed To Good) — closes 2026-10-18
+https://reliefweb.int/node/4233034  
+Terms: migration, migration-data, data-me  
+Overview of position CTG is looking for an ICT Systems Integration Technician EFMS/CARLOG to support its client operation, administration, integration, maintenance, and modernization of the UN mission Electronic Fleet Management System (EFMS) utilizing the CARLOG platform. The incumbent will be responsible for the administration and operational support of fleet technology systems, fuel monitoring systems, SQL databases, GPS tracking infrastructure, CAN Bus integrations, and related transport technology solutions. The objective of the assignment is to ensure the reliable, secure, and efficient …
 
 ### Project Assistant (DTM) — CTG (Committed To Good) — closes 2026-10-18
 https://reliefweb.int/node/4232801  
@@ -2957,6 +2215,56 @@ Terms: migration, migration-data, displacement, data-me
 https://reliefweb.int/node/4224275  
 Terms: migration, migration-data, data-me  
 ## **NOTRE MISSION** Médecins du Monde est une ONG internationale de développement médical faisant partie d'un réseau international. Nous fournissons une assistance médicale aux groupes vulnérables, en Belgique et dans le reste du monde. Nous voulons une couverture universelle de santé où chaque personne a accès aux soins, sans obstacles (financiers, culturels, géographiques, etc.). Pour mener à bien notre mission, nous nous basons sur trois piliers : - **Soigner** : donner un réel accès aux soins aux populations. - **Changer**: plus qu'aider, nous voulons changer les choses à long terme. - **…
+
+### Field Project Officer — Mehad — closes 2026-10-18
+https://reliefweb.int/node/4233196  
+Terms: migration-data, data-me  
+**Position Title:** Field Project Officer **Number required:** 1 **Code:** AHR-MH-26-40 **Closing date: 18-10-2026 at 12.00 PM** **About Mehad Organization:** A non-profit humanitarian organization, not affiliated with any political party. It was founded in January 2012 with a vision to work within a unified strategic framework to provide medical services and support to affected people and communities, regardless of nationality, ethnicity, gender, religion or political affiliation. Our values:**Trust-Ambition-Accountability-Neutrality-Integrity** **General information:** Place of work: Raqqa. …
+
+### Expression of Interest: Annual Audit of Project/Programme Support Including ISRS 4400 - Revised (Annex D) — World Vision — closes 2026-10-18
+https://reliefweb.int/node/4233329  
+Terms: migration-data, data-me  
+**Introduction** The World Vision Deutschland e.V., hereafter referred to as the “Cooperation partner” wishes to engage the services of an audit firm for the purpose of auditing the Somali Resilience Program (SomReP) phase 3: Inclusive livelihoods for vulnerable pastoral groups, as stipulated in the agreement between the Cooperation partner and Sida. The audit shall be carried out in accordance with international audit standards (ISA) issued by IAASB. In addition, an assignment according to International Standards on Related Services (ISRS) 4400 (Revised) shall be carried out. The audit and th…
+
+### Expression of Interest: Annual Resilience Measurement - SomReP — World Vision — closes 2026-10-18
+https://reliefweb.int/node/4233197  
+Terms: migration-data, displacement, data-me  
+**Terms of Reference for Annual Resilience Measurement** **Programme Name: Somalia Resilience Programme (SomReP)** **Target Locations:** 10 districts of SomReP target Districts **Programme Goal:** Increase the resilience of chronically vulnerable Somali people, households, communities and systems to recurrent climatic shocks and other related risks in targeted pastoral, agro-pastoral and peri-urban livelihood zones by 2029 **Specific Objective:** Sustainably improve food security and livelihoods of Somali people, households, communities through effective risk management, protection of producti…
+
+### Socio-Economic Data Analysis Assistant — Pacific Community — closes 2026-10-18
+https://reliefweb.int/node/4233115  
+Terms: migration-data, data-me  
+The **Pacific Community (SPC)** is the principal scientific and technical organisation in the Pacific region, supporting development since 1947. We are an international development organisation owned and governed by our 27 country and territory members. In pursuit of sustainable development to benefit Pacific people, our organisation works across more than 25 sectors. We are known for our knowledge and innovation in such areas as fisheries science, public health surveillance, geoscience, and conservation of plant genetic resources for food and agriculture. **The Land Resources Division (LRD)**…
+
+### NTD Project Officer - Reaching the Last Mile Fund — Sightsavers — closes 2026-10-18
+https://reliefweb.int/node/4233026  
+Terms: migration-data, data-me  
+Sightsavers is looking for an experienced Project Officer with excellent partner management skills and experience of Digital Health, to support the continued success of Neglected Tropical Disease projects in Benin. **NTD Project Officer** Salary: Local terms and conditions apply Location: Benin, Cotonou Contract: 12-month Fixed-term Contract Hours: 35 hours per week - Standard office hours We are looking for an experienced Project Officer with excellent partner management skills and experience of Digital Health, to support the continued success of Neglected Tropical Disease projects in Benin, …
+
+### ReDSS Kenya Policy Coordinator — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4232906  
+Terms: migration-data, displacement, data-me  
+**About ReDSS** The Regional Durable Solutions Secretariat (ReDSS) is a coalition of 14 NGOs working in the search of durable solutions in East Africa. ReDSS Secretariat is hosted by DRC and based in Nairobi with a country unit in Somalia and Ethiopia. ReDSS is an interagency coordination and information hub that focuses on research and knowledge management, program support, capacity development, learning, and policy influencing. The ReDSS Steering committee is composed of DRC, IRC and NRC. For more information [http://www.regionaldss.org/](http://www.regionaldss.org/) **Overall purpose of the…
+
+### Disaster Preparedness ECHO Project Coordinator - Libya — Norwegian Red Cross — closes 2026-10-18
+https://reliefweb.int/node/4232846  
+Terms: migration-data, displacement, data-me  
+North Africa is increasingly vulnerable to climate-related hazards, environmental degradation and socio-economic pressures. In Libya, these risks are compounded by fragile infrastructure, institutional fragmentation, displacement and unequal access to essential services. The 2023 Derna floods exposed significant gaps in preparedness, early warning and coordination. Strengthening disaster preparedness, early warning systems and anticipatory action is therefore essential to reduce the impact of future shocks. The purpose of the Disaster Preparedness (DP) ECHO Project Coordinator is to coordinate…
+
+### Humanitarian Affairs Officer, P3 — UN Office for the Coordination of Humanitarian Affairs — closes 2026-10-18
+https://reliefweb.int/node/4232845  
+Terms: migration-data, data-me  
+**Job Opening ID**: 285568 **Job Network** : Political, Peace and Humanitarian **Job Family** : Humanitarian Affairs **Category and Level** : Professional and Higher Categories, P-3 **Recruitment Type** : Temporary Opportunities **Duty Station** : EAST JERUSALEM **Department/Office** : Office for the Coordination of Humanitarian Affairs **Date Posted** : Oct 5, 2026 **Deadline** : Oct 18, 2026 **Org. Setting and Reporting** This position is located in the Crisis Response Division (CRD) of the Office for the Coordination of Humanitarian Affairs (OCHA). OCHA is the part of the United Nations Sec…
+
+### Information Management Assistant, G5 — UN Office for the Coordination of Humanitarian Affairs — closes 2026-10-18
+https://reliefweb.int/node/4232838  
+Terms: migration-data, data-me  
+**Job Opening ID**: 285848 **Job Network** : Information and Telecommunication Technology **Job Family** : Information Management Systems and Technology **Category and Level** : General Service and Related Categories, G-5 **Recruitment Type** : Position Specific Job Openings **Duty Station** : NAIROBI **Department/Office** : Office for the Coordination of Humanitarian Affairs **Date Posted** : Oct 5, 2026 **Deadline** : Oct 18, 2026 **Org. Setting and Reporting** This position is located in the Information Systems Section, within the Humanitarian Sector Division of the United Nations Office fo…
+
+### Sign Language Interpreter Consultants invitation to join our preferred supplier list — Sightsavers — closes 2026-10-18
+https://reliefweb.int/node/4232808  
+Terms: migration-data, data-me  
+**Call for Expressions of Interest** **Sign Language Interpreters invitation to join our preferred supplier list Tanzania** **Location:** Dar es Salaam, Tanzania. Candidates must have the legal right to provide consultancy services in the country where any assignment is delivered. **Contract type:** Consultant/Consultancy **About Sightsavers** Sightsavers is an international development organisation working to prevent avoidable blindness, promote equality for people with disabilities and support inclusive development. Through the Mastercard Foundation Digital Futures Programme, Sightsavers is …
 
 ### Data Enumerator (DTM) — CTG (Committed To Good) — closes 2026-10-18
 https://reliefweb.int/node/4232804  
@@ -3008,6 +2316,51 @@ https://reliefweb.int/node/4232334
 Terms: displacement, data-me  
 **What we’re looking for:** NRC Ethiopia is looking for an experienced **Partnerships and Private Sector Engagement Manager** to lead and strengthen how we build, manage, and grow meaningful partnerships. In this role, you will play a key part in developing and implementing NRC Ethiopia’s Partnership Strategy and related SOPs, ensuring that our partnership approach is aligned with NRC’s vision, strategic priorities, policies, and commitment to localisation. You will help create a consistent and coordinated approach to partnerships across the Country Office and, where needed, Area Offices. You …
 
+### Disaster Preparedness Coordinator - Caracas — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4227970  
+Terms: displacement, data-me  
+The Danish Refugee Council is one of the world's leading humanitarian NGOs, working in over 30 countries to provide adequate assistance and protection to refugees, asylum seekers, IDPs, returnees, people on the move, and vulnerable local populations/host communities. Currently, DRC is seeking a highly qualified national o International **Disaster Preparedness Coordinator** based in Caracas, Venezuela. **About the job:** DRC is managing its operations in Venezuela under the direction of the country office in Caracas and four field offices located in the states of Sucre, Apure, and Zulia (Maraca…
+
+### Gerente de Programa TCO — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4233421  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC por sus siglas en inglés) es una de las principales ONG humanitarias del mundo, que trabaja en más de 40 países para proporcionar asistencia adecuada con un enfoque basado en derechos para los refugiados, solicitantes de asilo, los desplazados internos, repatriados y migrantes. DRC ha estado presente en Colombia desde 2011, pero 2018 amplía sus operaciones en respuesta a la crisis venezolana. Actualmente DRC Colombia implementa una respuesta humanitaria centrada protección para refugiados y migrantes venezolanos y colombianos retornados. Actualmente incorp…
+
+### Paediatrician Specialist — Pacific Community — closes 2026-10-18
+https://reliefweb.int/node/4233293  
+Terms: data-me  
+**Description** The **Pacific Community** (SPC) is the principal scientific and technical organisation in the Pacific region, supporting development since 1947. We are an international development organisation owned and governed by our 27 country and territory members. In pursuit of sustainable development to benefit Pacific people, our unique organisation works across more than 25 sectors. We are known for our knowledge and innovation in such areas as fisheries science, public health surveillance, geoscience, and conservation of plant genetic resources for food and agriculture. The **Public H…
+
+### Asistente de Recuperación Económica – Santa Bárbara del Zulia — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4233250  
+Terms: data-me  
+El Consejo Dánes para refugiados es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, DRC está buscando un **Asistentes de Recuperación Económica** altamente calificado con sede en **Santa Bárbara del Zulia.** **Acerca del trabajo:** DRC está administrando sus operaciones en Venezuela, bajo la dirección de la oficina de país en Caracas y tres oficinas de campo…
+
+### Oficial de Monitoreo, Evaluación, Rendición de Cuentas y Aprendizaje — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4233222  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC por sus siglas en inglés) es una de las principales ONG humanitarias del mundo, que trabaja en más de 40 países para proporcionar asistencia adecuada con un enfoque basado en derechos para los refugiados, solicitantes de asilo, los desplazados internos, repatriados y migrantes. DRC ha estado presente en Colombia desde 2011, pero 2018 amplía sus operaciones en respuesta a la crisis venezolana. Actualmente DRC Colombia implementa una respuesta humanitaria centrada protección para refugiados y migrantes venezolanos y colombianos retornados. Actualmente incorp…
+
+### Líder de Equipo de Recuperación Económica - Cumaná — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4233093  
+Terms: data-me  
+El Consejo Dánes para refugiados es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, DRC está buscando un **Líder de Equipo de Recuperación Económica** altamente calificado con sede en **Cumaná, Estado Sucre.** **Acerca del trabajo:** DRC está administrando sus operaciones en Venezuela, bajo la dirección de la oficina de país en Caracas y tres oficinas de cam…
+
+### Gerente de Programas — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4232927  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC por sus siglas en inglés) es una de las principales ONG humanitarias del mundo, que trabaja en más de 40 países para proporcionar asistencia adecuada con un enfoque basado en derechos para los refugiados, solicitantes de asilo, los desplazados internos, repatriados y migrantes. DRC ha estado presente en Colombia desde 2011, pero 2018 amplía sus operaciones en respuesta a la crisis venezolana. Actualmente DRC Colombia implementa una respuesta humanitaria centrada protección para refugiados y migrantes venezolanos y colombianos retornados. Actualmente incorp…
+
+### Oficial de Recuperación Económica — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4232925  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC por sus siglas en inglés) es una de las principales ONG humanitarias del mundo, que trabaja en más de 40 países para proporcionar asistencia adecuada con un enfoque basado en derechos para los refugiados, solicitantes de asilo, los desplazados internos, repatriados y migrantes. DRC ha estado presente en Colombia desde 2011, pero 2018 amplía sus operaciones en respuesta a la crisis venezolana. Actualmente DRC Colombia implementa una respuesta humanitaria centrada protección para refugiados y migrantes venezolanos y colombianos retornados. Actualmente incorp…
+
+### Asistente de Recuperación Económica — Danish Refugee Council — closes 2026-10-18
+https://reliefweb.int/node/4232924  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC por sus siglas en inglés) es una de las principales ONG humanitarias del mundo, que trabaja en más de 40 países para proporcionar asistencia adecuada con un enfoque basado en derechos para los refugiados, solicitantes de asilo, los desplazados internos, repatriados y migrantes. DRC ha estado presente en Colombia desde 2011, pero 2018 amplía sus operaciones en respuesta a la crisis venezolana. Actualmente DRC Colombia implementa una respuesta humanitaria centrada protección para refugiados y migrantes venezolanos y colombianos retornados. Actualmente incorp…
+
 ### Senior Programme Coordinator (f/m/d) — Johanniter-Unfall-Hilfe — closes 2026-10-18
 https://reliefweb.int/node/4232436  
 Terms: data-me  
@@ -3048,10 +2401,70 @@ https://reliefweb.int/node/4230901
 Terms: migration, migration-data, displacement, data-me  
 **Role:** Senior Programme Manager, Academic Pillar (Refugee-Led Research Hub) **Grade and salary:** Grade 8, £49,119 - £58,265 **Hours:** Full-time 37.5 hours per week **Location:** Oxford, United Kingdom (minimum 3 days in office) **Contract type:** Fixed term until 30 September 2028 (with possibility of extension subject to further funding) **Reporting to:** Head of Programmes (postholder to be appointed, in the interim you would report to the Executive Director) **Start Date:** 1st January 2026 (desired) but flexible \*\*Closing date:\*\*19th October (midday UK time) 2026 ## **About the Re…
 
-### Sr. Administrative and Finance Associate — International Organization for Migration — closes 2026-10-19
-https://reliefweb.int/node/4230834  
-Terms: migration, migration-data, data-me  
-**Position Title: Sr. Administrative and Finance Associate** **Reference Code: VN 097/2026** **Job classification: General Service Staff** **Duty station: Global Shared Services Centre (GSSC)** **Type of Appointment: One year fixed-term with possibility of extension** **Salary: Php 1,025,043.00 per annum net of taxes** **Context** Under the overall supervision of the Finance and Administrative Officer (MHD) and the direct supervision of the National Finance Officer (Health Data Monitoring and Reporting), the Senior Administrative and Finance Associate will be responsible and accountable for pr…
+### Technical Manager Medical (TMM) - Maiduguri Roving — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233482  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** The incumbent will be responsible for the overall management, coordination, and monitoring of health programs including integrated primary health care, sexual and reproductive health (SRH), nutrition, and immunization services with a particular focus on improving polio vaccination coverage in hard-to-reach areas in Borno state. The role will provide technical guidance and support to field teams to strengthen program quality, improve data collection and analysis, and ensure the timely preparation of accurate reports. The incumbent will also coordinate closely with the State …
+
+### Field Pharmacist - Dikwa, Magumeri and Maiduguri (Roving) — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233483  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** Under the guidance of the Project Manager and Pharmacy Officer, the field Pharmacist oversees pharmacy stock management in compliance with Good Storage and Distribution Practices (GSDP) across all INTERSOS health facilities and the regional pharmacy warehouse in their respective LGA. This encompasses the complete receiving, storing, and dispensing lifecycle for pharmaceuticals, consumables, medical materials, and equipment. Additionally, the pharmacist is responsible for providing patients with essential treatment precautions, usage instructions, and clinical recommendation…
+
+### Medical Activity Manager - Dikwa and Magumeri. — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233484  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** The Medical Activity Manager is responsible for the overall management and implementation of health and nutrition programs at the LGA level, working in close coordination with relevant LGA health authorities. The incumbent conducts regular monitoring visits to health facilities, nutrition sites, and vaccination sites to ensure service quality and provide ongoing technical support to program teams. Additionally, they oversee monthly data collection from all supported facilities, analyze trends, prepare comprehensive monthly reports, and submit them to the Medical Technical M…
+
+### Midwife Activity Manager - Maiduguri (Roving). — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233485  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** The Midwifery Activity Manager is a senior-level healthcare management role responsible for overseeing, coordinating, and improving maternal and reproductive health services across multiple health facilities and Local Government Areas (LGAs). The position seamlessly integrates clinical oversight, team leadership, program monitoring, and administrative and logistical management to ensure the highest standards of patient care and operational efficiency. ## **RESPONSIBILITIES:** - Ensure that all midwives and MCH staff have standard job descriptions and perform their duties ac…
+
+### Data Entry Operator (HMIS Officer) - Maiduguri — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233486  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** The incumbent will be responsible for collecting field immunization data, verifying its accuracy, compiling monthly reports, and submitting them to the EPI Department and the INTERSOS Health and MEAL teams in Maiduguri. The incumbent will also receive EPI registers, tally sheets, and other reporting tools from the EPI Department in Maiduguri and distribute them to health facilities. This will ensure that field teams consistently use standardized SMOH templates throughout the implementation of the Gates Foundation project. ## **RESPONSIBILITIES:** - Responsible for receiving…
+
+### Nutrition Assistant - Maiduguri, Magumeri, Dikwa — INTERSOS — closes 2026-10-19
+https://reliefweb.int/node/4233487  
+Terms: migration-data, data-me  
+## **JOB PURPOSE:** The incumbent will be responsible for the day-to-day management of activities at the Outpatient Therapeutic Programme (OTP) site. This includes requesting, receiving, and distributing nutrition supplies according to daily needs; maintaining accurate records of quantities received and utilized and compiling daily reports on stock movements and the number of malnourished children attending the OTP to receive treatment. The incumbent will also support the Medical Activity Manager in preparing technical weekly and monthly programme reports including key indicators such as total…
+
+### Request for Proposal Production Partner - Digital Micro Drama Series October 2026 India — Girl Effect — closes 2026-10-19
+https://reliefweb.int/node/4233343  
+Terms: migration-data, data-me  
+**Request for Proposal** **Production Partner - Digital Micro Drama Series** **October 2026** **India** ## **Procurement Summary** **Item Details** RFP Title Production Partner for a Digital Micro Drama Series Supplier Type Production house or lead production agency Base Scope 25 episodes of 60–90 seconds, one original song and music video, and defined promotional assets Optional Scope Series Adaptations into up to three regional languages Primary Language Conversational Hindi with appropriate regional nuances Delivery Period Approximately three months from Contract Location India; agency pref…
+
+### Project Manager (Kenya Nationals Only) — JSI — closes 2026-10-19
+https://reliefweb.int/node/4232905  
+Terms: migration-data, data-me  
+**Company/Division:** [inSupply Health](https://insupplyhealth.com/) **Domain/Unit:** Project Management Unit **Application Deadline: October 19, 2026**. Shortlisting will be on a rolling basis **Employment Type:** Full-time **Reports to:** Project Director **Expected Project Start:** 1 January 2027 **Location:** Nairobi, Kenya **Organization Overview:** inSupply Health is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. …
+
+### Senior Grants and Finance Officer (Kenya Nationals Only) — JSI — closes 2026-10-19
+https://reliefweb.int/node/4232900  
+Terms: migration-data, data-me  
+**Company/Division:** [inSupply Health](https://insupplyhealth.com/) **Application Deadline:** October 19, 2026 **Position Type:** Full-time **Primary Supervisor:** Deputy Project Director, Finance **Secondary Supervisor:** Grants Manager **Location:** Nairobi, Kenya **Expected Project Start:** 1 January 2027 **Organization Overview:** inSupply Health is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. inSupply operates a…
+
+### Finance Director - Kenya (Kenya Nationals Only) — JSI — closes 2026-10-19
+https://reliefweb.int/node/4232898  
+Terms: migration-data, data-me  
+**Company/Division:** [inSupply Health](https://insupplyhealth.com/) **Domain/Unit:** Finance and Operations **Application Deadline:** October 19, 2026 **Position Type:** Full-time **Primary Supervisor:** Chief Executive Officer **Location:** Nairobi, Kenya **Organization Overview:** inSupply Health is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. inSupply operates as a social enterprise, aiming to achieve business sus…
+
+### Human Resources Advisor - HQ — International NGO Safety Organisation — closes 2026-10-19
+https://reliefweb.int/node/4232834  
+Terms: migration-data, data-me  
+**Organisation Background** Founded in 2011, the International NGO Safety Organisation (INSO) is an international non-governmental organisation that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Ne…
+
+### Communication Officer — Farm Africa — closes 2026-10-19
+https://reliefweb.int/node/4232684  
+Terms: migration-data, data-me  
+**PURPOSE OF THE ROLE** The Communications Officer plays a key role in devising and implementing the communications strategy of the Kenya country office. The officer contributes to the global communications team and serves as the primary point of contact for the External Relations team in-country. S/he provides key support to Farm Africa Programmes and the Nairobi team on strategic communications. He/she also works to identify key audiences, build new partnerships (including with the media and private sector), and build capacity across the Farm Africa team in Kenya to communicate effectively. …
+
+### Senior Medical Officer - Roster position — Croix-Rouge Française — closes 2026-10-19
+https://reliefweb.int/node/4232651  
+Terms: migration-data, data-me  
+**This recruitment effort aims to build a pool of team members who can be mobilized in an emergency; it is not for a specific assignment that needs to be filled immediately.** As part of its contribution to the International Red Cross and Red Crescent Movement’s emergency health response, the French Red Cross (CRF), through its International Operations Directorate (DOI) and its International Emergency Unit (PUI), mobilizes medical and public health resources that can be rapidly deployed in response to humanitarian crises: natural disasters, , population displacements, and epidemics. Depending …
 
 ### Social Safeguard Assistant, Calabar — Wildlife Conservation Society — closes 2026-10-19
 https://reliefweb.int/node/4232638  
@@ -3073,6 +2486,11 @@ https://reliefweb.int/node/4231682
 Terms: migration-data, data-me  
 ## **MSF Ubuntu is looking for an Operational Finance Advisor** *Do your skills and experience not precisely match the requirements? At MSF EA, we strive to create a safe, diverse and inclusive workplace, recognizing the need to increase access to professional opportunities for historically underrepresented groups. If you're interested in this position but your experience doesn't align perfectly with the selection criteria, we encourage you to apply anyway. You might be the ideal candidate for this or other positions.* *Firmly committed to safeguarding patients, community members, staff, and a…
 
+### RFP- Donor Landscape Assessment in Kenya — Pathfinder International — closes 2026-10-19
+https://reliefweb.int/node/4231480  
+Terms: migration-data, data-me  
+## Request for Proposal (RFP) Issued on: September 25, 2026 Solicitation Number: **51495** For: Donor Landscape Assessment Quotes Deadline: October 9, 2026 1. **Background** For nearly 70 years, Pathfinder International has been a catalyst for systems transformation, inclusive growth, and resilient communities. With a global footprint spanning Africa, South Asia, and the Middle East, we invest in women and girls by expanding access to essential health products and services, unlocking leadership pathways, and strengthening economic participation. By partnering with civil society, governments, a…
+
 ### Field Coordinator Hodeidah – YEMEN — Première Urgence Internationale — closes 2026-10-19
 https://reliefweb.int/node/4231231  
 Terms: migration-data, data-me  
@@ -3082,6 +2500,31 @@ Terms: migration-data, data-me
 https://reliefweb.int/node/4232764  
 Terms: displacement  
 "Open for all Nationals preferably from Asia" “Female professionals are encouraged to apply”. **Contract:** 2 years fixed-term contract with possibility of extension **One Oxfam Grade:** B1 **Salary and benefits:** in line with Oxfam values and according to location **Flexible working:** We believe flexible working is key to building the Oxfam in Asia of the future, so we’re open to talking through the type of working arrangements that might work for you ## About Oxfam Myanmar Oxfam has been working in Myanmar since 1990s. Oxfam works with local partners across Myanmar to support humanitarian …
+
+### MEAL Officer — DanChurchAid — closes 2026-10-19
+https://reliefweb.int/node/4233377  
+Terms: data-me  
+Créée en 1922, DanChurchAid (DCA) est une organisation non gouvernementale danoise dont l’action est basée sur les droits. Installée en RCA depuis 2015, DCA fournit une assistance aux communautés les plus démunies en situation de conflit et de post-conflit à travers des programmes humanitaires et de développement. Dans le cadre du Projet de Filets Sociaux Adaptatifs et Productifs « Ndoyé » (financement Banque mondiale, IDA), mis en œuvre par le Ministère de l’Action Humanitaire, de la Solidarité et de la Réconciliation Nationale à travers l’UAMOP, DCA met en œuvre la Composante 1 au profit des…
+
+### AVISO DE LICITACIÓN – ITB-VEN-CCS-WASI-09102026 Acuerdo Marco para obras de rehabilitación y/o construcción de infraestructura y sistemas WASH — Danish Refugee Council — closes 2026-10-19
+https://reliefweb.int/node/4233387  
+Terms: data-me  
+El Consejo Danés para Refugiados (DRC) en Venezuela invita a empresas contratistas legalmente constituidas en Venezuela a presentar ofertas para establecer un Acuerdo Marco de seis (6) meses, prorrogable, para ejecutar obras de rehabilitación y construcción de agua, saneamiento e higiene. Las obras se realizarán en centros de salud, centros comunitarios y campamentos temporales de Caracas, La Guaira y Miranda (municipios Plaza, Zamora, Baruta, Chacao y Sucre). Alcance: obras preliminares, infraestructura no estructural, instalaciones sanitarias, tanques y sistemas de bombeo, instalaciones eléc…
+
+### Consultoria para Conceção e Realização de uma Ação de Formação Especializada em Atividade Bancária no Âmbito da Implementação do Sistema Banco do Teso — UN Development Programme — closes 2026-10-19
+https://reliefweb.int/node/4232870  
+Terms: data-me  
+**Consultoria para Conceção e Realização de uma Ação de Formação Especializada em Atividade Bancária no Âmbito da Implementação do Sistema Banco do Tesouro (Design and Delivery of Specialized Banking Operations Training)** UNDP Cabo Verde invites qualified firms and training institutions to submit proposals for the design and delivery of a specialized training programme on banking operations in support of the Treasury Bank System. The assignment includes preparation of tailored training materials, delivery of face-to-face training for Treasury personnel, and provision of a final training repor…
+
+### Office Space Requirements For CBM Kenya — Christian Blind Mission — closes 2026-10-19
+https://reliefweb.int/node/4232773  
+Terms: data-me  
+**CBM Christoffel-Blindenmission Christian Blind Mission e.V. (CBM) is inviting qualified real estate agents, property consultants, and property owners to support the identification and assessment of suitable office accommodation in Nairobi for its Kenya Country Office. The assignment includes sourcing both a short-term furnished serviced office solution and a long-term office relocation option that meets CBM's operational, accessibility, security, and business continuity requirements for approximately 55 staff members.** **About the Assignment:** CBM is an international Christian development …
+
+### ERD Information Management Officer- Aleppo, first period in Raqaa — International Rescue Committee — closes 2026-10-20
+https://reliefweb.int/node/4233567  
+Terms: migration-data, displacement, data-me  
+**Background/IRC Summary:** The Syria crisis is often described as the worst humanitarian catastrophe since the end of the Cold War. Today, 13.4 million people in Syria - more than half of the country's population - are in need of humanitarian assistance with needs increasingly being exacerbated by economic decline. Of these, 6.8 million are refugees and asylum-seekers who have fled the country. This is no short-term humanitarian episode. The devastating human consequences to huge numbers of people will endure for decades. The destruction of relationships, communities, livelihoods, homes and i…
 
 ### Head of Support Services — International Network For Aid Relief and Assistance — closes 2026-10-20
 https://reliefweb.int/node/4232337  
@@ -3127,6 +2570,31 @@ El Consejo Danés para Refugiados - Danish Refugee Council - DRC Programme Colom
 https://reliefweb.int/node/4230929  
 Terms: displacement  
 **Job Title:** Country Director, Ethiopia **Location:** Addis Ababa, Ethiopia (Only candidates who are eligible to work legally without work visa sponsorship in Ethiopia will be considered.) **Contract Type:** Full-time (40 hours per week), 1-year fixed term contract with possibility of renewal based on funding and performance. This is a national position. **Hiring Salary:** ETB 508,934 per month (before taxes) **Target Start Date:** January 2027 **Application Closing Date:** October 20, 2026 23:59 EAT This job advert is for an existing vacancy. ## **About Right To Play:** For more than 25 yea…
+
+### Program officer — Tropical Health and Education Trust — closes 2026-10-20
+https://reliefweb.int/node/4233004  
+Terms: data-me  
+**About GHP** One billion people will never see a qualified health worker in their lives. For over thirty years, GHP – [www.thet.org](http://www.thet.org) – has been working to change this, training health workers to build a world where everyone has access to affordable and quality healthcare. We do this by leveraging the expertise and energy of the UK health community, supporting health partnerships between hospitals, colleges and clinics in the UK and those overseas. From reducing maternal deaths in Uganda to improving the quality of hospital care for injured children in Myanmar, we work to …
+
+### Responsable de la gestion de l'information (IMM) — Mines Advisory Group — closes 2026-10-20
+https://reliefweb.int/node/4232922  
+Terms: data-me  
+## **Spécification du poste : Responsable de la gestion de l'information (IMM)** ### **Département : Opérations** ### **Localisation : Sénégal, Ziguinchor mais le poste ayant une portée nationale, le/la candidat(e) sera amené à se déplacer dans le pays en fonction des besoins du programme** ### **Type de contrat : Contrat à Durée Déterminée (CDD) de droit Sénégalais, 18 mois** ### **Salaire : 1,221,292 Francs CFA (XOF) brut mensuel** #### **La vision de MAG est un avenir sûr pour les femmes, les hommes et les enfants touchés par la violence, les conflits et l'insécurité. Les gens vivront dans …
+
+### Senior Project Officer (Assistant to the Chief of Party) — Agency for Technical Cooperation and Development — closes 2026-10-20
+https://reliefweb.int/node/4232881  
+Terms: data-me  
+**About ACTED** “ We go the last mile. Founded in Afghanistan, against the backdrop of a forgotten crisis, Acted’s mission is to save lives and support people in meeting their needs in hard-to-reach areas. Millions of vulnerable people around the world need humanitarian assistance today, and hundreds of millions will need it tomorrow, in the face of the growing threat of climate change. We believe that our assistance must be conceptualised and delivered within the framework of people’s natural environments, and the territories on which they depend. Therefore, Acted pursues a triple mandate as …
+
+### Assistant.e paie F/H — Médecins Sans Frontières — closes 2026-10-20
+https://reliefweb.int/node/4232807  
+Terms: data-me  
+Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. L’Assistant·e Paie contribue à la réalisation des travaux de paie de MSF France et de la Fondation. Iel intervient en appui de la Responsable Paie et des Gestionnaires Paie. **Principales responsabilités :** Au sein du service Paie, sous la responsabilité de la Responsable Paie et en collaborati…
+
+### OFICIAL DE DESARROLLO DE PROYECTOS JUNIOR CARACAS – VENEZUELA — Agency for Technical Cooperation and Development — closes 2026-10-20
+https://reliefweb.int/node/4232465  
+Terms: data-me  
+**OBJETIVO DEL TRABAJO:** Como Oficial de Desarrollo de Proyectos Junior, brindará apoyo al departamento de Desarrollo de Proyectos en la elaboración de propuestas técnicas y en el seguimiento del ciclo de subvenciones de la respuesta ante la emergencia del doblete sísmico del 24-06-2026. Contribuirá a la recopilación de información, la preparación de borradores de informes narrativos y productos de visibilidad, y al archivo y seguimiento de la documentación contractual, facilitando el flujo de información entre los equipos internos. **Cadena de Mando** Bajo la autoridad de: *Gerente de Desarr…
 
 ### Manager de Programme – Maison des Droits Humains — Carter Center — closes 2026-10-20
 https://reliefweb.int/node/4232202  
@@ -3178,6 +2646,66 @@ https://reliefweb.int/node/4230640
 Terms: data-me  
 **Description of requirements:** Tdh-Kenya is seeking offers from eligible suppliers/Service for purposes of updating its supplier database for its operations in Kenya. Suppliers/Service Providers are invited to participate in the pre-qualification process which may lead to inclusion in our supplier database for the year 2027-/2029 in the following categories referred to **Annex 1- Supplies/services category List:** **CATEGORY No.** **CATEGORY Description** Tdh/PQ/1/2026-Supply of Motor vehicle spare parts, consumables, tyres and accessories (Toyota Land cruisers, Isuzu) Tdh/PQ/2/2026-Supply o…
 
+### Safety & Security capacity building Specialist- Sudan — Triangle Génération Humanitaire — closes 2026-10-20
+https://reliefweb.int/node/4215805  
+Terms: data-me  
+***About TGH*** ***"Actor in a sustainable and shared solidarity"*** Founded in 1994, TGH is a French association for international solidarity based in Lyon. It designs and implements emergency, rehabilitation and development programmes in the fields of water, hygiene and sanitation, food security and rural development, socio-education and psychosocial support. TGH is currently active in 10 countries in Africa, Europe and Asia. ***TGH in Sudan*** TGH has a long-standing presence in Sudan: first implementing a multi-sectoral program targeting displaced people and host communities in Geneina (We…
+
+### 23451 Regional Programme Coordinator (Route-Based Approach (RteBA) (P) — International Organization for Migration — closes 2026-10-21
+https://reliefweb.int/node/4233134  
+Terms: migration, migration-data, displacement  
+Under the overall supervision of the Regional Director and the direct supervision of the Deputy Regional Director for Operations (DRD-O), and in close coordination with the Department of Mobility, Pathways and Inclusion (DMPI) at Headquarters (HQ), the Regional Policy and Liaison Officer (RPLO), the Regional Project Development Officer (RPDO), Regional Thematic Specialists (RTSs), and Country Offices (COs) along the region’s priority migration routes, the Regional Programme Coordinator (Route-Based Approach (RteBA)) will be responsible and accountable for leading, at the technical level, the r…
+
+### 22954 Programme Officer (Immigration and Border Governance (IBG) (P) — International Organization for Migration — closes 2026-10-21
+https://reliefweb.int/node/4233119  
+Terms: migration, migration-data, data-me  
+Under the overall supervision of the Regional Director and the direct supervision of the IOM Ghana (resident), Togo and Benin Chief of Mission and with direct technical support from the Regional Thematic Specialist for the Immigration and Border Management (IBM) as well as the IBM Team in HQ, the Programme Officer (Immigration and Border Governance (IBG)) will be accountable and responsible for the overall development, management, coordination and oversight of the IBM projects portfolio and strategy in the Gulf of Guinea Region to strengthen the capacity of border management agencies and reinf…
+
+### Online Training Facilitator for African Mental Health CSOs and OPDs: Project Management, Resource Mobilization, Financial Management, and M&E — CBM Global Disability Inclusion — closes 2026-10-21
+https://reliefweb.int/node/4233683  
+Terms: migration-data, data-me  
+## Background The Africa Mental Health Leadership Programme (MHLP) is funded by the Wellcome Trust through the Africa Centres for Disease Control and Prevention (Africa CDC) and is implemented by Africa CDC in collaboration with CBM Global, the Mental Health Innovation Network (MHIN), the Pan-African Network of Persons with Psychosocial Disabilities (PANPPD), and other key stakeholders. The programme aims to build a new generation of mental health leaders across Africa who are equipped to advance mental health policy, advocacy, and service delivery. As the lead partner for Pillar Four: Civil S…
+
+### Arabic Editor and Language Specialist (National / Regional) — Chemonics — closes 2026-10-21
+https://reliefweb.int/node/4233592  
+Terms: migration-data, data-me  
+**Background:** The Syria Education Programme II (SEP II), funded by the UK’s Foreign, Commonwealth and Development Office (FCDO) and running until 2027, provides primary school children access to quality, inclusive and sustainable education in conflict-affected areas of Northwest Syria. The project provides comprehensive support to schools and teachers, including pedagogical supervision, learning assessments, psychosocial support, and safeguarding measures. The goal is to foster hope for future generations by investing in capacity-building and models that facilitate learning. **Position Overv…
+
+### Digital Prevention and Capacity Development Consultants — Human Relief Foundation — closes 2026-10-21
+https://reliefweb.int/node/4233333  
+Terms: migration-data, data-me  
+**LOCATION: Home-based, with travel to Baghdad, Iraq, as required** **NUMBER OF POSITIONS: 4–6 consultants across leadership, technical delivery and specialist roles** **CONTRACT: Short-term consultancy with intermittent inputs, anticipated November 2026 to October 2027** ## KEY RESPONSIBILITIES Human Relief Foundation (HRF) is seeking experienced consultants to strengthen institutional capacity in preventing and countering violent extremism (PVE/CVE), with a focus on the digital environment. This is a single recruitment process for a Team Leader, a Technical Lead and 2–4 Specialist Consultant…
+
+### Project Director (Kenya Nationals Only) — JSI — closes 2026-10-21
+https://reliefweb.int/node/4233241  
+Terms: migration-data, data-me  
+**Location:** Nairobi, Kenya **Employment Type:** Full-time **Company/Division:** [inSupply Health Limited](https://insupplyhealth.com/) **Reports to:** Chief Executive Officer **Expected Project Start:** 1 January 2027 **Organization Overview:** inSupply Health is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. inSupply operates as a social enterprise, aiming to achieve business sustainability while advancing our social…
+
+### Deputy Finance Director (Kenya Nationals Only) — JSI — closes 2026-10-21
+https://reliefweb.int/node/4233243  
+Terms: migration-data, data-me  
+**Location:** Nairobi, Kenya **Employment Type:** Full-time **Company/Division:** [inSupply Health Limited](https://insupplyhealth.com/) **Reports to:** Project Director **Functional Relationship:** Finance Director **Expected Project Start:** 1 January 2027 **Organization Overview:** inSupply Health is an East African health advisory firm that designs people-centered, scalable, sustainable supply chain solutions. We focus on optimizing data visibility and use, workforce development, and continuous performance improvement. inSupply operates as a social enterprise, aiming to achieve business su…
+
+### Head of Operational Finance & Support Services — DanChurchAid — closes 2026-10-21
+https://reliefweb.int/node/4233039  
+Terms: migration-data, data-me  
+Central African Republic | Bangui, with frequent travel to field offices DanChurchAid (DCA) is seeking an experienced, hands-on Head of Operational Finance & Support Services (HoOFSS) to lead the day-to-day delivery of finance and support services in its Central African Republic Country Office. Reporting to the Country Director, you will lead the finance, HR, procurement, logistics and administration teams, working closely with programme colleagues and with extended focus on field offices to ensure that staff, funds, supplies and services are available when and where they are needed. The role …
+
+### Safety and Security Assistant - Idleb Saraqeb — GOAL — closes 2026-10-21
+https://reliefweb.int/node/4233001  
+Terms: migration-data, data-me  
+**General Description of the Programme:** Established in 1977, GOAL is an international humanitarian and development agency, committed to working with communities to achieve sustainable and innovative early response in crises, and lasting solutions to poverty and vulnerability. GOAL has worked in over 60 countries and has responded to almost every major humanitarian disaster. We are currently operational in 18 countries. GOAL began operations in Syria in 2013 responding to the acute needs of conflict-affected communities. GOAL's areas of operations include but not limited to Aleppo, Idleb and …
+
+### SYSTEMS INTEGRATION COORDINATOR — Mission for Essential Drugs and Supplies — closes 2026-10-21
+https://reliefweb.int/node/4232852  
+Terms: migration-data, data-me  
+About Us Mission for Essential Drugs and Supplies (MEDS) is a faith-based health solutions provider founded by an ecumenical partnership of the Kenya Conference of Catholic Bishops (KCCB) and the Christian Health Association of Kenya (CHAK). The Organization’s core mandate is providing access to quality health products and technologies through Supply Chain, Quality Assurance and Health Systems Strengthening services. MEDS was established in 1986 and serves clients spread throughout Kenya, other regions in Africa and beyond. Project Summary MEDS is implementing the Dawa za Ubora Project, funded…
+
+### Internship Program 2026 - 2027 — Jouri Research & Consultancy — closes 2026-10-21
+https://reliefweb.int/node/4232809  
+Terms: migration-data, data-me  
+Jouri is an international development consultancy with presence and offices in Geneva, Turkey, Iraq, Jordan, Lebanon and Syria with a team based across Europe and the Middle East. We support humanitarian and development actors to increase the relevance, effectiveness, efficiency, sustainability and impact of their work. Our key services include Research and Analysis, Third-Party Monitoring and Evaluation in Conflict Contexts, and Capacity Building. Jouri is pleased to announce an opportunity for Project Interns. **Details** Duration: 3 months, starting with an initial one-month trial period Wo…
+
 ### Communications Officer — Global Interagency Security Forum — closes 2026-10-21
 https://reliefweb.int/node/4232411  
 Terms: migration-data, data-me  
@@ -3198,6 +2726,36 @@ https://reliefweb.int/node/4222797
 Terms: migration-data, data-me  
 ## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
 
+### WASH Project Manager – Syria / Yemen — Triangle Génération Humanitaire — closes 2026-10-21
+https://reliefweb.int/node/4215651  
+Terms: migration-data, data-me  
+***About TGH*** ***"Actor in a sustainable and shared solidarity"*** Founded in 1994, TGH is a French association for international solidarity based in Lyon. It designs and implements emergency, rehabilitation and development programmes in the fields of water, hygiene and sanitation, food security and rural development, socio-education and psychosocial support. TGH is currently active in 10 countries in Africa, Europe and Asia. ***TGH in Syria and in Yemen*** TGH has been present in Syria since 2017. The organization is specialized in integrated programming in the sectors of Water, Sanitation …
+
+### Communications, Advocacy and External Engagement Manager — World Vision — closes 2026-10-21
+https://reliefweb.int/node/4233124  
+Terms: displacement  
+With 75 years of experience, our focus is on helping the most vulnerable children overcome poverty and experience fullness of life. We help children of all backgrounds, even in the most dangerous places, inspired by our Christian faith. Come join our 33,000+ staff working in nearly 100 countries and share the joy of transforming vulnerable children’s life stories! **Here’s where you come in:** As Communications, Advocacy and External Engagement Manager, you will provide strategic communications leadership and support to World Vision CAR by developing and implementing communication strategies t…
+
+### ToR: Consultancy for a Podcast Production (Recording Support, Editing, English/French Subtitles, Upload/Publishing — CBM Global Disability Inclusion — closes 2026-10-21
+https://reliefweb.int/node/4233666  
+Terms: data-me  
+**The consultant reports to:** Ednar Musyoka- Mental HealthProject Manager **Description of consultancy** To support online and in-person recording in Kenya, edit and package three (3) video podcast episodes, produce subtitles for, create 5–10 short clips, and upload/publish final content on agreed platforms. ## Background and rationale CBM Global is an international development organization committed to improving the quality of life of persons with disabilities in the poorest countries in the world. In one of its unique approaches, CBM firmly commits to establishing authentic partnerships wit…
+
+### Oficial de Gestión de Información — Danish Refugee Council — closes 2026-10-21
+https://reliefweb.int/node/4233223  
+Terms: data-me  
+**DESCRIPCIÓN GENERAL DEL CARGO:** Bajo la supervisión de la Gerencia MEAL (Venezuela), brinda soporte en la gestión de información (recolección, limpieza, transformación, análisis y visualización de la información), asegura la calidad de la misma de acuerdo con los requerimientos técnicos y los lineamientos establecidos, que permitan la toma de decisiones de DRC y de sus socios implementadores de todos los programas implementados en Venezuela, coordina con los equipos programáticos y respalda las solicitudes de manejo de información, contribuye en el desarrollo de nuevas herramientas y aplica…
+
+### Translator & Interpreter (Re-advertisement - for internal and external candidates), Grade 17 — UN Relief and Works Agency for Palestine Refugees in the Near East — closes 2026-10-21
+https://reliefweb.int/node/4233221  
+Terms: data-me  
+## Org. Setting and Reporting UNRWA is a United Nations agency established by the General Assembly in 1949 and is mandated to provide assistance and protection to a population of some 5.8 million registered Palestine refugees. Its mission is to help Palestine refugees in Jordan, Lebanon, Syria, West Bank and the Gaza Strip to achieve their full potential in human development, pending a just solution to their plight. UNRWA's services encompass education, health care, relief and social services, camp infrastructure and improvement, microfinance, and emergency assistance. UNRWA is the largest UN …
+
+### Oficial de Gestión de Información (IM) - Caracas (Personal Nacional) — Danish Refugee Council — closes 2026-10-21
+https://reliefweb.int/node/4233094  
+Terms: data-me  
+El Consejo Dánes para refugiados es una de las ONG humanitarias líderes en el mundo, que trabaja en más de 40 países para brindar asistencia y protección adecuadas a refugiados, solicitantes de asilo, desplazados internos, retornados, personas en movimiento y población local vulnerable/comunidades de acogida. Actualmente, DRC está buscando un **Oficial de Gestión de Información (IM)** altamente calificado con sede en Caracas**, Venezuela.** **Acerca del trabajo:** DRC está administrando sus operaciones en Venezuela, bajo la dirección de la oficina de país en Caracas y tres oficinas de campo ub…
+
 ### Coordinateur·rice Ressources Humaines – Mission France — Médecins Sans Frontières — closes 2026-10-21
 https://reliefweb.int/node/4232656  
 Terms: data-me  
@@ -3212,6 +2770,86 @@ About : Action contre la Faim Créée en 1979, Action contre la Faim est une org
 https://reliefweb.int/node/4230783  
 Terms: data-me  
 About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
+
+### 23437 Regional Programme Coordinator (Route-Based Approach (RteBA)) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233419  
+Terms: migration, migration-data  
+Under the overall supervision of the Regional Director and the direct supervision of the Deputy Regional Director for Operations (DRD-O), and in close coordination with the Department of Mobility, Pathways and Inclusion (DMPI) at Headquarters (HQ), the Regional Policy and Liaison Officer (RPLO), the Regional Project Development Officer (RPDO), Regional Thematic Specialists (RTSs), and Country Offices (COs) along the region’s priority migration routes, the Regional Programme Coordinator (Route-Based Approach (RteBA)) will be responsible and accountable for leading, at the technical level, the r…
+
+### 23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233418  
+Terms: migration, migration-data, displacement, data-me  
+Under the direct supervision of the Deputy Regional Director (DRD) for Operations and overall supervision of the Regional Director (RD), and the guidance of the Department of Humanitarian Response and Recovery (DHRR) at Headquarters (HQ), the Regional Thematic Specialist (Humanitarian Response and Recovery) provides advice and supports the implementation of institutional policy from HQ in Country Offices (COs) across the Region. Specifically, the Regional Thematic Specialist (Humanitarian Response and Recovery) provides oversight, quality control, and thematic expertise to promote consistent, …
+
+### 23396 Regional Programme Specialist (Regional Responses to Climate Displacement (RE2CLID)) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233417  
+Terms: migration, migration-data, displacement  
+The International Organization for Migration (IOM) is the UN Migration Agency. With 175 member states, it is committed to the principle that humane and orderly migration benefits migrants and society. Established in 1951 and now active in over 400 field locations worldwide, IOM works with partners, governments, and civil society to: 1\. Assist in meeting the operational challenges of migration and human mobility; 2\. Advance understanding of migration issues; 3\. Encourage social and economic development through migration; and 4\. Uphold the human dignity and well-being of migrants. Over the p…
+
+### 23395 Senior Programme Manager (Immigration and Border Governance (IBG)) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233392  
+Terms: migration, migration-data, data-me  
+Under the direct supervision of the Deputy Regional Director Operations and technical oversight of the Senior Regional Thematic Specialist (IBG), and in cooperation with relevant departments at Headquarters (HQs), the Senior Programme Manager (IBG) will be responsible and accountable for the overall coordination and management of the Regional Counter Migrant Smuggling Programme (RCMSP), including strengthening the capacity of participating border management agencies and IOM Country Offices (COs) to respond to emerging challenges in counter migrant smuggling and border management, contributing …
+
+### 23266 Regional Migration Health Nurse Coordinator (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233391  
+Terms: migration, migration-data, data-me  
+Under the overall supervision of the Regional Director and direct supervision of the Deputy Regional Health Assessment Programme Coordinator (DRHAPC), the Regional Migration Health Nurse Coordinator will be responsible for substantively supporting Migration Health Division’s (MHD) nursing leadership structure and for carrying out the following duties and responsibilities in relation to the Migration Health Assessment Programme across the region. **Responsibilities** 1\. Establish and maintain an optimal workflow, efficiency, and client satisfaction in all migration health assessment nursing an…
+
+### 23423 Regional Thematic Specialist (Climate Action and Mobility) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233389  
+Terms: migration, migration-data, displacement, data-me  
+Under the direct supervision of the Deputy Regional Director (DRD) for Operations, the overall supervision of the Regional Director (RD), and the guidance of the Climate Action Division (CAD) in Headquarters (HQ), the Regional Thematic Specialist on Climate Action and Mobility (CAD RTS) provides advice and support to the implementation of institutional policies from HQ to Country Offices (COs) across the Region. Specifically, the Regional Thematic Specialist provides oversight, quality control, and thematic and operational support to promote consistent, cohesive, and quality evidence-based pro…
+
+### 22519 Programme Manager (Community Stabilisation) (P) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4233386  
+Terms: migration, migration-data, data-me  
+The Transition and Recovery (TR) Pillar of the Somalia Country Office plays a leading role in stabilisation strategy and delivery throughout Somalia. The Community Stabilisation programme is central to the United Nations (UN) Country Team’s plans for transition and closure of the UN’s political mission in Somalia. The main objective of the unit is to lead coordinated stabilisation efforts across the international community, aligned with the core objectives of the Government of Somalia. Under the overall supervision of the Head of Sub-Office in Nairobi/Senior Programme Coordinator (Transition &…
+
+### Coordination Unit (Forum) Coordinator Sudan Kauda — Norwegian Refugee Council — closes 2026-10-22
+https://reliefweb.int/node/4233640  
+Terms: migration-data, displacement, data-me  
+**Background:** South Kordofan, particularly Region 1 (R1) Nuba Mountains, continues to experience significant humanitarian needs driven by protracted conflict, displacement, and limited access to basic services. The complexity of the operational environment is characterized by hard-to-reach areas, fragmented service delivery, and dynamic population movements requiring strong, well-coordinated humanitarian action to ensure effective and timely assistance. R1 benefits from long-standing coordination structures that have been in place for decades, including efforts led by the United Nations Offi…
+
+### Warehouse Keeper — National Syrian Project for Prosthetic Limbs — closes 2026-10-22
+https://reliefweb.int/node/4233455  
+Terms: migration-data, data-me  
+**Position**: Warehouse Keeper **Location** : NSPPL Center , MAARET ALNUMAN - IDLIB – SYRIA **Duration** : 10 Months. **Closing date**: 22 Oct' 2026 **About NSPPL :** NSPPL was established in Feb 2013 by a group of Syrian doctors overseas to help people whose limbs were amputated as a result of the Syrian war and provide them with prosthetic limbs and appropriate rehabilitation. NSPPL is a non-profit organization that serves people in Syria and Turkey. **NSPPL was licensed in Syria in Feb 2025 as The Syrian Foundation for Prosthetic Limbs and Rehabilitation.** **Position Responsibilities and D…
+
+### Receptionist — National Syrian Project for Prosthetic Limbs — closes 2026-10-22
+https://reliefweb.int/node/4233454  
+Terms: migration-data, data-me  
+**Position**: Receptionist **Location** : NSPPL Center , MAARET ALNUMAN - IDLIB – SYRIA **Duration** : 10 Months. **Closing date**: 22 Oct' 2026 **About NSPPL :** NSPPL was established in Feb 2013 by a group of Syrian doctors overseas to help people whose limbs were amputated as a result of the Syrian war and provide them with prosthetic limbs and appropriate rehabilitation. NSPPL is a non-profit organization that serves people in Syria and Turkey. **NSPPL was licensed in Syria in Feb 2025 as The Syrian Foundation for Prosthetic Limbs and Rehabilitation.** **Position Responsibilities and Dutie…
+
+### M&E Assistant — National Syrian Project for Prosthetic Limbs — closes 2026-10-22
+https://reliefweb.int/node/4233452  
+Terms: migration-data, data-me  
+**Position**: M&E Assistant **Location** : NSPPL Center , MAARET ALNUMAN - IDLIB – SYRIA **Duration** : 10 Months. **Closing date**: 22 Oct' 2026 **About NSPPL :** NSPPL was established in Feb 2013 by a group of Syrian doctors overseas to help people whose limbs were amputated as a result of the Syrian war and provide them with prosthetic limbs and appropriate rehabilitation. NSPPL is a non-profit organization that serves people in Syria and Turkey. **NSPPL was licensed in Syria in Feb 2025 as The Syrian Foundation for Prosthetic Limbs and Rehabilitation.** **Key Responsibilities:** 1. **Data …
+
+### P&O Physiotherapist — National Syrian Project for Prosthetic Limbs — closes 2026-10-22
+https://reliefweb.int/node/4233446  
+Terms: migration-data, data-me  
+***In cooperation between IDLIB Health Directorate and the Syrian Foundation for Prosthetics and Rehabilitation, we announce the availability of a job opportunity as follows:*** **Position**: P&O Physiotherapist **Location** : NSPPL Center , MAARET ALNUMAN - IDLIB – SYRIA **Duration** : 10 Months. **Closing date**: 22 Oct' 2026 **About NSPPL :** NSPPL was established in Feb 2013 by a group of Syrian doctors overseas to help people whose limbs were amputated as a result of the Syrian war and provide them with prosthetic limbs and appropriate rehabilitation. NSPPL is a non-profit organization th…
+
+### Account Manager — CTG (Committed To Good) — closes 2026-10-22
+https://reliefweb.int/node/4233328  
+Terms: migration-data, data-me  
+Overview of position The Account Manager is responsible for the overall management and delivery of services to clients, ensuring CTG’s operations align with client requirements, contractual obligations, and financial goals. This role oversees the end-to-end management of assigned projects, including client engagement, scope management, compliance, and team supervision. As the primary point of contact for clients, the Account Manager is accountable for resolving issues and ensuring that recruitment, onboarding, payroll, consultant contract issuance, and reporting processes are executed efficien…
+
+### Head of Support Services - Lebanon (Readvertised) — Danish Refugee Council — closes 2026-10-22
+https://reliefweb.int/node/4233177  
+Terms: migration-data, displacement, data-me  
+**Who are we?** DRC has been responding to various humanitarian crises in Lebanon since 2004, working with Palestinian, Iraqi and Syrian refugees. Since 2011, DRC has focused on responding to the Syrian refugee crisis in Lebanon and the resulting impact on Lebanese host community, and more recently the impact of the economic and financial crises as well as responding to the ongoing conflict. DRC Lebanon’s focus is to ensure that we are able to respond to critical emerging humanitarian needs whilst improving the living conditions of displacement-affected populations and contributing to the achi…
+
+### Reporting, Compliance & Budgeting Coordinator — Oxfam — closes 2026-10-22
+https://reliefweb.int/node/4233020  
+Terms: migration-data, data-me  
+**KEY RESPONSIBILITIES (Technical, Leadership, People and Resource management)** • Review donor financial reports prepared by the officers in the hubs, highlight any critical findings and possible solution to Donor Accountant. • Work with the officers in the hub and the other department to build high quality financial proposals ensuring compliance with donor’s conditions and requirements and in line with matrix. • Support Finance manager and Donor Accountant in preparing matrix and coordinate with other department (funding, logs, admin …etc) to collect the required information to build the mat…
+
+### Monitoring, Evaluation, Accountability and Learning (MEAL) Officer -Iraq — Tearfund — closes 2026-10-22
+https://reliefweb.int/node/4232501  
+Terms: migration-data, data-me  
+Are you an experienced and qualified Monitoring, Evaluation, Accountability and Learning (MEAL) Officer? Tearfund Eurasia and North Africa has an exciting opportunity for a professional and qualified MEAL Officer to support our programmes in Iraq. The MEAL Officer will provide technical support in Monitoring, Evaluation, Accountability, and Learning across operations in Iraq, specifically coveringErbil and Basra. The Monitoring, Evaluation, Accountability and Learning (MEAL) Officer is responsible for leading and implementing in country project monitoring and data collection as well as technic…
 
 ### Strategic Planning and Projects Management Coordinator – (f/m/x) – MSF Belgium — Médecins Sans Frontières — closes 2026-10-22
 https://reliefweb.int/node/4232196  
@@ -3232,6 +2870,36 @@ Terms: migration-data, data-me
 https://reliefweb.int/node/4230158  
 Terms: migration-data, displacement, data-me  
 ## ABOUT US **Desired start date:** ASAP **Duration of the mission:** 6 months **Location:** Juba **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene promotion, b…
+
+### Education Project Manager Palestine West Bank — Norwegian Refugee Council — closes 2026-10-22
+https://reliefweb.int/node/4233255  
+Terms: displacement, data-me  
+**What we are looking for** We are looking for a **strategic,** **experienced**, and **collaborative** Project Manager with a strong track record of managing complex humanitarian or development programmes in challenging and volatile environments. The ideal candidate combines strong project, financial management and managerial skills. Its an added advantage to have technical expertise and background in education programming. If you are **an experienced Project Manager** with experience in either protection, child safeguarding, psychosocial support, or any other programming for vulnerable and di…
+
+### Deputy Director of Finance, Ebola Response — International Rescue Committee — closes 2026-10-22
+https://reliefweb.int/node/4233179  
+Terms: displacement  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
+### Project Officer — National Syrian Project for Prosthetic Limbs — closes 2026-10-22
+https://reliefweb.int/node/4233458  
+Terms: data-me  
+**Position**: Project Officer **Location** : NSPPL Center , MAARET ALNUMAN - IDLIB – SYRIA **Duration** : 10 Months. **Closing date**: 22 Oct' 2026 **About NSPPL :** NSPPL was established in Feb 2013 by a group of Syrian doctors overseas to help people whose limbs were amputated as a result of the Syrian war and provide them with prosthetic limbs and appropriate rehabilitation. NSPPL is a non-profit organization that serves people in Syria and Turkey. NSPPL was licensed in Syria in Feb 2025 as **The Syrian Foundation for Prosthetic Limbs and Rehabilitation.** **Position Summary.** The Project …
+
+### Coordonnateur·Trice de Projet — Catalyste+ — closes 2026-10-22
+https://reliefweb.int/node/4233276  
+Terms: data-me  
+**COORDONNATEUR·TRICE DE PROJET- RCEAM BÉNIN** **RÉSUMÉ** Sous la supervision du/de la Représentant(e) Pays et en étroite collaboration avec l’équipe programme de Catalyste+, le/la Coordonnateur·trice de Projet sera responsable de **coordonner et de soutenir la mise en œuvre efficace du projet** ***Renforcement des capacités d’exportation et de l’accès aux marchés des petites et moyennes entreprises (PME) béninoises (RCEAM-Bénin).*** Le/la Coordonnateur·trice assurera la planification, la coordination, le suivi de la mise en œuvre des activités du projet, en collaboration avec notre partenaire…
+
+### Appel à propositions pour la mise en œuvre d’une enquête de couverture dénommée « PECS », après les activités de routinisation de la supplémentation e — Helen Keller International — closes 2026-10-22
+https://reliefweb.int/node/4233192  
+Terms: data-me  
+Guidée par l'héritage remarquable de sa cofondatrice, Helen Keller, Helen Keller Intl s'associe à des communautés qui s'efforcent de surmonter les cycles de pauvreté de longue date. En fournissant les éléments essentiels d'une bonne santé, d'une bonne nutrition et d'une vision claire, nous aidons des millions de personnes à créer un changement durable dans leur propre vie. Travaillant dans plus de 20 pays – à travers l'Afrique, l'Asie, l'Europe et les États-Unis – et avec une communauté mondiale de sympathisants, nous veillons à ce que chaque personne ait la possibilité – comme Helen l'a fait …
+
+### Labour Mobility Communications and Creative Content Specialist (Consultant A) — International Organization for Migration — closes 2026-10-22
+https://reliefweb.int/node/4231349  
+Terms: data-me  
+Job Identification (Reference Number): **23923** Position Title: **Labour Mobility Communications and Creative Content Specialist (Consultant A)** Duty Station City: **Honiara** Duty Station Country: **Solomon Islands** Contract Type: **Consultant A** *Recruiting Type:* **Consultancy** *Vacancy Type:* **Call for Applications** Initial duration: **9 months** Closing date: **22 October 2026** **Nature of the consultancy:** Technical Assistance on Communications and Creative Content to the Labour Mobility Unit (LMU) of the Government of Solomon Islands (Category A Consultancy). **Context:** Labou…
 
 ### BURKINA FASO / MALI - COORDINATEUR.TRICE GRANT ET PARTENARIAT (H/F) - OUAGADOUGOU — Solidarités International — closes 2026-10-22
 https://reliefweb.int/node/4231069  
@@ -3258,10 +2926,65 @@ https://reliefweb.int/node/4230896
 Terms: data-me  
 About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
 
+### Regional Programme Coordinator (MENA) — Danish Red Cross — closes 2026-10-23
+https://reliefweb.int/node/4233615  
+Terms: migration, migration-data, data-me  
+The Red Cross Red Crescent Movement is the world's largest humanitarian organization, and we are looking for a **Regional Programme Coordinator** in the **International Department, Middle East and North Africa (MENA) Region**. As **Regional Programme Coordinator**, you will be responsible for coordinating and managing multi-country regional programmes, ensuring high-quality implementation, monitoring, reporting, learning, and stakeholder engagement across the MENA region. The role focuses particularly on the implementation and expansion of the **Non-Communicable Diseases (NCD) Programme** and …
+
+### Consultancy service to conduct a programme baseline assessment — IsraAID — closes 2026-10-23
+https://reliefweb.int/node/4233180  
+Terms: migration, migration-data, displacement, data-me  
+Terms of reference (TOR) Consultancy service to conduct a programme baseline assessment UGANDA & KENYA · Project: Integrated Community Nutrition Management Programme (ICNMP) · Procuring Organisation: IsraAID · Contract Type: Consultancy · Contract Period: October 2026 to December 2026, 75 days (Phased implementation) · Target Start Date: Tentatively 26/10/2026 · Application Deadline: 23/10/2026 · Submission Method: EMAIL – see 'how to apply' BACKGROUND IsraAID is an International Humanitarian Non-Governmental Organization founded in 2001 and headquartered in Israel. It supports people and comm…
+
+### Health Data Audits consultant Nigeria (Abuja - FCT and Nasarawa) — Tiko — closes 2026-10-23
+https://reliefweb.int/node/4233601  
+Terms: migration-data, data-me  
+**Background and context** Tiko is an organization that uses its digital platform to motivate users – primarily young women and adolescent girls – to make positive choices. We use nudges like reminders, discounts, in person and digital follow-ups, and reward points to encourage our users to access and use healthy products and services. We also support them in becoming entrepreneurs and adding value to their economies. Tiko’s reward points can be used to redeem products and services at local shops, or as subsidies to cover the cost of sexual and reproductive health (SRH) services, removing the …
+
+### Request for Proposals: Employer of Record Services — Amna — closes 2026-10-23
+https://reliefweb.int/node/4233365  
+Terms: migration-data, displacement, data-me  
+**RFP Reference:** RFP-UKOPS26062-EOR **Contract Start Date:** 1 January 2027 **Proposal Deadline:** 23 October 2026 at 12:00 UK time Amna Refugee Healing Network CIO is inviting proposals from suitably qualified providers to deliver comprehensive Employer of Record services for staff employed outside the United Kingdom. Amna is a UK-registered charity supporting refugee and displaced communities globally through community-led, trauma and identity-informed approaches. **Scope of the Opportunity** Amna currently employs **1**0 international staff through an Employer of Record arrangement across…
+
+### Knowledge and Learning Manager — DT Global — closes 2026-10-23
+https://reliefweb.int/node/4233300  
+Terms: migration-data, data-me  
+**Program Background** The Education Quality for Inclusive Prosperity (EQUIP) is a new Australian-funded program, implemented in the Philippines. EQUIP supports the Philippine Government’s efforts to strengthen senior secondary school education and ensure that senior secondary school learners have the skills to participate meaningfully in the labour force. EQUIP is a partnership between the Governments of Australia and the Philippines and will contribute to Philippine Government-led education reforms including the Philippine Department of Education (DepEd) 5-Point Reform Agenda which aims to h…
+
+### MERL Officer — DT Global — closes 2026-10-23
+https://reliefweb.int/node/4233299  
+Terms: migration-data, data-me  
+**Program Background** The Education Quality for Inclusive Prosperity (EQUIP) is a new Australian-funded program, implemented in the Philippines. EQUIP supports the Philippine Government’s efforts to strengthen senior secondary school education and ensure that senior secondary school learners have the skills to participate meaningfully in the labour force. EQUIP is a partnership between the Governments of Australia and the Philippines and will contribute to Philippine Government-led education reforms including the Philippine Department of Education (DepEd) 5-Point Reform Agenda which aims to h…
+
+### Director of Monitoring, Evaluation, Research and Learning, VisionFund International — World Vision — closes 2026-10-23
+https://reliefweb.int/node/4233295  
+Terms: migration-data, data-me  
+VisionFund International is World Vision’s microfinance provider serving vulnerable clients through loans, savings, and insurance. We enable families to grow their livelihoods in hard to reach, rural locations in 28 countries so that caregivers can create secure futures for their children. We believe in brighter futures for children; empowering families to create incomes and jobs; unlocking economic potential for communities to thrive. Join VisionFund as we seek to end intergenerational poverty through microfinance. **Here’s where you come in:** As **Director of Monitoring, Evaluation, Researc…
+
+### Protection Officer — Oxfam GB — closes 2026-10-23
+https://reliefweb.int/node/4233150  
+Terms: migration-data, displacement, data-me  
+TEAM PURPOSE: To identify, analyse and address risks affecting the safety, dignity, rights and wellbeing of individuals and communities affected by conflict, displacement and other crises, in Rural Damascus, Daraa and Assweida governorates. The team designs, implements and oversees protection interventions through direct implementation and partner-led modalities, while strengthening community capacities, local protection systems, social cohesion, and community-based protection mechanisms. The team contributes to the prevention, mitigation and response to protection risks through individual ass…
+
+### Comparative Learning Study on Cash Consortium Models in East Africa and the Horn — Concern Worldwide — closes 2026-10-23
+https://reliefweb.int/node/4232662  
+Terms: migration-data, data-me  
+**Consultant Opportunity: Comparative Learning Study on Cash Consortium Models in East Africa and the Horn** **Location:** East Africa and the Horn of Africa (regional assignment) **Contract Type:** Consultancy **Application Deadline:** 23 October 2026 **Duration:** Approximately three months **Lead Organisation:** Somali Cash Consortium (SCC) acting as administrative anchor for a multi-country initiative. ## About the Assignment Humanitarian cash consortia have become a common delivery model in crisis-affected contexts, including Somalia, Sudan, Yemen, Lebanon, Iraq and Colombia. These consor…
+
+### Comparative Learning Study on Cash Consortium Models in East Africa and the Horn — Concern Worldwide — closes 2026-10-23
+https://reliefweb.int/node/4232631  
+Terms: migration-data, data-me  
+**Background and rationale** Cash consortia are now an established feature of humanitarian cash and voucher assistance in crisis-affected settings (e.g. Somalia, Sudan, Yemen, Lebanon, Iraq, Colombia). They are usually established to improve coordination, align approaches, reduce duplication, strengthen accountability, build donor confidence, and support more coherent, people-centered and efficient delivery of multi-purpose cash assistance. However, the added value of a consortium model is not automatic. Consortia can improve coverage, harmonisation, shared systems, risk management and learnin…
+
 ### Consultant.e Expert.e en Architecture et IA Générative – Projet HAVA — Humanitarian Logistics Cooperative (Hulo) — closes 2026-10-23
 https://reliefweb.int/node/4232551  
 Terms: migration-data, displacement, data-me  
 **Titre : Consultant.e Expert.e en Architecture et IA Générative – Projet HAVA** **Date : 11/09/2029** **Projet :** **Référence : ​HULO-TDR-BAR-2026-001​** Cet appel à candidatures est ouvert à tous les consultants éligibles, en accord avec les procédures et principes de hulo. **Contexte de la consultance :** La **Coopérative hulo**, créée en juin 2021, est la première Société Coopérative Européenne (SCE) opérant dans le secteur de l’humanitaire. En décembre 2025, hulo compte 16 organisations membres : ACTED, Action contre la Faim (ACF), Bioport, la Croix-Rouge française (CRF), Fleet Forum, Ha…
+
+### Lead, Client Impact, BRAC International Microfinance (BI MF) — BRAC — closes 2026-10-23
+https://reliefweb.int/node/4232594  
+Terms: migration-data, data-me  
+**BRAC International is Hiring! Join BRAC International to create opportunities for people to realise their potential.** **Position: Lead, Client Impact, BRAC International Microfinance (BI MF)** **Job Location: Nairobi, Kenya | Open to Kenyan and international candidates.** **Application deadline: 23 October 2026** **About BRAC International:** BRAC International (BI), a leading non-profit organisation, is on a mission to empower people and communities facing poverty, illiteracy, disease, and social injustice. Our vision is to create a world free from exploitation and discrimination, where ev…
 
 ### Human Resources Payroll Associate (G.5) — International Maritime Organization — closes 2026-10-23
 https://reliefweb.int/node/4232385  
@@ -3272,11 +2995,6 @@ Terms: migration-data, data-me
 https://reliefweb.int/node/4232047  
 Terms: migration-data, data-me  
 **Location:** Port-au-Prince, Haiti **Position Status:** Full-time, Regular **Language:** Required language fluency in French [**Risk Level:**](https://library.mercycorps.org/record/47705?ln=en) X **Level 3** ☐**Level 2** ☐**Level 1** (Level 3: Frequent contact with participants, direct contact with children, access to sensitive data, and/or high level of accountability. Level 2: Some contact with participants; unplanned non-direct contact with children. Level 1: Likely to have no contact with participants or sensitive data) ## **About Mercy Corps** Mercy Corps is a leading global organization…
-
-### Program Officer — SPOON Foundation — closes 2026-10-23
-https://reliefweb.int/node/4231556  
-Terms: migration-data, data-me  
-## POSITION ANNOUNCEMENT: Program Officer SPOON is the only global organization dedicated to transforming nutrition and feeding for children with disabilities and children without consistent family care. These children face the highest risk of malnutrition because the systems meant to support them weren't built to include them. SPOON empowers and equips families, communities, and partner organizations/providers to safely feed and adequately nourish children through training, implementation of proprietary tools, and advocacy. Through strategic partnerships with governments, nonprofit organizati…
 
 ### Project Manager - West Africa — Shelter for Life — closes 2026-10-23
 https://reliefweb.int/node/4231509  
@@ -3312,6 +3030,41 @@ Laterite is looking for a new Research Analyst with an understanding of data ana
 https://reliefweb.int/node/4223708  
 Terms: migration-data, data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
+
+### Program Manager I – Emergency Response — Catholic Relief Services — closes 2026-10-23
+https://reliefweb.int/node/4233572  
+Terms: displacement, data-me  
+**Job Title:** Program Manager I - Emergency Response **Reports to:** Head of Programming **Department:** Programming **Location:** Kampala **Deadline:** October 23, 2026 no later than 5pm ***Please note that CRS is recruiting in anticipation of an award – recruitment for all candidates is contingent upon successful award of the project.*** **Job Summary** As the Program Manager, you will lead the management and technical oversight of all Shelter and WASH related programming in the proposed refugee settlements. You will ensure effective systems and processes are in place to support high-qualit…
+
+### Wash and Shelter Specialist Cameroon — Norwegian Refugee Council — closes 2026-10-23
+https://reliefweb.int/node/4233252  
+Terms: displacement, data-me  
+**About the Context** Cameroon is currently facing three overlapping humanitarian crises. Since 2017, the Norwegian Refugee Council (NRC) has been working in the country to support people who have been forced to flee their homes. NRC helps protect displaced communities and supports them as they rebuild their lives. Operations are ongoing in all crisis-affected regions, including the Far North, Northwest, Southwest, East, and Adamawa. NRC’s work focuses on four main areas: legal assistance (ICLA), water and sanitation (WASH), shelter, and education. These programmes are designed to respond to u…
+
+### Program Director for Europe — Habitat for Humanity — closes 2026-10-23
+https://reliefweb.int/node/4230700  
+Terms: displacement, data-me  
+**Opportunity Type:** Regular Fixed Term (Fixed Term) **Summary:** Around the world, access to safe and decent shelter remains a fundamental human right—and across Europe, the challenge of building sustainable, equitable housing systems has never been more urgent. At Habitat for Humanity International (HFHI), we are driving transformative change to ensure everyone has a safe place to call home. To drive this regional impact, we are seeking a Program Director for Europe. In this regional leadership role, you will drive systemic impact across four core pillars: strategic portfolio leadership, te…
+
+### Protection Lead - National Only — Oxfam GB — closes 2026-10-23
+https://reliefweb.int/node/4233224  
+Terms: data-me  
+## **The Role:** **Oxfam Syria is looking for** **Protection Lead** **DEPARTMENT PURPOSE:** The Programme Quality department, under the Deputy Country Director – Programmes, brings together Oxfam in Syria's technical advisors. It strengthens the quality, safety, relevance and impact of programmes across humanitarian, recovery and development interventions through technical guidance, quality assurance, capacity strengthening, and the integration of cross-cutting standards such as protection, gender, safeguarding and accountability to affected populations. **TEAM PURPOSE:** Oxfam in Syria's prot…
+
+### Market Systems Technical Coordinator — Oxfam — closes 2026-10-23
+https://reliefweb.int/node/4233198  
+Terms: data-me  
+**KEY RESPONSIBILITIES** The Market Systems Technical Coordinator contributes, under the leadership of the FES lead, to the design of Oxfam's market systems and enterprise portfolio in Syria, across humanitarian, recovery and development programming. Key responsibilities cover market analysis and programme design, enterprise development and financial inclusion, support to producer organisations, engagement with private and public market actors, partner and team capacity, and integration with WASH, protection, gender and MEAL. The role pays particular attention to the participation and role of …
+
+### Director Community Based Inclusive Development (CBID) — Christian Blind Mission — closes 2026-10-23
+https://reliefweb.int/node/4233043  
+Terms: data-me  
+## **About CBM** CBM (registered as CBM Christoffel-Blindenmission Christian Blind Mission e.V.) is an international development organisation committed to improving the quality of life of persons with disabilities in the persons communities of the world. Based on our Christian values and more than 100 years of professional expertise, we address poverty as a cause and a consequence of disability. We work in partnership to create an inclusive society for all. **About the role:** We are looking for an experienced Director\* Community Based Inclusive Development (CBID) to lead CBM’s newly refocuse…
+
+### Consultancy: Situation Analysis for the SHINE Rehabilitation Project – Kenya — Christian Blind Mission — closes 2026-10-23
+https://reliefweb.int/node/4233048  
+Terms: data-me  
+**CBM Christoffel-Blindenmission Christian Blind Mission e.V. (CBM) is looking for an experienced professional to conduct a Situation Analysis for a project in Kisumu, Makueni, Nyeri, Homabay, Laikipia, Kiambu and Nakuru Counties, Kenya. This assignment will be based on consultancy work for approximately 30 days in November 2026.** **About the Project:** SHINE Project ((Strengthening capacities for Holistic and Inclusive Need-based rehabilitative services that Empower individuals and communities in Kenya) aims to contribute to a sustainable rehabilitative healthcare and inclusive social system…
 
 ### Fundraising Volunteer for Gender Justice Program (f/m/d) – Remote, approx. 4 hrs/week — EmpowerVan — closes 2026-10-23
 https://reliefweb.int/node/4232576  
@@ -3363,6 +3116,11 @@ https://reliefweb.int/node/4231036
 Terms: displacement, data-me  
 **-Country:** Amman, Jordan -**Advertising date:** 23 Sep 2026 -**Submission date:** 24 Oct 2026 before 23:55 Jordan time -**Funding:** Kreditanstalt für Wiederaufbau (KFW) -**Project Title:** [**NABNI/ Building for Peace (B4P) Facility**](https://www.nabni-facility.org/) -**Reference number:** RFQ/BFPF/26/008 -**Contract Title:** Consultant Roster for Programme Quality, Learning and Strategy Support **-Content:** The Norwegian Refugee Council (NRC), through Nabni, seeks experienced individual consultants and/or consultancy firms for inclusion in a consultant roster to provide specialised tech…
 
+### IT Endpoint Administrator — Habitat for Humanity — closes 2026-10-24
+https://reliefweb.int/node/4233439  
+Terms: data-me  
+**Opportunity Type:** Regular **Summary:** The IT Endpoint Administrator is responsible for the deployment, configuration, maintenance, and support of all endpoint devices across the organization (HFHI, Affiliates, National Organizations, and Branch Offices), including desktops, laptops, mobile devices, and peripheral equipment. This role ensures a secure, consistent, and reliable end-user computing environment by managing endpoint life cycle processes, overseeing software deployments, performing patch management, and ensuring compliance with IT policies. The Endpoint Administrator works close…
+
 ### Tchad : Responsable de Projet Climat & Environnement – Adré — Agency for Technical Cooperation and Development — closes 2026-10-24
 https://reliefweb.int/node/4231314  
 Terms: data-me  
@@ -3392,6 +3150,16 @@ Terms: data-me
 https://reliefweb.int/node/4232380  
 Terms: migration, migration-data, data-me  
 At DCAF, we envision a world where democratic sector governance advances sustainable peace and development and human dignity for all. Our mission is to advance the security of all people through nationally owned, inclusive, and participatory security sector reforms based on international norms and good practices. DCAF contributes to making peace and development more sustainable by assisting partner states and international actors supporting these states, to improve the governance of their security sector through inclusive and participatory reforms. It creates innovative knowledge products, pro…
+
+### Director of Programme Development — Mary's Meals — closes 2026-10-25
+https://reliefweb.int/node/4233349  
+Terms: migration-data, data-me  
+## **Description** **Salary: (UK) £64,226 plus benefits** *(Our pay philosophy ensures consistency across locations and salaries. The starting salary for this opportunity plus benefits depends on location of the candidate).* **The role:** We are recruiting for a values-driven leader to join Mary’s Meals International (MMI), as Director of Programme Development. Reporting to our Chief Programmes Officer, you will lead the evolution of Mary’s Meals programmes globally, ensuring they are evidence-led, impactful and aligned with our strategic priorities. Working closely with colleagues across Prog…
+
+### Med Cell Support - Based in Nairobi (W/M) — Médecins Sans Frontières — closes 2026-10-25
+https://reliefweb.int/node/4233321  
+Terms: migration-data, data-me  
+Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. MSF operates through several operational directorates, each supported by main sections and offices worldwide. MSF OCP (Operational Centre Paris) is one of these directorates. Its operations are implemented by field and coordination teams and supported by Operational Cells based in Paris, Nairobi…
 
 ### WHH Representative Canada — Welthungerhilfe — closes 2026-10-25
 https://reliefweb.int/node/4232613  
@@ -3433,6 +3201,31 @@ https://reliefweb.int/node/4230777
 Terms: migration-data, data-me  
 ## Description The **Pacific Community (SPC)** is the principal scientific and technical organisation in the Pacific region, supporting development since 1947. We are an international development organisation owned and governed by our 27 country and territory members. In pursuit of sustainable development to benefit Pacific people, our organisation works across more than 25 sectors. We are known for our knowledge and innovation in such areas as fisheries science, public health, geoscience, and conservation of plant genetic resources for food and agriculture. The **Geoscience Energy and Maritim…
 
+### Erasmus Internship - Partnership Development Intern — CLEAR Global — closes 2026-10-25
+https://reliefweb.int/node/4228941  
+Terms: migration-data, data-me  
+**Contract length:** 4–6 months, with a possible paid 6-month extension based on performance and budget availability **Hours:** flexible, 20-40 hours per week, during CET core working hours (Monday to Friday) **Location:** Amsterdam or Lyon (to be confirmed) Hybrid arrangement: office-based with some remote flexibility **Travel:** none, except relocating to Amsterdam or Lyon **Reporting to**: Grants and Partnerships Coordinator Erasmus+ supports traineeships (work placements, internships) abroad at any workplace for students currently enrolled in higher education institutions in Program Countr…
+
+### Country Director – Ethiopia — Concern Worldwide — closes 2026-10-25
+https://reliefweb.int/node/4233675  
+Terms: data-me  
+**Job Title:** Country Director – Ethiopia **Terms:** Two-Year Fixed Term, Accompanied terms **Location:** Addis Ababa, Ethiopia **Salary:** GB8: €63,461 - €70,513 **Requirements:** At least 20% travel to programme sites **About Concern:** Established in 1968, Concern is a non-profit, non-governmental humanitarian organisation, dedicated to the reduction of suffering and the ultimate elimination of extreme poverty in the world’s poorest countries. Concern’s vision, our mission and our work are all defined by one goal – ending extreme poverty, whatever it takes. Concern strives for a world free…
+
+### Tender Announcement: Provision of a Mobile Soil Analysis Laboratory. — People in Need — closes 2026-10-25
+https://reliefweb.int/node/4233618  
+Terms: data-me  
+- Tender No.: SYRC002655 - Subject: Provision of a Mobile Soil Analysis Laboratory. - Deadline for submitting questions and requests for clarification: 22/10/2026, via email: Syria.procurement@peopleinneed.net - Tender documents can be obtained through the following link: [SYRC002655-Raqqa- SOS\_ERMD\_Soil analysis lab](https://clovekvtisni.sharepoint.com/:f:/g/rdd_syr/IgARMbk8NugCSLhknVDp62tJAeU3n4GWbQXTG46RgjcmVmg?e=DudnRj) - Deadline for submitting the documents: 25/10/2026…
+
+### Regional Coordinator – Middle East (M/F) - 4 Months — HAMAP Humanitaire — closes 2026-10-25
+https://reliefweb.int/node/4233193  
+Terms: data-me  
+HAMAP-Humanitaire is seeking for an interim Middle East Regional Coordinator to replace our collaborator for a period of 4 months, based in Lebanon with potential trips to Iraq, Syria and Jordan. **Introduction to HAMAP-Humanitaire** Founded in 1999, HAMAP-Humanitaire is a non-governmental organisation (NGO) dedicated to development aid. Its mission is to take concrete action to ensure that ever more men, women and children have access to safe drinking water and sanitation, education, healthcare and security. Its objective is to support and strengthen its local partners from the initial identi…
+
+### Senior Human Resource Management Adviser to CSC — DT Global — closes 2026-10-25
+https://reliefweb.int/node/4233322  
+Terms: data-me  
+Location: Dili, Timor-Leste **Program Background** DT Global supports the implementation of PROSIVU on behalf of the Australian Government. PROSIVU is the next phase of Australia’s governance support to Timor-Leste. The program will extend Australia’s longstanding partnership with Timor-Leste in support of good governance and economic policy development. It is Australia’s primary program for providing support to Timor-Leste’s central government agencies and economic line-ministries. **About DT Global Asia Pacific** At DT Global Asia Pacific, we aim to positively impact people’s lives through d…
+
 ### Médecin support Unité Santé des Equipes F/H — Médecins Sans Frontières — closes 2026-10-25
 https://reliefweb.int/node/4232670  
 Terms: data-me  
@@ -3458,15 +3251,55 @@ https://reliefweb.int/node/4213014
 Terms: data-me  
 **La Fondation Mérieux :** Créée en 1967, la Fondation Mérieux est une fondation indépendante, présidée par Alain Mérieux et reconnue d’utilité publique. Sa mission est de contribuer à la santé mondiale par le renforcement des capacités locales des pays en développement pour réduire l’impact des maladies infectieuses qui affectent les populations vulnérables, en particulier la mère et l’enfant. Regroupant **160 collaborateurs** à travers une quinzaine de pays, **en France et à** **l’international** en Afrique centrale et de l’Ouest, à Madagascar, en Asie et au Moyen-Orient, la Fondation Mérieu…
 
+### International Consultant CC-2026-23 — International Organization for Migration — closes 2026-10-26
+https://reliefweb.int/node/4233664  
+Terms: migration, migration-data, data-me  
+Position Title: **International Consultant** Duty Station: **Yerevan, Armenia** Classification: **Consultancy** Type of Appointment: **40 working days during November 2026 – March 2027** Estimated Start Date: **As soon as possible** Closing Date: **26 October, 2026** *Established in 1951, IOM is a Related Organization of the United Nations, and as the leading UN agency in the field of migration, works closely with governmental, intergovernmental and non-governmental partners. IOM is dedicated to promoting humane and orderly migration for the benefit of all. It does so by providing services and…
+
+### Partner-Centred Design Consultant — Blue Ventures — closes 2026-10-26
+https://reliefweb.int/node/4233694  
+Terms: migration-data, data-me  
+**Location**: Global **Closing date for applications:** Monday**,** 26 October 2026 **Start date:** As soon as Possible **Consultancy duration:** Three to Four Months ## We unlock power with coastal communities Blue Ventures connects coastal communities, restoring the ocean, providing the resources and partnerships they need to unlock their power and turn local action into global impact. We link communities with allies, knowledge and influence to create unstoppable waves of change. Together, we’re placing communities at the centre of solutions to sustain fisheries, manage ecosystems and redefi…
+
+### Middle East Head of Operations — Welthungerhilfe — closes 2026-10-26
+https://reliefweb.int/node/4233654  
+Terms: migration-data, data-me  
+The position is to be filled as soon as possible, with an initial contract duration of 6 months with very good prospects for an extension. Employment location will be Amman, Jordan (JO) .The position is paid according to SG8 of WHH's salary grid in Jordan. As a member of the hub, your duty will be to lead procurement, IT and relevant legal matters of its work in Jordan and beyond, with your technical expertise, your problem-solving skills and onsite presence where necessary. You’ll lead the logistic and operations team, work closely with other members of the hub, closely liaise with legal coun…
+
+### Communications and Media Officer - Syria Aleppo or Idleb — GOAL — closes 2026-10-26
+https://reliefweb.int/node/4233595  
+Terms: migration-data, data-me  
+**General Description of the Programme** Established in 1977, GOAL is an international humanitarian and development agency committed to working with communities to achieve sustainable and innovative early responses in crises and lasting solutions to poverty and vulnerability. GOAL has worked in over 60 countries and has responded to almost every major humanitarian disaster. We are currently operational in 18 countries. GOAL began operations in Syria in 2013, responding to the acute needs of conflict-affected communities. GOAL’s areas of operation include, but are not limited to, Aleppo, Idleb …
+
+### Nutrition and Health Coordinator — Acción contra el Hambre España — closes 2026-10-26
+https://reliefweb.int/node/4233585  
+Terms: migration-data, data-me  
+Action Against Hunger is an international non-governmental, private, apolitical, non-religious and non-profit organization created in 1979. Its goal is to combat hunger and dangerous situations that threaten men, women and children. Currently, 500 expats and more than 5,000 employees are working for Action Against Hunger in more than forty-six countries working in projects concerning four areas of focus: nutrition, health, food security and water and sanitation. Action Against Hunger is recruiting a **Nutrition and Health Coordinator** Under the supervision of the Deputy Country Director, the …
+
+### Partnership Officer- Syria Aleppo, Damascus or Idleb — GOAL — closes 2026-10-26
+https://reliefweb.int/node/4233582  
+Terms: migration-data, data-me  
+**General Description of the Programme:** Established in 1977, GOAL is an international humanitarian and development agency, committed to working with communities to achieve sustainable and innovative early response in crises, and lasting solutions to poverty and vulnerability. GOAL has worked in over 60 countries and has responded to almost every major humanitarian disaster. We are currently operational in 18 countries. GOAL began operations in Syria in 2013 responding to the acute needs of conflict-affected communities. GOAL's areas of operations include but not limited to Aleppo, Idleb and …
+
+### Procurement Coordinator Re-advertised - Syria Aleppo & Idleb — GOAL — closes 2026-10-26
+https://reliefweb.int/node/4233576  
+Terms: migration-data, data-me  
+Established in 1977, GOAL is an international humanitarian and development agency, committed to working with communities to achieve sustainable and innovative early response in crises, and lasting solutions to poverty and vulnerability. GOAL has worked in over 60 countries and has responded to almost every major humanitarian disaster. We are currently operational in 18 countries. GOAL began operations in Syria in 2013 responding to the acute needs of conflict-affected communities. GOAL's areas of operations include but not limited to Aleppo, Idleb and Damascus, and is expanding to new governor…
+
+### Project officer, UZHF (Sohag) Re-advertisement — Plan International — closes 2026-10-26
+https://reliefweb.int/node/4233557  
+Terms: migration-data, data-me  
+**THE ORGANISATION** Plan International is an independent development and humanitarian organisation/charity/non-profit that advances children’s rights and equality for girls. We believe in the power and potential of every child but know this is often suppressed by poverty, violence, exclusion and discrimination. And it is girls who are most affected. Working together with children, young people, supporters and partners, we strive for a just world, tackling the root causes of the challenges girls and vulnerable children face. We support children’s rights from birth until they reach adulthood an…
+
+### Finance Manager — Oxfam GB — closes 2026-10-26
+https://reliefweb.int/node/4233466  
+Terms: migration-data, data-me  
+TEAM PURPOSE: To ensure effective financial management and reporting within Syria programme JOB PURPOSE: To manage and co-ordinate the effective and efficient implementation of financial support across the country office and in the programme. To advise on ‘best practice’ and ensure compliance, governance in all areas of financial management. Create a team than can respond innovatively and effectively and create an enabling environment to support effectively programme delivery. KEY RESPONSIBILITIES (Technical, Leadership, People and Resource management) Operational Financial Management and Inte…
+
 ### FINANCE HR COORDINATOR - SYRIA — Un Ponte per — closes 2026-10-26
 https://reliefweb.int/node/4232806  
 Terms: migration-data, data-me  
 **Position name:** Finance HR Coordinator **Duration**: 12 months renewable **Starting from**: ASAP **Duty Station**: Syria, Damascus, Aleppo, Amuda **Closing date of the vacancy**: 26/10/2026 **Monthly gross salary**: 2.900-3.200 **Context Presentation**: Un Ponte Per (UPP) is an Italian NGO established in 1991. It started its activities as “Un ponte per Baghdad”, in the aftermath of the first Gulf war, with the aim of organizing solidarity initiatives in support of the Iraqi civilian population. In subsequent years, UPP missions expanded to include Serbia and other Middle Eastern and Mediter…
-
-### Programme Officer - Sustainable Agriculture and Rural Development — SEED Madagascar — closes 2026-10-26
-https://reliefweb.int/node/4231629  
-Terms: migration-data, data-me  
-This is a fantastic opportunity for a motivated development professional with 1-3 years’ experience to contribute to impactful agricultural and livelihoods work in one of Madagascar’s most biodiverse regions. SEED’s agriculture project works with communities to strengthen food security, promote climate-smart farming, and support sustainable land management practices. We use community-led, participatory approaches, working with local communities to identify and implement projects that meet their needs and priorities. This is an exciting position for someone who has 1-3 years in-field experience…
 
 ### Programme Manager - Community Health — SEED Madagascar — closes 2026-10-26
 https://reliefweb.int/node/4231628  
@@ -3523,20 +3356,40 @@ https://reliefweb.int/node/4232611
 Terms: displacement  
 The Norwegian Refugee Council (NRC) is committed to strengthening the leadership, performance and professional growth of its staff. For the 2027–2030 period, the MENA Regional Team intends to support the development of the next generation of MENA leaders through a structured, cost-effective and multi-year approach, with particular attention to national staff and women. NRC therefore invites qualified companies to submit a quotation for the establishment of a non-exclusive regional framework agreement for professional coaching (individual and group/team) and related leadership and learning & de…
 
+### Administration and Finance Officer, Tuvalu — DT Global — closes 2026-10-26
+https://reliefweb.int/node/4233279  
+Terms: data-me  
+## Job Brief Full-time opportunity in Tuvalu. Locally based role **Program Background** Pacific Australia Skills is a significant Australian investment which stands to make a major contribution to supporting social and economic growth in the region through strengthening the skills and training sector across Timor-Leste and the Pacific. Pacific Australia Skills builds on the achievements of prior Australian Government support for skills and training in Timor-Leste. **About DT Global Asia Pacific** At DT Global Asia Pacific, we aim to positively impact people’s lives through delivery excellence.…
+
 ### COORDINATEUR.RICE PROJET BAHAI - TCHAD - H/F — ALIMA — closes 2026-10-26
 https://reliefweb.int/node/4232657  
 Terms: data-me  
 ALIMA, l’ONG médicale internationale à visage humain, qui met au cœur de son modèle, la co-construction des projets et des parcours professionnels PRÉSENTATION ALIMA L’ESPRIT ALIMA : La raison d’être d’ALIMA est de sauver des vies et de soigner les populations les plus vulnérables, sans aucune discrimination identitaire, religieuse ou politique, à travers des actions basées sur la proximité, l’innovation et l’alliance d’organisations et d’individus. Nous agissons avec humanisme, impartialité et dans le respect de l’éthique médicale universelle. Pour accéder aux patients et aux patientes, nous …
 
-### RCA - Coordinatuer du Consortium — COOPI - Cooperazione Internazionale — closes 2026-10-26
+### RCA - Coordinatuer de Consortium — COOPI - Cooperazione Internazionale — closes 2026-10-26
 https://reliefweb.int/node/4232580  
 Terms: data-me  
-## **COOPI recherche un Coordinateur du Consortium en RCA** **Depuis 1974 COOPI travaille en RCA pour un développement harmonieux et complet, en faveur tant des individus que des communautés locales**. En ce qui concerne les secteurs d’intervention, l'engagement vis-à-vis des réalités locales a encouragé COOPI à établir des plans et à implémenter des projets de développement dans le domaine social, économique, sanitaire, environnemental et de la formation. Les situations de conflit ont amené à la décision de se faire charge de projets d'urgence et de réhabilitation, qui sont aujourd'hui devenu…
+## **COOPI recherche un Coordinateur de Consortium en RCA** **Depuis 1974 COOPI travaille en RCA pour un développement harmonieux et complet, en faveur tant des individus que des communautés locales**. En ce qui concerne les secteurs d’intervention, l'engagement vis-à-vis des réalités locales a encouragé COOPI à établir des plans et à implémenter des projets de développement dans le domaine social, économique, sanitaire, environnemental et de la formation. Les situations de conflit ont amené à la décision de se faire charge de projets d'urgence et de réhabilitation, qui sont aujourd'hui devenu…
+
+### Human Resources Associate (Fiji Nationals Only) — International Organization for Migration — closes 2026-10-27
+https://reliefweb.int/node/4233709  
+Terms: migration, migration-data, data-me  
+Job Identification (Reference Number): **23551** Position Title: **Human Resources Associate** Duty Station City: **Suva** Duty Station Country: **Fiji Islands** Grade: **G-5** Contract Type: **One-Year Fixed Term** Recruiting Type: **General Service** Vacancy Type: **Vacancy Notice** Initial duration: **12 months** Closing date: **27 October 2026** **Context:** The International Organization for Migration (IOM) Coordination Office for the South Pacific (COSP) in Suva, Fiji oversees and provides strategic and technical support to IOM activities within the South Pacific Country Offices (CO) und…
 
 ### Coordinateur médical voltigeur - Worldwide (F/H) — Médecins du Monde — closes 2026-10-27
 https://reliefweb.int/node/4223228  
 Terms: migration, migration-data, data-me  
 Vous souhaitez intégrer une association militante et agir concrètement pour plus de justice sociale ? Médecins du Monde agit depuis plus de 40 ans pour soigner les populations les plus vulnérables, dénoncer les entraves à l’accès aux soins et faire évoluer durablement les politiques de santé. En France et dans près de 30 pays, nos actions s’articulent autour de six combats politiques : - droits et santé sexuels et reproductifs (dont le droit à l’avortement) - migration, exil, droits et santé - réduction des risques - santé environnement - droits et système de santé - espaces humanitaires ## **…
+
+### Senior Finance Associate (Fiji Nationals Only) — International Organization for Migration — closes 2026-10-27
+https://reliefweb.int/node/4233710  
+Terms: migration-data, data-me  
+Job Identification (Reference Number): **23549** Position Title: **Senior Finance Associate** Duty Station City: **Suva** Duty Station Country: **Fiji Islands** Grade: **G-6** Contract Type: **One-Year Fixed Term** Recruiting Type: **General Service** Vacancy Type: **Vacancy Notice** Initial duration: **12 months** Closing date: **27 October 2026** **Context:** Under the overall supervision of the Chief of Mission (CoM) in Fiji and direct supervision of the Head of Resources Management; and, in collaboration with relevant units at Headquarters, Regional Office and the Global Shared Services Ce…
+
+### Chargé.e de Communication Audiovisuelle - Dakar - H/F — ALIMA — closes 2026-10-27
+https://reliefweb.int/node/4232908  
+Terms: migration-data, data-me  
+ALIMA (The Alliance for International Medical Action) est une ONG humanitaire médicale internationale, créée en 2009. Elle offre des soins de santé de qualité aux populations vulnérables confrontées à des crises sanitaires, des [épidémies](https://alima.ngo/decouvrir/expertises/epidemies-maladies-emergentes/) ou des catastrophes naturelles. ALIMA intervient lors des crises humanitaires, dans les [zones de conflits](https://alima.ngo/conflits-populations-deplacees/), [d’épidémies](https://alima.ngo/decouvrir/expertises/epidemies-maladies-emergentes/) et de malnutrition où les besoins médicaux s…
 
 ### FIELD COMMUNICATION OFFICER — EMERGENCY — closes 2026-10-27
 https://reliefweb.int/node/4232614  
@@ -3558,15 +3411,40 @@ https://reliefweb.int/node/4223722
 Terms: migration-data, data-me  
 ## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
 
+### Assistive Technology Technical Officer - Afghanistan — Humanity & Inclusion — closes 2026-10-27
+https://reliefweb.int/node/4232892  
+Terms: data-me  
+## Description Humanity & Inclusion is an independent and impartial aid organization working in situations of poverty and exclusion, conflict and disaster. The organization works alongside people with disabilities and vulnerable populations, taking action and bearing witness in order to respond to their essential needs, improve their living conditions and promote respect for their dignity and fundamental rights. Since its creation in 1982, HI has run development & humanitarian projects in more than 55 countries and responded to numerous emergencies. Today, we have a budget of approximately 200…
+
+### COORDINATEUR.TRICE PROJET TILLABERI - NIGER - H/F — ALIMA — closes 2026-10-27
+https://reliefweb.int/node/4232848  
+Terms: data-me  
+## **TYPOLOGIE DU POSTE** Fondée en 2009, ALIMA est présente au Niger aux côtés de son partenaire local l’ONG nigérienne BEFEN « le Bien Être de la Femme et de l’Enfant au Niger » depuis sa création. En effet, le tout premier projet d’ALIMA a été mis en œuvre au Niger, dans le district de Mirriah, région de Zinder. ALIMA possède une grande expérience dans la réponse aux épidémies (Diphtérie, Méningite, Rougeole, Choléra et COVID-19), la nutrition, la santé primaire et maternelle, les VBG (violences basées sur le genre) ainsi que le WASH (eau, assainissement et hygiène). Il s’agit de: 1\. Un pr…
+
+### Point of Care Ultrasound Advisor W/M — Médecins Sans Frontières — closes 2026-10-27
+https://reliefweb.int/node/4232836  
+Terms: data-me  
+Médecins Sans Frontières (MSF) is an international, independent, medical humanitarian organization created in 1971 that delivers emergency aid to people affected by armed conflict, epidemics, healthcare exclusion and natural disasters. The advisor helps shape medical and operational policies and strategy by contributing expertise in their specialty and providing support for their implementation. **General context** The vision of Point-of-Care Ultrasound (POCUS) integration in MSF is to ensure that clinicians, both locally hired and international mobile staff, have the knowledge, guidance, and …
+
 ### Mama Lucy Eye Unit Design Consultancy — Christian Blind Mission — closes 2026-10-27
 https://reliefweb.int/node/4231950  
 Terms: data-me  
 **CBM Christoffel-Blindenmission Christian Blind Mission e.V. (CBM) is inviting qualified Architectural and Engineering Consultancy Firms to provide consultancy services for the detailed design of the proposed Eye Unit at Mama Lucy Eye Hospital, Nairobi. This assignment is expected to be undertaken over an approximately 8-week period and will result in a complete tender-ready package, detailed cost estimates, and procurement support documentation** **About the Project:** The proposed project involves the extension and refurbishment of Mama Lucy Eye Hospital to establish a modern eye care facil…
 
+### Development of E-Learning Module Content — Tdh Migration and Displacement programme — Terre des hommes — closes 2026-10-28
+https://reliefweb.int/node/4233194  
+Terms: migration, migration-data, displacement, data-me  
+## **1. Background** Terre des hommes (Tdh) is Switzerland's largest child rights organisation, active in over 30 countries. Its Migration and Displacement sector has developed two evidence-based Models of Action (MoA) to guide Tdh staff and partners working with migrant, displaced and at-risk children and youth: **MoA 1 — Employability and access to employment for young migrants and refugees:** Employability and access to employment through (1) Skills and capabilities development, (2) Labour market linkage, and (3) Policy and system strengthening. **MoA 2 — Education for children and youth on…
+
 ### Coordinateur général voltigeur - Worldwide (F/H) — Médecins du Monde — closes 2026-10-28
 https://reliefweb.int/node/4223409  
 Terms: migration, migration-data, data-me  
 **Vous souhaitez intégrer une association militante et agir concrètement pour plus de justice sociale ?** Médecins du Monde agit depuis plus de 40 ans pour soigner les populations les plus vulnérables, dénoncer les entraves à l’accès aux soins et faire évoluer durablement les politiques de santé. En France et dans près de 30 pays, nos actions s’articulent autour de six combats politiques : - droits et santé sexuels et reproductifs (dont le droit à l’avortement) - migration, exil, droits et santé - réduction des risques - santé environnement - droits et système de santé - espaces humanitaires #…
+
+### Regional HR Officer-Eurasia and North Africa — Tearfund — closes 2026-10-28
+https://reliefweb.int/node/4232972  
+Terms: migration-data, data-me  
+Are you a proactive HR professional passionate about supporting teams and enabling organizational excellence? Do you have a passion for supporting humanitarian programming? We have an exciting opportunity that has arisen for a Regional Human Resources Officer to join our lively and dynamic Eurasia & North Africa team. As our Regional HR Officer, you will contribute to, and promote effective people management and recruitment through support, facilitation, training and advice; encouraging each staff member to attain professional excellence to deliver Tearfund's vision. The HRO will support the R…
 
 ### Call for Projects — Expertise France — closes 2026-10-28
 https://reliefweb.int/node/4232263  
@@ -3578,10 +3456,35 @@ https://reliefweb.int/node/4231792
 Terms: displacement  
 **Position:** Head of Support Services Mozambique **Reports to**: Country Representative **Location:** Maputo, Mozambique (with field visits to operational areas) **Application deadline:** 28/10/2026 **Starting date:** ASAP **Family duty station:** YES **R&R**: NO **Working context** WeWorld has been active in Mozambique since 2000, implementing programmes focused on education, food security, climate resilience, disaster risk reduction (DRR), and humanitarian assistance, particularly in response to natural disasters and conflict-induced displacement. The Head of Support Services (HoSS) is part…
 
+### Stagiaire - Coordination éditoriale et communication médicale — Médecins Sans Frontières — closes 2026-10-28
+https://reliefweb.int/node/4233232  
+Terms: data-me  
+Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. Ouverture dans le cadre d’une création de poste. Le département médical a pour finalité de contribuer, avec le département des opérations et les autres départements, à la mission sociale de l’association dans les principaux domaines suivants : - La co-construction des stratégies médico opération…
+
+### Coordinateur/Coordinatrice MEALS — AVSI Foundation – ETS — closes 2026-10-28
+https://reliefweb.int/node/4233158  
+Terms: data-me  
+Dans le cadre de la gestion de ses projets en **République du Congo**, la FONDATION AVSI recrute **un/e Coordinateur/Coordinatrice MEALS**. Le/la coordinateur/Coordinatrice MEALS est chargé de concevoir, de mettre en œuvre et de superviser les systèmes de suivi, d’évaluation, de responsabilisation et d’apprentissage des programmes d’AVSI Congo. Ce poste vise à garantir la qualité, l’exactitude et la ponctualité de la collecte de données et de l’établissement de rapports pour l’ensemble des projets en cours, à renforcer les mécanismes de responsabilisation envers les populations concernées et à…
+
+### Spécialiste Clinique Rééducation en pédiatrie (troubles du développement) F/H — Médecins Sans Frontières — closes 2026-10-28
+https://reliefweb.int/node/4233068  
+Terms: data-me  
+Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. L'ouverture de ce poste est dans le cadre d'un remplacement permanent. **Contexte** La Fondation MSF a lancé mi 2023 un projet de développement de la rééducation au sein du mouvement MSF. Il a pour but d’amener un support et une expertise aux missions désireuses de développer leur offre de soins…
+
 ### EMERGENCY PROGRAMME COORDINATOR — Action contre la Faim France — closes 2026-10-28
 https://reliefweb.int/node/4231727  
 Terms: data-me  
 About : Action contre la Faim Created in 1979, Action contre la Faim is a non-governmental organization that fights against hunger. Its charter of humanitarian principals- independence, neutrality, non-discrimination, free and direct access to victims, professionalism, transparency - has been part of its identity for 45 years. Its mission is to save lives by eliminating hunger through the prevention, detection and treatment of under-nutrition, particularly during and after emergency situations linked to conflicts or natural disasters. Action contre la Faim focuses its actions on 7 main areas o…
+
+### Finance Manager — Norwegian Church Aid — closes 2026-10-29
+https://reliefweb.int/node/4233347  
+Terms: migration-data, data-me  
+**Kirkens Nødhjelp/ Norwegian Church Aid** *Norwegian Church Aid ('NCA') is one of the largest aid organisations in the Nordic region. Together with our international network and partner organisations in the ACT Alliance we are able to reach millions of people each year and help make a positive difference around the world. Our mandate is to save lives, build resilience and seek justice and we therefore work with advocacy, long-term development in local communities and providing emergency assistance.* Are you motivated by ensuring high standards of integrity and compliance, strengthening local …
+
+### Consultancy for the Development of a Facilitation Guide and Facilitation of Trainings for Beach Management Unit (BMU) Members in Kwale County — European Committee for Agricultural Training — closes 2026-10-29
+https://reliefweb.int/node/4232963  
+Terms: migration-data, data-me  
+## **The full Request for Proposals (RFP) document is available at the following link:** [**https://drive.google.com/drive/u/1/folders/17XdKj9sJdsiyUeuwm7_8UrN15OJ6Zo97**](https://drive.google.com/drive/u/1/folders/17XdKj9sJdsiyUeuwm7_8UrN15OJ6Zo97) ## **About CEFA** **CEFA** - European Committee for Training and Agriculture (Comitato Europeo per la Formazione e l’Agricoltura) is an Italian Non-Governmental Organisation established in 1972 and active in countries across Africa, Latin America and Eastern Europe. CEFA’s medium- and long-term interventions in the agricultural, environmental and h…
 
 ### DRC Senior MEL Program Associate (Fixed-Term) — One Acre Fund — closes 2026-10-29
 https://reliefweb.int/node/4224456  
@@ -3597,6 +3500,66 @@ Corus International is the parent organization of a family of world-class organi
 https://reliefweb.int/node/4223885  
 Terms: migration, migration-data, data-me  
 For more than 40 years, Médecins du Monde (MdM), a campaigning medical organisation committed to international solidarity, has been caring for the most vulnerable populations here and abroad. It has continued to bear witness to obstacles that exist in accessing healthcare and has secured sustainable improvements in health-for-all policies. Those working for this independent organisation do not solely dispense care and treatment but condemn violations of human dignity and rights and fight to improve matters for populations living in precarious situations. MdM France currently works in 30 countr…
+
+### Project Manager / Assessment Researcher — Development Gateway — closes 2026-10-30
+https://reliefweb.int/node/4233407  
+Terms: migration-data, data-me  
+## **Job Description: Project Manager / Assessment Researcher** **Program:** Iraq Higher Education AI Workforce Readiness Program **Location:** Baghdad, Iraq (full-time, in-person) **Duration:** 12 months ### About Development Gateway [Development Gateway: An IREX Venture (DG)](https://developmentgateway.org/) is an international non-profit organization with approximately 80 team members based in more than 15 countries worldwide. By leveraging the combination of programmatic and IT developer capacity and skills within DG, over the last 20 years we have *researched* data ecosystems, *built* dig…
+
+### Safeguarding and Ethical Leadership Coordinator for MSF Boards and Associations — Médecins Sans Frontières — closes 2026-10-30
+https://reliefweb.int/node/4233363  
+Terms: migration-data, data-me  
+**Location:** Any MSF office\* **Contract:** 100% - Permanent **Starting date**: 04th of January 2027 **Deadline to apply:** 30th of October 2026 **Compensation and Benefits:** MSF practice is to offer the compensation and benefits package in line with the MSF entity offering the contract. \*By default, the successful candidate will be offered a contract in the MSF office, able to issue a contract, of their country of residence at the time of application. If no MSF office exists in their country of residence, the successful candidate will be expected to relocate to a country where an MSF offic…
+
+### Multi Country Representative for MENA, based in Amman — IMPACT Initiatives — closes 2026-10-30
+https://reliefweb.int/node/4233361  
+Terms: migration-data, data-me  
+## **BACKGROUND ON IMPACT INITIATIVES** [IMPACT Initiatives](http://www.impact-initiatives.org/) is a humanitarian NGO based in Geneva, Switzerland. The organization supports evidence-based decision-making for humanitarian and development programming through data collection, analysis, and dissemination. IMPACT is the implementing partner of REACH, a multi-agency initiative created in 2010 that supports humanitarian actors to improve planning and decision-making through in-depth, reliable information and analysis. All of IMPACT’s programs are implemented in support of humanitarian coordination …
+
+### Senior Research Officer - MSNA - Global, Based in Amman — IMPACT Initiatives — closes 2026-10-30
+https://reliefweb.int/node/4233358  
+Terms: migration-data, data-me  
+## **BACKGROUNG ON IMPACT & REACH** REACH was born in 2010 as a joint initiative of two International NGOs ([IMPACT Initiatives](http://www.impact-initiatives.org/) and [ACTED](http://www.acted.org/)) and the United Nations Operational Satellite Applications Programme ([UNOSAT](http://www.unitar.org/unosat/)). REACH’s **purpose** is to promote and facilitate the development of information products that enhance the humanitarian community’s decision making and planning capacity for emergency, reconstruction and development contexts. REACH facilitates information management for aid actors through…
+
+### Senior Research Officer – MSNA – Global, based in Dakar — IMPACT Initiatives — closes 2026-10-30
+https://reliefweb.int/node/4233357  
+Terms: migration-data, data-me  
+## **BACKGROUND ON IMPACT & REACH** REACH was born in 2010 as a joint initiative of two International NGOs ([IMPACT Initiatives](http://www.impact-initiatives.org/) and [ACTED](http://www.acted.org/)) and the United Nations Operational Satellite Applications Programme ([UNOSAT](http://www.unitar.org/unosat/)). REACH’s **purpose** is to promote and facilitate the development of information products that enhance the humanitarian community’s decision making and planning capacity for emergency, reconstruction and development contexts. REACH facilitates information management for aid actors through…
+
+### Consultancy for the Design and Development of a Digital Caritas Internationalis Management Standards (CIMS) Platform — Caritas — closes 2026-10-30
+https://reliefweb.int/node/4233165  
+Terms: migration-data, data-me  
+**Caritas Internationalis** brings together 162 autonomous national organisations in more than 200 countries and territories across the world, each responding to its local context while forming one network that provides emergency relief, supports long-term development and calls for justice and peace. **The Caritas Internationalis Management Standards (CIMS)** are a reference tool for member organisations, and for regional bodies and the General secretariat, to assess their progress at any given time, support ongoing institutional development, strengthen capacity and long-term sustainability. B…
+
+### Technical Advisor I, Cash & Markets — Catholic Relief Services — closes 2026-10-30
+https://reliefweb.int/node/4233082  
+Terms: migration-data, data-me  
+**NOTE: The Pay Range referenced in this job announcement only applies to applicants who perform the job within the US and to applicants classified by CRS as International Assignees. Staff hired on local payroll would follow the respective Country pay range. Your recruiter can share more about the specific salary range for your anticipated work location during the candidate selection process.** **Pay Range** $71,349 - $88,085 Annually **NOTE: This is a remote position, with a preference for candidates based in the LACRO and EMEA regions; CRS will also give preference to candidates who are base…
+
+### Project Director, Chad — Nutrition International — closes 2026-10-30
+https://reliefweb.int/node/4233062  
+Terms: migration-data, data-me  
+**Role:** Full Time **Contract Duration**: 2 Years **Deadline for submission:** 30th October 2026 Applications will be reviewed on a rolling basis. **About Us** Founded in 1992, Nutrition International is a global organization dedicated to delivering proven nutrition interventions to those who need them most. Working in partnership with countries, donors and implementers, our experts conduct cutting-edge nutrition research, support critical policy formulation, and integrate nutrition into broader development programs. In more than 60 countries, primarily in Asia and Africa, Nutrition Internati…
+
+### Digital Development and Connectivity Program Specialist — US Department of State — closes 2026-10-30
+https://reliefweb.int/node/4232928  
+Terms: migration-data, data-me  
+***Candidates must be authorized and able to work daily in Bogotá.*** **Position Summary** The Digital Development and Connectivity Program Specialist serves as the Foreign Assistance Unit's (FAU’s) technical adviser for digital-infrastructure and connectivity programming across South America. The position provides technical analysis and recommendations to support Government officials in identifying, assessing, and structuring U.S. Government-funded digital development programs that advance U.S. foreign-policy and national-security objectives and respond to partner-country priorities. The port…
+
+### Senior Compensation & Benefits Advisor, EU and Strategic Initiatives- UK or NL — Prosper Global — closes 2026-10-30
+https://reliefweb.int/node/4232800  
+Terms: migration-data, data-me  
+**Location:** UK, or NL flexible working from home (NL base location preferred) **Status:** Full-time **Starting salary range:** NL: € 70,920; UK: £60.030; hiring range commensurate on professional experience [**Risk Level:**](https://library.mercycorps.org/record/47705?ln=en) ☐ **Level 3** ☐**Level 2** ☐**Level 1** (Level 3: Frequent contact with participants, direct contact with children, access to sensitive data, and/or high level of accountability. Level 2: Some contact with participants; unplanned non-direct contact with children. Level 1: Likely to have no contact with participants or se…
+
+### Director of Program Development, Quality & Learning (PQL) - Port au Prince, Haiti — Prosper Global — closes 2026-10-30
+https://reliefweb.int/node/4232726  
+Terms: migration-data, data-me  
+**Location:** Port-au-Prince, Haiti **Position Status:** Full-time, Regular **Language:** Required language fluency in French [**Risk Level:**](https://library.mercycorps.org/record/47705?ln=en) X **Level 3** ☐**Level 2** ☐**Level 1** (Level 3: Frequent contact with participants, direct contact with children, access to sensitive data, and/or high level of accountability. Level 2: Some contact with participants; unplanned non-direct contact with children. Level 1: Likely to have no contact with participants or sensitive data) ## **About Mercy Corps** Mercy Corps is a leading global organization…
+
+### Humanitarian Response Coordinator — ShelterBox — closes 2026-10-30
+https://reliefweb.int/node/4232673  
+Terms: migration-data, data-me  
+**Salary:** PhP65,000 –70,000/month **Hours:** 40 hours per week (full time Monday to Friday) with occasional evening/weekend working and travel away from home **Position type:** 11 month - fixed term contract **Responsible to:** Programme Manager **Direct reports:** None **Location:** ShelterBox Operations Philippines, Cebu, Philippines (time split between warehouse and office) with national travel for disaster responses, and occasional travel to ShelterBox HQ, UK **ROLE PURPOSE:** The Humanitarian Response Coordinator plays a key role in strengthening ShelterBox Operations Philippines' prepa…
 
 ### Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking — Christian Blind Mission — closes 2026-10-30
 https://reliefweb.int/node/4232189  
@@ -3653,6 +3616,11 @@ https://reliefweb.int/node/4230159
 Terms: migration-data, data-me  
 **JOB SUMMARY** The Technical Director will provide strategic technical leadership and oversight for the project, ensuring the quality, coherence and effectiveness of program design, implementation, and technical assistance across all project objectives. As a member of the senior leadership team and classified as Key Personnel, the Technical Director will work in close collaboration with the Chief of Party, consortium partners, headquarters staff, and country missions to ensure alignment with donor priorities, global best practices, and adaptive management principles. This position reflects di…
 
+### Coordinator, MHPSS Emergency Response Team — International Medical Corps — closes 2026-10-30
+https://reliefweb.int/node/4222157  
+Terms: migration-data, data-me  
+The primary responsibility of the MHPSS ERT Coordinator is to provide technical support to mental health and psychosocial programs; ensuring assessment, planning, implementation, monitoring, evaluation, and reporting of MHPSS activities. To perform this job successfully, an individual must be able to perform each essential function with or without reasonable accommodation. **MAIN TASKS AND RESPONSIBILITIES** **General** • Provide technical and administrative support to mental health and psychosocial program staff; providing guidance on planning, implementation, monitoring, evaluation, and repo…
+
 ### Deputy Director, Programs — International Rescue Committee — closes 2026-10-30
 https://reliefweb.int/node/4232177  
 Terms: displacement, data-me  
@@ -3662,6 +3630,16 @@ The International Rescue Committee (IRC) responds to the world's worst humanitar
 https://reliefweb.int/node/4230133  
 Terms: displacement  
 **Open Cultural Center (OCC)** **is a non-profit organisation (NGO) based in Spain and Greece that works towards the inclusion of refugees, migrants, and asylum seekers by offering activities to both host-country nationals and third-country nationals.** **Project description**: Youth For All is a socio-professional integration project aimed at young people with a migrant background who have recently left the child protection system, in the rural region of Moianès, Catalonia. The project accommodates 10 young people in a house in Moià and, over the course of one year, provides them with vocatio…
+
+### Consultor Experto en Diseño de Ejercicios y Preparación ante Crisis — Pan American Development Foundation — closes 2026-10-30
+https://reliefweb.int/node/4233089  
+Terms: data-me  
+## Términos de Referencia (TdR) **Título**: **Consultoría –** Consultor Experto en Diseño de Ejercicios y Preparación ante Crisis **Fecha en que se emite la convocatoria**: 30 de septiembre de 2026 **Fecha de cierre**:30 de octubre de 2026 **Mecanismo de contratación**: Consultoría **1.ANTECEDENTES** La Fundación Panamericana para el Desarrollo (PADF) busca crear un hemisferio justo, pacífico y próspero donde todas las personas tengan la oportunidad de prosperar. Trabajamos con personas vulnerables en todo el hemisferio para abordar algunos de los mayores desafíos de desarrollo de nuestra regi…
+
+### DIRECTRICE GÉNÉRALE OU DIRECTEUR GÉNÉRAL - FRANCE — Action contre la Faim France — closes 2026-10-30
+https://reliefweb.int/node/4232744  
+Terms: data-me  
+**Action contre la Faim** Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis près de 50 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d’urgence liées aux conflits et aux catastrophes naturelles. Action con…
 
 ### RESPONSABLE DE DEPARTEMENT NUTRITION ET SANTÉ - TCHAD — Action contre la Faim France — closes 2026-10-30
 https://reliefweb.int/node/4232064  
@@ -3688,7 +3666,27 @@ https://reliefweb.int/node/4225941
 Terms: migration, migration-data, displacement, data-me  
 **JOB OVERVIEW:** The Project Management Lead is responsible for the effective, high-quality management of the full project lifecycle across the organization's program portfolio. The role integrates four core pillars: partnership management, program implementation, Monitoring, Evaluation, Accountability and Learning (MEAL), and budget management. The role holder ensures that projects are delivered on time, on budget, to a high-quality standard, and in compliance with donor requirements, while building strong, accountable relationships with implementing partners. The IRC's Economic Empowerment …
 
-### WASH Technical Advisor, Nepal Emergency Response (Consultant) — Project HOPE — closes 2026-10-31
+### Area Coordinator (national) — Agency for Technical Cooperation and Development — closes 2026-10-31
+https://reliefweb.int/node/4233560  
+Terms: migration-data, data-me  
+**About Acted** For the past 30 years, Acted has been working at the forefront of humanitarian action to save lives. Acted supports more than 27 million people in 43 countries, meeting their needs in hard-to-reach areas, while pursuing a triple mandate as a humanitarian, environmental, and development actor. **Job Purpose** The ***Area Coordinator*** provides high-level strategic guidance, quality assurance, and humanitarian coordination for Acted activities within their designated geographic area. This role focuses on translating external field realities into actionable project strategies, dr…
+
+### Country Representative — Habitat for Humanity — closes 2026-10-31
+https://reliefweb.int/node/4233122  
+Terms: migration-data, data-me  
+Habitat for Humanity is looking for “**Country Representative**” that serves as primary country focal point of Habitat for Humanity International (HFHI) and external representative in Jordan and is a key member of the Middle East and North Africa (MENA) leadership structure. **1.Introduction and background:** **Habitat for Humanity (HFH)** is an international nonprofit organization founded in 1976 as the world’s leader in addressing the housing challenges faced by vulnerable communities. Currently it operates in more than 60 countries around the world and brings people together to build more p…
+
+### Emergency Pharmacy Coordinator — Médecins Sans Frontières en Suisse — closes 2026-10-31
+https://reliefweb.int/node/4233090  
+Terms: migration-data, data-me  
+To fulfill its mission of assistance to victims of conflicts, epidemics or natural disasters, MSF-Switzerland has created an emergency team, of which members are experienced individuals capable of evaluating a situation, start and coordinate the missions. The position of Emergency Pharmacy Coordinator reports to the Emergency Medical Coordinator at field level and/or to the coordination team in the capital and finally to the Emergency Desk (RMP) at headquarters level in Geneva. The candidate is expected to 1) work in all contexts set by the emergency desk and 2) work in emergency contexts with…
+
+### Nurse Mentor — Mercy Ships — closes 2026-10-31
+https://reliefweb.int/node/4232697  
+Terms: migration-data, data-me  
+**This full-time, on-site position located in Sierra Leone.** Mercy Ships is seeking an experienced Nurse Mentor for its work in Sierra Leone. They will develop and deliver nurse mentoring projects, in the surgical ward and/or the operating rooms, at a partner country teaching hospital. Develops and maintains strong relationships with partner country partners, providers, and government officials. This role works to enhance the partner country’s surgical system through mentoring, training, and quality improvement projects at targeted facilities, together with the existing multidisciplinary team…
+
+### WASH Technical Advisor, Nepal (Local Consultant) — Project HOPE — closes 2026-10-31
 https://reliefweb.int/node/4232274  
 Terms: migration-data, displacement, data-me  
 **Project HOPE** is an international NGO with more than 1,000 engaged employees and volunteers who work around the globe, responding to the world’s most pressing global health challenges. Throughout our 60-year legacy, Project HOPE has treated millions of patients, provided more than $3 billion worth of medicines to local health care organizations around the world helped build hundreds of health programs from the ground up, and responded to humanitarian crises worldwide. **Code of Conduct** It is our shared responsibility and obligation to treat each other with respect, take affirmative steps …
@@ -3708,40 +3706,10 @@ https://reliefweb.int/node/4231981
 Terms: migration-data, data-me  
 ## BACKGROUND ON IMPACT AND REACH IMPACT Initiatives is a humanitarian NGO, based in Geneva, Switzerland. The organisation manages several initiatives, including the REACH Initiative. The IMPACT team comprises specialists in data collection, management and analysis, GIS and remote sensing. IMPACT was launched at the initiative of ACTED, an international NGO whose headquarter is based in Paris and is present in thirty countries. The two organizations have a strong complementarity formalized in a global partnership, enabling IMPACT to benefit from ACTED’s operational support on its fields of int…
 
-### Call for Syrian Experts: Gender Equality, Disability Inclusion & Social Inclusion (GEDSI) – Syria — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231719  
-Terms: migration-data, displacement, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **Gender Equality, Disability Inclusion and Social Inclusion (GEDSI)** to support upcoming evaluations, assessments, research, Third-Party Monitoring (TPM), programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future short-term consultancy opportunit…
-
-### Call for Syrian Experts: Protection, GBV & Child Protection (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231717  
-Terms: migration-data, displacement, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **Protection, Gender-Based Violence (GBV), Child Protection (CP) and related protection programming** to support upcoming evaluations, assessments, research, Third-Party Monitoring (TPM), programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future sh…
-
-### Call for Syrian Experts: Health, Mental Health & Psychosocial Support (MHPSS) – Syria — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231716  
-Terms: migration-data, displacement, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **Health, Public Health, Mental Health and Psychosocial Support (MHPSS), health systems and community-based health services** to support upcoming evaluations, assessments, research, Third-Party Monitoring (TPM), programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be …
-
 ### (Senior) Research Officer for Nigeria, Based in Dakar — IMPACT Initiatives — closes 2026-10-31
 https://reliefweb.int/node/4231701  
 Terms: migration-data, displacement, data-me  
 ## BACKGROUND ON IMPACT & REACH REACH was born in 2010 as a joint initiative of two International NGOs ([IMPACT Initiatives](http://www.impact-initiatives.org/) and [ACTED](http://www.acted.org/)) and the United Nations Operational Satellite Applications Programme ([UNOSAT](http://www.unitar.org/unosat/)). REACH’s **purpose** is to promote and facilitate the development of information products that enhance the humanitarian community’s decision making and planning capacity for emergency, reconstruction and development contexts. REACH facilitates information management for aid actors through thr…
-
-### Call for Syrian Experts: Digitalization, Digital Transformation & Technology for Development (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231545  
-Terms: migration-data, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **digitalization, digital transformation, digital public services, data systems and technology for development** to support upcoming evaluations, assessments, research, programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future short-term consultanc…
-
-### Call for Syrian Experts: Social Protection, Cash & Economic Inclusion (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231544  
-Terms: migration-data, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **social protection, cash and voucher assistance (CVA), economic inclusion and social assistance** to support upcoming evaluations, assessments, research, Third-Party Monitoring (TPM), programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future short…
-
-### Call for Syrian Experts Labour Market, Employment, TVET & Economic Development (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231540  
-Terms: migration-data, data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or Non Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking multiple experienced Senior Consultants to join its roster of experts to support the delivery of Third-Party Monitoring (TPM), evaluations, and assessments across humanitarian and development programmes. [https://trustconsultancy.org/](https://trustconsultancy.org/) Selected consultants will be included in TCD’s consultant roster and may be considered for future short-term consultancy opportuni…
 
 ### International Education Expert — STOOS CONSULTING — closes 2026-10-31
 https://reliefweb.int/node/4231512  
@@ -3763,6 +3731,11 @@ https://reliefweb.int/node/4231275
 Terms: migration-data, data-me  
 **Country Programme:** Angola **Contract Length:** 1 year, with the possibility of extension **Base**: Luanda, Angola **Starting date:** upon agreement **Line Manager:** Country Director for Angola **People in Need** (PIN) is a Czech-based international non-governmental organization (NGO) that has provided humanitarian and development assistance across more than 20 countries since 1992. Today, PIN stands as one of the largest organizations of its kind in Central and Eastern Europe, supporting vulnerable communities in Asia, Africa, the Middle East, and Eastern Europe. PIN empowers civil societ…
 
+### Head of Corporate & Major Donors — War Child Holland — closes 2026-10-31
+https://reliefweb.int/node/4231108  
+Terms: migration-data, data-me  
+## **Jouw profiel** - HBO of WO opleiding in marketing, business, management, economics, international development/relations of vergelijkbare richting. - Vloeiend Nederlands en Engels; goede beheersing van extra talen is een pré. - Ondernemend, resultaatgericht en besluitvaardig. - Kan omgaan met prestatiedruk en presteren onder deadlines - Uitstekende communicatie-, presentatie- en representatievaardigheden; kan vertrouwen wekken op senior niveau. - Kan mensen effectief leiden, betrekken en helpen ontwikkelen. - Analytisch en data‑gedreven: vertaalt trends naar fundraisingkansen. - Kennis van…
+
 ### Senior Research Officer for Mozambique, Based in Pemba — IMPACT Initiatives — closes 2026-10-31
 https://reliefweb.int/node/4230702  
 Terms: migration-data, displacement, data-me  
@@ -3772,11 +3745,6 @@ Terms: migration-data, displacement, data-me
 https://reliefweb.int/node/4230701  
 Terms: migration-data, displacement, data-me  
 ## WHAT IS IMPACT INITIATIVES ? **OUR AIM:** IMPACT aims to shape practices and influence policies in humanitarian and development settings, in order to positively impact the lives of people and their communities. Created in 2010, IMPACT is a Geneva-based NGO and the largest independent data provider in contexts of crisis. We aim to support a range of stakeholders in making better, more informed decisions in humanitarian, stabilisation, and development settings. We believe that a key pathway to better planning and decision-making is direct engagement with local communities. How do we work? IMP…
-
-### Project Manager – HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) — Humanitarian Logistics Cooperative (Hulo) — closes 2026-10-31
-https://reliefweb.int/node/4230161  
-Terms: migration-data, displacement, data-me  
-**Title:** Project Manager: HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) **Date:** As soon as possible **Concerned Project(s):** Global Procurement Forum **ToR Reference Number:** HULO-HQ-PROC-2026-001 This Call for Interest is open to all eligible consultants, in accordance with hulo’s procedures and principles. **Context of the consultancy:** The Humanitarian Logistics Cooperative, also known as “hulo”, is the first humanitarian European Cooperative Society (SCE) created in June 2021. Hulo now regroups 19 organisations: ACTED, Action contre…
 
 ### Academic Expert (SME) – Procurement KPI Framework — Humanitarian Logistics Cooperative (Hulo) — closes 2026-10-31
 https://reliefweb.int/node/4230163  
@@ -3867,6 +3835,11 @@ This position is represented by the OPEIU union and subject to the terms and con
 https://reliefweb.int/node/4226082  
 Terms: migration-data, data-me  
 This position is represented by the OPEIU union and subject to the terms and conditions of a collective bargaining agreement. **Job Overview:** The Middle School Alliance (MSA) Site Coordinator provides day-to-day operational and administrative coordination for Out-of-School Time (OST) programming at assigned middle school sites, working within clearly defined procedures and under the general direction of MSA leadership. The coordinator carries out established site operations, logistics coordination, family engagement, and data-accountability tasks -- coordinating schedules and communication w…
+
+### Business Development and Grants Manager — People in Need — closes 2026-10-31
+https://reliefweb.int/node/4227796  
+Terms: migration-data, data-me  
+**Country Programme:** Moldova **Contract Length:** 1 year **Base:** Chisinau **Starting date**: September 2026 **Line Manager**: Deputy Head of Programmes **People in Need (PIN)** is a Czech-based international non-governmental organization (NGO) that has been providing humanitarian and development assistance worldwide since 1992. Today, PIN operates in more than 40 countries, responding to humanitarian crises and supporting long-term development through programmes in education, human rights, climate resilience, and social inclusion. As one of the largest organizations of its kind in Central …
 
 ### Senior Program Manager, Safety, Health & Wellness — International Rescue Committee — closes 2026-10-31
 https://reliefweb.int/node/4227600  
@@ -3973,21 +3946,6 @@ https://reliefweb.int/node/4232609
 Terms: displacement, data-me  
 The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
 
-### Call for Syrian Experts: Education in Emergencies, Early Childhood Development & Youth Skills (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231551  
-Terms: displacement  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **Education in Emergencies (EiE), Early Childhood Development (ECD), youth skills development and education systems** to support upcoming evaluations, assessments, research, Third-Party Monitoring (TPM), programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be consider…
-
-### Call for Syrian Experts: Peacebuilding, Social Cohesion & Conflict Analysis (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231541  
-Terms: displacement  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **peacebuilding, social cohesion, conflict analysis and conflict sensitivity** to support upcoming Third-Party Monitoring (TPM), evaluations, assessments, research and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future short-term consultancy opportunities based …
-
-### Community Manager (NGO) – HLGSC Procurement TWG / Global Procurement Forum — Humanitarian Logistics Cooperative (Hulo) — closes 2026-10-31
-https://reliefweb.int/node/4230162  
-Terms: displacement, data-me  
-**Title:** Community Manager (NGO) – HLGSC Procurement TWG (Global Humanitarian Procurement Collaboration and Performance Initiative) / Procurement Technical Working Group / Global Procurement Forum **Date:** As soon as possible **Concerned Project(s):** Global Humanitarian Procurement Collaboration and Performance Initiative **ToR Reference Number:** HULO-HQ-PROC-2026-002 This Call for Interest is open to all eligible consultants, in accordance with hulo’s procedures and principles. **Context of the consultancy:** The Humanitarian Logistics Cooperative, also known as “hulo”, is the first huma…
-
 ### Palestine - Program Coordinator (M/F) - Jerusalem — Solidarités International — closes 2026-10-31
 https://reliefweb.int/node/4229467  
 Terms: displacement, data-me  
@@ -4002,6 +3960,16 @@ Terms: displacement, data-me
 https://reliefweb.int/node/4225573  
 Terms: displacement  
 The International Rescue Committee (IRC) helps people affected by humanitarian crises to survive, recover and rebuild their lives. We deliver lasting impact by providing health care, helping children learn, and empowering individuals and communities to become self-reliant, always with a focus on the unique needs of women and girls. Founded in 1933 at the call of Albert Einstein, we now work in over 40 crisis-affected countries as well as communities throughout the U.S., Europe and Latin America. **Job Description** The Global Policy and Advocacy team is a dynamic part of the External Relations…
+
+### Head of Systems and Operations for Myanmar — People in Need — closes 2026-10-31
+https://reliefweb.int/node/4233613  
+Terms: data-me  
+**Duty Station:** Yangon, Myanmar **Line Manager:** Country Director **Start Date:** November 2026 **People in Need (PIN)** is a Czech-based international non-governmental organization (NGO) that has provided humanitarian and development assistance across more than 20 countries since 1992. Today, PIN stands as one of the largest organizations of its kind in Central and Eastern Europe, supporting vulnerable communities in Asia, Africa, the Middle East, and Eastern Europe. PIN empowers civil society, advocates for human rights, and promotes social inclusion both at home and abroad. ## **About th…
+
+### Coordinator and legal institutional representant of the programme in Brazil — HEKS/EPER — closes 2026-10-31
+https://reliefweb.int/node/4232896  
+Terms: data-me  
+HEKS/EPER has been engaged in **Brazil** since the 1980s and focuses its interventions on the Cerrado region (Minas Gerais and Bahia). HEKS/EPER works currently with five local partner organizations which cooperate among each other, supporting key networks of family farming and Traditional Peoples and Communities regarding access to land, sustainable natural resources management, agroecology, bioeconomy and inclusion to markets. Special attention is given to the inclusion of young people and women. The programme is closely supported by global staff: the head of programmes Latin America and Car…
 
 ### Directeur.trice Général.e — Avocats Sans Frontières — closes 2026-10-31
 https://reliefweb.int/node/4232399  
@@ -4027,11 +3995,6 @@ Terms: data-me
 https://reliefweb.int/node/4231989  
 Terms: data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
-
-### Call for Syrian Experts: Value Chain Analysis & Market Systems Development (Syria) — TRUST Consultancy & Development — closes 2026-10-31
-https://reliefweb.int/node/4231543  
-Terms: data-me  
-**Contract Type:** Individual Consultancy; Project-Based **Eligibility:** **Syrian nationals or non-Syrian consultants currently residing in Syria only** Trust Consultancy & Development (TCD) is seeking experienced consultants to join its roster of experts in **value chain analysis, market systems development (MSD), private-sector development and economic recovery** to support upcoming evaluations, assessments, research, programme design and advisory assignments in Syria. Selected consultants will be included in TCD's consultant roster and may be considered for future short-term consultancy op…
 
 ### Consultance sur l'analyse et l’amélioration de la gestion des déchets de soins de santé dans les délégations internationales de la CRF — Croix-Rouge Française — closes 2026-10-31
 https://reliefweb.int/node/4231217  
@@ -4067,6 +4030,11 @@ Job Background/Overview: The International Rescue Committee (IRC) is seeking a d
 https://reliefweb.int/node/4225987  
 Terms: data-me  
 Start Date: 3Q 2026 Contract Lenght: 1 year with possibility of extention ## **About the Myanmar Programme at People in Need** People in Need (PIN) is an international, non-profit organization providing humanitarian and development assistance around the world. In Myanmar, People in Need started to work in 2002, when it launched the financial assistance to civil society groups and provided humanitarian response to people affected by Cyclone Nargis in 2008. PIN supports local civil society partners with focus on strengthening local civil society organizations and providing them with the necessar…
+
+### Community Development and Service Delivery Department Manager (Re-advertisement) — SEED — closes 2026-10-31
+https://reliefweb.int/node/4225339  
+Terms: data-me  
+**Job Title:** Community Development and Service Delivery Department Manager **Location:** Erbil, Kurdistan Region of Iraq (KRI), with regular travel to other areas of KRI. **Type of position:** Employment Contract - Full-time **Length of Contract:** 12 Months **Compensation and Benefits:** Competitive salary and benefits commensurate with skills and experience. Expatriate Compensation Package: includes local transportation allowances, Medical insurance and Life insurance **About SEED**: SEED is a women-led, local NGO in the Kurdistan Region of Iraq, dedicated to creating a thriving society by…
 
 ### Finance Manager, Budgeting and Reporting — International Rescue Committee — closes 2026-10-31
 https://reliefweb.int/node/4225259  
@@ -4112,6 +4080,21 @@ Terms: data-me
 https://reliefweb.int/node/4214669  
 Terms: data-me  
 **Contract Length:** 1 year with possibility of extension **Base:** Middle East (Lebanon / Jordan / UAE - Dubai preferred) **Travels to:** Gulf, Africa & Middle East **Starting date:** ASAP **Line Manager:** Regional Director, Africa & Middle East **People un Need (PIN)** is a Czech-based international non-governmental organization (NGO) that has provided humanitarian and development assistance across more than 20 countries since 1992. Today, PIN stands as one of the largest organizations of its kind in Central and Eastern Europe, supporting vulnerable communities in Asia, Africa, the Middle E…
+
+### Head of Advocacy and Evidencing — HelpAge International — closes 2026-11-01
+https://reliefweb.int/node/4233658  
+Terms: migration-data, displacement, data-me  
+**Location:** Ethiopia, India, Italy, Jordan, Kenya (as long as HelpAge International holds the registration in this country), Nepal, Pakistan, Spain, Tanzania, Thailand, Türkiye, United Kingdom and Zimbabwe **Department:** Global Impact **Reports to (Line Manager):** Director of Global Impact **Responsible for (Line managing)** - Humanitarian Advocacy Advisor - Social Protection Advisor - Health Advisor - Rights Advisor **Grade:** F **Contract Type:** Open-ended contract ## **About HelpAge** HelpAge International works with a diverse global network of around 200 organisations across 99 countr…
+
+### Malawi Case Investigation Senior Coordinator — One Acre Fund — closes 2026-11-01
+https://reliefweb.int/node/4233552  
+Terms: migration-data, data-me  
+## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
+
+### COORDINATOR - UNITED NATIONS UNIVERSITY (UNU) HUB [FIXED-TERM PROJECT POSITION] — International Centre for Integrated Mountain Development — closes 2026-11-01
+https://reliefweb.int/node/4233007  
+Terms: migration-data, data-me  
+## Position overview ICIMOD is seeking a Hub Coordinator for its newly established United Nations University (UNU) Hub at ICIMOD. The UNU Hub at ICIMOD is a newly established collaborative platform that advances research, education, and partnerships to strengthen the resilience of mountain communities in the HKH region facing climate and socio-economic change. Building on the long-standing collaboration between ICIMOD; United Nations University Institute for Environment and Human Security (UNU-EHS); Eurac Research, Italy; and the Himalayan University Consortium (HUC), the Hub supports the sust…
 
 ### Economic Recovery Technical Coordinator — People in Need — closes 2026-11-01
 https://reliefweb.int/node/4232554  
@@ -4168,6 +4151,11 @@ https://reliefweb.int/node/4218297
 Terms: migration-data, data-me  
 We are looking for a Fundraising Officer to join our team. We want someone to develop and implement fundraising initiatives that maximise income and raise awareness of our work. You would focus on strengthening relationships with our supporters, recruiting new donors, and working on the creation and implementation of fundraising campaigns. **Your role would include:** - Maximising income from new and existing fundraising streams, including but not limited to: community fundraising, individual giving and corporate social responsibility - Implementing multi-media fundraising strategies and initi…
 
+### Emergency Human Resources Coordinator — Médecins Sans Frontières en Suisse — closes 2026-11-01
+https://reliefweb.int/node/4233092  
+Terms: displacement, data-me  
+To fulfill its mission of assistance to victims of conflicts, epidemics or natural disasters, OCG has created an Emergency Pool, whose members are experienced individuals capable of evaluating a humanitarian crisis, opening, closing and coordinating emergency projects. The Emergency Human Resources Coordinator is a key member of this pool and reports directly to the Emergency Coordinator, as well as to the E-Cell HR Referent. The successful candidate is expected to: - Deploy rapidly in all contexts set by the Emergency cell - Have the flexibility to assume different HR roles according to opera…
+
 ### External Assurance Engagement on the Empowerment Guarantee Fund (EGF) managed by the Iraqi Company for Bank Guarantees (ICBG) — International Labour Organization — closes 2026-11-01
 https://reliefweb.int/node/4232424  
 Terms: displacement  
@@ -4198,6 +4186,16 @@ https://reliefweb.int/node/4218295
 Terms: displacement  
 We are looking to recruit people for our Youth Programme, for a minimum commitment of 10 weeks. The Youth Programme works with young refugees and asylum seekers in the Epirus region of Northern Greece, providing them with a sense of community and experiences that they wouldn’t otherwise receive! There are some specific applicant requirements, however the most important is to have a strong desire to work with young refugees and have the commitment to improve the situation for them here in Greece. Second Tree works in a transparent way in a challenging and changeable situation on the field; ther…
 
+### HAITI - RESPONSABLE LOG ADMIN (H/F) - SAINT-MARC — Solidarités International — closes 2026-11-01
+https://reliefweb.int/node/4232897  
+Terms: data-me  
+## Que faisons nous ... **Date de début souhaité:** 01/11/2026 **Durée de la mission:** jusqu'au 28/02/2026 **Localisation**: Saint-Marc, Haiti **SOLIDARITES INTERNATIONAL** (SI) est une association d’aide humanitaire internationale qui, depuis plus de 40 ans, porte secours aux populations victimes de conflits armés et de catastrophes naturelles en répondant aux besoins vitaux, boire, manger, s’abriter. Particulièrement engagée dans le combat contre les maladies liées à l’eau insalubre, première cause de mortalité au monde, SI met en œuvre par ses interventions une expertise dans le domaine de…
+
+### Vice President, Global Human Resources — ChildFund International — closes 2026-11-01
+https://reliefweb.int/node/4232046  
+Terms: data-me  
+**ABOUT CHILDFUND** **ChildFund** is a child-focused international development organization that connects children with the people, resources and institutions they need to grow up healthy, educated, skilled and safe, no matter where they are. We work directly in 23 countries, with extended reach to more than 60 countries through our global partnership network. **ChildFund’s Values** We aspire for every person in our organization—program participants, supporters, staff, and volunteers alike—to feel free, safe, and confident to be themselves. In our culture of connection, you will have ample opp…
+
 ### CHARGE-E DE PROJET APPUI AUX PARTENAIRES — Action contre la Faim France — closes 2026-11-01
 https://reliefweb.int/node/4232469  
 Terms: data-me  
@@ -4212,6 +4210,11 @@ Médecins Sans Frontières, association médicale humanitaire internationale cr�
 https://reliefweb.int/node/4228103  
 Terms: data-me  
 ## **Contrat a durée Indéterminée – Prise de poste: 05/10/2026** ## **PUI aux quatre coins du monde** **Forte de ses 40 années d’expérience, Première Urgence Internationale :** - Vient en aide à près de **6** millions de bénéficiaires - Avec un budget de plus de **100** Millions € par an - Répartis dans **22** pays, sur **5** continents Grâce à l’implication et l’engagement de : - Plus de **2000** collaborateurs nationaux - Environ **200** expatriés de 45 nationalités différentes - Et **90** salariés au siège PUI œuvre dans 10 secteurs d’intervention et se distingue par la mise en place d’une …
+
+### Senior Research Monitoring Evaluation and Learning Officer — Siren Associates — closes 2026-11-02
+https://reliefweb.int/node/4233340  
+Terms: migration-data, data-me  
+**Role Summary** Siren is seeking a Senior Research, Monitoring, Evaluation and Learning Officer to join a dynamic, multi-disciplinary team to help us bring together evidence from across our work, identify connections and emerging insights, and communicate the wider story. This role will connect information across project activity, identify patterns, tensions and emerging questions, and turn complex findings into clear, credible and compelling narratives for a wide range of audiences. The successful candidate will be an excellent researcher and writer with a strong understanding of the Lebanes…
 
 ### FIELD COMMUNICATION OFFICER — EMERGENCY — closes 2026-11-02
 https://reliefweb.int/node/4232387  
@@ -4233,10 +4236,15 @@ https://reliefweb.int/node/4228199
 Terms: migration-data, data-me  
 **Are you ready to craft strategic communications that fuel fundraising for clear vision globally?** VisionSpring seeks a collaborative, strategic, creative **External Donor Communications Manager** to elevate our engagement with philanthropic funders, institutional partners, and visionary donors. Your storytelling will help deepen relationships and unlock the resources that bring eyeglasses to millions of people vulnerable to poverty. You will serve as the **central architect of donor-facing communications**: reports, case studies, donor updates, white papers, research summaries, talking poin…
 
-### Medical coordinator (F/M) - Syria — Médecins du Monde — closes 2026-11-03
-https://reliefweb.int/node/4224013  
-Terms: migration, migration-data, data-me  
-Do you want to join a committed, activist-driven organization and take meaningful action for social justice? For over 40 years, Médecins du Monde has been delivering healthcare to the most vulnerable, challenging barriers to access, and driving long-term change in health policies. In France and across nearly 30 countries, our work is built around six core missions: - Sexual and reproductive health and rights (including access to safe abortion) - Migration, exile, human rights and health - Harm reduction - Health and the environment - Healthcare systems - Humanitarian spaces **MdM in Syria** Fo…
+### Medical Technologies and Innovation Intern — Médecins Sans Frontières en Suisse — closes 2026-11-02
+https://reliefweb.int/node/4233623  
+Terms: data-me  
+**Join MSF OCG as a Medical Technologies and Innovation Intern!** **We are looking for passionate candidates ready to contribute to our humanitarian mission.** **Below, you will find the job details and the qualifications we are looking for.** This internship is part of an academic training program, a professional training program, or a socio-professional integration program, and must comply with the [conditions](https://www.ge.ch/engager-personne-stage/stages-formation-insertion-reconnus) set by the Employment Market Supervisory Council (CSME). The duration of the internship, as defined by th…
+
+### Finanzsachbearbeitung Projektabrechnung (m/w/d) — German Red Cross — closes 2026-11-02
+https://reliefweb.int/node/4232783  
+Terms: data-me  
+Als **Deutsches Rotes Kreuz (DRK)** ist es unsere Aufgabe, für die Menschen da zu sein und ihnen zu helfen – allein nach dem Maß der Not. Schon seit mehr als 150 Jahren leistet die Rotkreuz- und Rothalbmond-Bewegung umfassend Hilfe für Menschen. Egal was wir tun und wo wir tätig sind, immer sind unsere sieben Rotkreuzgrundsätze: Menschlichkeit, Unparteilichkeit, Neutralität, Unabhängigkeit, Freiwilligkeit, Einheit und Universalität handlungsleitend. Im **DRK-Generalsekretariat in Berlin** gestalten Sie die zukünftige Ausrichtung des DRK e.V. als nationaler Rotkreuz-Gesellschaft und Spitzenverb…
 
 ### Nigeria Junior Finance Analyst — One Acre Fund — closes 2026-11-03
 https://reliefweb.int/node/4228472  
@@ -4253,10 +4261,50 @@ https://reliefweb.int/node/4224464
 Terms: migration-data, data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
 
-### DIRECTRICE GÉNÉRALE OU DIRECTEUR GÉNÉRAL - FRANCE — Action contre la Faim France — closes 2026-11-04
-https://reliefweb.int/node/4232744  
+### ASSISTANTE OU ASSISTANT RECHERCHE — Action contre la Faim France — closes 2026-11-05
+https://reliefweb.int/node/4232914  
 Terms: data-me  
 About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
+
+### Senior Director, Housing Disaster Resilience and Recovery — Habitat for Humanity — closes 2026-11-06
+https://reliefweb.int/node/4232921  
+Terms: migration-data, data-me  
+**Opportunity Type:** Regular **Summary:** The Senior Director of Housing Disaster Resilience and Recovery will lead and coordinate efforts to strengthen the housing resilience in communities where Habitat works in the context of disasters and conflict. Where appropriate the work will be done through the implementation of Habitat’s Pathway to Permanence approach that focuses on the connection between short-term and long-term interventions. The Senior Director supervises a team of disaster risk reduction and recovery specialists and works in collaboration with global and regional departments. T…
+
+### Community Conservation Coordinator – Gabon — Wildlife Conservation Society — closes 2026-11-06
+https://reliefweb.int/node/4232796  
+Terms: migration-data, data-me  
+**Report to:** Technical Director **Location:** Libreville, Gabon **Country Program**: Gabon **Position Type**: Full-Time **Collaborators:** Regional Right and Communities team, Community and Conservation Team, MEL Teams, Environment and Social Safeguards Team, relevant departments of institutional partners, notably the ANPN and the Ministry of Water and Forests, Finance, Logistics, Human Resources, and Administration departments **Expected Travels:** WCS project sites in Gabon (national parks: Ivindo, Lopé, Mayumba, Loango, and other sites depending on the projects) **Job Summary** The Commun…
+
+### Caseworker — International Rescue Committee — closes 2026-11-06
+https://reliefweb.int/node/4232831  
+Terms: migration-data, displacement, data-me  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
+### Psychiatrist or Clinical Psychologist - West Africa — Shelter for Life — closes 2026-11-06
+https://reliefweb.int/node/4233084  
+Terms: displacement, data-me  
+**Position summary:** Shelter For Life International (SFL) is anticipating a project in West Africa with a focus on managing the flow of migrants into the region. Included in the project’s objectives will be structured movement and resettlement of migrants within and outside Guinea-Bissau, while providing basic food, shelter and other humanitarian assistance. SFL is seeking a clinical psychologist to provide mental health and social support to migrants in West Africa. The clinical psychologist will be responsible for designing and implementing a psychological and psychosocial support program f…
+
+### Medical Professional - West Africa — Shelter for Life — closes 2026-11-06
+https://reliefweb.int/node/4233081  
+Terms: displacement  
+**Position Summary:** Shelter For Life International (SFL) is anticipating a project in West Africa with a focus on managing the flow of migrants into the region. Included in the project’s objectives will be structured movement and resettlement of migrants within and outside Guinea-Bissau, while providing basic food, shelter, and other humanitarian assistance. SFL is seeking a qualified and experienced medical professional (Physician, Physician Assistant, or Nurse Practitioner) to provide medical support to migrants in West Africa in mobile clinic settings. The medical professional will be res…
+
+### Director - Head of International Programs — Polish Center for International Aid — closes 2026-11-06
+https://reliefweb.int/node/4232779  
+Terms: displacement  
+PCPM - Polish Center for International Aid is one of the leading Polish INGOs, operating in Ukraine, Lebanon, Syria, oPt, Ethiopia, South Sudan and Kenya, funded by the Polish Government, DG ECHO, OCHA pooled funds, WFP and other institutional donors. PCPM has three pillars of operations: 1) emergency preparedness and response, including through the WHO-classified Emergency Medical Team. 2\) humanitarian aid, including assistance in refugee crises 3\) long-term development programs, including refugee-centered and social programs in Poland. As part of its new programmatic approach, PCPM aspires…
+
+### CANADEM is recruiting for its French-Speaking OB/GYN Roster — CANADEM — closes 2026-11-06
+https://reliefweb.int/node/4232913  
+Terms: data-me  
+CANADEM is seeking seasoned **French-speaking** **Obstetrician/Gynecologist** professionals with previous relevant experience for its **French-speaking OB/GYN** **Expert Roster.** CANADEM is a Canadian-based NGO that works with various UN agencies through the Standby Partnership Programme. We regularly deploy candidates in various areas of expertise all around the globe. Registration with CANADEM is always free. We are looking to expand our pool of experts for potential/upcoming opportunities with different UN agencies' field offices. Most positions are for 3 to 6 month deployments. **QUALIFIC…
+
+### Country Finance Manager Lebanon — WeWorld — closes 2026-11-07
+https://reliefweb.int/node/4233144  
+Terms: migration-data, displacement, data-me  
+**Position**: Country Finance Manager Lebanon **Location**: Beirut, Lebanon **Reporting Relationship**: Country Representative (Line Management) and Regional Finance Manager (Functional Management) **Family Duty Station**: NO **Starting date**: ASAP **Application deadline**: 07/11/2026 **Working Context** WeWorld has been working in Lebanon since 2006 and is currently supporting vulnerable refugee, IDP and host community populations through WASH, Food Security and Livelihoods, Local Economic Development, Education and Social Cohesion in Bekaa, Baalbek-Hermel, Akkar, Saida and Beirut. Our inter…
 
 ### Uganda Finance Associate — One Acre Fund — closes 2026-11-07
 https://reliefweb.int/node/4226239  
@@ -4267,6 +4315,31 @@ Terms: migration-data, data-me
 https://reliefweb.int/node/4225757  
 Terms: migration-data, data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
+
+### ASSISTANTE OU ASSISTANT SERVICE SUPPORT - MISSION FRANCE — Action contre la Faim France — closes 2026-11-07
+https://reliefweb.int/node/4233256  
+Terms: data-me  
+About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
+
+### ASSISTANTE OU ASSISTANT PLAIDOYER — Action contre la Faim France — closes 2026-11-07
+https://reliefweb.int/node/4233257  
+Terms: data-me  
+About : Action contre la Faim Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre …
+
+### République Démocratique du Congo : Coordinateur.rice de Zone – Uvira — Agency for Technical Cooperation and Development — closes 2026-11-07
+https://reliefweb.int/node/4233037  
+Terms: data-me  
+**CDD | 6 mois | Mi-janvier 2027** ## Acted ***Qui sommes-nous*** Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pauvreté. …
+
+### Site and Research Manager ; Mondika (Nouabalé-Ndoki National Park), Republic of congo. — Wildlife Conservation Society — closes 2026-11-09
+https://reliefweb.int/node/4233599  
+Terms: migration-data, data-me  
+**Location:** Mondika (Nouabalé-Ndoki National Park), Republic of Congo. **Reports to:** Nouabalé-Ndoki Director of Research and Principal Investigators of Mondika. **Type of contract:** 1-year full-time contract, renewable. **Position Summary:** We are looking for a dynamic Site and Research Manager to manage Mondika research and monitoring activities, and liaise with the Tourist Manager to coordinate tourism activities. The successful candidate will have a strong scientific background, a strong interest in conservation, and in working in remote places in tropical forests. This is a full-time…
+
+### Site and Research Manager ; Goualougo (Nouabalé-Ndoki ,Republic of Congo) — Wildlife Conservation Society — closes 2026-11-09
+https://reliefweb.int/node/4233593  
+Terms: migration-data, data-me  
+**Location:** Goualougo (Nouabalé-Ndoki National Park), Republic of Congo. **Reports to**: Nouabalé-Ndoki Director of Research and Biomonitoring. **Type of contract**: Full-time contract. **Position Summary:** We are looking for a dynamic Site and Research Manager to implement and supervise research activities at the Goualougo research site (GLG), oversee camp management, ensure communication and reporting on all site activities, and provide scientific training, supervision, and general capacity building to Research Assistants and students. The successful candidate will have a strong scientifi…
 
 ### Ethiopia Procurement Coordinator (Fixed-Term) — One Acre Fund — closes 2026-11-09
 https://reliefweb.int/node/4226970  
@@ -4283,10 +4356,20 @@ https://reliefweb.int/node/4231861
 Terms: displacement  
 ## ABOUT US **Desired start date:** 1 February 2027 **Duration of the mission:** 12 months **Location:** Jerusalem **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hyg…
 
+### Termes de référence pour un.e Consultant.e en APC - Aproche Par Competences (Deuxième phase) — Jóvenes y Desarrollo — closes 2026-11-10
+https://reliefweb.int/node/4233230  
+Terms: data-me  
+*Baccalauréat Technique Agricole et accompagnement de la formation de formateurs* **1. Mission :** La Fondation Jóvenes y Desarrollo, en collaboration avec la Fondation Rinaldi, le Ministère de l'Éducation Nationale d'Haïti et financée par l'Union Européenne, mène un projet, Ref. NDICI LA 2023/446-340, dont l'objectif principal est : « Promouvoir l'accès équitable et inclusif des jeunes haïtiens, en particulier des jeunes femmes et des jeunes en situation de vulnérabilité, à l'employabilité et/ou la permanence dans le système éducatif », visant à améliorer la qualité de la formation profession…
+
 ### AFGHANISTAN - Deputy Country Director -Program (M/F) -KABUL — Solidarités International — closes 2026-11-11
 https://reliefweb.int/node/4230327  
 Terms: migration-data, data-me  
 ## ABOUT US... **Desired start date: 15/11/2026** **Duration of the mission: 6 months** **Location: Kabul** **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene pr…
+
+### MANAGER RÉGIONAL·E DES RESSOURCES HUMAINES – SAO (H/F) — Humanity & Inclusion — closes 2026-11-11
+https://reliefweb.int/node/4233166  
+Terms: data-me  
+**MANAGER RÉGIONAL·E DES RESSOURCES HUMAINES – SAO (H/F)** Le poste sera basé dans l’un des 7 pays du programme SAO : Ouagadougou (Burkina Faso), N’Djamena (Tchad), Lomé (Togo), Cotonou (Bénin), Dakar (Sénégal), Bamako (Mali), Niamey (Niger) **CDD de droit local** selon le pays d’affectation du/de la candidat·e retenu·e. Durée du contrat : **24 mois (renouvelable)** Date de prise de poste : **à partir du 01/01/2027 et au plus tard le 01/03/2027.** **Nous examinerons les candidatures de manière continue, n’attendez pas pour postuler !** Handicap International / Humanity & Inclusion (HI) est une…
 
 ### Spec- Affiliate Support Center — Habitat for Humanity — closes 2026-11-11
 https://reliefweb.int/node/4227815  
@@ -4308,15 +4391,30 @@ https://reliefweb.int/node/4231857
 Terms: displacement  
 ## ABOUT US **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene promotion, but also in the essential area of food security and livelihoods. Present in 26 countrie…
 
+### Advisor, Global MHPSS TU, Intl - (5531) — International Medical Corps — closes 2026-11-12
+https://reliefweb.int/node/4233617  
+Terms: data-me  
+## **ADVISOR, GLOBAL MHPSS TU, INTL - (5531)** Job Title Advisor, Global MHPSS TU, Intl Location Afghanistan - AF Cameroon - CM Central African Republic - CF Chad - TD Croatia - HR Democratic Rep of Congo - CD Ethiopia - ET Global - GO (Primary) Jordan - JO Lebanon - LB Libya - LY Mali - ML Nigeria - NG Pakistan - PK Palestinian Territory - PS Somalia - SO South Sudan - SS Sudan - SD Syria - SY Ukraine - UA United States - , US Venezuela - VE Yemen - Sana’a, YE Category Mental Health and Psychosocial Support (MHPSS) Date Needed By 11/2/2026 Program Description (Background) ## ***The successful…
+
 ### Uganda Regional Innovations Supervisor (Fixed-Term) — One Acre Fund — closes 2026-11-13
 https://reliefweb.int/node/4225758  
 Terms: migration-data, data-me  
 ## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
 
+### TCA - COORDINATEUR TERRAIN (H/F) - EST TCHAD — Solidarités International — closes 2026-11-13
+https://reliefweb.int/node/4233163  
+Terms: data-me  
+**Que faisons nous ...** **Date de début souhaitée :** 16/11/2026 **Durée de la mission:** 5 mois **Localisation:** Iriba **SOLIDARITES INTERNATIONAL** (SI) est une association d’aide humanitaire internationale qui, depuis plus de 40 ans, porte secours aux populations victimes de conflits armés et de catastrophes naturelles en répondant aux besoins vitaux, boire, manger, s’abriter. Particulièrement engagée dans le combat contre les maladies liées à l’eau insalubre, première cause de mortalité au monde, SI met en œuvre par ses interventions une expertise dans le domaine de l’accès à l’eau potab…
+
 ### Adjoint·e Directeur Pays aux Programmes Tchad-Cameroun – basé à N’Djaména — Première Urgence Internationale — closes 2026-11-13
 https://reliefweb.int/node/4230922  
 Terms: data-me  
 ## **Contrat à durée déterminée : 6 mois à compter du 21/12/2026** ## **PUI aux quatre coins du monde** **Forte de ses 40 années d’expérience, Première Urgence Internationale :** - Vient en aide à près de **6** millions de bénéficiaires - Avec un budget de plus de **100** millions € par an - Répartis dans **22** pays, sur **5** continents Grâce à l’implication et l’engagement de : - Plus de **2000** collaborateurs nationaux - Environ **200** expatriés de 45 nationalités différentes - Et **90** salariés au siège PUI œuvre dans 10 secteurs d’intervention et se distingue par la mise en place d’un…
+
+### Medical Supply Planner — Mercy Ships — closes 2026-11-15
+https://reliefweb.int/node/4233665  
+Terms: migration-data, data-me  
+**\*\*The compensation range for this position is $60,300–$63,000 USD. Compensation will be based on experience, qualifications, and other relevant factors. This is a full-time, hybrid position located in Lindale, Texas, with one in -person workday per week\*\*.** Mercy Ships is seeking an experienced Medical Supply Planner. In this role, you will be part of the Global Supply Chain Planning department. This department supports our hospital ships operating in Africa. As a Supply Planner, you are responsible for planning the delivery of Medical Supplies to our Hospital ships serving in Africa. Y…
 
 ### Country Director Palestine – based in Amman — Première Urgence Internationale — closes 2026-11-15
 https://reliefweb.int/node/4232577  
@@ -4333,10 +4431,20 @@ https://reliefweb.int/node/4229258
 Terms: displacement, data-me  
 The organization was established in 2016 in response to the European refugee crisis and now manages cultural centers and residential programs for migrants and refugees in Spain and Greece. We are a small international team united by a commitment to breaking down barriers to social inclusion for migrants and refugees. Our main projects in Greece include: - Early childhood education center. - Socio-educational activities with children and youth. - Education activities for adults. - Women Space. - Transport and mobility projects to connect refugee camps to urban areas. - European Union projects t…
 
+### Oficial de Producción Audiovisual — Habesha Project — closes 2026-11-15
+https://reliefweb.int/node/4233253  
+Terms: data-me  
+**Oficial de Producción Audiovisual** para apoyar la creación de contenido audiovisual que documente nuestros programas, actividades e impacto en la región. Buscamos a una persona **creativa, organizada y con experiencia en producción audiovisual**, capaz de transformar historias, experiencias y resultados de nuestros programas en contenidos atractivos para diferentes audiencias y plataformas digitales. ## ? Principales responsabilidades - Planificar, producir, grabar, editar y realizar la postproducción de contenido audiovisual para **la organización** - Crear videos, documentales, cápsulas i…
+
 ### Técnico/a Sanitario/a. Campamentos Saharauis — Médicos del Mundo — closes 2026-11-15
 https://reliefweb.int/node/4232549  
 Terms: data-me  
 ## Misión El puesto tiene por objeto apoyar en el diseño, desarrollo y supervisión de las acciones en apoyo a los programas de salud sexual y reproductiva (PNSR) y salud infantil (PISIS) de los proyectos que la organización desarrolla en los Campamentos de personas Refugiadas Saharauis enTindouf. ## Ámbito geográfico deIntervención Campamentos de Población Refugiada Saharaui, Tindouf, Argelia. ## Organigrama Trabajará bajo la supervisión técnica de la Coordinación Sanitaria y trabajará junto con todo el equipo de Médicos del Mundo en terreno para el logro de los objetivos. ## Responsabilidades…
+
+### Agricultural Value Chains - PROJECT MANAGER (Cashew & Coffee) - MOZAMBIQUE — Nitidae — closes 2026-11-16
+https://reliefweb.int/node/4233657  
+Terms: migration-data, data-me  
+## **Project Background** **Green Value for Growth (GV4G)** is a five-year (60-month) Action funded by **the European Union and the Kingdom of the Netherlands** under the Global Gateway initiative. It aims to accelerate Mozambique’s transition towards greener, climate-resilient and inclusive development by transforming the **soy, cashew and coffee value chains** along the Beira and Nacala corridors. By 2031, GV4G aims to mobilise €27.7 million in public and private investment, support more than 2,500 businesses, cooperatives and commercial farms, reach 38,000 smallholder farmers, sustain 8,000…
 
 ### Fertilizer Procurement Strategy Associate — One Acre Fund — closes 2026-11-16
 https://reliefweb.int/node/4232622  
@@ -4383,6 +4491,11 @@ https://reliefweb.int/node/4188009
 Terms: migration-data, data-me  
 **Vital Strategies has engaged NGO Recruit Partners for this search. To learn more about this opportunity and apply, please use the link below. We will continue to receive and review applications until the position is filled.** [**https://ngorecruit.com/our-vacancies/vital-strategies-principal-technical-advisor-research-coda/**](https://ngorecruit.com/our-vacancies/vital-strategies-principal-technical-advisor-research-coda/) Vital Strategies is an international public health organization. Its programs strengthen public health systems and address the world's leading causes of illness, injury, a…
 
+### Internship – Women's Empowerment, Self-Defense and Martial Arts in Athens (Women only) — EmpowerVan — closes 2026-11-21
+https://reliefweb.int/node/4233602  
+Terms: displacement  
+## **About EmpowerVan** [EmpowerVan](http://www.empowervan.org) is a non-profit organization dedicated to empowering women and girls on the move through self-defense and empowerment training. Our mission is to enable them to lead autonomous lives free from violence. We currently operate programs in refugee camps and shelters for unaccompanied minors in Greece. There, we have a fully furnished van with martial arts equipment, that we drive to refugee camps, in order to teach self-defense to the people living there. We also go to shelters for unaccompanied minors and other spaces in Athens, to e…
+
 ### Nigeria Tech Specialist (Fixed-term) — One Acre Fund — closes 2026-11-24
 https://reliefweb.int/node/4226984  
 Terms: migration-data, data-me  
@@ -4408,6 +4521,11 @@ https://reliefweb.int/node/4226398
 Terms: data-me  
 ## About us **Desired start date :** 15/12/2026 **Duration of the mission :** 6 months **Location :** Khartoum **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene…
 
+### Erasmus Internship - Community Intern — CLEAR Global — closes 2026-11-29
+https://reliefweb.int/node/4233370  
+Terms: migration-data, data-me  
+**Contract length:** 4–6 months, with a possible paid 6-month extension based on performance and budget availability **Hours:** flexible, 20-40 hours per week, during CET core working hours (Monday to Friday) **Location:** Amsterdam or Lyon (to be confirmed) Hybrid arrangement: office-based with some remote flexibility **Travel:** none, except relocating to Amsterdam or Lyon **Reporting to:** Language Access and Engagement Specialist Erasmus+ supports traineeships (work placements, internships) abroad at any workplace for students currently enrolled in higher education institutions in Program …
+
 ### Country Director - JRS Thailand — Jesuit Refugee Service — closes 2026-11-30
 https://reliefweb.int/node/4232130  
 Terms: migration, migration-data, displacement, data-me  
@@ -4427,6 +4545,36 @@ Terms: migration, migration-data, displacement, data-me
 https://reliefweb.int/node/4229393  
 Terms: migration, migration-data, displacement, data-me  
 This position is represented by the OPEIU union and subject to the terms and conditions of a collective bargaining agreement. **IRC Background:** The mission of the International Rescue Committee (IRC) is to help people whose lives and livelihoods are shattered by conflict and disaster to survive, recover and gain control of their future. Founded in 1933, the IRC has a presence in over 40 countries and 27 offices in the United States; the IRC leads the way from harm to home. IRC opened an office in Seattle in 1976 and provides a continuum of services including intensive case management, employ…
+
+### Technical Advisor II – Climate Change & Landscape Restoration — Catholic Relief Services — closes 2026-11-30
+https://reliefweb.int/node/4233575  
+Terms: migration-data, data-me  
+**Job Title:** Technical Advisor II – Climate Change & Landscape Restoration **Reports to:** Head of Programming **Department:** Programming **Location:** Kampala This position is open to **Ugandan nationals only** **Deadline:** Applications will be reviewed on a rolling basis. Candidates are encouraged to apply by October 23, 2026 no later than 5pm. **Job Summary** You will provide strategic technical leadership, advice, guidance, and support across program design, business development, implementation, learning, and evidence generation in the areas of Climate Change Adaptation and Mitigation …
+
+### Senior Economic Empowerment Manager — International Rescue Committee — closes 2026-11-30
+https://reliefweb.int/node/4233367  
+Terms: migration-data, displacement, data-me  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
+### Survivor of Torture Caseworker (Safety & Wellness Caseworker) — International Rescue Committee — closes 2026-11-30
+https://reliefweb.int/node/4233359  
+Terms: migration-data, displacement, data-me  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
+### Casework Supervisor — International Rescue Committee — closes 2026-11-30
+https://reliefweb.int/node/4233011  
+Terms: migration-data, displacement, data-me  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
+### Director, Finance — International Centre for Diarrhoeal Disease Research — closes 2026-11-30
+https://reliefweb.int/node/4232753  
+Terms: migration-data, data-me  
+icddr,b is an international health research institute based in Bangladesh. Policymakers and practitioners utilise our evidence and expertise to improve health outcomes and prevent premature death and disability worldwide. In recognition of its scientific and humanitarian contributions, icddr,b has received numerous international and national awards, including - **Gates Award for Global Health (2001):** For its pioneering contributions to global health, including the development of oral rehydration therapy. - **Independence Award (2005):** For services rendered to the people of Bangladesh. - **…
+
+### WASH&Shelter/NFI _only national staff — Polish Humanitarian Action - Polska Akcja Humanitarna — closes 2026-11-30
+https://reliefweb.int/node/4232817  
+Terms: migration-data, data-me  
+Polish Humanitarian Action (PAH) is currently looking for **Shelter/WASH Manager** to support implementation of the projects. General information: - Organization: Polish Humanitarian Action (PAH), Warsaw-based international non-governmental organization with representation office in Ukraine - Position: Shelter/WASH Manager - Location: Kyiv with regular field visits - Job terms: full-time - Type of job: employment contract - Starting date: ASAP - Duration: 12 months (3 month of approbation period) with possibility for extension *We encourage qualified candidates to apply as soon as it is possib…
 
 ### Deputy Country Director for Programme — People in Need — closes 2026-11-30
 https://reliefweb.int/node/4232658  
@@ -4563,6 +4711,11 @@ https://reliefweb.int/node/4208684
 Terms: migration-data, data-me  
 **About the IRC** The International Rescue Committee helps people whose lives and livelihoods are shattered by conflict and disaster to survive, recover, and gain control of their future. Founded in 1933 at the request of Albert Einstein, the IRC works with people forced to flee from war, conflict and disaster and the host communities that support them, as well as with those who remain within their homes and communities. At work today in over 40 countries and 26 U.S. cities, we restore safety, dignity and hope to millions who are uprooted and struggling to endure. The IT department provides en…
 
+### ETHIOPIA - FIELD COORDINATOR (M/F) - TIGRAY — Solidarités International — closes 2026-11-30
+https://reliefweb.int/node/4233075  
+Terms: displacement, data-me  
+**Desired start date: 01/12/2026** **Duration of the mission: 6 Months** **Location: Adwa - Tigray Region** **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene pr…
+
 ### IT Business Relationship Director, Americas — International Rescue Committee — closes 2026-11-30
 https://reliefweb.int/node/4231142  
 Terms: displacement, data-me  
@@ -4582,6 +4735,11 @@ Terms: displacement
 https://reliefweb.int/node/4228983  
 Terms: displacement  
 **IRC Summary:** Founded in 1933, the International Rescue Committee (IRC) is among the oldest and largest nonprofit, nonsectarian voluntary organizations providing relief, protection, and resettlement services to refugees and victims of oppression or violent conflicts. Operating in over 40 countries and 26 U.S. cities, the IRC restores safety, dignity, and hope to millions who are uprooted and struggling to endure. In the United States, the Resettlement, Asylum and Integration (RAI) office has supported clients from 120+ countries. Since opening its doors in Northern California (NorCal) in 19…
+
+### Chef de la délégation régionale Tchad/Cameroun (H/F/X) — Croix-Rouge Française — closes 2026-11-30
+https://reliefweb.int/node/4232835  
+Terms: data-me  
+**ENVIRONNEMENT DU POSTE** **Tchad** La Croix-Rouge française (CRF) a mené des actions au Tchad à partir des années 1970, et dispose d’une délégation permanente sur place depuis 1998. De 2001 à 2009, les premiers programmes menés par la CRF portaient sur l’accès à l’eau et l’assainissement dans la ville de N’Djamena, puis ce programme s’est étendu à partir de 2004 dans la région du Logone Occidental. En 2010, la CRF a monté une intervention pour lutter contre la malnutrition dans la région du Batha. A partir de 2012, elle a ré-axé son approche en intégrant des éléments pour une amélioration de…
 
 ### PALESTINE - FIELD COORDINATOR (M/F) - GAZA — Solidarités International — closes 2026-11-30
 https://reliefweb.int/node/4231968  
@@ -4622,6 +4780,11 @@ Médecins Sans Frontières, association médicale humanitaire internationale cr�
 https://reliefweb.int/node/4225848  
 Terms: data-me  
 Créé en 1991, le Secours Islamique France (SIF) est une organisation non gouvernementale (ONG) internationale de secours d'urgence et de développement. Le SIF agit dans une stricte neutralité, sans distinction d’origine, de genre ni de religion et se consacre à atténuer les souffrances des populations les plus démunies dans le monde. Le SIF recherche actuellement un coordinateur des programme pour sa mission au Tchad, principalement basé en N’Djamena. ## Mission Sous la responsabilité hiérarchique [du.de](http://du.de/) la Chef.fe de Mission, vous serez chargé.e de manager les chefs de projet.…
+
+### PIN Asia Representative — People in Need — closes 2026-11-30
+https://reliefweb.int/node/4222679  
+Terms: data-me  
+**Duty Station:** Bangkok, Thailand; no remote option **Line Manager:** Business Development Lead **Contract length:** 3+ years with initial one year contract People in Need (PIN) is a Czech-based international non-governmental organization (NGO) that has provided humanitarian and development assistance across more than 20 countries since 1992. Today, PIN stands as one of the largest organizations of its kind in Central and Eastern Europe, supporting vulnerable communities in Asia, Africa, the Middle East, and Eastern Europe. PIN empowers civil society, advocates for human rights, and promotes…
 
 ### Coordinateur des Programmes Madagascar H/F — Secours Islamique France — closes 2026-11-30
 https://reliefweb.int/node/4144569  
@@ -4693,6 +4856,11 @@ https://reliefweb.int/node/4229100
 Terms: migration-data, data-me  
 ## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
 
+### PIR Caseworker — International Rescue Committee — closes 2026-12-06
+https://reliefweb.int/node/4232821  
+Terms: migration-data, displacement, data-me  
+The International Rescue Committee (IRC) responds to the world's worst humanitarian crises, helping to restore health, safety, education, economic wellbeing, and power to people devastated by conflict and disaster. Founded in 1933 at the call of Albert Einstein, the IRC is one of the world's largest international humanitarian non-governmental organizations (INGO), at work in more than 40 countries and 29 U.S. cities helping people to survive, reclaim control of their future and strengthen their communities. A force for humanity, IRC employees deliver lasting impact by restoring safety, dignity…
+
 ### Credit and Portfolio Analyst — Habitat for Humanity — closes 2026-12-06
 https://reliefweb.int/node/4224504  
 Terms: migration-data, data-me  
@@ -4713,10 +4881,20 @@ https://reliefweb.int/node/4229036
 Terms: data-me  
 Médecins Sans Frontières, association médicale humanitaire internationale créée en 1971, apporte une assistance médicale à des populations dont la vie est menacée : principalement en cas de conflits armés, mais aussi d'épidémies, de pandémies, de catastrophes naturelles ou encore d'exclusion des soins. Le Projet Ile de France recherche des : BENEVOLE MEDECIN – Ile de France **CONTEXTE** MSF déploie une clinique mobile à la porte de la Villette une fois par semaine (jeudi) pour les populations en situation précaire, notamment migrantes. Le dispositif implique des équipes soignantes bénévoles (m…
 
+### Monitoring, Evaluation and Learning Specialist — Habitat for Humanity — closes 2026-12-07
+https://reliefweb.int/node/4233044  
+Terms: migration-data, data-me  
+**Opportunity Type:** Regular **Summary:** JOB SUMMARY Habitat for Humanity International seeks a Monitoring, Evaluation and Learning (MEAL) Specialist to support and advance the Terwilliger Center for Innovation in Shelter's work with small and growing businesses. The purpose of the Terwilliger Center is and always has been to influence market actors – i.e., private companies, public officials, civil society, consumers, and households – to change attitudes, behaviors, policies, business models, and products and services in ways that lead to scalable affordable housing solutions. This is the e…
+
 ### Head of support services (F/M) - Lebanon — Médecins du Monde — closes 2026-12-08
 https://reliefweb.int/node/4229182  
 Terms: migration, migration-data, data-me  
 Do you want to join a committed, activist-driven organization and take meaningful action for social justice? For over 40 years, Médecins du Monde has been delivering healthcare to the most vulnerable, challenging barriers to access, and driving long-term change in health policies. In France and across nearly 30 countries, our work is built around six core missions: - Sexual and reproductive health and rights (including access to safe abortion) - Migration, exile, human rights and health - Harm reduction - Health and the environment - Healthcare systems - Humanitarian spaces ## **MdM in Lebanon…
+
+### AI Platform Engineer — International Rescue Committee — closes 2026-12-08
+https://reliefweb.int/node/4233231  
+Terms: migration-data, data-me  
+**Job Background / Overview** The IRC is actively investing in enterprise AI to improve the speed, quality, and scale of its programs and operations. As the organization expands its use of AI platforms, including tools from Anthropic, OpenAI, and integrated data environments, the IT department is building dedicated technical capacity to keep these systems running reliably, securely, and effectively. The IRC is investing in enterprise AI to improve the speed, quality, and scale of its programs and operations. As that investment grows, so does the need for someone to own the technical layer unde…
 
 ### Tupande Zone Supervisor - Mtaragon — One Acre Fund — closes 2026-12-08
 https://reliefweb.int/node/4228831  
@@ -4773,10 +4951,25 @@ https://reliefweb.int/node/4181604
 Terms: migration-data, data-me  
 **About STOOS Consulting** STOOS Consulting is an international research and evaluation firm registered in Kenya, Tunisia, Libya, Iraq, Turkey, Ukraine, Sudan, South Sudan, and other countries. We specialize in delivering high-quality consulting services across sectors such as **livelihoods, health, education, protection, governance, climate resilience, and humanitarian response**. Our work is grounded in **evidence-based approaches, participatory methods, and strong ethical and inclusive research practices**. We support **NGOs, UN agencies, and international donors** with rigorous **research,…
 
+### Social Science Researcher - Volunteer — International Women's Initiative — closes 2026-12-15
+https://reliefweb.int/node/4122264  
+Terms: migration-data, data-me  
+**SOCIAL SCIENCE RESEARCHERS (SSR)** As a member of The Working Group research team, our Social Science Researchers (SSR) study the human rights liberties and suppressions of women and girls within each country to identify and address social issues. They implement and manage research projects, collect and analyse data, and report findings of said research. Their work helps shape IWI’s policy decisions, social reforms, and human interactions. **RESPONSIBILITIES** o Understand the needs of the project, i.e. the research questions it needs to answer; o Design an appropriate methodology to deliver…
+
+### Sudan - Field Coordinator (M/F) - Ed Daein — Solidarités International — closes 2026-12-15
+https://reliefweb.int/node/4233157  
+Terms: data-me  
+**Desired start date: 12/01/2027** **Duration of the mission: 6 Months** **Location: Ed Daein - Darfur** **SOLIDARITES INTERNATIONAL (SI)** is an international humanitarian aid association which, since more than 40 years, has been providing assistance to populations affected by armed conflicts and natural disasters by meeting their basic needs for food, water and shelter. Particularly committed to the fight against diseases linked to unsafe water, the leading cause of death in the world, SI's interventions provide expertise in the field of access to drinking water, sanitation and hygiene promo…
+
 ### Responsable des programmes humanitaires (H/F) — Plan International — closes 2026-12-15
 https://reliefweb.int/node/4230160  
 Terms: data-me  
 Rejoindre l’ONG Plan International France, c’est donner un sens à sa vie professionnelle en s’engageant dans la solidarité internationale et en adhérant aux valeurs de transparence, de respect, de durabilité, de communauté et d’inclusion. Notre ONG est fière d’œuvrer pour un monde meilleur dans lequel les droits des enfants, et en particulier des filles, sont respectés. C’est ainsi qu’en 2025, le réseau Plan International a permis à 5,1 millions de filles dans le monde de bénéficier d’un meilleur accès à l’éducation. Rejoindre notre ONG, c’est aussi intégrer une équipe conviviale d’une quarant…
+
+### Malawi Farmer Behavior & Extension Design Lead — One Acre Fund — closes 2026-12-16
+https://reliefweb.int/node/4232833  
+Terms: migration-data, data-me  
+## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
 
 ### Tupande Export Logistics Senior Specialist — One Acre Fund — closes 2026-12-16
 https://reliefweb.int/node/4230931  
@@ -4813,6 +5006,11 @@ https://reliefweb.int/node/4218077
 Terms: migration-data  
 As part of the launch of a new intervention in Chad, EMERGENCY is looking for a Field HR Manager with an **excellent knowledge of French**—an essential requirement for operating in the local context—and availability for a **mission of at least 6 months starting from August 2026.** The Field HR Manager is responsible for implementing and developing the HR function within the new intervention context, ensuring the correct application of EMERGENCY’s policies and procedures while contributing to their adaptability and structuring based on the local context. During the project’s startup phase, the …
 
+### Field Volunteer – Women's Empowerment & Self-Defense in Athens — EmpowerVan — closes 2026-12-19
+https://reliefweb.int/node/4233604  
+Terms: displacement  
+## **About EmpowerVan** [EmpowerVan](http://www.empowervan.org) is a non-profit organization dedicated to empowering women and girls on the move through self-defense and empowerment training. Our mission is to enable them to lead autonomous lives free from violence. We currently operate programs in refugee camps and shelters for unaccompanied minors in Greece. There, we have a fully furnished van with martial arts equipment, that we drive to refugee camps, in order to teach self-defense to the people living there. We also go to shelters for unaccompanied minors and other spaces in Athens, to e…
+
 ### DRC Rotational Senior Associate / Manager (Fixed-term) — One Acre Fund — closes 2026-12-23
 https://reliefweb.int/node/4231872  
 Terms: migration-data, data-me  
@@ -4842,11 +5040,6 @@ Terms: migration-data, data-me
 https://reliefweb.int/node/4231881  
 Terms: data-me  
 ## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
-
-### Chargé de financements (F/H) - République Démocratique de Congo — Médecins du Monde — closes 2026-12-29
-https://reliefweb.int/node/4232023  
-Terms: migration, migration-data, data-me  
-Vous souhaitez intégrer une association militante et agir concrètement pour plus de justice sociale ? Médecins du Monde agit depuis plus de 40 ans pour soigner les populations les plus vulnérables, dénoncer les entraves à l’accès aux soins et faire évoluer durablement les politiques de santé. En France et dans près de 30 pays, nos actions s’articulent autour de six combats politiques : - droits et santé sexuels et reproductifs (dont le droit à l’avortement) - migration, exil, droits et santé - réduction des risques - santé environnement - droits et système de santé - espaces humanitaires ## Mé…
 
 ### Medical Coordinator (F/M) - Afghanistan — Médecins du Monde — closes 2026-12-29
 https://reliefweb.int/node/4231785  
@@ -4958,6 +5151,11 @@ https://reliefweb.int/node/4191509
 Terms: migration-data, data-me  
 ## **Contexte** Deve Consult est un cabinet de conseil et de formation spécialisé en logistique et chaîne d'approvisionnement humanitaire, ainsi que dans le développement de solutions digitales. Nous accompagnons nos clients (ONGI, ONGL, agences onusiennes...) dans l'optimisation de leurs solutions logistiques, leur transformation digitale, et la mise en place de stratégies logistiques durables. Dans le cadre du renforcement de son **pool d’experts internationaux "Cinka"**, **Deve Consult** lance un **appel général a candidatures** à destination de **consultants indépendants (experts opération…
 
+### ADMINISTRATIVE COORDINATOR PAKISTAN M/F — Secours Islamique France — closes 2026-12-31
+https://reliefweb.int/node/4184163  
+Terms: migration-data, data-me  
+## About us Created in 1991, Secours Islamique France (SIF) is an international non-governmental relief and development organization (NGO). SIF acts in strict neutrality, without distinction of origin, gender or religion, and is dedicated to alleviating the suffering of the world's most deprived populations. ## Mission Reporting to the Head of Mission, the Administrative Cordinator will be in charge of managing the finance teams in the mission. Your main tasks will be as follows (non-exhaustive and evolving list): - Contribute to the mission’s operational strategy and decision-making by analyz…
+
 ### National Intern (full- or part-time) — Peace Brigades International — closes 2026-12-31
 https://reliefweb.int/node/4123686  
 Terms: migration-data, data-me  
@@ -5003,10 +5201,30 @@ https://reliefweb.int/node/4001164
 Terms: data-me  
 **Fundraising Coordinator** **Working to support disadvantaged young people or trekking the Inca Trail? Why not do both?!** *Get the best of both worlds for a volunteering opportunity where you give your skills, rather than your money.* Are you looking for a break from 9-5? Or are you looking to do a year abroad as part of your studies, or even before you start your studies, in an exciting and challenging environment? When volunteering with LAFF your skills will be put to good use and you will have the opportunity to work directly with beneficiaries, gain valuable field experience and increase…
 
+### Rwanda Audit Compliance Specialist (Fixed-term) — One Acre Fund — closes 2027-01-03
+https://reliefweb.int/node/4233634  
+Terms: migration-data, data-me  
+## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
+
 ### Rwanda Master Data and Integration Specialist (Fixed-term) — One Acre Fund — closes 2027-01-03
 https://reliefweb.int/node/4232585  
 Terms: migration-data, data-me  
 ## **About One Acre Fund** Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, draw…
+
+### Rwanda Senior Networks Technician — One Acre Fund — closes 2027-01-03
+https://reliefweb.int/node/4233637  
+Terms: data-me  
+## About One Acre Fund Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn fr…
+
+### Chargé·e de projets CDI (H/F) — Plan International — closes 2027-01-03
+https://reliefweb.int/node/4232895  
+Terms: data-me  
+Rejoindre l’ONG Plan International France, c’est donner un sens à sa vie professionnelle en s’engageant dans la solidarité internationale et en adhérant aux valeurs de transparence, de respect, de durabilité, de communauté et d’inclusion. Notre ONG est fière d’œuvrer pour un monde meilleur dans lequel les droits des enfants, et en particulier des filles, sont respectés. C’est ainsi qu’en 2025, le réseau Plan International a permis à 5,1 millions de filles dans le monde de bénéficier d’un meilleur accès à l’éducation. Rejoindre notre ONG, c’est aussi intégrer une équipe conviviale d’une quarant…
+
+### Responsable du Pôle Conformité et Finances CDI (H/F) — Plan International — closes 2027-01-10
+https://reliefweb.int/node/4233681  
+Terms: data-me  
+Rejoindre l’ONG Plan International France, c’est donner un sens à sa vie professionnelle en s’engageant dans la solidarité internationale et en adhérant aux valeurs de transparence, de respect, de durabilité, de communauté et d’inclusion. Notre ONG est fière d’œuvrer pour un monde meilleur dans lequel les droits des enfants, et en particulier des filles, sont respectés. C’est ainsi qu’en 2025, le réseau Plan International a permis à 5,1 millions de filles dans le monde de bénéficier d’un meilleur accès à l’éducation. Rejoindre notre ONG, c’est aussi intégrer une équipe conviviale d’une quarant…
 
 ### Cash and Market Systems Specialist Mozambique Pemba — Norwegian Refugee Council — closes 2027-01-17
 https://reliefweb.int/node/4196274  
@@ -5108,10 +5326,10 @@ https://reliefweb.int/node/4178463
 Terms: migration-data, data-me  
 Tetra Tech is Leading with Science® to deliver transformative energy solutions for clients worldwide. Our work helps people and businesses plug in to reliable electricity, strengthens energy security, and powers resilient economies. We structure finance to drive deals that maximize advanced technologies and promote energy independence. We help create efficient utilities and modern power grids. We promote broad-based economic opportunities in the global energy sector. We improve lives and livelihoods by addressing the critical intersections of energy with health, water, and food security. **Pro…
 
-### Proposal Writing & Business Development Manager — Amideast — closes 2028-02-29
-https://reliefweb.int/node/4223871  
-Terms: data-me  
-**ORGANIZATION DESCRIPTION** Established in 1951, Amideast is an American nonprofit organization dedicated to creating hope, opportunity, and mutual understanding among people in the Middle East, North Africa, and United States through life-changing opportunities for education and cultural exchanges. Working with local, regional, and international partners, we provide programs and services that improve educational opportunity and quality, expand access to U.S. study, empower youth and women, strengthen local institutions, and develop language and professional skills for success in the global e…
+### Pediatrician — Médecins Sans Frontières — closes 2027-10-31
+https://reliefweb.int/node/4232989  
+Terms: migration-data, data-me  
+**PAEDIATRICIAN – EBOLA EMERGENCY RESPONSE** **PURPOSE** Providing outpatient and/or inpatient paediatric care to patients/beneficiaries according to adapted and updated medical knowledge, MSFprotocols, values and universal hygiene standards to improve the new-born and child/beneficiaries health conditions **WHO WE ARE LOOKING FOR A PAEDIATRICIAN IN THE DEMOCRATIC REPUBLIC OF THE CONGO – EBOLA EMERGENCY RESPONSE** - Available for deployment within the next 3 months for your first rotation of 12-16 weeks, followed by a mandatory 21-day post-deployment monitoring period. - French proficiency (at…
 
 ### Contrôleur.euse de Gestion - SIEGE- basé à FRA-Asnieres-sur-Seine — Première Urgence Internationale — closes 2028-08-24
 https://reliefweb.int/node/4215240  
